@@ -1623,7 +1623,58 @@ const flashcards = [
   { category: 'Adverbs of Place', question: "You can find a quiet place to read [BLANK].", answer: "anywhere" },
 
 
+//SCRUM
 
+{
+  "category": "SCRUM",
+  "question": "SCRUM is a [BLANK] framework for managing software development.",
+  "answer": "lightweight"
+},
+{
+  "category": "SCRUM",
+  "question": "The goal of SCRUM is to [BLANK] complex projects into smaller, more manageable tasks.",
+  "answer": "break down"
+},
+{
+  "category": "SCRUM",
+  "question": "SCRUM is based on three core values: [BLANK], [BLANK], and [BLANK].",
+  "answer": "transparency, accountability, and self-organization"
+},
+{
+  "category": "SCRUM",
+  "question": "A SCRUM team is typically composed of three roles: [BLANK], [BLANK], and [BLANK].",
+  "answer": "product owner, scrum master, and development team"
+},
+{
+  "category": "SCRUM",
+  "question": "The product owner is responsible for [BLANK] the backlog, which is a prioritized list of features for the product.",
+  "answer": "prioritizing"
+},
+{
+  "category": "SCRUM",
+  "question": "The scrum master is responsible for [BLANK] the scrum team and ensuring that the team is following the scrum process.",
+  "answer": "facilitating"
+},
+{
+  "category": "SCRUM",
+  "question": "The development team is responsible for [BLANK] the work in the backlog.",
+  "answer": "completing"
+},
+{
+  "category": "SCRUM",
+  "question": "A SCRUM project is divided into [BLANK], which are short, iterative development cycles.",
+  "answer": "sprints"
+},
+{
+  "category": "SCRUM",
+  "question": "At the beginning of each sprint, the team holds a [BLANK] meeting to plan the work for the sprint.",
+  "answer": "sprint planning"
+},
+{
+  "category": "SCRUM",
+  "question": "At the end of each sprint, the team holds a [BLANK] meeting to review the work that was completed and to demo the work to stakeholders.",
+  "answer": "sprint review"
+}
 
 //
 { category: 'Pronouns:Indefinite', question: "Someone left [BLANK] phone in the conference room.", answer: "their" },
