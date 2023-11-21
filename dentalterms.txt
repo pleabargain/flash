@@ -1,0 +1,45 @@
+
+create JS array flashcards about dental terms
+
+
+Use this format:
+ {
+    "category": "Dental Terms",
+    "question": "Please say that again more slowly.",
+    "answer": "I need more information to understand your question. Could you please rephrase it or provide more context?"
+  },
+
+  use these words
+toothache	Pain felt in or around a tooth
+sensitive teeth	Pain felt when drinking hot or cold beverages
+sore gums	A painful sensation in the gums, usually when brushing or flossing
+mouth sores	Small, painful blisters in the mouth
+bad breath	Unpleasant smell from inside the mouth
+dry mouth	Not enough saliva that causes a sticky and dry feeling in the mouth
+
+cavity	A decayed part of the tooth forms a hole
+decay	An infection that destroys the teeth
+gingivitis	Inflammation of the soft gum tissue surrounding the teeth
+plaque 	A sticky substance containing microorganisms that grow on the surface of teeth
+infection	A disease caused by harmful microorganisms like bacteria or virus (in this case linked to the mouth or area around the mouth)
+broken teeth	A crack or chip on the tooth, usually caused by injuries to the mouth
+teeth stains	Yellowish discolouration of the teeth caused by food and drinks or by disease and medications
+
+filling	A protective material like gold, porcelain, or composite resin is used to fill a tooth cavity or repair cracked or broken teeth
+flossing	Cleaning between your teeth using a thin thread, which is called a dental floss (usually also done at home)
+mouthwash	A liquid used for rinsing the mouth
+whitening	Bleaching teeth to make them look whiter
+braces	Metal or plastic wires that are attached to the teeth to push them into the correct position
+dentures	A removable replacement for missing teeth
+extract	To remove a tooth
+implant	A small titanium fixture that replaces the root portion of a missing tooth
+crown	A material used to cover a damaged tooth
+anesthesia	A medication injected to help lessen the pain and discomfort during a dental procedure
+dental x-ray	Pictures of teeth and gums that show a dentist if there are cavities, gum disease, or other dental problems
+dental check-up	A routine examination of the teeth to make sure they are healthy
+teeth cleaning	(Usually) twice per year procedures used to clean the gums and teeth in order to promote general teeth health
+
+Dental hygienist	A person who cleans the teeth, checks for gum disease, and advises on how to care for your teeth
+Dental technician	A person who constructs custom dentures, crowns, implants, and other dental appliances
+Endodontist	A dentist who specializes in treating root canals
+Orthodontist	A dentist who specializes in straightening teeth

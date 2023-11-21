@@ -863,7 +863,610 @@ const flashcards = [
   { category: 'Conjunctions', question: "I like to play video games, [BLANK] watch videos.", answer: "\"or\"" },
   { category: 'Conjunctions', question: "The teacher told us to be quiet, [BLANK] she would send us out of the classroom.", answer: "\"or\"" },
     
+//[
+  {
+    "category": "Web3",
+    "question": "What is the difference between Web2 and Web3?",
+    "answer": "Web2 is the current state of the internet, where centralized platforms control our data and experiences. Web3, on the other hand, is a decentralized internet that is powered by blockchain technology. This means that there is no single entity in control, and users have more control over their data and privacy."
+  },
+  {
+    "category": "Web3",
+    "question": "What is blockchain technology?",
+    "answer": "Blockchain technology is a distributed ledger that allows for secure, transparent, and tamper-proof transactions. It is the foundation of many Web3 applications, including cryptocurrencies, decentralized finance (DeFi), and non-fungible tokens (NFTs)."
+  },
+  {
+    "category": "Web3",
+    "question": "What are some of the benefits of Web3?",
+    "answer": "Web3 has many potential benefits."},
+  {
+    "category": "Web3",
+    "question": "What are some of the challenges facing Web3?",
+    "answer": "Web3 is still a nascent technology, and there are a number of challenges facing its adoption.", 
+  },
+  {
+    "category": "Web3",
+    "question": "What is the future of Web3?",
+    "answer": "The future of Web3 is still uncertain, but it has the potential to revolutionize the way we interact with the internet. It has the potential to create a more secure, private, and open web that is more beneficial to users. However, there are also a number of challenges that need to be addressed before Web3 can reach its full potential."
+  },
+
+{
+    "category": "Web3",
+    "question": "What is a blockchain?",
+    "answer": "A blockchain is a distributed ledger technology that records transactions in a secure and transparent manner. Each block contains a set of transactions, and once added to the chain, it cannot be altered or deleted, ensuring the integrity of the data."
+  },
+  {
+    "category": "Web3",
+    "question": "Can you explain what a decentralized application (DApp) is?",
+    "answer": "A decentralized application (DApp) is a software application that runs on a distributed network, rather than being controlled by a single entity. DApps often utilize blockchain technology to ensure transparency and security."
+  },
+  {
+    "category": "Web3",
+    "question": "What is an airdrop in the context of cryptocurrency?",
+    "answer": "An airdrop is a distribution of cryptocurrency tokens or coins to a specific group of users, often as a promotional or incentive-based initiative. Airdrops are commonly used to introduce new projects or reward early adopters."
+  },
+  {
+    "category": "Web3",
+    "question": "Can you elaborate on what cryptocurrency is?",
+    "answer": "Cryptocurrency is a digital or virtual currency that uses cryptography for security. It is decentralized, meaning it is not subject to government or financial institution control. Bitcoin, Ethereum, and Litecoin are examples of well-known cryptocurrencies."
+  },
+  {
+    "category": "Web3",
+    "question": "What does DeFi stand for?",
+    "answer": "DeFi stands for decentralized finance, a term used to describe financial applications and services that are built on blockchain technology. DeFi aims to provide an alternative to traditional banking and financial systems, offering greater transparency, accessibility, and control to users."
+  },
+  {
+    "category": "Web3",
+    "question": "What is the role of Bitcoin in the Web3 ecosystem?",
+    "answer": "Bitcoin is the first and most well-known cryptocurrency, and it has played a significant role in the development of Web3 technologies. Its decentralized nature and secure transactions have inspired other blockchain-based projects and contributed to the growth of the Web3 space."
+  },
+  {
+    "category": "Web3",
+    "question": "What is a block in the context of blockchain technology?",
+    "answer": "A block is a unit of data in a blockchain that contains a record of transactions. Each block is linked to the previous block, forming a chain of blocks. This chain ensures the integrity and chronological order of the data stored on the blockchain."
+  },
+  {
+    "category": "Web3",
+    "question": "What does it mean when something is decentralized?",
+    "answer": "Decentralization refers to the distribution of power or control among multiple entities rather than a single centralized authority. In the context of Web3, decentralized systems are not controlled by any single company or government, but rather by a network of users or nodes."
+  },
+  {
+    "category": "Web3",
+    "question": "What is a cryptocurrency wallet?",
+    "answer": "A cryptocurrency wallet is a software application or hardware device that stores and manages cryptocurrency tokens or coins. It provides a secure way to access, send, and receive cryptocurrency."
+  },
+  {
+    "category": "Web3",
+    "question": "What is a bridge in the Web3 context?",
+    "answer": "A bridge is a tool that connects different blockchain networks, allowing users to transfer assets and data between them. Bridges play a crucial role in enabling interoperability within the Web3 ecosystem."
+  },
+  {
+    "category": "Web3",
+    "question": "What does burning cryptocurrency mean?",
+    "answer": "Burning cryptocurrency refers to intentionally sending tokens or coins to an inaccessible address, effectively removing them from circulation. Burning is sometimes used to reduce the supply of a cryptocurrency, potentially increasing its value."
+  },
+
+
+  {
+    "category": "Web3",
+    "question": "What is consensus in the context of blockchain technology?",
+    "answer": "Consensus is the process by which participating nodes in a blockchain network agree on the current state of the ledger. It ensures that all participants have the same version of the blockchain data, preventing conflicts and maintaining the integrity of the network."
+  },
+  {
+    "category": "Web3",
+    "question": "What role does cryptography play in Web3 technologies?",
+    "answer": "Cryptography is a fundamental component of Web3 technologies, providing security and privacy. It is used to encrypt and decrypt data, protect user identities, and ensure the integrity of transactions on the blockchain."
+  },
+  {
+    "category": "Web3",
+    "question": "What is the significance of Ethereum in the Web3 space?",
+    "answer": "Ethereum is a decentralized platform that supports smart contracts, enabling the development of dApps and other innovative Web3 applications. Its ability to execute complex logic on the blockchain has made it a popular choice for building Web3 projects."
+  },
+  {
+    "category": "Web3",
+    "question": "What is the purpose of market capitalization in the cryptocurrency world?",
+    "answer": "Market capitalization, often abbreviated as market cap, is a measure of the total value of a cryptocurrency in circulation. It is calculated by multiplying the circulating supply of the cryptocurrency by its current price."
+  },
+  {
+    "category": "Web3",
+    "question": "What is an NFT, and what makes it unique?",
+    "answer": "NFT stands for non-fungible token, a unique digital asset that represents ownership of items such as artwork, collectibles, or virtual land. NFTs are stored on a blockchain, ensuring their authenticity and scarcity."
+  },
+  {
+    "category": "Web3",
+    "question": "What is the concept of a cryptocurrency address?",
+    "answer": "A cryptocurrency address is a unique identifier used to send and receive cryptocurrency tokens or coins. It is similar to a bank account number but is generated from a cryptographic key pair."
+  },
+  {
+    "category": "Web3",
+    "question": "What does the term 'alpha' refer to in the Web3 context?",
+    "answer": "In the Web3 context, alpha refers to an early stage of development for a project or product, often characterized by limited functionality and a high degree of risk. Alpha testing allows developers to gather feedback and identify potential issues before releasing the project to a wider audience."
+  },
+  {
+    "category": "Web3",
+    "question": "What is a block explorer in the world of blockchain technology?",
+    "answer": "A block explorer is a tool that allows users to search and view information stored on a blockchain. It provides access to transaction data, block information, and address balances, enabling users to track transactions, analyze network activity, and verify blockchain data."
+  },
+  {
+    "category": "Web3",
+    "question": "What does the abbreviation 'CeX' stand for in the cryptocurrency realm?",
+    "answer": "CeX stands for centralized exchange, a platform that facilitates the trading of cryptocurrency tokens or coins. CeX platforms are operated by a central authority and often require users to go through Know Your Customer (KYC) and Anti-Money Laundering (AML) procedures."
+  },
+  {
+    "category": "Web3",
+    "question": "What is a DAO in the Web3 ecosystem?",
+    "answer": "DAO stands for decentralized autonomous organization, a type of organization governed by rules encoded in smart contracts rather than by traditional hierarchical structures. DAOs allow for transparent and democratic decision-making, empowering members to participate in the organization's governance."
+  },
+  {
+    "category": "Web3",
+    "question": "What is the meaning of 'diamond hands' in the cryptocurrency community?",
+    "answer": "The term 'diamond hands' is used to describe investors who hold their cryptocurrency holdings despite market fluctuations, demonstrating a strong belief in the long-term value of the asset. It is often used in contrast to 'paper hands' investors who sell their holdings out of fear or uncertainty."
+  },
+  {
+    "category": "Web3",
+    "question": "What is the impact of gas fees on the Web3 ecosystem?",
+    "answer": "Gas fees can have a significant impact on the usability and adoption of Web3 applications. High gas fees can make it expensive to use certain applications or services, potentially discouraging users from engaging with the Web3 ecosystem. However, as blockchain technology and infrastructure continue to develop, gas fees are expected to become more efficient and affordable."
+  },
+  {
+    "category": "Web3",
+    "question": "How does scaling and scalability relate to Web3 and blockchain technology?",
+    "answer": "Scaling and scalability are crucial aspects of Web3 and blockchain technology. Scaling refers to the ability of a network to handle an increasing number of users and transactions without compromising performance or latency. Scalability, on the other hand, refers to the network's ability to adapt and grow as demand increases. Addressing scaling and scalability challenges is essential for the long-term viability of Web3 technologies."
+  },
+  {
+    "category": "Web3",
+    "question": "What role do oracles play in bridging the gap between the real world and the blockchain?",
+    "answer": "Oracles are entities or systems that provide real-world data and information to blockchain networks. They act as intermediaries between the off-chain world and the on-chain world, enabling smart contracts to access and utilize external data to execute their programmed functions."
+  },
+  {
+    "category": "Web3",
+    "question": "What is the difference between proof of work (PoW) and proof of stake (PoS) consensus mechanisms?",
+    "answer": "Proof of work (PoW) and proof of stake (PoS) are two different consensus mechanisms used in blockchain technology to secure the network and validate transactions. PoW relies on miners solving complex cryptographic puzzles to earn the right to add blocks to the blockchain, while PoS requires participants to stake a certain amount of cryptocurrency as collateral to validate transactions and earn rewards."
+  },
+
+  //legal terms
+
+  {
+    "category": "Legal Terms",
+    "question": "What is an implied-in-fact contract?",
+    "answer": "An implied-in-fact contract is a contract that is created by the conduct of the parties. It is not necessary for there to be an express agreement between the parties in order for an implied-in-fact contract to exist."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is an exclusion clause?",
+    "answer": "An exclusion clause is a provision in a contract that excludes or limits liability for certain types of damages. For example, a contract for the sale of goods might include an exclusion clause that excludes liability for consequential damages, such as lost profits."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is a cost-plus contract?",
+    "answer": "A cost-plus contract is a type of contract in which the buyer agrees to pay the seller the cost of performing the work plus a fixed fee. This type of contract is often used when the scope of the work is not known in advance."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is a non-compete clause?",
+    "answer": "A non-compete clause is a provision in a contract that prohibits one party from competing with the other party after the contract ends. This type of clause is often used to protect trade secrets or to prevent employees from leaving and taking their clients or customers with them."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is an aleatory contract?",
+    "answer": "An aleatory contract is a type of contract in which the performance of one or both parties is uncertain. This type of contract is often used in insurance contracts, where the insurer agrees to pay a certain sum of money in the event of a certain event, such as a fire or an accident."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is a meeting of the minds?",
+    "answer": "A meeting of the minds is a legal term that refers to the mutual agreement of the parties to a contract to the terms of the contract. A contract cannot be formed unless there is a meeting of the minds."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is a standard form contract?",
+    "answer": "A standard form contract is a pre-printed contract that is offered by one party to another on a take-it-or-leave-it basis. Standard form contracts are often used in commercial transactions, such as contracts for the purchase of goods or services."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is impossibility?",
+    "answer": "Impossibility is a legal defense that can be used to excuse a breach of contract. Impossibility occurs when it is impossible for the breaching party to perform their obligations under the contract. This can be due to factors such as an act of God, a change in the law, or the unavailability of essential materials."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is accord and satisfaction?",
+    "answer": "Accord and satisfaction is a legal doctrine that provides that a party can discharge their obligations under a contract by performing an alternative obligation that is accepted by the other party in satisfaction of the original obligation. For example, a debtor might accord and satisfy a debt by paying the creditor a lesser amount of money than the amount owed."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is a force majeure clause?",
+    "answer": "A force majeure clause is a provision in a contract that excuses both parties from performance in the event of an unforeseen event beyond their control, such as a natural disaster or war. This type of clause is often used in international contracts to protect the parties from the risk of unforeseen events that could make performance impossible or impractical."
+  },
+  {
+    "category": "Legal Terms",
+    "question": "What is an indemnification clause?",
+    "answer": "An indemnification clause is a provision in a contract that shifts the risk of loss from one party to the other. It is often used to protect one party from liability for the negligence or wrongdoing of the other party. For example, a contract for the purchase of goods might include an indemnification clause that indemnifies the seller from any liability for injuries caused by the product."
+  },
+
+{
+  "category": "Legal Terms",
+  "question": "What is confidentiality?",
+  "answer": "Confidentiality is a legal obligation to keep information secret. It is often included in contracts to protect sensitive information, such as trade secrets or personal data."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is indemnity?",
+  "answer": "Indemnity is a legal agreement in which one party agrees to compensate the other party for any losses or damages they may incur. It is often used in contracts to protect one party from the negligence or wrongdoing of the other party."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is acceptance?",
+  "answer": "Acceptance is the act of agreeing to the terms of an offer. It is a necessary element of a contract, as there cannot be a contract without both an offer and acceptance."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is force majeure?",
+  "answer": "Force majeure is a legal term that refers to an event or circumstance beyond the control of either party to a contract that prevents them from performing their obligations under the contract. Examples of force majeure events include natural disasters, war, and government intervention."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is a severability clause?",
+  "answer": "A severability clause is a provision in a contract that states that if any part of the contract is invalid or unenforceable, the rest of the contract will remain in effect. This is important because it prevents the entire contract from being invalidated if only one part is problematic."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is a breach of contract?",
+  "answer": "A breach of contract is a failure to perform one's obligations under a contract. This can be a major breach, which goes to the heart of the contract and renders it impossible to perform, or a minor breach, which does not go to the heart of the contract and can be remedied."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is a warranty?",
+  "answer": "A warranty is a promise that a product or service will be of a certain quality or that it will perform in a certain way. Warranties can be express, which means they are stated explicitly in a contract, or implied, which means they are not stated explicitly but are instead implied by law."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is assignment?",
+  "answer": "Assignment is the transfer of rights or obligations from one party to another. It is often used in contracts to transfer ownership of property or to transfer the right to perform a contractual obligation."
+},
+{
+  "category": "Legal Terms",
+  "question": "What are damages?",
+  "answer": "Damages are a legal remedy for a breach of contract. They are awarded to compensate the non-breaching party for the losses they have incurred as a result of the breach."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is termination for convenience?",
+  "answer": "Termination for convenience is a provision in a contract that allows either party to terminate the contract without cause. This is often used in contracts with long terms, such as contracts for the purchase of goods or services."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is an arbitration clause?",
+  "answer": "An arbitration clause is a provision in a contract that requires disputes between the parties to be resolved through arbitration instead of litigation. Arbitration is a private process in which a neutral third party decides the dispute."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is an integration clause?",
+  "answer": "An integration clause is a provision in a contract that states that the written contract is the entire agreement between the parties and that no other representations or agreements are binding. This is important because it prevents one party from claiming that there was an oral agreement that contradicts the written contract."
+},
+{
+  "category": "Legal Terms",
+  "question": "What is a bill of sale?",
+  "answer": "A bill of sale is a legal document that transfers ownership of personal property from one party to another. It is often used when selling a car, boat, or other valuable item."
+},
+
 //
+{
+  "category": "Dental Terms",
+  "question": "What is toothache?",
+  "answer": "Pain felt in or around a tooth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What are sensitive teeth?",
+  "answer": "Pain felt when drinking hot or cold beverages."
+},
+{
+  "category": "Dental Terms",
+  "question": "What does sore gums mean?",
+  "answer": "A painful sensation in the gums, usually when brushing or flossing."
+},
+{
+  "category": "Dental Terms",
+  "question": "What are mouth sores?",
+  "answer": "Small, painful blisters in the mouth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is bad breath?",
+  "answer": "Unpleasant smell from inside the mouth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is dry mouth?",
+  "answer": "Not enough saliva that causes a sticky and dry feeling in the mouth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a cavity?",
+  "answer": "A decayed part of the tooth that forms a hole."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is decay?",
+  "answer": "An infection that destroys the teeth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is gingivitis?",
+  "answer": "Inflammation of the soft gum tissue surrounding the teeth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is plaque?",
+  "answer": "A sticky substance containing microorganisms that grow on the surface of teeth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is an infection?",
+  "answer": "A disease caused by harmful microorganisms like bacteria or virus (in this case linked to the mouth or area around the mouth)."
+},
+{
+  "category": "Dental Terms",
+  "question": "What are broken teeth?",
+  "answer": "A crack or chip on the tooth, usually caused by injuries to the mouth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What are teeth stains?",
+  "answer": "Yellowish discolouration of the teeth caused by food and drinks or by disease and medications."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a filling?",
+  "answer": "A protective material like gold, porcelain, or composite resin used to fill a tooth cavity or repair cracked or broken teeth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is flossing?",
+  "answer": "Cleaning between your teeth using a thin thread, which is called dental floss."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is mouthwash?",
+  "answer": "A liquid used for rinsing the mouth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is whitening?",
+  "answer": "Bleaching teeth to make them look whiter."
+},
+{
+  "category": "Dental Terms",
+  "question": "What are braces?",
+  "answer": "Metal or plastic wires that are attached to the teeth to push them into the correct position."
+},
+{
+  "category": "Dental Terms",
+  "question": "What are dentures?",
+  "answer": "A removable replacement for missing teeth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What does extract mean in dentistry?",
+  "answer": "To remove a tooth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is an implant?",
+  "answer": "A small titanium fixture that replaces the root portion of a missing tooth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a crown in dentistry?",
+  "answer": "A material used to cover a damaged tooth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is anesthesia in dentistry?",
+  "answer": "A medication injected to help lessen the pain and discomfort during a dental procedure."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a dental x-ray?",
+  "answer": "Pictures of teeth and gums that show a dentist if there are cavities, gum disease, or other dental problems."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a dental check-up?",
+  "answer": "A routine examination of the teeth to make sure they are healthy."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is teeth cleaning?",
+  "answer": "(Usually) twice per year procedures used to clean the gums and teeth in order to promote general teeth health."
+},
+{
+  "category": "Dental Terms",
+  "question": "Who is a Dental hygienist?",
+  "answer": "A person who cleans the teeth, checks for gum disease, and advises on how to care for your teeth."
+},
+{
+  "category": "Dental Terms",
+  "question": "Who is a Dental technician?",
+  "answer": "A person who constructs custom dentures, crowns, implants, and other dental appliances."
+},
+{
+  "category": "Dental Terms",
+  "question": "Who is an Endodontist?",
+  "answer": "A dentist who specializes in treating root canals."
+},
+{
+  "category": "Dental Terms",
+  "question": "Who is an Orthodontist?",
+  "answer": "A dentist who specializes in straightening teeth."
+},
+
+
+{
+  "category": "Dental Terms",
+  "question": "What is a periodontist?",
+  "answer": "A dentist who specializes in the prevention, diagnosis, and treatment of periodontal disease."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a pediatric dentist?",
+  "answer": "A dentist who specializes in the oral health of children from infancy through the teen years."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is an oral surgeon?",
+  "answer": "A dentist who specializes in surgery of the mouth, face, and jaws."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a prosthodontist?",
+  "answer": "A dentist who specializes in the restoration and replacement of missing teeth and other oral structures."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is scaling and root planing?",
+  "answer": "A deep cleaning procedure that involves removing plaque and tartar from the teeth and smoothing the roots to help gums reattach to the teeth."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a dental bridge?",
+  "answer": "A fixed dental restoration used to replace one or more missing teeth by joining an artificial tooth permanently to adjacent teeth or dental implants."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a dental crown?",
+  "answer": "A cap that is placed over a tooth to restore its shape, size, strength, and improve its appearance."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is dental bonding?",
+  "answer": "A procedure in which a tooth-colored resin material is applied and hardened with a special light, ultimately bonding the material to the tooth to improve a person's smile."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a dental sealant?",
+  "answer": "A thin, plastic coating painted on the chewing surfaces of teeth, usually the back teeth, to prevent tooth decay."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a root canal?",
+  "answer": "A treatment to repair and save a badly damaged or infected tooth instead of removing it."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is tooth extraction?",
+  "answer": "The process of removing a tooth from its socket in the bone."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a veneer?",
+  "answer": "A layer of material placed over a tooth to improve the aesthetics of a smile or protect the tooth's surface from damage."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a night guard?",
+  "answer": "A removable appliance worn at night to protect the teeth and jaw from the effects of grinding and clenching."
+},
+{
+  "category": "Dental Terms",
+  "question": "What is a bite adjustment?",
+  "answer": "A procedure to correct misalignment of the teeth when the jaws are closed."
+},
+
+//
+
+{
+  "category": "Law Idioms",
+  "question": "Caught Red-Handed",
+  "answer": "Apprehended while committing a crime"
+},
+{
+  "category": "Law Idioms",
+  "question": "Five-Finger Discount",
+  "answer": "Shoplifting"
+},
+{
+  "category": "Law Idioms",
+  "question": "Foul Play",
+  "answer": "Crime, typically murder"
+},
+{
+  "category": "Law Idioms",
+  "question": "Get Off Scot Free",
+  "answer": "Be accused of wrongdoing but pay no penalty at all"
+},
+{
+  "category": "Law Idioms",
+  "question": "(Caught) Bang to Rights",
+  "answer": "Caught in an unlawful or immoral act without any mitigating circumstances"
+},
+{
+  "category": "Law Idioms",
+  "question": "Above The Law",
+  "answer": "Exempt from the laws that apply to everyone else"
+},
+{
+  "category": "Law Idioms",
+  "question": "Act Of Congress",
+  "answer": "Hard to get, said of authorization"
+},
+{
+  "category": "Law Idioms",
+  "question": "All Rights Reserved",
+  "answer": "Said of a published work; all reproduction rights are asserted by the copyright holder"
+},
+{
+  "category": "Law Idioms",
+  "question": "Bail Out",
+  "answer": "To rescue someone from a bad situation, to shield someone from the consequences of his or her actions"
+},
+{
+  "category": "Law Idioms",
+  "question": "Ball and Chain",
+  "answer": "1. One’s spouse (derogatory but often affectionate); 2. an ongoing burden"
+},
+{
+  "category": "Law Idioms",
+  "question": "Letter of the Law",
+  "answer": "The explicit meaning of a law, as opposed to the spirit of the law, the law’s general intention"
+},
+{
+  "category": "Law Idioms",
+  "question": "Open-and-Shut Case",
+  "answer": "A situation, especially a legal proceeding, with a clear, certain outcome"
+},
+{
+  "category": "Law Idioms",
+  "question": "Take the Fifth",
+  "answer": "Refuse to answer because answering might incriminate or cause problems for you"
+},
+
+//
+{ category: "Phrasal verbs:home", question: "To ___ ___ means to tidy or organize a space.", answer: "straighten up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ involves adding something to what is already there.", answer: "build on" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to make a place neat and free from dirt or disorder.", answer: "clean up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to remove dust from a surface.", answer: "dust off" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ involves refilling something to its capacity.", answer: "fill up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to repair or renovate something.", answer: "fix up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ involves placing something on a hook or receiver.", answer: "hang up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ refers to securing a place by locking doors and windows.", answer: "lock up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface using a mop.", answer: "mop up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ involves lifting and holding something.", answer: "pick up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to store items in their proper place.", answer: "put away" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ refers to inserting something into something else.", answer: "put in" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to dress oneself with an item of clothing.", answer: "put on" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ (music) involves starting to play music.", answer: "put on" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to extinguish something like a fire.", answer: "put out" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ refers to displaying or setting something up.", answer: "put up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to amass or gather a supply of something.", answer: "stock up" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ involves removing something from a higher place.", answer: "take down" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to remove something from inside a place.", answer: "take out" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ refers to discarding something as waste.", answer: "throw away" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "turn off" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ involves starting the operation of a device.", answer: "turn on" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface, especially by rubbing it.", answer: "wipe down" },
+
+
+  //
+
+  //
 { category: 'Interjections', question: "Oh no! I [BLANK] my keys!", answer: "\"lost\"" },
 { category: 'Interjections', question: "Ouch! That [BLANK]!", answer: "\"hurt\"" },
 { category: 'Interjections', question: "Wow! That was an [BLANK] game!", answer: "\"amazing | awesome\"" },
