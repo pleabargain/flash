@@ -108,7 +108,7 @@ const flashcards = [
   { category: 'Adverbs of Manner', question: "The cat [BLANK] jumped onto the counter.", answer: "quickly" },
   { category: 'Adverbs of Manner', question: "She spoke [BLANK] about her childhood.", answer: "fondly" },
   { category: 'Adverbs of Manner', question: "The team worked [BLANK] to meet the deadline.", answer: "diligently|tirelessly" },
-  { category: 'Adverbs of Manner', question: "He [BLANK] refused to change his opinion.", answer: "stubbornly" },
+  { category: 'Adverbs of Manner', question: "He [BLANK] refused to change his opinion.", answer: "completely|stubbornly" },
   { category: 'Adverbs of Manner', question: "The story was [BLANK] told, capturing everyone's attention.", answer: "vividly" },
   { category: 'Adverbs of Manner', question: "She [BLANK] checked each answer on the test.", answer: "carefully" },
   { category: 'Adverbs of Manner', question: "The child [BLANK] grabbed the toy from his friend.", answer: "greedily" },
@@ -418,7 +418,7 @@ const flashcards = [
 { category: "Adverbs of Manner", question: "She cleans the house [BLANK].", answer: "thoroughly" },
   { category: "Adverbs of Manner", question: "He cooks dinner [BLANK].", answer: "skillfully" },
   { category: "Adverbs of Manner", question: "They discuss family matters [BLANK].", answer: "calmly" },
-  { category: "Adverbs of Manner", question: "She waters the plants [BLANK].", answer: "carefully" },
+  { category: "Adverbs of Manner", question: "She waters the plants [BLANK].", answer: "religiously|carefully" },
   { category: "Adverbs of Manner", question: "He repairs the leak [BLANK].", answer: "efficiently" },
   { category: "Adverbs of Manner", question: "They play games [BLANK].", answer: "enthusiastically" },
   { category: "Adverbs of Manner", question: "She organizes the room [BLANK].", answer: "neatly" },
@@ -928,7 +928,7 @@ const flashcards = [
 { "category": "Adjectives:Superlatives", "question": "The most affordable mode of transportation for long distances is often known as [BLANK].", "answer": " the cheapest | the most economical" },
 { "category": "Adjectives:Superlatives", "question": "The restaurant that serves the most authentic local cuisine is often described as [BLANK] restaurant.", "answer": " the most authentic | the best local" },
 { "category": "Adjectives:Superlatives", "question": "The hiking trail with the most breathtaking views is often referred to as [BLANK] trail.", "answer": " the most scenic | the most spectacular" },
-{ "category": "Adjectives:Superlatives", "question": "The store with the widest range of products in a shopping mall is often referred to as [BLANK].", "answer": " the most diverse" },
+{ "category": "Adjectives:Superlatives", "question": "The store with the widest range of products in a shopping mall is often referred to as [BLANK].", "answer": " the largest|the most diverse" },
 { "category": "Adjectives:Superlatives", "question": "The busiest time of day at the mall is often described as [BLANK] hour.", "answer": " the peak" },
 { "category": "Adjectives:Superlatives", "question": "The most expensive store in a shopping mall is often known as [BLANK] shop.", "answer": " the priciest" },
 { "category": "Adjectives:Superlatives", "question": "In a mall, the food court with the most variety is often called [BLANK] food court.", "answer": " the most diverse" },
@@ -1395,7 +1395,7 @@ const flashcards = [
   {
     "category": "Adjectives:Business",
     "question": "'Our team of [BLANK] professionals is dedicated to exceeding customer expectations.'",
-    "answer": "dedicated"
+    "answer": "experienced|dedicated"
   },
   {
     "category": "Adjectives:Business",
@@ -1480,7 +1480,7 @@ const flashcards = [
 {"category": 'Adjectives:work', "question": "My job as a nurse is very [BLANK].", "answer": "demanding|stressful|emotional|rewarding|challenging|exciting|inspiring|interesting|fast-paced"},
 {category: 'Adjectives:work', question: "My job as a firefighter is very [BLANK].", answer: "stressful"},
 {category: 'Adjectives:work', question: "My job as an engineer is very [BLANK].", answer: "challenging"},
-{category: 'Adjectives:work', question: "My job as a writer is very [BLANK].", answer: "creative"},
+{category: 'Adjectives:work', question: "My job as a writer is very [BLANK].", answer: "inconsistent|time consuming |creative"},
 {category: 'Adjectives:work', question: "My job as a social worker is very [BLANK].", answer: "rewarding"},
 {category: 'Adjectives:work', question: "My job as a lawyer is very [BLANK].", answer: "demanding|exciting|inspiring|stressful|interesting"},
 
@@ -1674,7 +1674,247 @@ const flashcards = [
   "category": "SCRUM",
   "question": "At the end of each sprint, the team holds a [BLANK] meeting to review the work that was completed and to demo the work to stakeholders.",
   "answer": "sprint review"
-}
+},
+//
+
+{
+  "category": "Objections",
+  "question": "This doesn't align with our current strategy.",
+  "answer": "I understand that you need to make sure that any new product you adopt aligns with your current strategy. We can help you understand how our product can support your strategic goals."
+},
+{
+  "category": "Objections",
+  "question": "We've had a bad experience with similar products.",
+  "answer": "We understand that you've had a bad experience with similar products in the past. We're confident that our product is different and that it can help you achieve your business goals."
+},
+{
+  "category": "Objections",
+  "question": "I'm not the right person to make this decision.",
+  "answer": "I understand that you may not be the right person to make this decision. We're always happy to speak with the decision-maker at your company."
+},
+{
+  "category": "Objections",
+  "question": "We're locked into a contract with another provider.",
+  "answer": "We understand that you may be locked into a contract with another provider. We can help you understand your options and make a decision that's right for your business."
+},
+{
+  "category": "Objections",
+  "question": "I need to see more evidence of its success.",
+  "answer": "We understand that you need to see evidence of our product's success before you invest in it. We can provide you with case studies, testimonials, and other evidence that shows how our product has helped our customers achieve their business goals."
+},
+{
+  "category": "Objections",
+  "question": "I'm not interested right now.",
+  "answer": "We understand that you're not interested right now. We're always here if you have any questions or want to learn more about our product."
+},
+{
+  "category": "Objections",
+  "question": "I'm not the decision-maker.",
+  "answer": "I understand that you may not be the decision-maker at your company. We're always happy to speak with the decision-maker."
+},
+{
+  "category": "Objections",
+  "question": "I need to think about it.",
+  "answer": "Of course, we understand that you need to take some time to think about your decision. We're always here if you have any questions or want to learn more about our product."
+},
+{
+  "category": "Objections",
+  "question": "Your product is too expensive.",
+  "answer": "I understand that our product is an investment, but we're confident that the value it provides far outweighs the cost. We also offer a variety of pricing options to fit your budget, and we're always happy to work with you to find a solution that's affordable for your business."
+},
+{
+  "category": "Objections",
+  "question": "We're already satisfied with our current solution.",
+  "answer": "That's great to hear! We're always happy to hear that our customers are happy with their current solution. However, we're confident that our product has a number of advantages that you'll find appealing."
+},
+{
+  "category": "Objections",
+  "question": "We've had a bad experience with similar products in the past.",
+  "answer": "We understand that you've had a bad experience with similar products in the past. We're confident that our product is different and that it can help you achieve your business goals."
+},
+{
+  "category": "Product",
+  "question": "I'm not sure if your product is right for us.",
+  "answer": "That's okay! We're always happy to help you determine if our product is a good fit for your business. We can provide you with a demo, case studies, and other resources to help you make an informed decision."
+},
+{
+  "category": "Product",
+  "question": "I don't have the time to talk right now.",
+  "answer": "I understand that you're busy. We can schedule a call or demo at your convenience. In the meantime, you can learn more about our product on our website."
+},
+
+
+
+  {
+    "category": "Objections",
+    "question": "Thank you, but we're not interested at this time.",
+    "answer": "Thank you for your time. We understand that you're not ready to make a decision right now. We're always here if you have any questions or want to learn more about our product."
+  },
+  {
+    "category": "Objections",
+    "question": "I don't think this meets our needs right now.",
+    "answer": "I understand that our product may not be the right fit for you right now. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
+  },
+  {
+    "category": "Objections",
+    "question": "We're not in the position to invest in this.",
+    "answer": "I understand that investing in a new product can be a big decision. We offer a variety of pricing options to fit your budget, and we're always happy to work with you to find a solution that's affordable for your business."
+  },
+  {
+    "category": "Objections",
+    "question": "I need to consult with my team first.",
+    "answer": "Of course, we understand that you need to consult with your team before making a decision. We're always happy to provide you with more information or answer any questions you may have."
+  },
+  {
+    "category": "Objections",
+    "question": "Can you send us more information? We'll review it and get back to you.",
+    "answer": "Absolutely. We'd be happy to send you more information about our product. We can also schedule a demo to show you how our product can help you achieve your business goals."
+  },
+  {
+    "category": "Objections",
+    "question": "This isn't a priority for us at the moment.",
+    "answer": "We understand that you have other priorities right now. We're always here when you're ready to learn more about how our product can help you."
+  },
+  {
+    "category": "Objections",
+    "question": "We already have a similar solution in place.",
+    "answer": "That's great to hear! We're always happy to hear that our customers are happy with their current solution. However, we're confident that our product has a number of advantages that you'll find appealing."
+  },
+  {
+    "category": "Objections",
+    "question": "The price point is out of our budget.",
+    "answer": "I understand that pricing can be a concern. We offer a variety of pricing options to fit your budget, and we're always happy to work with you to find a solution that's affordable for your business."
+  },
+  {
+    "category": "Objections",
+    "question": "Our intergration pipeline is full.",
+    "answer": "I understand that you have a lot on your plate right now. We're always happy to work with you to schedule a time for implementation that works for your team."
+  },
+  {
+    "category": "Objections",
+    "question": "We don't need your product.",
+    "answer": "We understand that you may not need our product right now. However, we're confident that our product can help you achieve your business goals. We're always happy to provide you with more information or answer any questions you may have."
+  },
+  {
+    "category": "Objections",
+    "question": "We're not interested in your product.",
+    "answer": "We understand that you're not interested in our product right now. We're always here if you have any questions or want to learn more about it."
+  },
+  {
+    "category": "Objections",
+    "question": "We're looking for something different.",
+    "answer": "I understand that you're looking for something different. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
+  },
+
+
+  {
+    "category": "Objections",
+    "question": "We're already using a similar product.",
+    "answer": "I understand that you're already using a similar product. However, our product offers several unique features and benefits that can help you improve your results."
+  },
+  {
+    "category": "Objections",
+    "question": "We're not convinced that it will save us money.",
+    "answer": "I understand that you're concerned about ROI. We can provide you with a case study that demonstrates how our product has helped other businesses save money."
+  },
+  {
+    "category": "Objections",
+    "question": "We're worried about the learning curve.",
+    "answer": "I understand that you're concerned about training. We offer a variety of training resources to help your team get up to speed quickly."
+  },
+  {
+    "category": "Objections",
+    "question": "We don't have the bandwidth to implement it right now.",
+    "answer": "I understand that you're busy. We can help you prioritize the implementation so it fits into your schedule."
+  },
+  {
+    "category": "Objections",
+    "question": "We're not sure if it's secure enough for our data.",
+    "answer": "I understand that security is a top priority. Our product meets the highest industry standards for data security."
+  },
+
+  {
+    "category": "Objections",
+    "question": "Your timeline for implementation is too long.",
+    "answer": "I understand that you need a solution quickly. We are committed to providing you with a timeline that meets your needs, and we will work closely with you to prioritize implementation tasks."
+  },
+  {
+    "category": "Objections",
+    "question": "We are worried about the impact on our business during implementation.",
+    "answer": "I understand that implementing a new solution can disrupt your business operations. We have a proven implementation methodology that minimizes disruption and ensures a smooth transition."
+  },
+  {
+    "category": "Objections",
+    "question": "We don't have the resources to dedicate to implementation at this time.",
+    "answer": "I understand that staffing is a concern. We offer a variety of implementation options to fit your resources and budget, including self-service, guided assistance, and fully managed implementation."
+  },
+  {
+    "category": "Objections",
+    "question": "We are concerned about the risk of project delays or failures.",
+    "answer": "I understand that project delays can be costly. We have a proven track record of successful implementations, and we employ project management best practices to mitigate risk and ensure project success."
+  },
+  {
+    "category": "Objections",
+    "question": "We are not sure if we can meet your timeline for testing and user acceptance.",
+    "answer": "I understand that testing and user acceptance are critical steps in the implementation process. We will work with you to create a testing plan that meets your specific needs and timeline, and we offer a variety of testing tools and resources to support your testing efforts."
+  },
+
+
+  {
+    "category": "Objections",
+    "question": "Your API documentation is not comprehensive enough.",
+    "answer": "I understand that you need comprehensive API documentation to successfully integrate our product with your systems. We are constantly working on improving our API documentation, and we can provide you with additional resources if needed."
+  },
+  {
+    "category": "Objections",
+    "question": "We are concerned about the stability and performance of your APIs.",
+    "answer": "I understand that you need reliable and performant APIs to support your business-critical applications. Our APIs are designed and tested to meet the highest standards of stability and performance."
+  },
+  {
+    "category": "Objections",
+    "question": "Your timeline for API is not realistic.",
+    "answer": "I understand that you need a solution quickly. We are committed to providing you with a timeline that meets your needs, and we will work closely with you to prioritize API development tasks."
+  },
+  {
+    "category": "Objections",
+    "question": "We are worried about maintaining our integration with your APIs as they evolve.",
+    "answer": "I understand that maintaining integrations can be challenging. We provide a comprehensive API roadmap and notification system to keep you informed of upcoming changes, and we offer support to help you smoothly transition to new versions."
+  },
+  {
+    "category": "Objections",
+    "question": "We are not sure if your APIs are secure enough for our sensitive data.",
+    "answer": "I understand that data security is a top priority. Our APIs are built with security in mind, and we employ industry-best practices to protect your data. We can provide you with detailed security documentation to address any specific concerns."
+  },
+
+
+
+  {
+    "category": "Objections",
+    "question": "We're looking for something different.",
+    "answer": "I understand that you're looking for something different. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
+  },
+  {
+    "category": "Objections",
+    "question": "It's too expensive.",
+    "answer": "I understand that cost is a factor. However, when you consider the value that our product provides, we believe it's a worthwhile investment."
+  },
+  {
+    "category": "Objections",
+    "question": "We don't have the time to implement it.",
+    "answer": "I understand that time is a concern. However, we offer a variety of implementation options to fit your schedule and budget."
+  },
+  {
+    "category": "Objections",
+    "question": "We're not sure if it will work for us.",
+    "answer": "I understand that you're concerned about compatibility. We offer a free trial so you can try our product risk-free."
+  },
+  {
+    "category": "Objections",
+    "question": "We don't have the staff to support it.",
+    "answer": "I understand that staffing is a concern. We offer a variety of training and support options to help you get the most out of our product."
+  },
+
+
 
 //
 { category: 'Pronouns:Indefinite', question: "Someone left [BLANK] phone in the conference room.", answer: "their" },
