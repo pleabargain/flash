@@ -1420,12 +1420,12 @@ const flashcards = [
 {
   "category": "Law Idioms",
   "question": "Ball and Chain",
-  "answer": "1. One’s spouse (derogatory but often affectionate); 2. an ongoing burden"
+  "answer": "1. One's spouse (derogatory but often affectionate); 2. an ongoing burden"
 },
 {
   "category": "Law Idioms",
   "question": "Letter of the Law",
-  "answer": "The explicit meaning of a law, as opposed to the spirit of the law, the law’s general intention"
+  "answer": "The explicit meaning of a law, as opposed to the spirit of the law, the law's general intention"
 },
 {
   "category": "Law Idioms",
@@ -1439,8 +1439,64 @@ const flashcards = [
 },
 
 //
+{
+  category: "phrasal verbs: work",
+  question: "What does 'follow up' imply in a business conversation?",
+  answer: "'Follow up' means to continue or take additional actions related to a previous activity or discussion, like following up on a client's request."
+},
+{
+  category: "phrasal verbs: work",
+  question: "How is 'look into' used in a professional setting?",
+  answer: "'Look into' means to investigate or research something more deeply, like looking into a customer complaint or a technical issue."
+},
+{
+  category: "phrasal verbs: work",
+  question: "Can you define 'sign off on' in a workplace?",
+  answer: "'Sign off on' refers to giving formal approval or consent to something, such as signing off on a project plan or a budget."
+},
+{
+  category: "phrasal verbs: work",
+  question: "What does 'work out' mean in a business context?",
+  answer: "'Work out' can mean to resolve a problem or to calculate something, like working out the details of a deal or working out a budget."
+},
+{
+  category: "phrasal verbs: work",
+  question: "How would 'touch base' be used in an office environment?",
+  answer: "'Touch base' means to make brief contact with someone to discuss something or to get an update, such as touching base with a colleague about a project."
+},
+
+
+{
+  category: "Phrasal verbs: work",
+  question: "What does 'catch up' mean in a work context?",
+  answer: "'Catch up' means to bring oneself up to date in a particular area or topic, like catching up on emails or work progress."
+},
+{
+  category: "Phrasal verbs: work",
+  question: "How would you use 'draw up' in a business setting?",
+  answer: "'Draw up' refers to the process of preparing or writing a document, plan, or agreement, like drawing up a contract or a proposal."
+},
+{
+  category: "Phrasal verbs: work",
+  question: "What does 'lay off' mean in a workplace?",
+  answer: "'Lay off' is used when a company dismisses employees, often due to financial constraints or restructuring. I just got laid off."
+},
+{
+  category: "Phrasal verbs: work",
+  question: "Can you explain 'run by' in a work environment?",
+  answer: "'Run by' means to present something to someone for review or approval, such as running a plan by your manager. I would like to run an idea by you!"
+},
+{
+  category: "Phrasal verbs: work",
+  question: "What is the meaning of 'set up' in a professional setting?",
+  answer: "'Set up' can refer to arranging or organizing something, like setting up a meeting or setting up equipment."
+},
+
+
+
+//
 { category: "Phrasal verbs:home", question: "To ___ ___ means to tidy or organize a space.", answer: "straighten up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ involves adding something to what is already there.", answer: "build on" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ involves adding something to what is already there.", answer: "add on|build on" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to make a place neat and free from dirt or disorder.", answer: "clean up" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to remove dust from a surface.", answer: "dust off" },
   { category: "Phrasal verbs:home", question: "To ___ ___ involves refilling something to its capacity.", answer: "fill up" },
@@ -1452,14 +1508,14 @@ const flashcards = [
   { category: "Phrasal verbs:home", question: "To ___ ___ means to store items in their proper place.", answer: "put away" },
   { category: "Phrasal verbs:home", question: "To ___ ___ refers to inserting something into something else.", answer: "put in" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to dress oneself with an item of clothing.", answer: "put on" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ (music) involves starting to play music.", answer: "put on" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ (music) involves starting to play music.", answer: "turn on|put on" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to extinguish something like a fire.", answer: "put out" },
   { category: "Phrasal verbs:home", question: "To ___ ___ refers to displaying or setting something up.", answer: "put up" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to amass or gather a supply of something.", answer: "stock up" },
   { category: "Phrasal verbs:home", question: "To ___ ___ involves removing something from a higher place.", answer: "take down" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to remove something from inside a place.", answer: "take out" },
   { category: "Phrasal verbs:home", question: "To ___ ___ refers to discarding something as waste.", answer: "throw away" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "turn off" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "switch off|turn off" },
   { category: "Phrasal verbs:home", question: "To ___ ___ involves starting the operation of a device.", answer: "turn on" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface, especially by rubbing it.", answer: "wipe down" },
 
@@ -1945,7 +2001,7 @@ const flashcards = [
   { category: 'Procurement Terms', question: "Define 'Bill of Material'.", answer: "A list of items used in the manufacture of a product, showing which items are required for sub-assemblies and the final product, including manufactured and purchased components." },
   { category: 'Procurement Terms', question: "What is a 'Blanket Order'?", answer: "An agreement to purchase or a purchase order for a given quantity of specific goods over a period of time, often one year." },
   { category: 'Procurement Terms', question: "Define 'BPM'.", answer: "Business process management." },
-  { category: 'Procurement Terms', question: "What does 'Capital Equipment' refer to?", answer: "Assets listed on an organization’s accounting records that have value and are durable." },
+  { category: 'Procurement Terms', question: "What does 'Capital Equipment' refer to?", answer: "Assets listed on an organization's accounting records that have value and are durable." },
   { category: 'Procurement Terms', question: "What does 'Caveat Emptor' mean?", answer: "Latin for let the buyer beware." },
   { category: 'Procurement Terms', question: "Explain 'Centralized Purchasing'.", answer: "An organizational structure where all buying is conducted and authorized by one department and in one location, as opposed to decentralized systems." },
   { category: 'Procurement Terms', question: "What does 'ceteris paribus' mean?", answer: "Everything else being equal." },
@@ -1959,7 +2015,7 @@ const flashcards = [
   { category: 'Procurement Terms', question: "What is 'CRM'?", answer: "Customer relationship management." },
   { category: 'Procurement Terms', question: "Explain 'Cross-Docking'.", answer: "A process of receiving a product and shipping it out immediately without putting it into storage." },
   { category: 'Procurement Terms', question: "What is 'Direct Purchasing'?", answer: "The purchase of material to be used in manufacturing or for resale, as opposed to indirect purchasing." },
-  { category: 'Procurement Terms', question: "Define 'EBITDA'.", answer: "Earnings before interest, taxes, depreciation, and amortization, a measure of a company’s operating performance." },
+  { category: 'Procurement Terms', question: "Define 'EBITDA'.", answer: "Earnings before interest, taxes, depreciation, and amortization, a measure of a company's operating performance." },
   { category: 'Procurement Terms', question: "What does 'ERP' stand for?", answer: "Enterprise resource planning." },
   { category: 'Procurement Terms', question: "Explain 'Exchange Rate'.", answer: "The value of one country's currency in terms of another country's currency." },
   { category: 'Procurement Terms', question: "Define 'FIFO'.", answer: "First-in, First-out, an accounting method of valuing inventory based on the cost of the oldest purchases." },
@@ -1975,7 +2031,7 @@ const flashcards = [
   { category: 'Procurement Terms', question: "Explain 'JIT'.", answer: "Just In Time, a scheduling system that minimizes inventory by having material arrive just as it is to be used." },
   { category: 'Procurement Terms', question: "Define 'LCL'.", answer: "Less carload, often referring to a freight rate higher than for a full carload." },
   { category: 'Procurement Terms', question: "What are 'Lean Processes'?", answer: "A method to reduce unnecessary steps in manufacturing or services to improve efficiency and reduce error." },
-  { category: 'Procurement Terms', question: "Explain 'Letter of Credit'.", answer: "A payment form in international trade transferring funds from the buyer’s to the seller’s bank account." },
+  { category: 'Procurement Terms', question: "Explain 'Letter of Credit'.", answer: "A payment form in international trade transferring funds from the buyer's to the seller's bank account." },
   { category: 'Procurement Terms', question: "Define 'Leverage'.", answer: "Using debt to finance operations rather than using equity." },
   { category: 'Procurement Terms', question: "What is a 'Liability' in accounting and law?", answer: "In accounting, it is what a company owes. In law, it's an obligation to perform or refrain from performing an action." },
   { category: 'Procurement Terms', question: "Explain 'LIFO'.", answer: "Last-in, First-out, an accounting method valuing inventory based on the assumption that the last items purchased are the first sold." },
