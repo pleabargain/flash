@@ -18,6 +18,8 @@ const flashcards = [
 { category: 'Prepositions', question: "I'm afraid [BLANK] heights.", answer: "of" },
 { category: 'Prepositions', question: "I'm good [BLANK] math.", answer: "at" },
 { category: 'Prepositions', question: "I'm thinking [BLANK] going to the beach.", answer: "about" },
+{ category: 'Prepositions', question: "I'm thinking [BLANK] going to the store.", answer: "about" },
+
 { category: 'Prepositions', question: "I'm tired [BLANK] work.", answer: "of" },
 { category: 'Prepositions', question: "I'm waiting [BLANK] my friend.", answer: "for|next to" },
 { category: 'Prepositions', question: "I'm worried [BLANK] my exam.", answer: "about" },
@@ -760,14 +762,14 @@ const flashcards = [
 
 //
 
-{ category: 'Pronouns', question: "I went to the store with [BLANK].", answer: "\"my friend\"" },
-{ category: 'Pronouns', question: "The teacher gave [BLANK] students a homework assignment.", answer: "\"her\"" },
+{ category: 'Pronouns', question: "I went to the store with [BLANK].", answer: "\"you|him|her|them|my friend\"" },
+{ category: 'Pronouns', question: "The teacher gave [BLANK] students a homework assignment.", answer: "\"her|his\"" },
 { category: 'Pronouns', question: "The cat chased [BLANK] tail.", answer: "\"its\"" },
 { category: 'Pronouns', question: "The children played with [BLANK] toys.", answer: "\"their\"" },
-{ category: 'Pronouns', question: "The dog barked at [BLANK] reflection in the mirror.", answer: "\"its\"" },
+{ category: 'Pronouns', question: "The dog barked at [BLANK] reflection in the mirror.", answer: "\"her|his|its\"" },
 { category: 'Pronouns', question: "The students studied for [BLANK] exam.", answer: "\"their\"" },
 { category: 'Pronouns', question: "The teacher praised [BLANK] students for their hard work.", answer: "\"her|his\"" },
-{ category: 'Pronouns', question: "The cat curled up on [BLANK] lap.", answer: "\"my\"" },
+{ category: 'Pronouns', question: "The cat curled up on [BLANK] lap.", answer: "my|her|his" },
 { category: 'Pronouns', question: "The children shared [BLANK] toys with each other.", answer: "\"their\"" },
 { category: 'Pronouns', question: "The dog wagged [BLANK] tail when it saw its owner.", answer: "\"its\"" },
     // ... more flashcards
@@ -872,9 +874,120 @@ const flashcards = [
 { category: 'Interjections', question: "Eww! That food looks [BLANK]!", answer: "\"gross|terrible\"" },
 { category: 'Interjections', question: "Phew! That was a [BLANK] call!", answer: "\"close\"" },
 { category: 'Interjections', question: "Yeehaw! I'm finally [BLANK]!", answer: "\"free|done|finished|rich\"" },
-
 //
-{ category: 'Determiners', question: "I have [BLANK] apples.", answer: "\"two|three|\"" },
+//
+
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm not quite following you. Can you elaborate?",
+  "answer": "I'm having difficulty grasping the full meaning of your explanation. Could you please provide more details or expand on your points?"
+},
+
+
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm having a hard time catching everything you're saying. Could you speak a little louder, please?",
+  "answer": "The volume of your speech is making it difficult for me to fully comprehend your words. Would you be able to increase the volume slightly to enhance my understanding?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm not sure I understood that part. Could you please rephrase it using simpler words?",
+  "answer": "A particular aspect of your explanation is causing some confusion. Would you be able to rephrase it using more straightforward language that is easier for me to grasp?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm having trouble keeping up with the conversation. Could you slow down a bit, please?",
+  "answer": "The pace of the conversation is making it challenging for me to follow along effectively. Would you be able to slow down your speech to allow me to process the information more comfortably?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm not familiar with that reference. Could you please explain it further?",
+  "answer": "I'm encountering difficulties with understanding the allusion made in that statement. Would you be able to provide more context or explanation to clarify its meaning?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm still a bit lost. Could you provide an example to illustrate what you mean?",
+  "answer": "I'm struggling to visualize the concept you're explaining. Could you offer a real-world example to make it more tangible and easier for me to understand?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "Excuse me, but I'm still a bit confused. Could you simplify it for me?",
+  "answer": "I'm struggling to understand the intricacies of your explanation. Could you please break it down into simpler terms or provide a more straightforward approach?"
+},
+
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm not familiar with that [word|phrase|idiom]. Could you please explain its meaning?",
+  "answer": "I'm encountering difficulties with understanding the figurative language used in that expression. Could you kindly elaborate on its intended meaning?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "Could you please provide a synonym for that word?",
+  "answer": "I'm not sure of the exact meaning of that particular word. Could you offer a similar word with a more recognizable definition?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "Could you please rephrase that using simpler words?",
+  "answer": "I'm finding the vocabulary used in that explanation to be a bit advanced. Could you rephrase it using simpler terms that are more familiar to me?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I apologize, but I'm still unsure about [specific point]. Could you clarify that for me?",
+  "answer": "I have a lingering question regarding [specific point]. Could you please address that directly to ensure I have a clear understanding?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "To make sure I'm on the same page, let me summarize what I think you said. Is this correct?",
+  "answer": "I want to ensure I've accurately grasped your explanation. Please allow me to summarize your points and confirm if I'm understanding correctly."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm still struggling with [specific concept]. Could you provide a real-world example to illustrate it?",
+  "answer": "I'm having difficulty applying [specific concept] to practical scenarios. Could you provide an example from everyday life to help me visualize its application?"
+},
+
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm sorry I don't understand. Can you explain it to me?",
+  "answer": "I need more information to understand your question. Could you please rephrase it or provide more context?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "Could you please repeat that?",
+  "answer": "I apologize, I didn't catch that the first time. Could you please repeat what you just said?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm not sure I follow. Can you break it down for me?",
+  "answer": "I'm having difficulty understanding your explanation. Could you please simplify it or provide more examples?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm afraid I'm still lost. Could you please provide a different explanation?",
+  "answer": "I'm still struggling to grasp the concept. Could you please explain it in a different way or offer an alternative approach?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm not familiar with that term. Could you please define it for me?",
+  "answer": "I'm not sure what you mean by '[term]'. Could you please explain its meaning or provide a synonym?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "I'm having trouble understanding the connection between [concept] and [concept]. Can you clarify?",
+  "answer": "I'm not sure how [concept] relates to [concept]. Could you please explain the relationship between them?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "Could you give me an example of [concept]?",
+  "answer": "I'm having trouble visualizing [concept]. Could you please provide an example to help me understand it better?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "Are there any synonyms or alternative phrases for [term]?",
+  "answer": "I'm not sure how else to say [term]. Could you please provide synonyms or alternative phrases?"
+},
+//
+{ category: 'Determiners', question: "I have [BLANK] apples.", answer: "\"two|three|some\"" },
 { category: 'Determiners', question: "I went to [BLANK] store to buy groceries.", answer: "\"the\"" },
 { category: 'Determiners', question: "I saw [BLANK] cat on my way home.", answer: "\"a\"" },
 { category: 'Determiners', question: "I would like to eat [BLANK] pizza.", answer: "\"some\"" },
@@ -1485,14 +1598,14 @@ const flashcards = [
 {category: 'Adjectives:work', question: "My job as a lawyer is very [BLANK].", answer: "demanding|exciting|inspiring|stressful|interesting"},
 
 //
-{ category: 'Adjectives:Food', question: 'A [BLANK] meal is a satisfying one.', answer: 'hearty' },
+{ category: 'Adjectives:Food', question: 'A [BLANK] meal is a satisfying one.', answer: 'delicious|hearty' },
 { category: 'Adjectives:Food', question: 'I love the [BLANK] taste of fresh strawberries.', answer: 'sweet' },
 { category: 'Adjectives:Food', question: 'This soup is so [BLANK] that it warms my soul.', answer: 'comforting' },
 { category: 'Adjectives:Food', question: 'The aroma of freshly baked bread is [BLANK] irresistible.', answer: 'enticing' },
 { category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my grandmother's chocolate chip cookies.", answer: 'homey' },
 { category: 'Adjectives:Food', question: "A [BLANK] salad is full of fresh, vibrant flavors.", answer: "refreshing" },
 { category: 'Adjectives:Food', question: "I love the [BLANK] combination of sweet and savory in this dish.", answer: "delectable" },
-{ category: 'Adjectives:Food', question: "This pasta is so [BLANK] that it melts in your mouth.", answer: "tender" },
+{ category: 'Adjectives:Food', question: "This |steak|chicken|pasta|mango|fruit] is so [BLANK] that it melts in your mouth.", answer: "tender" },
 { category: 'Adjectives:Food', question: "The [BLANK] aroma of freshly brewed coffee is always a welcome morning greeting.", answer: "invigorating" },
 { category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my favorite childhood snack.", answer: "nostalgic" },
 
