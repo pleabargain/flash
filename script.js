@@ -25,28 +25,28 @@ const flashcards = [
 
 //
 {
-    "category": "Adjectives:Christmas",
+    "category": "Christmas",
     "question": "'The [Christmas tree|scented candle] is so [BLANK] that it fills the whole room with a festive smell.'",
     "answer": "fragrant"
     },
     {
-    "category": "Adjectives:Christmas",
+    "category": "Christmas",
     "question": "'The Christmas lights are so [BLANK] that they make the whole house look magical.'",
     "answer": "twinkling"
     },
     {
-    "category": "Adjectives:Christmas",
+    "category": "Christmas",
     "question": "'The Christmas gifts are so [BLANK] that I can't wait to open them.'",
-    "answer": "exhilarating"
+    "answer": "beuatifuly wrapped"
     },
     {
-    "category": "Adjectives:Christmas",
+    "category": "Christmas",
     "question": "'The Christmas carols are so [BLANK] that they put the whole family in a merry mood.'",
     "answer": "joyous"
     },
     {
-    "category": "Adjectives:Christmas",
-    "question": "'The Christmas feast is so [BLANK] that it makes me want to eat and eat and eat.'",
+    "category": "Christmas",
+    "question": "'This Christmas feast is so [BLANK] that it makes me want to eat and eat and eat!'",
     "answer": "mouthwatering"
     },
 
@@ -232,42 +232,42 @@ const flashcards = [
 
 
 {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What do you put on the top of the Christmas tree to make it look festive?",
     "answer": "A star or an angel"
     },
     {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What do you call the things that people hang on Christmas trees?",
     "answer": "ornaments"
     },
     {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What do people leave out for Santa Claus on Christmas Eve?",
     "answer": "Milk and cookies"
     },
     {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What is a popular food that people in the USA eat on Christmas Day?",
     "answer": "Roast turkey|Roast ham|Roast beef"
     },
     {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What is a common tradition at Christmas?",
     "answer": "giving presents | giving thanks"
     },
     {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What is a popular Christmas drink?",
     "answer": "Eggnog"
     },
     {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What is a traditional Christmas activity?",
     "answer": "Caroling"
     },
     {
-    "category": "Nouns:Christmas",
+    "category": "Christmas",
     "question": "What is a popular Christmas decoration on a door or wall?",
     "answer": "A wreath"
     },
@@ -318,7 +318,7 @@ const flashcards = [
       { category: 'Pronouns: Interrogative', question: "______ is the procedure for remote work applications?", answer: "What" },
   
 //
-// pronouns:demonstrative 
+// Pronouns:demonstrative 
 
 //  // Create flash cards 
 //   show answer as definition on the other side of the flash card
@@ -328,42 +328,42 @@ const flashcards = [
 //   here's an example
   
   
-//     { category: 'pronouns:demonstrative', question: "This is the book I was talking about. [BLANK] book is very interesting.", answer: "This" },
+//     { category: 'Pronouns:demonstrative', question: "This is the book I was talking about. [BLANK] book is very interesting.", answer: "This" },
 
 {
-  category: 'pronouns:demonstrative',
+  category: 'Pronouns:demonstrative',
   question: "I don't have [BLANK] permissions!",
   answer: "those"
 },
 
 
 {
-  category: 'pronouns:demonstrative',
+  category: 'Pronouns:demonstrative',
   question: "Do you remember [BLANK] days when we were kids? [BLANK] days were the best!",
   answer: "those"
 },
 {
-  category: 'pronouns:demonstrative',
+  category: 'Pronouns:demonstrative',
   question: "I can't believe [BLANK] is happening to me. [BLANK] moment is unbelievable!",
   answer: "this"
 },
 {
-  category: 'pronouns:demonstrative',
+  category: 'Pronouns:demonstrative',
   question: "[BLANK] are the keys you were looking for.",
   answer: "These"
 },
 {
-  category: 'pronouns:demonstrative',
+  category: 'Pronouns:demonstrative',
   question: "Look at [BLANK] picture. [BLANK] picture was taken on my birthday.",
   answer: "that"
 },
 {
-  category: 'pronouns:demonstrative',
+  category: 'Pronouns:demonstrative',
   question: "Can you see [BLANK] birds over there? [BLANK] birds migrate every year.",
   answer: "those"
 },
 {
-  category: 'pronouns:demonstrative',
+  category: 'Pronouns:demonstrative',
   question: "I need [BLANK] information for my project. [BLANK] information is crucial.",
   answer: "this"
 },
@@ -371,27 +371,27 @@ const flashcards = [
 
 
 { 
-  category: 'pronouns:demonstrative', 
+  category: 'Pronouns:demonstrative', 
   question: "This is the book I was talking about. [BLANK] book is very interesting.", 
   answer: "This" 
 },
 { 
-  category: 'pronouns:demonstrative', 
+  category: 'Pronouns:demonstrative', 
   question: "I don't like [BLANK] shoes; they are too tight.", 
   answer: "these" 
 },
 { 
-  category: 'pronouns:demonstrative', 
+  category: 'Pronouns:demonstrative', 
   question: "[BLANK] is the restaurant my family loves. [BLANK] restaurant serves amazing pasta.", 
   answer: "That" 
 },
 { 
-  category: 'pronouns:demonstrative', 
+  category: 'Pronouns:demonstrative', 
   question: "I haven't read [BLANK] books yet. Are [BLANK] books good?", 
   answer: "those" 
 },
 { 
-  category: 'pronouns:demonstrative', 
+  category: 'Pronouns:demonstrative', 
   question: "[BLANK] is my friend's car. [BLANK] car is the one we used last time.", 
   answer: "That" 
 },
@@ -882,7 +882,7 @@ const flashcards = [
 { category: 'Determiners', question: "I went to [BLANK] park to play frisbee.", answer: "\"the\"" },
 { category: 'Determiners', question: "I saw [BLANK] birds in the trees.", answer: "\"many|some\"" },
 { category: 'Determiners', question: "I would like to eat [BLANK] ice cream.", answer: "\"some\"" },
-{ category: 'Determiners', question: "I have [BLANK] friends who live nearby.", answer: "\"many\"" },
+{ category: 'Determiners', question: "I have [BLANK] friends who live nearby.", answer: "a few|many|some" },
 { category: 'Determiners', question: "I went to [BLANK] library to study.", answer: "\"the\"" },
 
 //
@@ -971,7 +971,232 @@ const flashcards = [
 { "category": 'Adjectives', "question": 'Children need [BLANK] love and support.', "answer": 'unconditional' },
 { "category": 'Adjectives', "question": 'Raising children can be a [BLANK] experience.', "answer": 'rewarding' },
 
-//
+//Pharmaceuticals
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a substance that is used to prevent, diagnose, or treat disease.",
+  "answer": "drug"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a type of drug that is used to treat a specific symptom.",
+  "answer": "therapeutic agent"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a type of drug that is used to prevent a disease.",
+  "answer": "prophylactic"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a type of drug that is used to diagnose a disease.",
+  "answer": "diagnostic agent"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a substance that is used to deliver a drug to the body.",
+  "answer": "drug delivery system"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a substance that is used to interact with a drug in the body.",
+  "answer": "excipient"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a substance that is used to protect a drug from degradation.",
+  "answer": "preservative"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a substance that is used to enhance the absorption of a drug.",
+  "answer": "penetration enhancer"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a substance that is used to prolong the action of a drug.",
+  "answer": "sustained-release formulation"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a substance that is used to target a drug to a specific site in the body.",
+  "answer": "drug targeting agent"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a list of medications that a patient is currently taking.",
+  "answer": "medication list"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a doctor's order to dispense a specific medication to a patient.",
+  "answer": "medication order"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a record of a patient's medication history.",
+  "answer": "medication profile"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a pharmacist who specializes in the care of hospitalized patients.",
+  "answer": "clinical pharmacist"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a medication that is used to treat a serious medical condition.",
+  "answer": "critical care medication"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a medication that is used to prevent or treat an infection.",
+  "answer": "antimicrobial agent"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a medication that is used to manage pain.",
+  "answer": "analgesic"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a medication that is used to reduce inflammation.",
+  "answer": "anti-inflammatory drug"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a medication that is used to regulate blood pressure.",
+  "answer": "antihypertensive drug"
+},
+{
+  "category": "Pharmaceuticals",
+  "question": "A [BLANK] is a medication that is used to treat cancer.",
+  "answer": "chemotherapeutic agent"
+},
+
+
+//marketing
+
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a detailed plan of action for achieving a specific marketing goal.",
+  "answer": "marketing plan | business plan | strategic plan | roadmap"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] consumer is one who is highly engaged with a brand.",
+  "answer": "loyal | avid | devoted | passionate"
+},
+{
+  "category": "Marketing",
+  "question": "A product that is [BLANK] is one that meets the needs of a specific group of consumers.",
+  "answer": "niche | specialized | tailored | specific"
+},
+{
+  "category": "Marketing",
+  "question": "A marketing campaign that is [BLANK] is one that is memorable and effective.",
+  "answer": "impactful | memorable | effective | successful"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] marketing strategy is one that focuses on building relationships with customers.",
+  "answer": "relationship-based | customer-centric | focused | personalized"
+},
+{
+  "category": "Marketing",
+  "question": "To [BLANK] is to promote a product or service to the public.",
+  "answer": "advertise | market | promote | publicize"
+},
+{
+  "category": "Marketing",
+  "question": "To [BLANK] is to create a positive image of a brand in the minds of consumers.",
+  "answer": "brand | build | establish | create"
+},
+{
+  "category": "Marketing",
+  "question": "To [BLANK] is to collect data about consumers in order to understand their needs and wants.",
+  "answer": "research | market | study | analyze"
+},
+{
+  "category": "Marketing",
+  "question": "To [BLANK] is to develop a strategy for reaching a target audience.",
+  "answer": "develop | create | implement | execute"
+},
+{
+  "category": "Marketing",
+  "question": "To [BLANK] is to track the results of a marketing campaign.",
+  "answer": "measure | track | evaluate | assess"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a person who creates and implements marketing campaigns.",
+  "answer": "marketer | advertiser | promoter | publicist"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a plan for marketing a product or service.",
+  "answer": "strategy | campaign | plan | initiative"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a message that is designed to persuade consumers to buy a product or service.",
+  "answer": "advertisement | ad | message | copy"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a person who consumes goods and services.",
+  "answer": "consumer | customer | purchaser | buyer"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a group of consumers who share similar characteristics.",
+  "answer": "target audience | market | segment | group"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a plan for marketing a product or service.",
+  "answer": "strategy"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a series of coordinated marketing activities aimed at achieving a specific marketing goal.",
+  "answer": "campaign"
+},
+{
+  "category": "Marketing",
+  "question": "A [BLANK] is a detailed outline of the steps that will be taken to achieve a marketing goal.",
+  "answer": "plan"
+},
+{
+  "category": "Marketing",
+  "question": "An [BLANK] is a new or innovative approach to marketing that has the potential to disrupt the market.",
+  "answer": "initiative"
+},
+{
+  "category": "Marketing",
+  "question": "The [BLANK] of marketing is to create value for customers and build strong relationships with them.",
+  "answer": "goal"
+},
+{
+  "category": "Marketing",
+  "question": "The [BLANK] of marketing are the four Ps: product, price, place, and promotion.",
+  "answer": "elements"
+},
+{
+  "category": "Marketing",
+  "question": "The [BLANK] of marketing is the process of understanding the needs and wants of consumers.",
+  "answer": "research"
+},
+{
+  "category": "Marketing",
+  "question": "The [BLANK] of marketing is the process of creating a brand that is unique, memorable, and desirable.",
+  "answer": "development"
+},
+{
+  "category": "Marketing",
+  "question": "The [BLANK] of marketing is the process of measuring the effectiveness of marketing campaigns.",
+  "answer": "evaluation"
+},
+
 
 
 
@@ -1072,6 +1297,58 @@ const flashcards = [
 
 
 //
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a type of precipitation that falls as frozen water crystals.",
+  "answer": "snow"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a layer of ice that forms on the surface of roads or sidewalks.",
+  "answer": "black ice"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a strong wind that blows from the north.",
+  "answer": "blizzard"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a period of time when the temperature is very low.",
+  "answer": "cold snap"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a sudden drop in temperature.",
+  "answer": "freeze"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a white frost that forms on the ground or other surfaces.",
+  "answer": "hoar frost"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a thin layer of ice that forms on top of water.",
+  "answer": "ice skim"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a period of time when the temperature is below freezing.",
+  "answer": "frostbite"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a type of precipitation that falls as small, frozen particles.",
+  "answer": "sleet"
+},
+{
+  "category": "Adjectives:Weather",
+  "question": "A [BLANK] is a large, open area of land that is covered in snow.",
+  "answer": "snowfield"
+}
+
+
 { "category": 'Adjectives:Weather', "question": "'It's a [BLANK] day to be outside.'" , "answer": 'nice|sunny|great|terrific' },
 { "category": 'Adjectives:Weather', "question": "'The [BLANK] wind is whipping through the trees.'" , "answer": 'strong|gusty' },
 { "category": 'Adjectives:Weather', "question": "'I love the smell of the air after a [BLANK] rain.'" , "answer": 'refreshing' },
@@ -1084,8 +1361,8 @@ const flashcards = [
 { "category": "Adjectives:Weather", "question": "'The snow is so [BLANK] that I can't even see the ground.'" , "answer": 'deep' },
 { "category": "Adjectives:Weather", "question": "'It's so [BLANK] that I'm wearing two sweaters.'" , "answer": 'cold' },
 { "category": "Adjectives:Weather", "question": "'The sun is so [BLANK] that it's making my eyes water.'" , "answer": 'bright' },
-{ "category": "Adjectives:Weather", "question": "'The sky is so [BLANK] that it looks like it's going to rain.'" , "answer": 'overcast' },
-{ "category": "Adjectives:Weather", "question": "'The wind is so [BLANK] that it's making the trees sway.'" , "answer": 'gusty' },
+{ "category": "Adjectives:Weather", "question": "'The sky is so [BLANK] that it looks like it's going to rain.'" , "answer": 'grey|dark|overcast' },
+{ "category": "Adjectives:Weather", "question": "'The wind is so [BLANK] that it's making the trees sway.'" , "answer": 'gusty|strong' },
 { "category": "Adjectives:Weather", "question": "'The snow is so [BLANK] that it's making the roads slippery.'" , "answer": 'icy' },
 { "category": "Adjectives:Weather", "question": "'It's so [BLANK] that I'm going to stay inside.'" , "answer": 'rainy' },
 { "category": "Adjectives:Weather", "question": "'The sun is so [BLANK] that it's making the flowers bloom.'" , "answer": 'warm' },
@@ -1349,38 +1626,38 @@ const flashcards = [
 
 
 //
-{ category: 'Indefinite Pronouns', question: "Someone left [BLANK] phone in the conference room.", answer: "their" },
-    { category: 'Indefinite Pronouns', question: "Everybody needs [BLANK] to feel important.", answer: "someone" },
-    { category: 'Indefinite Pronouns', question: "Anyone can join the club, but [BLANK] has to follow the rules.", answer: "everyone" },
-    { category: 'Indefinite Pronouns', question: "I will bring snacks, but [BLANK] needs to bring their own drinks.", answer: "everyone" },
-    { category: 'Indefinite Pronouns', question: "[BLANK] knows that honesty is important in relationships.", answer: "Everyone" },
-    { category: 'Indefinite Pronouns', question: "In the lost and found box, there are somethings that [BLANK] forgot.", answer: "someone" },
-    { category: 'Indefinite Pronouns', question: "Nobody understood the joke, so [BLANK] laughed.", answer: "no one" },
+{ category: 'Pronouns:Indefinite', question: "Someone left [BLANK] phone in the conference room.", answer: "their" },
+    { category: 'Pronouns:Indefinite', question: "Everybody needs [BLANK] to feel important.", answer: "someone" },
+    { category: 'Pronouns:Indefinite', question: "Anyone can join the club, but [BLANK] has to follow the rules.", answer: "everyone" },
+    { category: 'Pronouns:Indefinite', question: "I will bring snacks, but [BLANK] needs to bring their own drinks.", answer: "everyone" },
+    { category: 'Pronouns:Indefinite', question: "[BLANK] knows that honesty is important in relationships.", answer: "Everyone" },
+    { category: 'Pronouns:Indefinite', question: "In the lost and found box, there are somethings that [BLANK] forgot.", answer: "someone" },
+    { category: 'Pronouns:Indefinite', question: "Nobody understood the joke, so [BLANK] laughed.", answer: "no one" },
 
     
-      { category: 'Indefinite Pronouns', question: "Can [BLANK] help me with this task?", answer: "anyone" },
-      { category: 'Indefinite Pronouns', question: "I haven't got [BLANK] to wear for the event.", answer: "anything" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] of the two options seems suitable for our needs.", answer: "Either" },
-      { category: 'Indefinite Pronouns', question: "There isn't [BLANK] milk left in the fridge.", answer: "much" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] received an invitation to the meeting.", answer: "Everyone" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] in the audience clapped after the performance.", answer: "Everybody" },
-      { category: 'Indefinite Pronouns', question: "She has [BLANK] to say about the new policy.", answer: "nothing" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] knows the truth about what happened.", answer: "No one" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] in the team is responsible for their own tasks.", answer: "Each" },
-      { category: 'Indefinite Pronouns', question: "We have [BLANK] time to finish the project.", answer: "enough" },
-      { category: 'Indefinite Pronouns', question: "I need to find [BLANK] else to help me with this.", answer: "someone" },
-      { category: 'Indefinite Pronouns', question: "There's [BLANK] important in this folder.", answer: "something" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] of the cakes were eaten at the party.", answer: "All" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] has borrowed my pen and not returned it.", answer: "Somebody" },
-      { category: 'Indefinite Pronouns', question: "We need [BLANK] more chairs for the meeting room.", answer: "a few" },
-      { category: 'Indefinite Pronouns', question: "There is [BLANK] sugar left in the jar.", answer: "little" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] of them knew the answer to the question.", answer: "Neither" },
-      { category: 'Indefinite Pronouns', question: "Is there [BLANK] in the office who can fix the printer?", answer: "anybody" },
-      { category: 'Indefinite Pronouns', question: "I offered her two options, but she didn't like [BLANK].", answer: "either" },
-      { category: 'Indefinite Pronouns', question: "There's [BLANK] in the rule book about this situation.", answer: "nothing" },
-      { category: 'Indefinite Pronouns', question: "[BLANK] must have taken my book; it's gone.", answer: "Somebody" },
-      { category: 'Indefinite Pronouns', question: "I don't think [BLANK] will be able to solve this problem.", answer: "anyone" },
-      { category: 'Indefinite Pronouns', question: "Can [BLANK] pass me the salt, please?", answer: "someone" },
+      { category: 'Pronouns:Indefinite', question: "Can [BLANK] help me with this task?", answer: "anyone" },
+      { category: 'Pronouns:Indefinite', question: "I haven't got [BLANK] to wear for the event.", answer: "anything" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] of the two options seems suitable for our needs.", answer: "Either" },
+      { category: 'Pronouns:Indefinite', question: "There isn't [BLANK] milk left in the fridge.", answer: "much" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] received an invitation to the meeting.", answer: "Everyone" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] in the audience clapped after the performance.", answer: "Everybody" },
+      { category: 'Pronouns:Indefinite', question: "She has [BLANK] to say about the new policy.", answer: "nothing" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] knows the truth about what happened.", answer: "No one" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] in the team is responsible for their own tasks.", answer: "Each" },
+      { category: 'Pronouns:Indefinite', question: "We have [BLANK] time to finish the project.", answer: "enough" },
+      { category: 'Pronouns:Indefinite', question: "I need to find [BLANK] else to help me with this.", answer: "someone" },
+      { category: 'Pronouns:Indefinite', question: "There's [BLANK] important in this folder.", answer: "something" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] of the cakes were eaten at the party.", answer: "All" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] has borrowed my pen and not returned it.", answer: "Somebody" },
+      { category: 'Pronouns:Indefinite', question: "We need [BLANK] more chairs for the meeting room.", answer: "a few" },
+      { category: 'Pronouns:Indefinite', question: "There is [BLANK] sugar left in the jar.", answer: "little" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] of them knew the answer to the question.", answer: "Neither" },
+      { category: 'Pronouns:Indefinite', question: "Is there [BLANK] in the office who can fix the printer?", answer: "anybody" },
+      { category: 'Pronouns:Indefinite', question: "I offered her two options, but she didn't like [BLANK].", answer: "either" },
+      { category: 'Pronouns:Indefinite', question: "There's [BLANK] in the rule book about this situation.", answer: "nothing" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] must have taken my book; it's gone.", answer: "Somebody" },
+      { category: 'Pronouns:Indefinite', question: "I don't think [BLANK] will be able to solve this problem.", answer: "anyone" },
+      { category: 'Pronouns:Indefinite', question: "Can [BLANK] pass me the salt, please?", answer: "someone" },
   
   
 
@@ -1415,11 +1692,11 @@ const flashcards = [
   { category: 'Quantifiers', question: "We've had [BLANK] success with our latest marketing campaign.", answer: "tremendous" },
   { category: 'Quantifiers', question: "There is [BLANK] information we need to review before making a decision.", answer: "a great deal of" },
   { category: 'Quantifiers', question: "In the workshop, there was [BLANK] participation from all departments.", answer: "active" },
-  { category: 'Quantifiers', question: "We've received [BLANK] responses to our customer satisfaction survey.", answer: "overwhelming" },
+  { category: 'Quantifiers', question: "We've received [BLANK] responses to our customer satisfaction survey.", answer: "no|a few|some| quite a few| an overwhelming number of" },
 
 { category: 'Quantifiers', question: "In the annual report, there is [BLANK] evidence of progress.", answer: "plenty of" },
   { category: 'Quantifiers', question: "During the meeting, we discussed [BLANK] strategies for improvement.", answer: "several of" },
-  { category: 'Quantifiers', question: "There are [BLANK] opportunities for advancement in this company.", answer: "many of" },
+  { category: 'Quantifiers', question: "There are [BLANK] opportunities for advancement in this company.", answer: "many|a few|some" },
   { category: 'Quantifiers', question: "Our team has [BLANK] experience in handling such projects.", answer: "a lot of|a little" },
   { category: 'Quantifiers', question: "We received [BLANK] feedback from the client on our recent work.", answer: "a number of" },
   { category: 'Quantifiers', question: "There is [BLANK] data to support our new marketing strategy.", answer: "plenty of" },
