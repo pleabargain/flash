@@ -1346,7 +1346,7 @@ const flashcards = [
   "category": "Adjectives:Weather",
   "question": "A [BLANK] is a large, open area of land that is covered in snow.",
   "answer": "snowfield"
-}
+},
 
 
 { "category": 'Adjectives:Weather', "question": "'It's a [BLANK] day to be outside.'" , "answer": 'nice|sunny|great|terrific' },
