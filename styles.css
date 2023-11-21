@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+#categorySelect, #flipButton, #nextButton, #flashcardDisplay, #historyLog {
+    margin: 10px 0;
+}
+
+#categorySelect {
+    width: 300px; /* Increased width */
+    padding: 20px; /* Increased padding */
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: white;
+    font-size: 16px; /* Larger font size for better visibility */
+    font-weight: bold; /* Bold font for clarity */
+}
+
+
+
+
+#flipButton, #nextButton {
+    width: 200px;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: white;
+    font-size: 16px; /* Larger font size for better visibility */
+    font-weight: bold; /* Bold font for clarity */
+}
+
+#flashcardDisplay {
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: white;
+    min-height: 150px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 24px; /* Very large text for the flashcard */
+}
+
+#historyLog {
+    width: 100%;
+    height: 150px;
+    border: 1px solid #ddd;
+    background-color: white;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 20px; /* Ensures it stays at the bottom */
+    overflow-y: auto; /* Adds a scrollbar if content overflows */
+}
+
+button {
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#flipButton, #nextButton {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+#flipButton:hover, #nextButton:hover {
+    background-color: #45a049;
+}
+
+#flashcardDisplay {
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    text-align: center;
+    font-size: 24px;
+}
+
+#historyLog {
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
