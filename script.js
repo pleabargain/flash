@@ -1440,27 +1440,27 @@ const flashcards = [
 
 //
 {
-  category: "phrasal verbs: work",
+  category: "Phrasal verbs: work",
   question: "What does 'follow up' imply in a business conversation?",
   answer: "'Follow up' means to continue or take additional actions related to a previous activity or discussion, like following up on a client's request."
 },
 {
-  category: "phrasal verbs: work",
+  category: "Phrasal verbs: work",
   question: "How is 'look into' used in a professional setting?",
   answer: "'Look into' means to investigate or research something more deeply, like looking into a customer complaint or a technical issue."
 },
 {
-  category: "phrasal verbs: work",
+  category: "Phrasal verbs: work",
   question: "Can you define 'sign off on' in a workplace?",
   answer: "'Sign off on' refers to giving formal approval or consent to something, such as signing off on a project plan or a budget."
 },
 {
-  category: "phrasal verbs: work",
+  category: "Phrasal verbs: work",
   question: "What does 'work out' mean in a business context?",
   answer: "'Work out' can mean to resolve a problem or to calculate something, like working out the details of a deal or working out a budget."
 },
 {
-  category: "phrasal verbs: work",
+  category: "Phrasal verbs: work",
   question: "How would 'touch base' be used in an office environment?",
   answer: "'Touch base' means to make brief contact with someone to discuss something or to get an update, such as touching base with a colleague about a project."
 },
@@ -2041,9 +2041,6 @@ const flashcards = [
   { category: 'Procurement Terms', question: "Explain 'Mechanics Lien'.", answer: "Payment protection for parties involved in improvement of real property, involving construction material or services." },
   { category: 'Procurement Terms', question: "Define 'Median'.", answer: "The mid-point in a list of numbers or occurrences." },
 
-
-
-
 { category: 'Procurement Terms', question: "A formal, written request for proposals from suppliers is known as a [BLANK].", answer: "Request for Proposal (RFP)" },
     { category: 'Procurement Terms', question: "A [BLANK] is a document used to invite bids for goods or services.", answer: "Request for Quotation (RFQ)" },
     { category: 'Procurement Terms', question: "The process of evaluating and choosing the most suitable supplier is known as [BLANK].", answer: "Supplier Selection" },
@@ -2065,10 +2062,292 @@ const flashcards = [
     { category: 'Procurement Terms', question: "Negotiating with a single source rather than opening the bid to competition is known as [BLANK].", answer: "Sole Sourcing" },
     { category: 'Procurement Terms', question: "A [BLANK] is a strategy to centralize purchasing decisions and reduce costs.", answer: "Strategic Sourcing" },
 
-
-
-
 //
+{
+  "category": "Transition words",
+  "question": "Additional comments or ideas: additionally",
+  "answer": "Each of the jockeys is additionally charged with passing on information for gain."
+},
+{
+  "category": "Transition words",
+  "question": "Additional comments or ideas: also",
+  "answer": "She is also accused of stealing from her mother-in-law."
+},
+// Additional comments or ideas
+{
+  "category": "Transition words",
+  "question": "Additional comments or ideas: moreover",
+  "answer": "The project is not only environmentally friendly; moreover, it helps reduce electricity costs."
+},
+{
+  "category": "Transition words",
+  "question": "Additional comments or ideas: furthermore",
+  "answer": "He has no experience in this field; furthermore, he lacks the necessary qualifications."
+},
+// ... more flashcards for each transition word/phrase in this category ...
+
+// Alternatives
+{
+  "category": "Transition words",
+  "question": "Alternatives: whereas",
+  "answer": "He enjoys reading, whereas his brother prefers watching movies."
+},
+// ... more flashcards for each transition word/phrase in this category ...
+
+// Analysing results
+{
+  "category": "Transition words",
+  "question": "Analysing results: therefore",
+  "answer": "The experiment failed to produce any conclusive results; therefore, further research is needed."
+},
+// ... more flashcards for each transition word/phrase in this category ...
+
+// Cause / Reason
+{
+  "category": "Transition words",
+  "question": "Cause / Reason: as a result of",
+  "answer": "As a result of the heavy snow, all flights were canceled."
+},
+{
+  "category": "Transition words",
+  "question": "Compare: compared with",
+  "answer": "Her performance this season is quite impressive, compared with last year's."
+},
+{
+  "category": "Transition words",
+  "question": "Compare: in the same way",
+  "answer": "In the same way that a chef uses recipes, a programmer uses algorithms."
+},
+{
+  "category": "Transition words",
+  "question": "Compare: likewise",
+  "answer": "He is respected for his integrity; likewise, his honesty is beyond reproach."
+},
+
+// Contrast
+{
+  "category": "Transition words",
+  "question": "Contrast: by contrast",
+  "answer": "The first novel was full of action; by contrast, the second was quite slow."
+},
+{
+  "category": "Transition words",
+  "question": "Contrast: although",
+  "answer": "Although it was raining, we decided to go hiking."
+},
+{
+  "category": "Transition words",
+  "question": "Contrast: conversely",
+  "answer": "He prefers classical music; conversely, his sister loves rock music."
+},
+
+// Effect / Result
+{
+  "category": "Transition words",
+  "question": "Effect / Result: As a result",
+  "answer": "She studied hard for the exams; as a result, she passed with flying colors."
+},
+{
+  "category": "Transition words",
+  "question": "Effect / Result: therefore",
+  "answer": "The roads were icy; therefore, the school decided to close for the day."
+},
+{
+  "category": "Transition words",
+  "question": "Effect / Result: thus",
+  "answer": "He failed to submit his report on time; thus, he was not considered for the promotion."
+},
+
+// Emphasising earlier statements
+{
+  "category": "Transition words",
+  "question": "Emphasising: however",
+  "answer": "The journey was difficult; however, they never lost hope."
+},
+// ... more flashcards for each transition word/phrase in this category ...
+
+// Introducing examples
+{
+  "category": "Transition words",
+  "question": "Examples: for example",
+  "answer": "There are many ways to reduce your carbon footprint; for example, using public transportation."
+},
+
+{
+  "category": "Transition words",
+  "question": "Clarifying: in other words",
+  "answer": "We need to optimize the workflow, in other words, make the process more efficient."
+},
+{
+  "category": "Transition words",
+  "question": "Clarifying: that is to say",
+  "answer": "The project deadline is non-negotiable, that is to say, it must be completed on time."
+},
+{
+  "category": "Transition words",
+  "question": "Clarifying: namely",
+  "answer": "We have to focus on our core competencies, namely, innovation and customer service."
+},
+
+// Indicating Time
+{
+  "category": "Transition words",
+  "question": "Time: subsequently",
+  "answer": "The team had a meeting; subsequently, they started working on the project plan."
+},
+{
+  "category": "Transition words",
+  "question": "Time: previously",
+  "answer": "Previously, we focused on market research; now we're moving to product development."
+},
+{
+  "category": "Transition words",
+  "question": "Time: meanwhile",
+  "answer": "The software team is working on the new release; meanwhile, the marketing team is preparing the launch campaign."
+},
+
+// Indicating Addition
+{
+  "category": "Transition words",
+  "question": "Addition: moreover",
+  "answer": "This strategy will increase revenue; moreover, it will improve customer satisfaction."
+},
+{
+  "category": "Transition words",
+  "question": "Addition: furthermore",
+  "answer": "He's a great team player; furthermore, his expertise in analytics is invaluable."
+},
+{
+  "category": "Transition words",
+  "question": "Addition: in addition",
+  "answer": "In addition to her managerial skills, she is also fluent in three languages."
+},
+
+// Providing Examples
+{
+  "category": "Transition words",
+  "question": "Examples: for instance",
+  "answer": "Some tasks require immediate attention, for instance, client complaints."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: such as",
+  "answer": "There are several strategies we can employ, such as diversification and market penetration."
+},
+
+// Indicating Contrast
+{
+  "category": "Transition words",
+  "question": "Contrast: however",
+  "answer": "The proposal was well-prepared; however, it did not meet all the client's requirements."
+},
+{
+  "category": "Transition words",
+  "question": "Contrast: on the other hand",
+  "answer": "The product is expensive; on the other hand, its quality is unmatched."
+},
+{
+  "category": "Transition words",
+  "question": "Contrast: despite this",
+  "answer": "Despite this setback, the team remains optimistic about the project's future."
+},
+
+// Summarizing or Concluding
+{
+  "category": "Transition words",
+  "question": "Summary: in summary",
+  "answer": "In summary, the quarter's results exceeded our expectations."
+},
+{
+  "category": "Transition words",
+  "question": "Conclusion: in conclusion",
+  "answer": "In conclusion, implementing these changes will greatly benefit our workflow."
+},
+
+
+// Re-phrasing
+{
+  "category": "Transition words",
+  "question": "Re-phrasing: in other terms",
+  "answer": "She's not happy with the decision; in other terms, she's quite upset about it."
+},
+// ... more flashcards for each transition word/phrase in this category ...
+
+// Sequencing
+
+// ... more flashcards for each transition word/phrase in this category ...
+
+// Summary or Conclusion
+{
+  "category": "Transition words",
+  "question": "Conclusion: in conclusion",
+  "answer": "In conclusion, the evidence clearly supports our hypothesis."
+},
+
+{
+  "category": "Transition words",
+  "question": "Summary: to summarise",
+  "answer": "To summarise, the three main points discussed are environment, economy, and culture."
+},
+{
+  "category": "Transition words",
+  "question": "Conclusion: hence",
+  "answer": "The experiment did not follow the proper protocols; hence, the results are unreliable."
+},
+{
+  "category": "Transition words",
+  "question": "Conclusion: altogether",
+  "answer": "Altogether, these improvements have significantly increased the efficiency of the process."
+},
+
+// Introducing Examples
+{
+  "category": "Transition words",
+  "question": "Examples: for instance",
+  "answer": "Several factors contributed to the change, for instance, technological advancements."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: such as",
+  "answer": "He has expertise in many areas, such as computing, mathematics, and engineering."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: namely",
+  "answer": "She excels in several sports, namely, swimming, running, and cycling."
+},
+
+// Emphasising Earlier Statements
+{
+  "category": "Transition words",
+  "question": "Emphasising: nonetheless",
+  "answer": "The weather was terrible; nonetheless, we had a great time at the beach."
+},
+{
+  "category": "Transition words",
+  "question": "Emphasising: notwithstanding",
+  "answer": "Notwithstanding his lack of experience, he handled the situation very well."
+},
+{
+  "category": "Transition words",
+  "question": "Emphasising: in spite of",
+  "answer": "In spite of the difficulties, they managed to finish the project on time."
+},
+
+// Sequencing
+
+{
+  "category": "Transition words",
+  "question": "Sequencing: finally",
+  "answer": "We discussed several important topics in the meeting; finally, we addressed the issue of funding."
+},
+{
+  "category": "Transition words",
+  "question": "Sequencing: subsequently",
+  "answer": "He completed his degree and subsequently started his own business."
+},
+////////////////////////////////  "category": "Adjectives:Weather",
+
 {
   "category": "Adjectives:Weather",
   "question": "A [BLANK] is a type of precipitation that falls as frozen water crystals.",
