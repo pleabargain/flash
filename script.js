@@ -1,8 +1,21 @@
 // Sample flashcard data
 const flashcards = [
-    { category: 'Math', question: "Welcome to Dennis Daniels' English Lesson!", answer: '4' },
-    { category: 'Science', question: 'Water formula', answer: 'H2O' },
-    { category: 'Prepositions', question: 'The book is [BLANK] the table.', answer: 'on|under|near' },
+{ category: 'Math', question: "Welcome to Dennis Daniels' English Lesson!", answer: '4' },
+{ category: 'Science', question: 'Water formula', answer: 'H2O' },
+{ category: 'Prepositions', question: 'The book is [BLANK] the table.', answer: 'on|under|near' },
+
+{ category: 'Prepositions', question: 'I got an email [BLANK] our client.', answer: 'from' },
+
+{ category: 'Prepositions', question: 'I received a gift [BLANK] my friend.', answer: 'from' },
+{ category: 'Prepositions', question: 'The message is coming [BLANK] the headquarters.', answer: 'from' },
+{ category: 'Prepositions', question: 'She will travel [BLANK] Paris to Rome.', answer: 'from' },
+{ category: 'Prepositions', question: 'This technique is different [BLANK] the one we used before.', answer: 'from' },
+{ category: 'Prepositions', question: 'I borrowed the book [BLANK] the library.', answer: 'from' },
+{ category: 'Prepositions', question: 'He is [BLANK] a small town in Spain.', answer: 'from' },
+{ category: 'Prepositions', question: 'The plane departed [BLANK] New York.', answer: 'from' },
+{ category: 'Prepositions', question: 'They escaped [BLANK] the room through the window.', answer: 'from' },
+{ category: 'Prepositions', question: 'She learned Spanish [BLANK] her mother.', answer: 'from' },
+{ category: 'Prepositions', question: 'The idea originated [BLANK] an old legend.', answer: 'from' },
 { category: 'Prepositions', question: 'I know her [BLANK] her name.', answer: 'by' },
 { category: 'Prepositions', question: 'I am [BLANK] the store.', answer: 'in|at|near|close to' },
 { category: 'Prepositions', question: 'I will be there [BLANK] 5 minutes.', answer: 'in|for' },
@@ -17,9 +30,7 @@ const flashcards = [
 { category: 'Prepositions', question: "I got a gift [BLANK] my friend.", answer: "for|from" },
 { category: 'Prepositions', question: "I'm afraid [BLANK] heights.", answer: "of" },
 { category: 'Prepositions', question: "I'm good [BLANK] math.", answer: "at" },
-{ category: 'Prepositions', question: "I'm thinking [BLANK] going to the beach.", answer: "about" },
-{ category: 'Prepositions', question: "I'm thinking [BLANK] going to the store.", answer: "about" },
-
+{ category: 'Prepositions', question: "I'm thinking [BLANK] going to the store|beach|park.", answer: "about" },
 { category: 'Prepositions', question: "I'm tired [BLANK] work.", answer: "of" },
 { category: 'Prepositions', question: "I'm waiting [BLANK] my friend.", answer: "for|next to" },
 { category: 'Prepositions', question: "I'm worried [BLANK] my exam.", answer: "about" },
@@ -28,7 +39,7 @@ const flashcards = [
 //
 {
     "category": "Christmas",
-    "question": "'The [Christmas tree|scented candle] is so [BLANK] that it fills the whole room with a festive smell.'",
+    "question": "'The [Christmas tree|scented candle|essential oil] is so [BLANK] that it fills the whole room with a festive smell.'",
     "answer": "fragrant"
     },
     {
@@ -523,7 +534,248 @@ const flashcards = [
   
   //     { category: 'Idioms', question: "Bite the bullet", answer: "To endure a painful or otherwise unpleasant situation that is seen as unavoidable." },
 
+  {
+    "category": "idioms",
+    "question": "Bargain hunting: If you spend time in the shops looking for items to buy at the lowest price, you go bargain hunting.",
+    "answer": "During the sales I go bargain hunting with my friends!"
+  },
+  {
+    "category": "idioms",
+    "question": "Be your one-stop shop: Your one-stop shop is a location at which you can buy everything you need or want.",
+    "answer": "The ‘Shopping Empire' is my one-stop shop for buying Christmas presents."
+  },
+  {
+    "category": "idioms",
+    "question": "Break the bank: The expression break the bank means to spend or lose all your money, or to buy something that costs more than you can afford.",
+    "answer": "Come on! Buying a new dress is not going to break the bank!"
+  },
+  {
+    "category": "idioms",
+    "question": "It's a bargain: Said when an article is well below the usual price.",
+    "answer": "That handbag goes beautifully with the dress, and at that price it's a bargain!"
+  },
+  {
+    "category": "idioms",
+    "question": "Buy a lemon: If buy something, especially a car, that is defective, unsatisfactory, constantly gives trouble or stops running after a short time, you buy a lemon.",
+    "answer": "The car I bought was a real lemon. It broke down two weeks later."
+  },
+  {
+    "category": "idioms",
+    "question": "Hit the shops: If a product hits the shops, it becomes available for purchase for the first time.",
+    "answer": "Her latest album will hit the shops next Monday."
+  },
+  {
+    "category": "idioms",
+    "question": "I can't afford it: If you can't afford something you don't have enough money to buy it.",
+    "answer": "I'd love that jacket but I can't afford it!"
+  },
+  {
+    "category": "idioms",
+    "question": "It costs an arm and a leg: If an article or service costs an arm and a leg, it is very expensive indeed.",
+    "answer": "The diamond engagement ring cost an arm and a leg!"
+  },
+  {
+    "category": "idioms",
+    "question": "It costs a fortune: Something that costs a fortune is very expensive.",
+    "answer": "Look at the price of that bag - it costs a fortune!"
+  },
+  {
+    "category": "idioms",
+    "question": "It's a steal: The expression 'it's a steal' means that something is so cheap that it's almost as if you haven't paid anything for it.",
+    "answer": "At that price it's a steal. You won't find it cheaper in any other shop."
+  },
+  {
+    "category": "idioms",
+    "question": "It's good value for money: Something that is good value for money is worth the money spent on it.",
+    "answer": "The quality is excellent so it's good value for money."
+  },
+  {
+    "category": "idioms",
+    "question": "It's a bit pricey: The expression a bit pricey means that something is a bit expensive.",
+    "answer": "Their clothes are a bit pricey but they have a wonderful selection"
+  },
+  {
+    "category": "idioms",
+    "question": "It's a rip-off: Something that costs much more than it should is called a rip-off.",
+    "answer": "$10 for an orange juice? That's a rip-off!"
+  },
+  {
+    "category": "idioms",
+    "question": "Pay through the nose: If you pay through the nose, you pay an unreasonably high price or an excessive amount of money for something.",
+    "answer": "Amanda has expensive taste. Sam had to pay through the nose for the bracelet she chose."
+  },
+  {
+    "category": "idioms",
+    "question": "A pound shop (primarily heard in the UK): A shop where goods are sold at a low price, usually for a pound or less, is called a pound shop.",
+    "answer": "Let's go to the pound shop. We'll find something cheaper there."
+  },
+  {
+    "category": "idioms",
+    "question": "Shop around: If you shop around, you visit a number of shops selling similar articles in order to compare the prices.",
+    "answer": "You can usually save money by shopping around."
+  },
+  {
+    "category": "idioms",
+    "question": "Shop till you drop: If you shop till you drop, you go shopping for a very long time, until you are exhausted.",
+    "answer": "If you go to London with Ashley, you'll shop till you drop, so take comfortable shoes!"
+  },
+  {
+    "category": "idioms",
+    "question": "Shopper's paradise: A place where a large selection of items are available for sale is called a shopper's paradise by people who love shopping.",
+    "answer": "The new mall is real shopper's paradise. I could spend the day there!"
+  },
+  {
+    "category": "idioms",
+    "question": "Shopping spree: If you go on a shopping spree, you enjoy a lively outing, usually with much spending of money.",
+    "answer": "Liza is planning to go on a shopping spree as soon as she gets her bonus."
+  },
+  {
+    "category": "idioms",
+    "question": "Shopping therapy: The term shopping therapy refers to the idea that buying things can make you feel better.",
+    "answer": "A little shopping therapy can usually cheer up bored teenagers."
+  },
+  {
+    "category": "idioms",
+    "question": "Splash out: If you splash out on something, you buy it even though it costs a lot of money.",
+    "answer": "When he got a promotion Andy splashed out on a brand new car."
+  },
+  {
+    "category": "idioms",
+    "question": "Window shopping: When people go window shopping, they look at things in shop windows, without actually purchasing anything.",
+    "answer": "I haven't been paid yet, so I can only go window shopping."
+  },
 
+
+  {
+    "category": "idioms",
+    "question": "Pull one's leg: Meaning: To lie.",
+    "answer": "That doesn't sound right. Are you pulling my leg?"
+},
+{
+    "category": "idioms",
+    "question": "Spill the beans: Meaning: To tell a secret.",
+    "answer": "I already know you did it. Your best friend spilled the beans."
+},
+{
+    "category": "idioms",
+    "question": "Sit on the fence: Meaning: To be undecided.",
+    "answer": "I'm still sitting on the fence about whether I'm going to buy that car."
+},
+{
+    "category": "idioms",
+    "question": "Don't cry over spilled milk/ No use in crying over spilled milk: Meaning: What has already happened cannot be undone so you shouldn't cry but you should think of what to do going forward.",
+    "answer": "I know it wasn't your fault but there's no use in crying over spilled milk. Think of what you're going to do next."
+},
+{
+    "category": "idioms",
+    "question": "Fair and square: Meaning: To do things in a fair way with no advantages given to either side.",
+    "answer": "No do-overs. I won fair and square."
+},
+{
+    "category": "idioms",
+    "question": "Straight from the horse's mouth: Meaning: To hear information directly from the person involved.",
+    "answer": "I already know the truth. I heard straight from the horse's mouth."
+},
+{
+    "category": "idioms",
+    "question": "Bigger fish to fry: Meaning: There is something more important to take care of.",
+    "answer": "I can't think about that right now. I have bigger fish to fry."
+},
+// ... [Continue adding the rest in the same format]
+{
+    "category": "idioms",
+    "question": "Right as rain: Meaning: There is nothing that can be improved.",
+    "answer": "The dish was right as rain. I wouldn't change a thing about it."
+},
+
+
+
+  {
+    "category": "idioms",
+    "question": "Back against the wall: Meaning: Forced to do something that you would rather not.",
+    "answer": "I really don't want to do this but my back is against the wall."
+},
+{
+    "category": "idioms",
+    "question": "Bite the bullet: Meaning: Doing something you don't want to but also expressing that you're making a proactive choice.",
+    "answer": "I'm going to go ahead and bite the bullet rather than waiting around."
+},
+{
+    "category": "idioms",
+    "question": "Wrap one's head around something: Meaning: To understand something that may take a bit of time and effort.",
+    "answer": "That's really complicated. It's going to take a moment to wrap my head around that."
+},
+{
+    "category": "idioms",
+    "question": "Under the weather: Meaning: Sick. Typically used to describe minor illnesses like a cold.",
+    "answer": "Sorry I'm feeling a bit under the weather and won't be able to come in today."
+},
+{
+    "category": "idioms",
+    "question": "Better late than never: Meaning: Describes things that are better done than not, even if it takes a long time.",
+    "answer": "I went back to college at 30 years old and figured better late than never."
+},
+{
+    "category": "idioms",
+    "question": "Cut corners: Meaning: To skip steps or not do things completely.",
+    "answer": "This is an important project so don't cut any corners on this one."
+},
+{
+    "category": "idioms",
+    "question": "Get out of hand: Meaning: When a situation gets out of control.",
+    "answer": "I meant to just have a small party but too many people came and it quickly got out of hand."
+},
+// ... [Include other idioms in the same format]
+{
+    "category": "idioms",
+    "question": "Throw caution to the wind: Meaning: To stop thinking about something and take the risk.",
+    "answer": "My parents told me not to put all my eggs in one basket but I decided to throw caution to the wind and be a full-time artist."
+},
+{
+    "category": "idioms",
+    "question": "Look before you leap: Meaning: To think before you do something.",
+    "answer": "The opportunity to move to another country is really exciting but I want you to look before you leap."
+},
+{
+    "category": "idioms",
+    "question": "Jump on the bandwagon: Meaning: To follow a trend or not to do something until it's popular.",
+    "answer": "She didn't care about K-pop before but now that it's popular, she's jumped on the bandwagon."
+},
+{
+    "category": "idioms",
+    "question": "Pour one's heart out: Meaning: To tell or confess something emotional.",
+    "answer": "I don't like soap operas. They're so unrealistic with the way everyone pours their heart out about everything."
+},
+{
+    "category": "idioms",
+    "question": "Right as rain: Meaning: There is nothing that can be improved.",
+    "answer": "The dish was right as rain. I wouldn't change a thing about it."
+},
+
+
+    {
+      "category": "idioms",
+      "question": "Break the ice: Meaning: To get the conversation going. Provide a conversation prompt",
+      "answer": "Starting class with a joke or subjects students like will help to break the ice."
+    },
+    {
+      "category": "idioms",
+      "question": "A dime a dozen: Meaning: Very common; quite ordinary",
+      "answer": "I thought it was something special but it turns out they're a dime a dozen."
+    },
+    {
+      "category": "idioms",
+      "question": "Beat around the bush: Meaning: To avoid saying something",
+      "answer": "Don't beat around the bush. Just tell me what happened."
+    },
+    // ... [Include other idioms in the same format]
+    {
+      "category": "idioms",
+      "question": "Pull one's leg: Meaning: To lie.",
+      "answer": "That doesn't sound right. Are you pulling my leg?"
+    },
+ 
+  
 
   { 
     category: 'Idioms', 
@@ -1491,7 +1743,6 @@ const flashcards = [
   "question": "The legal team will _____ the contract details thoroughly.",
   "answer": "Go through"
 },
-// ... continue adding more flashcards in the same format
 
 
 {
