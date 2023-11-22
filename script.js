@@ -535,155 +535,155 @@ const flashcards = [
   //     { category: 'Idioms', question: "Bite the bullet", answer: "To endure a painful or otherwise unpleasant situation that is seen as unavoidable." },
 
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Bargain hunting: If you spend time in the shops looking for items to buy at the lowest price, you go bargain hunting.",
     "answer": "During the sales I go bargain hunting with my friends!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Be your one-stop shop: Your one-stop shop is a location at which you can buy everything you need or want.",
     "answer": "The ‘Shopping Empire' is my one-stop shop for buying Christmas presents."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Break the bank: The expression break the bank means to spend or lose all your money, or to buy something that costs more than you can afford.",
     "answer": "Come on! Buying a new dress is not going to break the bank!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "It's a bargain: Said when an article is well below the usual price.",
     "answer": "That handbag goes beautifully with the dress, and at that price it's a bargain!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Buy a lemon: If buy something, especially a car, that is defective, unsatisfactory, constantly gives trouble or stops running after a short time, you buy a lemon.",
     "answer": "The car I bought was a real lemon. It broke down two weeks later."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Hit the shops: If a product hits the shops, it becomes available for purchase for the first time.",
     "answer": "Her latest album will hit the shops next Monday."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "I can't afford it: If you can't afford something you don't have enough money to buy it.",
     "answer": "I'd love that jacket but I can't afford it!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "It costs an arm and a leg: If an article or service costs an arm and a leg, it is very expensive indeed.",
     "answer": "The diamond engagement ring cost an arm and a leg!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "It costs a fortune: Something that costs a fortune is very expensive.",
     "answer": "Look at the price of that bag - it costs a fortune!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "It's a steal: The expression 'it's a steal' means that something is so cheap that it's almost as if you haven't paid anything for it.",
     "answer": "At that price it's a steal. You won't find it cheaper in any other shop."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "It's good value for money: Something that is good value for money is worth the money spent on it.",
     "answer": "The quality is excellent so it's good value for money."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "It's a bit pricey: The expression a bit pricey means that something is a bit expensive.",
     "answer": "Their clothes are a bit pricey but they have a wonderful selection"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "It's a rip-off: Something that costs much more than it should is called a rip-off.",
     "answer": "$10 for an orange juice? That's a rip-off!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Pay through the nose: If you pay through the nose, you pay an unreasonably high price or an excessive amount of money for something.",
     "answer": "Amanda has expensive taste. Sam had to pay through the nose for the bracelet she chose."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "A pound shop (primarily heard in the UK): A shop where goods are sold at a low price, usually for a pound or less, is called a pound shop.",
     "answer": "Let's go to the pound shop. We'll find something cheaper there."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Shop around: If you shop around, you visit a number of shops selling similar articles in order to compare the prices.",
     "answer": "You can usually save money by shopping around."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Shop till you drop: If you shop till you drop, you go shopping for a very long time, until you are exhausted.",
     "answer": "If you go to London with Ashley, you'll shop till you drop, so take comfortable shoes!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Shopper's paradise: A place where a large selection of items are available for sale is called a shopper's paradise by people who love shopping.",
     "answer": "The new mall is real shopper's paradise. I could spend the day there!"
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Shopping spree: If you go on a shopping spree, you enjoy a lively outing, usually with much spending of money.",
     "answer": "Liza is planning to go on a shopping spree as soon as she gets her bonus."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Shopping therapy: The term shopping therapy refers to the idea that buying things can make you feel better.",
     "answer": "A little shopping therapy can usually cheer up bored teenagers."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Splash out: If you splash out on something, you buy it even though it costs a lot of money.",
     "answer": "When he got a promotion Andy splashed out on a brand new car."
   },
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Window shopping: When people go window shopping, they look at things in shop windows, without actually purchasing anything.",
     "answer": "I haven't been paid yet, so I can only go window shopping."
   },
 
 
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Pull one's leg: Meaning: To lie.",
     "answer": "That doesn't sound right. Are you pulling my leg?"
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Spill the beans: Meaning: To tell a secret.",
     "answer": "I already know you did it. Your best friend spilled the beans."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Sit on the fence: Meaning: To be undecided.",
     "answer": "I'm still sitting on the fence about whether I'm going to buy that car."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Don't cry over spilled milk/ No use in crying over spilled milk: Meaning: What has already happened cannot be undone so you shouldn't cry but you should think of what to do going forward.",
     "answer": "I know it wasn't your fault but there's no use in crying over spilled milk. Think of what you're going to do next."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Fair and square: Meaning: To do things in a fair way with no advantages given to either side.",
     "answer": "No do-overs. I won fair and square."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Straight from the horse's mouth: Meaning: To hear information directly from the person involved.",
     "answer": "I already know the truth. I heard straight from the horse's mouth."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Bigger fish to fry: Meaning: There is something more important to take care of.",
     "answer": "I can't think about that right now. I have bigger fish to fry."
 },
 // ... [Continue adding the rest in the same format]
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Right as rain: Meaning: There is nothing that can be improved.",
     "answer": "The dish was right as rain. I wouldn't change a thing about it."
 },
@@ -691,86 +691,86 @@ const flashcards = [
 
 
   {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Back against the wall: Meaning: Forced to do something that you would rather not.",
     "answer": "I really don't want to do this but my back is against the wall."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Bite the bullet: Meaning: Doing something you don't want to but also expressing that you're making a proactive choice.",
     "answer": "I'm going to go ahead and bite the bullet rather than waiting around."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Wrap one's head around something: Meaning: To understand something that may take a bit of time and effort.",
     "answer": "That's really complicated. It's going to take a moment to wrap my head around that."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Under the weather: Meaning: Sick. Typically used to describe minor illnesses like a cold.",
     "answer": "Sorry I'm feeling a bit under the weather and won't be able to come in today."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Better late than never: Meaning: Describes things that are better done than not, even if it takes a long time.",
     "answer": "I went back to college at 30 years old and figured better late than never."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Cut corners: Meaning: To skip steps or not do things completely.",
     "answer": "This is an important project so don't cut any corners on this one."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Get out of hand: Meaning: When a situation gets out of control.",
     "answer": "I meant to just have a small party but too many people came and it quickly got out of hand."
 },
-// ... [Include other idioms in the same format]
+// ... [Include other Idioms in the same format]
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Throw caution to the wind: Meaning: To stop thinking about something and take the risk.",
     "answer": "My parents told me not to put all my eggs in one basket but I decided to throw caution to the wind and be a full-time artist."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Look before you leap: Meaning: To think before you do something.",
     "answer": "The opportunity to move to another country is really exciting but I want you to look before you leap."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Jump on the bandwagon: Meaning: To follow a trend or not to do something until it's popular.",
     "answer": "She didn't care about K-pop before but now that it's popular, she's jumped on the bandwagon."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Pour one's heart out: Meaning: To tell or confess something emotional.",
     "answer": "I don't like soap operas. They're so unrealistic with the way everyone pours their heart out about everything."
 },
 {
-    "category": "idioms",
+    "category": "Idioms",
     "question": "Right as rain: Meaning: There is nothing that can be improved.",
     "answer": "The dish was right as rain. I wouldn't change a thing about it."
 },
 
 
     {
-      "category": "idioms",
+      "category": "Idioms",
       "question": "Break the ice: Meaning: To get the conversation going. Provide a conversation prompt",
       "answer": "Starting class with a joke or subjects students like will help to break the ice."
     },
     {
-      "category": "idioms",
+      "category": "Idioms",
       "question": "A dime a dozen: Meaning: Very common; quite ordinary",
       "answer": "I thought it was something special but it turns out they're a dime a dozen."
     },
     {
-      "category": "idioms",
+      "category": "Idioms",
       "question": "Beat around the bush: Meaning: To avoid saying something",
       "answer": "Don't beat around the bush. Just tell me what happened."
     },
-    // ... [Include other idioms in the same format]
+    // ... [Include other Idioms in the same format]
     {
-      "category": "idioms",
+      "category": "Idioms",
       "question": "Pull one's leg: Meaning: To lie.",
       "answer": "That doesn't sound right. Are you pulling my leg?"
     },
@@ -1866,15 +1866,155 @@ const flashcards = [
 { category: 'Interjections', question: "Eww! That food looks [BLANK]!", answer: "\"gross|terrible\"" },
 { category: 'Interjections', question: "Phew! That was a [BLANK] call!", answer: "\"close\"" },
 { category: 'Interjections', question: "Yeehaw! I'm finally [BLANK]!", answer: "\"free|done|finished|rich\"" },
+//Common phrases
+{ "category": "Common phrases", "question": "Be careful.", "answer": "Be careful driving." },
+  { "category": "Common phrases", "question": "Can you translate this for me?", "answer": "Can you translate this sentence for me?" },
+  { "category": "Common phrases", "question": "Chicago is very different from Boston.", "answer": "Indeed, Chicago's culture is very different from Boston's." },
+  { "category": "Common phrases", "question": "Don't worry.", "answer": "Don't worry, everything will be fine." },
+  { "category": "Common phrases", "question": "Everyone knows it.", "answer": "Everyone knows it's true." },
+  { "category": "Common phrases", "question": "Everything is ready.", "answer": "Everything is ready for the party." },
+  { "category": "Common phrases", "question": "Excellent.", "answer": "That's an excellent idea." },
+  { "category": "Common phrases", "question": "From time to time.", "answer": "I visit that place from time to time." },
+  { "category": "Common phrases", "question": "Good idea.", "answer": "That's a good idea for the project." },
+  { "category": "Common phrases", "question": "He likes it very much.", "answer": "He likes the gift very much." },
+  { "category": "Common phrases", "question": "Help!", "answer": "Help! I need assistance." },
+  { "category": "Common phrases", "question": "He's coming soon.", "answer": "He's coming soon, so we should get ready." },
+  { "category": "Common phrases", "question": "He's right.", "answer": "He's right about the solution." },
+  { "category": "Common phrases", "question": "He's very annoying.", "answer": "He's very annoying when he's loud." },
+  { "category": "Common phrases", "question": "He's very famous.", "answer": "He's very famous in the film industry." },
+  { "category": "Common phrases", "question": "How are you?", "answer": "How are you feeling today?" },
+  { "category": "Common phrases", "question": "How's work going?", "answer": "How's work going this week?" },
+  { "category": "Common phrases", "question": "Hurry!", "answer": "Hurry! We're going to be late." },
+  { "category": "Common phrases", "question": "I ate already.", "answer": "I ate already, so I'm not hungry." },
+  { "category": "Common phrases", "question": "I can't hear you.", "answer": "I can't hear you, can you speak louder?" },
+  { "category": "Common phrases", "question": "I'd like to go for a walk.", "answer": "I'd like to go for a walk in the park." },
+  { "category": "Common phrases", "question": "I don't know how to use it.", "answer": "I don't know how to use this device." },
+  { "category": "Common phrases", "question": "I don't like him.", "answer": "I don't like him because he's rude." },
+  { "category": "Common phrases", "question": "I don't like it.", "answer": "I don't like it when it rains." },
+  { "category": "Common phrases", "question": "I don't speak very well.", "answer": "I don't speak French very well." },
+  { "category": "Common phrases", "question": "I don't understand.", "answer": "I don't understand the instructions." },
+  { "category": "Common phrases", "question": "I don't want it.", "answer": "I don't want it, you can have it." },
+  { "category": "Common phrases", "question": "I don't want that.", "answer": "I don't want that, I prefer something else." },
+  { "category": "Common phrases", "question": "I don't want to bother you.", "answer": "I don't want to bother you, but I need help." },
+  { "category": "Common phrases", "question": "I feel good.", "answer": "I feel good after the workout." },
+  { "category": "Common phrases", "question": "If you need my help, please let me know.", "answer": "If you need my help with the project, please let me know." },
+  { "category": "Common phrases", "question": "I get off of work at 6.", "answer": "I get off of work at 6, so I'll call you then." },
+  { "category": "Common phrases", "question": "I have a headache.", "answer": "I have a headache, I might take a break." },
+  { "category": "Common phrases", "question": "I hope you and your wife have a nice trip.", "answer": "I hope you and your wife have a nice trip to Italy." },
+  { "category": "Common phrases", "question": "I know.", "answer": "I know, I've heard about it before." },
+  { "category": "Common phrases", "question": "I like her.", "answer": "I like her, she's very kind." },
+  { "category": "Common phrases", "question": "I'll call you when I leave.", "answer": "I'll call you when I leave the office." },
+  { "category": "Common phrases", "question": "I'll come back later.", "answer": "I'll come back later to pick up the documents." },
+  { "category": "Common phrases", "question": "I'll pay.", "answer": "I'll pay for dinner tonight." },
+  { "category": "Common phrases", "question": "I'll take it.", "answer": "I'll take it, it seems like a good deal." },
+  { "category": "Common phrases", "question": "I'll take you to the bus stop.", "answer": "I'll take you to the bus stop on my way to work." },
+  { "category": "Common phrases", "question": "I lost my watch.", "answer": "I lost my watch, have you seen it?" },
+  { "category": "Common phrases", "question": "I love you.", "answer": "I love you more than anything." },
+  { "category": "Common phrases", "question": "I'm an American.", "answer": "I'm an American, I was born in New York." },
+
+  { "category": "Common phrases", "question": "I'm cleaning my room.", "answer": "I'm cleaning my room before my guests arrive." },
+  { "category": "Common phrases", "question": "I'm cold.", "answer": "I'm cold, I need to get a jacket." },
+  { "category": "Common phrases", "question": "I'm coming to pick you up.", "answer": "I'm coming to pick you up in ten minutes." },
+  { "category": "Common phrases", "question": "I'm going to leave.", "answer": "I'm going to leave the party early." },
+  { "category": "Common phrases", "question": "I'm good, and you?", "answer": "I'm good, and you? How's your day going?" },
+  { "category": "Common phrases", "question": "I'm happy.", "answer": "I'm happy to hear your good news." },
+  { "category": "Common phrases", "question": "I'm hungry.", "answer": "I'm hungry, let's go grab some lunch." },
+  { "category": "Common phrases", "question": "I'm married.", "answer": "I'm married, I have two children." },
+  { "category": "Common phrases", "question": "I'm not busy.", "answer": "I'm not busy, I can help you now." },
+  { "category": "Common phrases", "question": "I'm not married.", "answer": "I'm not married, I'm still single." },
+  { "category": "Common phrases", "question": "I'm not ready yet.", "answer": "I'm not ready yet, give me a few more minutes." },
+  { "category": "Common phrases", "question": "I'm not sure.", "answer": "I'm not sure, I need to think about it." },
+  { "category": "Common phrases", "question": "I'm sorry, we're sold out.", "answer": "I'm sorry, we're sold out of that item." },
+  { "category": "Common phrases", "question": "I'm thirsty.", "answer": "I'm thirsty, could I have a glass of water?" },
+  { "category": "Common phrases", "question": "I'm very busy. I don't have time now.", "answer": "I'm very busy. I don't have time now, maybe later." },
+  { "category": "Common phrases", "question": "I need to change clothes.", "answer": "I need to change clothes before we go out." },
+  { "category": "Common phrases", "question": "I need to go home.", "answer": "I need to go home, it's getting late." },
+  { "category": "Common phrases", "question": "I only want a snack.", "answer": "I only want a snack, not a full meal." },
+  { "category": "Common phrases", "question": "Is Mr. Smith an American?", "answer": "Is Mr. Smith an American? I thought he was British." },
+  { "category": "Common phrases", "question": "Is that enough?", "answer": "Is that enough food for everyone?" },
+  { "category": "Common phrases", "question": "I think it's very good.", "answer": "I think it's very good, especially the plot." },
+  { "category": "Common phrases", "question": "I think it tastes good.", "answer": "I think it tastes good, but it could use more salt." },
+  { "category": "Common phrases", "question": "I thought the clothes were cheaper.", "answer": "I thought the clothes were cheaper, but they're quite expensive." },
+  { "category": "Common phrases", "question": "It's longer than 2 miles.", "answer": "It's longer than 2 miles, maybe around 3 miles." },
+  { "category": "Common phrases", "question": "I've been here for two days.", "answer": "I've been here for two days, exploring the city." },
+  { "category": "Common phrases", "question": "I've heard Texas is a beautiful place.", "answer": "I've heard Texas is a beautiful place, especially in spring." },
+  { "category": "Common phrases", "question": "I've never seen that before.", "answer": "I've never seen that before, it's quite unique." },
+  { "category": "Common phrases", "question": "I was about to leave the restaurant when my friends arrived.", "answer": "I was about to leave the restaurant when my friends arrived unexpectedly." },
+  { "category": "Common phrases", "question": "Just a little.", "answer": "Just a little more effort is needed to complete the task." },
+  { "category": "Common phrases", "question": "Just a moment.", "answer": "Just a moment, I'll be right with you." },
+  { "category": "Common phrases", "question": "Let me check.", "answer": "Let me check the schedule and get back to you." },
+  { "category": "Common phrases", "question": "Let me think about it.", "answer": "Let me think about it, and I'll decide tomorrow." },
+  { "category": "Common phrases", "question": "Let's go have a look.", "answer": "Let's go have a look at the new store." },
+  { "category": "Common phrases", "question": "Let's practice English.", "answer": "Let's practice English for our upcoming test." },
+  { "category": "Common phrases", "question": "May I speak to Mrs. Smith please?", "answer": "May I speak to Mrs. Smith please? I have an appointment with her." },
+  { "category": "Common phrases", "question": "More than that.", "answer": "It costs more than that, around $50 more." },
+  { "category": "Common phrases", "question": "Never mind.", "answer": "Never mind, it's not important." },
+  { "category": "Common phrases", "question": "Next time.", "answer": "Next time, let's plan ahead." },
+  { "category": "Common phrases", "question": "No.", "answer": "No, I don't think that's a good idea." },
+  { "category": "Common phrases", "question": "Nonsense.", "answer": "That's nonsense, it can't be true." },
+  { "category": "Common phrases", "question": "No, thank you.", "answer": "No, thank you, I'm full." },
+  { "category": "Common phrases", "question": "Nothing else.", "answer": "Nothing else, that's all I need." },
+  { "category": "Common phrases", "question": "Not recently.", "answer": "Not recently, I haven't seen him in a while." },
+  { "category": "Common phrases", "question": "Not yet.", "answer": "Not yet, but I plan to do it soon." },
+  { "category": "Common phrases", "question": "Of course.", "answer": "Of course, I'd be happy to help." },
+  { "category": "Common phrases", "question": "Okay.", "answer": "Okay, let's do it your way." },
+  { "category": "Common phrases", "question": "Please fill out this form.", "answer": "Please fill out this form with your details." },
+  { "category": "Common phrases", "question": "Please take me to this address.", "answer": "Please take me to this address, it's where I'm staying." },
+  { "category": "Common phrases", "question": "Please write it down.", "answer": "Please write it down so I don't forget." },
+  { "category": "Common phrases", "question": "Really?", "answer": "Really? That's surprising news!" },
+  { "category": "Common phrases", "question": "Right here.", "answer": "Right here is where we'll meet." },
+  { "category": "Common phrases", "question": "Right there.", "answer": "Right there is where I found it." },
+  { "category": "Common phrases", "question": "See you later.", "answer": "See you later, I have to go now." },
+  { "category": "Common phrases", "question": "See you tomorrow.", "answer": "See you tomorrow at the meeting." },
+  { "category": "Common phrases", "question": "See you tonight.", "answer": "See you tonight at the dinner." },
+  { "category": "Common phrases", "question": "She's pretty.", "answer": "She's pretty, and she's also very intelligent." },
+  { "category": "Common phrases", "question": "Sorry to bother you.", "answer": "Sorry to bother you, but could you help me?" },
+  { "category": "Common phrases", "question": "Stop!", "answer": "Stop! You're going the wrong way." },
+  { "category": "Common phrases", "question": "Take a chance.", "answer": "Take a chance, it might be a great opportunity." },
+  { "category": "Common phrases", "question": "I'm cleaning my room.", "answer": "I'm cleaning my room right now." },
+  { "category": "Common phrases", "question": "I'm cold.", "answer": "I'm cold, could you turn up the heat?" },
+  { "category": "Common phrases", "question": "I'm coming to pick you up.", "answer": "I'm coming to pick you up in ten minutes." },
+  { "category": "Common phrases", "question": "I'm going to leave.", "answer": "I'm going to leave for the airport shortly." },
+  { "category": "Common phrases", "question": "I'm good, and you?", "answer": "I'm good, and you? How have you been?" },
+  { "category": "Common phrases", "question": "I'm happy.", "answer": "I'm happy about the good news." },
+  { "category": "Common phrases", "question": "I'm hungry.", "answer": "I'm hungry, let's have lunch." },
+  { "category": "Common phrases", "question": "I'm married.", "answer": "I'm married, my spouse works in healthcare." },
+  { "category": "Common phrases", "question": "I'm not busy.", "answer": "I'm not busy, I can help you now." },
+  { "category": "Common phrases", "question": "I'm not married.", "answer": "I'm not married, I'm currently single." },
+  { "category": "Common phrases", "question": "I'm not ready yet.", "answer": "I'm not ready yet, give me a few more minutes." },
+  { "category": "Common phrases", "question": "I'm not sure.", "answer": "I'm not sure, I need to think about it." },
+  { "category": "Common phrases", "question": "I'm sorry, we're sold out.", "answer": "I'm sorry, we're sold out of that item." },
+  { "category": "Common phrases", "question": "I'm thirsty.", "answer": "I'm thirsty, could I have a glass of water?" },
+  { "category": "Common phrases", "question": "I'm very busy. I don't have time now.", "answer": "I'm very busy with the project, I don't have time now." },
+  { "category": "Common phrases", "question": "I need to change clothes.", "answer": "I need to change clothes before we go out." },
+  { "category": "Common phrases", "question": "I need to go home.", "answer": "I need to go home, it's getting late." },
+  { "category": "Common phrases", "question": "I only want a snack.", "answer": "I only want a snack, not a full meal." },
+  { "category": "Common phrases", "question": "Is Mr. Smith an American?", "answer": "Is Mr. Smith an American, or is he from somewhere else?" },
+  { "category": "Common phrases", "question": "Is that enough?", "answer": "Is that enough food for everyone?" },
+  { "category": "Common phrases", "question": "I think it's very good.", "answer": "I think it's very good, especially the flavor." },
+  { "category": "Common phrases", "question": "I think it tastes good.", "answer": "I think it tastes good, what do you think?" },
+  { "category": "Common phrases", "question": "I thought the clothes were cheaper.", "answer": "I thought the clothes were cheaper, they're quite expensive." },
+  { "category": "Common phrases", "question": "It's longer than 2 miles.", "answer": "It's longer than 2 miles, perhaps 3 or 4." },
+  { "category": "Common phrases", "question": "I've been here for two days.", "answer": "I've been here for two days, and I love it." },
+  { "category": "Common phrases", "question": "I've heard Texas is a beautiful place.", "answer": "I've heard Texas is a beautiful place with great landscapes." },
+  { "category": "Common phrases", "question": "I've never seen that before.", "answer": "I've never seen that before, it's fascinating." },
+
+  
+
+
 //
-//
+
+{
+  "category": "Clarifying Phrases",
+  "question": "How do I say it correctly in English?",
+  "answer": "You can use this phrase when you're not sure how to pronounce a word or phrase in English. It's a polite way to ask for help with pronunciation.",
+},
 
 {
   "category": "Clarifying Phrases",
   "question": "I'm not quite following you. Can you elaborate?",
   "answer": "I'm having difficulty grasping the full meaning of your explanation. Could you please provide more details or expand on your points?"
 },
-
 
 {
   "category": "Clarifying Phrases",
