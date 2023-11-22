@@ -1,5 +1,5 @@
 
-create JS array flashcards about dental terms
+create JS array flashcards about phrasal verbs found at home
 Use CLOZE question format
 
 

@@ -1,6 +1,6 @@
 // Sample flashcard data
 const flashcards = [
-    { category: 'Math', question: '2 + 2', answer: '4' },
+    { category: 'Math', question: "Welcome to Dennis Daniels' English Lesson!", answer: '4' },
     { category: 'Science', question: 'Water formula', answer: 'H2O' },
     { category: 'Prepositions', question: 'The book is [BLANK] the table.', answer: 'on|under|near' },
 { category: 'Prepositions', question: 'I know her [BLANK] her name.', answer: 'by' },
@@ -1439,6 +1439,88 @@ const flashcards = [
 },
 
 //
+
+// Continuing from the previous entries...
+{
+  "category": "Phrasal verbs: work",
+  "question": "Can you please _____ that important point in the meeting minutes?",
+  "answer": "Note down"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "After ten years of service, the CEO decided to _____ from his position.",
+  "answer": "Step down"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "The new marketing campaign really _____ last month.",
+  "answer": "Took off"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "He's going to _____ a new hobby to relax.",
+  "answer": "Take up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Before making a decision, it's important to _____ all options carefully.",
+  "answer": "Weigh up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Please _____ your work before submitting it.",
+  "answer": "Back up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "A new issue has _____; we need to address it immediately.",
+  "answer": "Come up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "She is able to _____ with the latest technology trends effortlessly.",
+  "answer": "Keep up with"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "We need to _____ a new system for managing customer feedback.",
+  "answer": "Set up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "The legal team will _____ the contract details thoroughly.",
+  "answer": "Go through"
+},
+// ... continue adding more flashcards in the same format
+
+
+{
+  "category": "Phrasal verbs: work",
+  "question": "Our company plans to _____ into new markets next year.",
+  "answer": "Branch out"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "After years of research, we're finally ready to _____ the tech industry.",
+  "answer": "Break into"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Despite the difficulties, we must _____ with the project.",
+  "answer": "Carry on"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "The store had to _____ due to financial problems.",
+  "answer": "Close down"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "I _____ to meeting with the team next week.",
+  "answer": "Look forward to"
+},
+
+
 {
   category: "Phrasal verbs: work",
   question: "What does 'follow up' imply in a business conversation?",
