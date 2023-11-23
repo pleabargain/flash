@@ -13,18 +13,18 @@ const flashcards = [
 { category: 'Prepositions', question: 'I borrowed the book [BLANK] the library.', answer: 'from' },
 { category: 'Prepositions', question: 'He is [BLANK] a small town in Spain.', answer: 'from' },
 { category: 'Prepositions', question: 'The plane departed [BLANK] New York.', answer: 'from' },
-{ category: 'Prepositions', question: 'They escaped [BLANK] the room through the window.', answer: 'from' },
+{ category: 'Prepositions', question: 'They escaped [BLANK] the room through the window.', answer: 'from|out of' },
 { category: 'Prepositions', question: 'She learned Spanish [BLANK] her mother.', answer: 'from' },
 { category: 'Prepositions', question: 'The idea originated [BLANK] an old legend.', answer: 'from' },
 { category: 'Prepositions', question: 'I know her [BLANK] her name.', answer: 'by' },
-{ category: 'Prepositions', question: 'I am [BLANK] the store.', answer: 'in|at|near|close to' },
+{ category: 'Prepositions', question: 'I am [BLANK] the store.', answer: 'in|at|near|inside|close to' },
 { category: 'Prepositions', question: 'I will be there [BLANK] 5 minutes.', answer: 'in|for' },
 { category: 'Prepositions', question: 'I am not good [BLANK] math.', answer: 'at' },
 { category: 'Prepositions', question: 'I got a gift [BLANK] my friend.', answer: 'from|for' },
 { category: 'Prepositions', question: "The meeting is [BLANK] 10 o'clock.", answer: 'at' },
 { category: 'Prepositions', question: 'I am [BLANK] the exam.', answer: 'at' },
 { category: 'Prepositions', question: 'I know her [BLANK]  name.', answer: 'by' },
-{ category: 'Prepositions', question: "I saw her [BLANK] the bookstore.", answer: "at|in|inside" },
+{ category: 'Prepositions', question: "I saw her [BLANK] the bookstore.", answer: "near|close to |next to |at|in|inside" },
 { category: 'Prepositions', question: "I went to the park [BLANK] my dog.", answer: "with" },
 { category: 'Prepositions', question: "I put the book [BLANK] the table.", answer: "on|under|next to" },
 { category: 'Prepositions', question: "I got a gift [BLANK] my friend.", answer: "for|from" },
@@ -32,7 +32,7 @@ const flashcards = [
 { category: 'Prepositions', question: "I'm good [BLANK] math.", answer: "at" },
 { category: 'Prepositions', question: "I'm thinking [BLANK] going to the store|beach|park.", answer: "about" },
 { category: 'Prepositions', question: "I'm tired [BLANK] work.", answer: "of" },
-{ category: 'Prepositions', question: "I'm waiting [BLANK] my friend.", answer: "for|next to" },
+{ category: 'Prepositions', question: "I'm waiting [BLANK] my friend.", answer: "for|next to|by|with" },
 { category: 'Prepositions', question: "I'm worried [BLANK] my exam.", answer: "about" },
 
 
@@ -1721,7 +1721,7 @@ const flashcards = [
 {
   "category": "Phrasal verbs: work",
   "question": "Please _____ your work before submitting it.",
-  "answer": "Back up"
+  "answer": "back up|save"
 },
 {
   "category": "Phrasal verbs: work",
@@ -1757,6 +1757,13 @@ const flashcards = [
 },
 {
   "category": "Phrasal verbs: work",
+  "question": "After years of acting school she  finally  _____ the film industry.",
+  "answer": "Broke into"
+},
+
+
+{
+  "category": "Phrasal verbs: work",
   "question": "Despite the difficulties, we must _____ with the project.",
   "answer": "Carry on"
 },
@@ -1767,8 +1774,8 @@ const flashcards = [
 },
 {
   "category": "Phrasal verbs: work",
-  "question": "I _____ to meeting with the team next week.",
-  "answer": "Look forward to"
+  "question": "I _____ to meeting with the team in Cyprus next week.",
+  "answer": "look forward to"
 },
 
 
@@ -1847,7 +1854,7 @@ const flashcards = [
   { category: "Phrasal verbs:home", question: "To ___ ___ means to amass or gather a supply of something.", answer: "stock up" },
   { category: "Phrasal verbs:home", question: "To ___ ___ involves removing something from a higher place.", answer: "take down" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to remove something from inside a place.", answer: "take out" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ refers to discarding something as waste.", answer: "throw away" },
+  { category: "Phrasal verbs:home", question: "To ___ ___ refers to discarding something as waste.", answer: "throw away|throw out|trash it What do you need to throw away?" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "switch off|turn off" },
   { category: "Phrasal verbs:home", question: "To ___ ___ involves starting the operation of a device.", answer: "turn on" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface, especially by rubbing it.", answer: "wipe down" },
@@ -1856,7 +1863,7 @@ const flashcards = [
 {
   "category": "Verbs: Auxiliary",
   "question": "Context = ability: Which auxiliary verb is best? Can, could, be able to: She [BLANK] reach the top shelf easily.",
-  "answer": "can"
+  "answer": "can|is able to "
 }
 ,
 {
@@ -2186,7 +2193,7 @@ const flashcards = [
 { category: 'Interjections', question: "Alas! My [BLANK] plan has failed!", answer: "\"current|awesome|perfect|great|dastardly\"" },
 { category: 'Interjections', question: "Bingo! I [BLANK] the lottery!", answer: "\"won\"" },
 { category: 'Interjections', question: "Eww! That food looks [BLANK]!", answer: "\"gross|terrible\"" },
-{ category: 'Interjections', question: "Phew! That was a [BLANK] call!", answer: "\"tough|close\"" },
+{ category: 'Interjections', question: "Phew! That was a [BLANK] call!", answer: "\"tough|close|strange\"" },
 { category: 'Interjections', question: "Yeehaw! I'm finally [BLANK]!", answer: "\"free|done|finished|rich\"" },
 //Common phrases
 { "category": "Common phrases", "question": "Be careful.", "answer": "Be careful while driving.| Be careful the soup is hot!" },
@@ -2594,7 +2601,7 @@ const flashcards = [
 {
   "category": "Pharmaceuticals",
   "question": "A [BLANK] is a list of medications that a patient is currently taking.",
-  "answer": "medication list"
+  "answer": "prescription list |medication list"
 },
 {
   "category": "Pharmaceuticals",
@@ -3182,9 +3189,11 @@ const flashcards = [
 },
 {
   "category": "Adjectives:Weather",
-  "question": "A [BLANK] is a period of time when the temperature is below freezing.",
+  "question": "A [BLANK] is a disease of human tissue freezing.",
   "answer": "frostbite"
 },
+
+
 {
   "category": "Adjectives:Weather",
   "question": "A [BLANK] is a type of precipitation that falls as small, frozen particles.",
@@ -3217,10 +3226,10 @@ const flashcards = [
 { "category": "Adjectives:Weather", "question": "'The sky is so [BLANK] that it looks like it's going to be a beautiful day.'" , "answer": 'clear' },
 
 //
-{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] with the latest technologies.'" , "answer": 'innovating|up-to-date|leading|current|familiar' },
+{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] with the latest technologies.'" , "answer": 'innovating|modernizing|up-to-date|leading|current|familiar' },
 { "category": "Adjectives:Business", "question": "'We offer a [BLANK] range of products and services.'" , "answer": 'diverse|comprehensive|wide' },
 { "category": "Adjectives:Business", "question": "'Our team is [BLANK] and experienced.'" , "answer": 'professional|well-respected|skilled' },
-{ "category": "Adjectives:Business", "question": "'We provide [BLANK] customer service.'" , "answer": 'excellent' },
+{ "category": "Adjectives:Business", "question": "'We provide [BLANK] customer service.'" , "answer": 'excellent|indidualized' },
 { "category": "Adjectives:Business", "question": "'Our products are [BLANK] and affordable.'" , "answer": 'reliable|high-quality' },
 { "category": "Adjectives:Business", "question": "'We are a [BLANK] company.'" , "answer": 'reliable' },
 { "category": "Adjectives:Business", "question": "'We offer [BLANK] solutions.'" , "answer": 'innovative|digital|comprehensive|unbeatable' },
@@ -3229,7 +3238,7 @@ const flashcards = [
 { "category": "Adjectives:Business", "question": "'We strive to provide a [BLANK] work environment.'" , "answer": 'positive' },
 { "category": "Adjectives:Business", "question": "'Our company is [BLANK] on social responsibility.'" , "answer": 'focused' },
 { "category": "Adjectives:Business", "question": "'We offer [BLANK] opportunities for growth.'" , "answer": 'exciting|some|comprehensive|' },
-{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] for its commitment to sustainability.'" , "answer": 'recognized' },
+{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] for its commitment to sustainability.'" , "answer": 'well-known|recognized' },
 {
     "category": "Adjectives:Business",
     "question": "'Our company is [BLANK] in providing innovative solutions to our customers.'",
@@ -3288,7 +3297,7 @@ const flashcards = [
   {
     "category": "Adjectives:Business",
     "question": "'We offer [BLANK] opportunities for growth and professional development within our organization.'",
-    "answer": "ample"
+    "answer": "ample|many|a lot of|"
   },
   {
     "category": "Adjectives:Business",
@@ -3787,16 +3796,16 @@ const flashcards = [
     { category: 'Pronouns:Indefinite', question: "I will bring snacks, but [BLANK] needs to bring their own drinks.", answer: "everyone" },
     { category: 'Pronouns:Indefinite', question: "[BLANK] knows that honesty is important in relationships.", answer: "Everyone" },
     { category: 'Pronouns:Indefinite', question: "In the lost and found box, there are somethings that [BLANK] forgot.", answer: "someone" },
-    { category: 'Pronouns:Indefinite', question: "Nobody understood the joke, so [BLANK] laughed.", answer: "no one" },
+    { category: 'Pronouns:Indefinite', question: "Nobody understood the joke, so [BLANK] laughed.", answer: "no one|nobody" },
 
     
       { category: 'Pronouns:Indefinite', question: "Can [BLANK] help me with this task?", answer: "anyone" },
       { category: 'Pronouns:Indefinite', question: "I haven't got [BLANK] to wear for the event.", answer: "anything" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] of the two options seems suitable for our needs.", answer: "Either" },
       { category: 'Pronouns:Indefinite', question: "There isn't [BLANK] milk left in the fridge.", answer: "much" },
-      { category: 'Pronouns:Indefinite', question: "[BLANK] received an invitation to the meeting.", answer: "Everyone" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] received an invitation to the meeting.", answer: "Everyone|They" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] in the audience clapped after the performance.", answer: "Everybody" },
-      { category: 'Pronouns:Indefinite', question: "She has [BLANK] to say about the new policy.", answer: "nothing" },
+      { category: 'Pronouns:Indefinite', question: "She has [BLANK] to say about the new policy.", answer: "something|nothing" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] knows the truth about what happened.", answer: "No one" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] in the team is responsible for their own tasks.", answer: "Each" },
       { category: 'Pronouns:Indefinite', question: "We have [BLANK] time to finish the project.", answer: "enough" },
@@ -3810,7 +3819,7 @@ const flashcards = [
       { category: 'Pronouns:Indefinite', question: "Is there [BLANK] in the office who can fix the printer?", answer: "anybody" },
       { category: 'Pronouns:Indefinite', question: "I offered her two options, but she didn't like [BLANK].", answer: "either" },
       { category: 'Pronouns:Indefinite', question: "There's [BLANK] in the rule book about this situation.", answer: "nothing" },
-      { category: 'Pronouns:Indefinite', question: "[BLANK] must have taken my book; it's gone.", answer: "Somebody" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] must have taken my book; it's gone.", answer: "Somebody|Someone|They" },
       { category: 'Pronouns:Indefinite', question: "I don't think [BLANK] will be able to solve this problem.", answer: "anyone" },
       { category: 'Pronouns:Indefinite', question: "Can [BLANK] pass me the salt, please?", answer: "someone" },
   
