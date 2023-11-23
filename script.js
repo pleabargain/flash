@@ -1696,7 +1696,7 @@ const flashcards = [
 {
   "category": "Phrasal verbs: work",
   "question": "Can you please _____ that important point in the meeting minutes?",
-  "answer": "write down|Note down"
+  "answer": "write down|note down"
 },
 {
   "category": "Phrasal verbs: work",
@@ -3528,42 +3528,42 @@ const flashcards = [
 {
   "category": "Objections",
   "question": "This doesn't align with our current strategy.",
-  "answer": "I understand that you need to make sure that any new product you adopt aligns with your current strategy. We can help you understand how our product can support your strategic goals."
+  "answer": "May I ask what is your strategy?I understand that you need to make sure that any new product you adopt aligns with your current strategy. We can help you understand how our product can support your strategic goals."
 },
 {
   "category": "Objections",
   "question": "We've had a bad experience with similar products.",
-  "answer": "We understand that you've had a bad experience with similar products in the past. We're confident that our product is different and that it can help you achieve your business goals."
+  "answer": "Can you tell me more? Which product? Which company? What was the problem? We understand that you've had a bad experience with similar products in the past. We're confident that our product is different and that it can help you achieve your business goals."
 },
 {
   "category": "Objections",
   "question": "I'm not the right person to make this decision.",
-  "answer": "I understand that you may not be the right person to make this decision. We're always happy to speak with the decision-maker at your company."
+  "answer": "Who is the right person to speak with? I understand that you may not be the right person to make this decision. We're always happy to speak with the decision-maker at your company."
 },
 {
   "category": "Objections",
   "question": "We're locked into a contract with another provider.",
-  "answer": "We understand that you may be locked into a contract with another provider. We can help you understand your options and make a decision that's right for your business."
+  "answer": "Can you tell me which company which you are working with? How long is the contract? When does the contract end? We understand that you may be locked into a contract with another provider. We can help you understand your options and make a decision that's right for your business."
 },
 {
   "category": "Objections",
   "question": "I need to see more evidence of its success.",
-  "answer": "We understand that you need to see evidence of our product's success before you invest in it. We can provide you with case studies, testimonials, and other evidence that shows how our product has helped our customers achieve their business goals."
+  "answer": "How many references would you like? We understand that you need to see evidence of our product's success before you invest in it. We can provide you with case studies, testimonials, and other evidence that shows how our product has helped our customers achieve their business goals."
 },
 {
   "category": "Objections",
   "question": "I'm not interested right now.",
-  "answer": "We understand that you're not interested right now. We're always here if you have any questions or want to learn more about our product."
+  "answer": "May I ask, what are your business goals? We understand that you're not interested right now. We're always here if you have any questions or want to learn more about our product."
 },
 {
   "category": "Objections",
   "question": "I'm not the decision-maker.",
-  "answer": "I understand that you may not be the decision-maker at your company. We're always happy to speak with the decision-maker."
+  "answer": "Who is the decision maker? Can I have their contact details? I understand that you may not be the decision-maker at your company. We're always happy to speak with the decision-maker."
 },
 {
   "category": "Objections",
   "question": "I need to think about it.",
-  "answer": "Of course, we understand that you need to take some time to think about your decision. We're always here if you have any questions or want to learn more about our product."
+  "answer": "May I ask what questions you still have? Of course, we understand that you need to take some time to think about your decision. We're always here if you have any questions or want to learn more about our product."
 },
 {
   "category": "Objections",
@@ -3573,7 +3573,7 @@ const flashcards = [
 {
   "category": "Objections",
   "question": "We're already satisfied with our current solution.",
-  "answer": "That's great to hear! We're always happy to hear that our customers are happy with their current solution. However, we're confident that our product has a number of advantages that you'll find appealing."
+  "answer": "May I ask who is your current provider? That's great to hear! We're always happy to hear that our customers are happy with their current solution. However, we're confident that our product has a number of advantages that you'll find appealing."
 },
 {
   "category": "Objections",
@@ -3583,12 +3583,12 @@ const flashcards = [
 {
   "category": "Product",
   "question": "I'm not sure if your product is right for us.",
-  "answer": "That's okay! We're always happy to help you determine if our product is a good fit for your business. We can provide you with a demo, case studies, and other resources to help you make an informed decision."
+  "answer": "What would meet your needs? That's okay! We're always happy to help you determine if our product is a good fit for your business. We can provide you with a demo, case studies, and other resources to help you make an informed decision."
 },
 {
   "category": "Product",
   "question": "I don't have the time to talk right now.",
-  "answer": "I understand that you're busy. We can schedule a call or demo at your convenience. In the meantime, you can learn more about our product on our website."
+  "answer": "When is a good time to call? I understand that you're busy. We can schedule a call or demo at your convenience. In the meantime, you can learn more about our product on our website."
 },
 
 
@@ -3601,7 +3601,7 @@ const flashcards = [
   {
     "category": "Objections",
     "question": "I don't think this meets our needs right now.",
-    "answer": "I understand that our product may not be the right fit for you right now. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
+    "answer": "What part doesn't meet you needs? Why doesn't it meet your needs? What are your specific needs? I understand that our product may not be the right fit for you right now. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
   },
   {
     "category": "Objections",
@@ -3618,40 +3618,42 @@ const flashcards = [
     "question": "Can you send us more information? We'll review it and get back to you.",
     "answer": "Absolutely. We'd be happy to send you more information about our product. We can also schedule a demo to show you how our product can help you achieve your business goals."
   },
+
   {
     "category": "Objections",
     "question": "This isn't a priority for us at the moment.",
-    "answer": "We understand that you have other priorities right now. We're always here when you're ready to learn more about how our product can help you."
+    "answer": "What is the main priority for your company? What are your market goals? We understand that you have other priorities right now. We're always here when you're ready to learn more about how our product can help you."
   },
+
   {
     "category": "Objections",
     "question": "We already have a similar solution in place.",
-    "answer": "That's great to hear! We're always happy to hear that our customers are happy with their current solution. However, we're confident that our product has a number of advantages that you'll find appealing."
+    "answer": "What is the name of that solution?  We're always happy to hear that our customers are happy with their current solution. However, we're confident that our product has a number of advantages that you'll find appealing."
   },
   {
     "category": "Objections",
     "question": "The price point is out of our budget.",
-    "answer": "I understand that pricing can be a concern. We offer a variety of pricing options to fit your budget, and we're always happy to work with you to find a solution that's affordable for your business."
+    "answer": "What would be a price that you would consider? I understand that pricing can be a concern. We offer a variety of pricing options to fit your budget, and we're always happy to work with you to find a solution that's affordable for your business."
   },
   {
     "category": "Objections",
     "question": "Our intergration pipeline is full.",
-    "answer": "I understand that you have a lot on your plate right now. We're always happy to work with you to schedule a time for implementation that works for your team."
+    "answer": "What are you working on? I understand that you have a lot on your plate right now. We're always happy to work with you to schedule a time for implementation that works for your team."
   },
   {
     "category": "Objections",
     "question": "We don't need your product.",
-    "answer": "We understand that you may not need our product right now. However, we're confident that our product can help you achieve your business goals. We're always happy to provide you with more information or answer any questions you may have."
+    "answer": "What does your company need? We understand that you may not need our product right now. However, we're confident that our product can help you achieve your business goals. We're always happy to provide you with more information or answer any questions you may have."
   },
   {
     "category": "Objections",
     "question": "We're not interested in your product.",
-    "answer": "We understand that you're not interested in our product right now. We're always here if you have any questions or want to learn more about it."
+    "answer": "What services does your company need? We understand that you're not interested in our product right now. We're always here if you have any questions or want to learn more about it."
   },
   {
     "category": "Objections",
     "question": "We're looking for something different.",
-    "answer": "I understand that you're looking for something different. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
+    "answer": "What exactly is your company looking for? I understand that you're looking for something different. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
   },
 
 
@@ -3660,6 +3662,13 @@ const flashcards = [
     "question": "We're already using a similar product.",
     "answer": "I understand that you're already using a similar product. However, our product offers several unique features and benefits that can help you improve your results."
   },
+
+  {
+    "category": "Objections",
+    "question": "We're not convinced that your product will make us money.",
+    "answer": "I understand that you're concerned about ROI. We can provide you with a case study that demonstrates how our product has helped other businesses save money."
+  },
+
   {
     "category": "Objections",
     "question": "We're not convinced that it will save us money.",
@@ -3683,8 +3692,15 @@ const flashcards = [
 
   {
     "category": "Objections",
-    "question": "Your timeline for implementation is too long.",
-    "answer": "I understand that you need a solution quickly. We are committed to providing you with a timeline that meets your needs, and we will work closely with you to prioritize implementation tasks."
+    "question": "Why is the integration taking so long?",
+    "answer": "How can we help? What exactly are the issues? "
+  },
+
+
+  {
+    "category": "Objections",
+    "question": "Your timeline API implementation will take too long in our opinion.",
+    "answer": "How can we help? What exactly are the issues? We understand that you need a solution quickly. We are committed to providing you with a timeline that meets your needs, and we will work closely with you to prioritize implementation tasks."
   },
   {
     "category": "Objections",
@@ -3694,7 +3710,7 @@ const flashcards = [
   {
     "category": "Objections",
     "question": "We don't have the resources to dedicate to implementation at this time.",
-    "answer": "I understand that staffing is a concern. We offer a variety of implementation options to fit your resources and budget, including self-service, guided assistance, and fully managed implementation."
+    "answer": "When does your roadmap open up? I understand that staffing is a concern. We offer a variety of implementation options to fit your resources and budget, including self-service, guided assistance, and fully managed implementation."
   },
   {
     "category": "Objections",
@@ -3754,12 +3770,12 @@ const flashcards = [
   {
     "category": "Objections",
     "question": "We're not sure if it will work for us.",
-    "answer": "I understand that you're concerned about compatibility. We offer a free trial so you can try our product risk-free."
+    "answer": "What part won't work? I understand that you're concerned about compatibility. We offer a free trial so you can try our product risk-free."
   },
   {
     "category": "Objections",
-    "question": "We don't have the staff to support it.",
-    "answer": "I understand that staffing is a concern. We offer a variety of training and support options to help you get the most out of our product."
+    "question": "We don't have the staff to support your product.",
+    "answer": "How can we help? We have support staff that can assist. I understand that staffing is a concern. We offer a variety of training and support options to help you get the most out of our product."
   },
 
 
