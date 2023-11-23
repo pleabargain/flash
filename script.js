@@ -1696,12 +1696,12 @@ const flashcards = [
 {
   "category": "Phrasal verbs: work",
   "question": "Can you please _____ that important point in the meeting minutes?",
-  "answer": "Note down"
+  "answer": "write down|Note down"
 },
 {
   "category": "Phrasal verbs: work",
   "question": "After ten years of service, the CEO decided to _____ from his position.",
-  "answer": "Step down"
+  "answer": "step down|retire|"
 },
 {
   "category": "Phrasal verbs: work",
@@ -1716,7 +1716,7 @@ const flashcards = [
 {
   "category": "Phrasal verbs: work",
   "question": "Before making a decision, it's important to _____ all options carefully.",
-  "answer": "Weigh up"
+  "answer": "Weigh up|consider"
 },
 {
   "category": "Phrasal verbs: work",
@@ -1726,7 +1726,7 @@ const flashcards = [
 {
   "category": "Phrasal verbs: work",
   "question": "A new issue has _____; we need to address it immediately.",
-  "answer": "Come up"
+  "answer": "come up|arisen"
 },
 {
   "category": "Phrasal verbs: work",
@@ -1812,7 +1812,7 @@ const flashcards = [
 {
   category: "Phrasal verbs: work",
   question: "What does 'lay off' mean in a workplace?",
-  answer: "'Lay off' is used when a company dismisses employees, often due to financial constraints or restructuring. I just got laid off."
+  answer: "'Lay off' is used when a company dismisses employees, often due to financial constraints or restructuring. I just got fired. I just got laid off."
 },
 {
   category: "Phrasal verbs: work",
@@ -1851,6 +1851,328 @@ const flashcards = [
   { category: "Phrasal verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "switch off|turn off" },
   { category: "Phrasal verbs:home", question: "To ___ ___ involves starting the operation of a device.", answer: "turn on" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface, especially by rubbing it.", answer: "wipe down" },
+
+//
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = ability: Which auxiliary verb is best? Can, could, be able to: She [BLANK] reach the top shelf easily.",
+  "answer": "can"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = past habitual action: Which auxiliary verb is best? Used to, would: They [BLANK] go for a walk every evening.",
+  "answer": "used to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = necessity: Which auxiliary verb is best? Must, have to, need: We [BLANK] submit the report by Friday.",
+  "answer": "must"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = future plans: Which auxiliary verb is best? ought to, are going to: They [BLANK] visit their grandparents this weekend.",
+  "answer": "are going to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = possibility: Which auxiliary verb is best? Could, might, may: It [BLANK] rain later this evening.",
+  "answer": "might"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = obligation: Which auxiliary verb is best? Has to, must, should: He [BLANK] attend the meeting tomorrow.",
+  "answer": "has to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = strong recommendation: Which auxiliary verb is best? Had better, should, ought to: You [BLANK] check your answers before submitting the test.",
+  "answer": "had better"
+},
+
+//
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = polite request: Which auxiliary verb is best? Could, may, might: [BLANK] you please pass the salt?",
+  "answer": "Could"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = future possibility: Which auxiliary verb is best? May, might, could: They [BLANK] come to the party if they finish work early.",
+  "answer": "might"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = past ability: Which auxiliary verb is best? Could, was able to: She [BLANK] speak three languages fluently when she was a child.",
+  "answer": "could"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = future obligation at work: Which auxiliary verb is best? Must, has to, will have to: We [BLANK] complete the project by next Monday.",
+  "answer": "must"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = ability in a professional setting: Which auxiliary verb is best? Can, could, be able to: She [BLANK] operate the new software efficiently.",
+  "answer": "can"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = past responsibility at work: Which auxiliary verb is best? Had to, must, should have: Last year, he [BLANK] manage the entire team alone.",
+  "answer": "had to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = suggestion in a meeting: Which auxiliary verb is best? Should, could, might: We [BLANK] consider implementing a new marketing strategy.",
+  "answer": "should"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = polite offer at work: Which auxiliary verb is best? May, can, could: [BLANK] I help you with that report?",
+  "answer": "Can"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = necessity for a work task: Which auxiliary verb is best? Need to, have to, must: You [BLANK] wear safety equipment in the lab.",
+  "answer": "must"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = future plans in a professional setting: Which auxiliary verb is best? Will, going to, planning to: The company [BLANK] launch the new product line in June.",
+  "answer": "is going to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing a work-related possibility: Which auxiliary verb is best? Might, could, may: The meeting [BLANK] extend beyond 5 PM.",
+  "answer": "might"
+},
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = work-related advice: Which auxiliary verb is best? Should, ought to: You [BLANK] double-check your emails before sending them.",
+  "answer": "should"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = request for permission at work: Which auxiliary verb is best? May, can, could: [BLANK] I leave early today for a medical appointment?",
+  "answer": "May"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing a requirement in a job: Which auxiliary verb is best? Must, have to, need to: Employees [BLANK] adhere to the company's code of conduct.",
+  "answer": "must"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing past ability in a professional setting: Which auxiliary verb is best? Could, was able to: Last year, she [BLANK] solve complex problems more effectively.",
+  "answer": "could"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = discussing future possibilities at work: Which auxiliary verb is best? Might, could, may: Sales [BLANK] increase if we improve our online presence.",
+  "answer": "might"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = indicating a strong recommendation in a professional context: Which auxiliary verb is best? Had better, should: You [BLANK] prepare a detailed report for the next board meeting.",
+  "answer": "had better"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing ongoing work: Which auxiliary verb is best? Am, is, are: Our team [BLANK] currently working on the new project.",
+  "answer": "is"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = indicating necessity in a workplace situation: Which auxiliary verb is best? Need to, have to: We [BLANK] meet the client's specifications to secure the contract.",
+  "answer": "need to"
+},
+
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing future intentions at work: Which auxiliary verb is best? Going to, planning to: The department [BLANK] hold a training session next month.",
+  "answer": "is going to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing certainty in a professional setting: Which auxiliary verb is best? Must, has to: The report [BLANK] be submitted by tomorrow without fail.",
+  "answer": "must"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = seeking approval at work: Which auxiliary verb is best? May, can, could: [BLANK] I proceed with the proposed plan?",
+  "answer": "May"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing an obligation based on external factors: Which auxiliary verb is best? Have to, must: We [BLANK] comply with industry regulations.",
+  "answer": "have to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing a conditional action in the workplace: Which auxiliary verb is best? Would, could: I [BLANK] help with the project if I had more time.",
+  "answer": "would"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing past continuous action at work: Which auxiliary verb is best? Was, were: We [BLANK] discussing the budget when the meeting was interrupted.",
+  "answer": "were"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = indicating a strong suggestion in a work environment: Which auxiliary verb is best? Should, ought to: The team [BLANK] focus more on customer feedback.",
+  "answer": "should"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing a hypothetical situation at work: Which auxiliary verb is best? Could, might: If we had more resources, we [BLANK] expand our operations.",
+  "answer": "could"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = indicating a necessity for career growth: Which auxiliary verb is best? Need to, have to: To advance in your career, you [BLANK] develop new skills.",
+  "answer": "need to"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = expressing an ongoing project at work: Which auxiliary verb is best? Am, is, are: The company [BLANK] investing in renewable energy solutions.",
+  "answer": "is"
+},
+
+
+
+
+
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = advice: Which auxiliary verb is best? Should, will, ought to: You [BLANK] see the doctor if you feel worse.",
+  "answer": "should"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = present continuous: Which auxiliary verb is best? Am, was, is, are: He [BLANK] working on the project right now.",
+  "answer": "is"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = past continuous: Which auxiliary verb is best? Was, had, were: They [BLANK] watching a movie when the power went out.",
+  "answer": "were"
+}
+,
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = present perfect: Which auxiliary verb is best? Have, has: I [BLANK] never seen such a beautiful sunset.",
+  "answer": "have"
+},
+
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = present : Which Auxiliary verb is best? Be: am, is, are, was, were, been, being Example: She [BLANK] studying for her exam.",  "answer": "is."
+},
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context =past : Which auxiliary verb is best? Have: have, has, had Example: They [BLANK] finished their homework.",
+  "answer": "had"
+},
+
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context =future : Which auxiliary verb is best? could, will, has, had Example: They [BLANK] finish their homework before dinner time.",
+  "answer": "will"
+},
+
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = present : Which auxiliary verb is best? Be: am, is, are, was, were, been, being Example: She [BLANK] studying for her exam.",
+  "answer": "is"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = past : Which auxiliary verb is best?  have, has, had: They [BLANK] finished their homework.",
+  "answer": "had"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = future : Which auxiliary verb is best? could, will, has, had : They [BLANK] finish their homework before dinner time.",
+  "answer": "will"
+},
+
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = habitual action : Which auxiliary verb is best? Do: do, will, does, did Example: He [BLANK] his chores every day.",
+  "answer": "does"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = future intention : Which auxiliary verb is best? must, will,might, can, should, shall: I [BLANK] call you later.",
+  "answer": "will"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = suggestion : Which auxiliary verb is best? must, might, can, shall: [BLANK] we go to the park?",
+  "answer": "Shall"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = ability : Which auxiliary verb is best? must, might, can, should: She [BLANK] swim very well.",
+  "answer": "can"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = possibility : Which auxiliary verb is best? must, might, can: It [BLANK] rain later.",
+  "answer": "might"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = obligation : Which auxiliary verb is best? must, might, can: You [BLANK] complete the assignment.",
+  "answer": "must"
+},
+{
+  "category": "Verbs: Auxiliary",
+  "question": "Context = advice : Which auxiliary verb is best? must, might, can, should, shall: They [BLANK] arrive soon.",
+  "answer": "should"
+},
+
+
 
 
   //
