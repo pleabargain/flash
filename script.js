@@ -3189,8 +3189,8 @@ const flashcards = [
 },
 {
   "category": "Adjectives:Weather",
-  "question": "A [BLANK] is a disease of human tissue freezing.",
-  "answer": "frostbite"
+  "question": "[BLANK] is a disease that affects human tissue after freezing.",
+  "answer": "Frostbite"
 },
 
 
@@ -3262,12 +3262,12 @@ const flashcards = [
   {
     "category": "Adjectives:Business",
     "question": "'Our products are renowned for their [BLANK] quality and durability.'",
-    "answer": "uncompromising"
+    "answer": "uncompromising|unparalleled"
   },
   {
     "category": "Adjectives:Business",
     "question": "'Our company has established a [BLANK] reputation for excellence in the industry.'",
-    "answer": "stellar"
+    "answer": "stellar|unparalleled"
   },
   {
     "category": "Adjectives:Business",
@@ -3321,8 +3321,8 @@ const flashcards = [
 { category: 'Adjectives:People', question: "My [BLANK] friend is always looking on the bright side of things.", answer: "optimistic" },
 
 //
-{category: 'Adjectives:animals', question: "The [BLANK] lion is the king of the jungle.", answer: "mighty" },
-{category: 'Adjectives:animals', question: "The [BLANK] cheetah is the fastest land animal on Earth.", answer: "quick" },
+{category: 'Adjectives:animals', question: "The [BLANK] lion is the king of the jungle.", answer: "mighty|majestic" },
+{category: 'Adjectives:animals', question: "The [BLANK] cheetah is the fastest land animal on Earth.", answer: "graceful" },
 {category: 'Adjectives:animals', question: "The [BLANK] elephant is the largest land animal on Earth.", answer: "giant" },
 {category: 'Adjectives:animals', question: "The [BLANK] giraffe has the longest neck of any land animal.", answer: "graceful" },
 {category: 'Adjectives:animals', question: "The [BLANK] zebra has distinctive black and white stripes.", answer: "striking" },
@@ -3393,14 +3393,14 @@ const flashcards = [
 { category: 'Verbs:common', question: "I [BLANK] a bike ride with my friends this morning.", answer: "went" },
 { category: 'Verbs:common', question: "I [BLANK] a new plant for my apartment last week.", answer: "bought" },
 { category: 'Verbs:common', question: "I [BLANK] a song for my talent show last month.", answer: "wrote" },
-{ category: 'Verbs:common', question: "I [BLANK] a delicious dinner for my family tonight.", answer: "made" },
+{ category: 'Verbs:common', question: "I [BLANK] a delicious dinner for my family last night.", answer: "made|cooked|prepared" },
 { category: 'Verbs:common', question: "I [BLANK] to the beach yesterday.", answer: "went" },
 { category: 'Verbs:common', question: "I [BLANK] a swimming pool at my house.", answer: "have" },
 { category: 'Verbs:common', question: "I [BLANK] a sandwich for lunch today.", answer: "made" },
 { category: 'Verbs:common', question: "I [BLANK] my teeth every morning and night.", answer: "brush" },
 { category: 'Verbs:common', question: "I [BLANK] my hair every day.", answer: "wash" },
 { category: 'Verbs:common', question: "I [BLANK] my clothes every week.", answer: "wash" },
-{ category: 'Verbs:common', question: "I [BLANK] my room every week.", answer: "clean" },
+{ category: 'Verbs:common', question: "I [BLANK] my room every week.", answer: "clean|sweep|vacuum|tidy|straighten up" },
 { category: 'Verbs:common', question: "I [BLANK] my dog for a walk every day.", answer: "take" },
 { category: 'Verbs:common', question: "I [BLANK] my homework every night.", answer: "do" },
 { category: 'Verbs:common', question: "I [BLANK] to school every day.", answer: "go" },
