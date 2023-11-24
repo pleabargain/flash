@@ -9,9 +9,9 @@ const flashcards = [
 { category: 'Prepositions', question: 'I received a gift [BLANK] my friend.', answer: 'from' },
 { category: 'Prepositions', question: 'The message is coming [BLANK] the headquarters.', answer: 'from' },
 { category: 'Prepositions', question: 'She will travel [BLANK] Paris to Rome.', answer: 'from' },
-{ category: 'Prepositions', question: 'This technique is different [BLANK] the one we used before.', answer: 'from' },
+{ category: 'Prepositions', question: 'This [process|technique|shampoo|dehumidifier] is different [BLANK] the one we used before.', answer: 'from' },
 { category: 'Prepositions', question: 'I borrowed the book [BLANK] the library.', answer: 'from' },
-{ category: 'Prepositions', question: 'He is [BLANK] a small town in Spain.', answer: 'from' },
+{ category: 'Prepositions', question: 'He is [BLANK] a small town in Spain.', answer: 'in|from' },
 { category: 'Prepositions', question: 'The plane departed [BLANK] New York.', answer: 'from' },
 { category: 'Prepositions', question: 'They escaped [BLANK] the room through the window.', answer: 'from|out of' },
 { category: 'Prepositions', question: 'She learned Spanish [BLANK] her mother.', answer: 'from' },
@@ -23,7 +23,7 @@ const flashcards = [
 { category: 'Prepositions', question: 'I got a gift [BLANK] my friend.', answer: 'from|for' },
 { category: 'Prepositions', question: "The meeting is [BLANK] 10 o'clock.", answer: 'at' },
 { category: 'Prepositions', question: 'I am [BLANK] the exam.', answer: 'at' },
-{ category: 'Prepositions', question: 'I know her [BLANK]  name.', answer: 'by' },
+{ category: 'Prepositions', question: 'I know her [BLANK] her name.', answer: 'by' },
 { category: 'Prepositions', question: "I saw her [BLANK] the bookstore.", answer: "near|close to |next to |at|in|inside" },
 { category: 'Prepositions', question: "I went to the park [BLANK] my dog.", answer: "with" },
 { category: 'Prepositions', question: "I put the book [BLANK] the table.", answer: "on|under|next to" },
@@ -2744,6 +2744,7 @@ const flashcards = [
 { category: 'Interjections', question: "Phew! That was a [BLANK] call!", answer: "\"tough|close|strange\"" },
 { category: 'Interjections', question: "Yeehaw! I'm finally [BLANK]!", answer: "\"free|done|finished|rich\"" },
 //Common phrases
+//that would be pereftc
 
 { "category": "Common phrases", "question": "It's pretty cheap!", "answer": "Wow! It's pretty cheap!" },
 { "category": "Common phrases", "question": "It's pretty much the same.", "answer": "Most cities are pretty much the same." },
@@ -2967,6 +2968,110 @@ const flashcards = [
   "question": "I'm sorry I don't understand. Can you explain it to me?",
   "answer": "I need more information to understand your question. Could you please rephrase it or provide more context?"
 },
+
+{
+  "category": "Clarifying Phrases",
+  "question": "context asking about meaning: What do you mean by that?",
+  "answer": "I'm not sure what you mean by 'formal dress code.' Could you show me some examples?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when not understanding a question: Sorry, I don't understand your question.",
+  "answer": "Would you mind rephrasing it for me? I'm not sure I understand."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when confused about instructions: Sorry, I'm confused.",
+  "answer": "Should I take this medicine three times a day or four?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when not following an explanation: Hmm, I don't quite follow you.",
+  "answer": "Could you explain that to me again? I'm afraid I'm not following."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for confirming understanding: You mean...?",
+  "answer": "This phrase is used to confirm what the other person meant."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for specifying meaning: As in...?",
+  "answer": "This phrase is used to ask for a specific meaning or example."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for confirming a statement: So you're saying...?",
+  "answer": "This phrase is used to confirm the other person's statement or opinion."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context asking about meaning at work: What do you mean by that?",
+  "answer": "I'm not sure what you mean by 'streamlining the process.' Can you give an example of how we'd implement that in our team?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when not understanding a question at home: Sorry, I don't understand your question.",
+  "answer": "Would you mind rephrasing that? I'm not sure what you're asking about the weekend plans."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when confused about instructions at work: Sorry, I'm confused.",
+  "answer": "Are you saying I should handle the client meeting alone, or will there be a team with me?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when not following an explanation at home: Hmm, I don't quite follow you.",
+  "answer": "Could you explain how the new thermostat works again? I'm not quite getting it."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for confirming understanding at work: You mean...?",
+  "answer": "So, you mean we should delay the product launch until Q3, correct?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for specifying meaning at home: As in...?",
+  "answer": "Do you mean 'early' as in 7 AM, or more like 9 AM for the brunch?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for confirming a statement at work: So you're saying...?",
+  "answer": "So you're saying the budget for this project has been cut by 20%?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for understanding a complex statement at home: If I understand you correctly...",
+  "answer": "If I understand you correctly, you're suggesting we host Thanksgiving this year instead of going to your parents' house?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when asking for more details at work: Could you elaborate, please?",
+  "answer": "Could you elaborate on your expectations for the quarterly report? I want to make sure I include all necessary details."
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when needing a breakdown of information at home: Could you break that down for me?",
+  "answer": "Can you break down the steps for installing the new software on the computer? I'm not very tech-savvy."
+},
+
+
+{
+  "category": "Clarifying Phrases",
+  "question": "context for understanding a complex statement: If I understand you correctly...",
+  "answer": "So if I understand you correctly, you feel that you were unfairly fired from your job?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when asking for more details: Could you elaborate, please?",
+  "answer": "I'm not sure I follow. Could you elaborate on that for me?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context when needing a breakdown of information: Could you break that down for me?",
+  "answer": "How much money did he steal and who are all the victims?"
+},
+
 {
   "category": "Clarifying Phrases",
   "question": "Could you please repeat that?",
