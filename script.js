@@ -2870,7 +2870,7 @@ const flashcards = [
 {
   "category": "Transition words",
   "question": "Additional comments or ideas: additionally",
-  "answer": "Each of the jockeys is additionally charged with passing on information for gain."
+  "answer": "Each of the horse jockeys is additionally [accused of|charged with] passing on information for gain."
 },
 {
   "category": "Transition words",
