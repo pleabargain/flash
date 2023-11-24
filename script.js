@@ -287,7 +287,7 @@ const flashcards = [
 //
 
 
-{ category: 'Pronouns: Interrogative', question: "______ are you going?", answer: "Where|When" },
+{ category: 'Pronouns: Interrogative', question: "______ are you going?", answer: "Where|When|Why" },
     { category: 'Pronouns: Interrogative', question: "______ did you meet her?", answer: "Where|When|Why" },
     { category: 'Pronouns: Interrogative', question: "______ is the nearest grocery store?", answer: "Where" },
     { category: 'Pronouns: Interrogative', question: "______ were you last night?", answer: "Where" },
@@ -303,14 +303,14 @@ const flashcards = [
     { category: 'Pronouns: Interrogative', question: "______ is your birthday?", answer: "When" },
     { category: 'Pronouns: Interrogative', question: "______ do we have to submit the project?", answer: "When" },
     { category: 'Pronouns: Interrogative', question: "______ are you going to finish your work?", answer: "When" },
-    { category: 'Pronouns: Interrogative', question: "______ are you meeting him?", answer: "Who" },
+    { category: 'Pronouns: Interrogative', question: "______ are you meeting him?", answer: "Where|When" },
     { category: 'Pronouns: Interrogative', question: "______ is your best friend?", answer: "Who" },
     { category: 'Pronouns: Interrogative', question: "______ won the match yesterday?", answer: "Who" },
     { category: 'Pronouns: Interrogative', question: "______ told you this story?", answer: "Who" },
     { category: 'Pronouns: Interrogative', question: "______ are you going to vote for?", answer: "Who" },
   
       { category: 'Pronouns: Interrogative', question: "______ is the deadline for this project?", answer: "What" },
-      { category: 'Pronouns: Interrogative', question: "______ are we having the team meeting?", answer: "Where" },
+      { category: 'Pronouns: Interrogative', question: "______ are we having the team meeting?", answer: "Where|Why|When" },
       { category: 'Pronouns: Interrogative', question: "______ is responsible for the quarterly report?", answer: "Who" },
       { category: 'Pronouns: Interrogative', question: "______ are the meeting minutes from last week?", answer: "Where" },
       { category: 'Pronouns: Interrogative', question: "______ do we expect the client's feedback?", answer: "When" },
@@ -328,7 +328,7 @@ const flashcards = [
       { category: 'Pronouns: Interrogative', question: "______ can I discuss my career progression with?", answer: "Who" },
       { category: 'Pronouns: Interrogative', question: "______ are the risks associated with this plan?", answer: "What" },
       { category: 'Pronouns: Interrogative', question: "______ will we review the project milestones?", answer: "When" },
-      { category: 'Pronouns: Interrogative', question: "______ is the procedure for remote work applications?", answer: "What" },
+      { category: 'Pronouns: Interrogative', question: "______ is the procedure for remote work applications?", answer: "Where|What" },
   
 //
 // Pronouns:demonstrative 
@@ -645,6 +645,7 @@ const flashcards = [
     "answer": "I haven't been paid yet, so I can only go window shopping."
   },
 
+  //nowadays
 
   {
     "category": "Idioms",
@@ -2774,7 +2775,10 @@ const flashcards = [
   { "category": "Common phrases", "question": "I don't know how to use it.", "answer": "I don't know how to use [it| this device]." },
   { "category": "Common phrases", "question": "I don't like him.", "answer": "I don't like him because he's rude." },
   { "category": "Common phrases", "question": "I don't like it.", "answer": "I don't like it when it rains." },
-  { "category": "Common phrases", "question": "I don't speak very well.", "answer": "I don't speak French very well." },
+  { "category": "Common phrases", "question": "I don't like it.", "answer": "I don't like it when it rains." },
+  { "category": "Common phrases", "question": "Can I have a glass of water?", "answer": "Sure you can! I'll get you a glass of water!" },
+  //can I have a glass of water
+  { "category": "Common phrases", "question": "Sorry. I don't speak English very well.", "answer": "I don't speak English very well." },
   { "category": "Common phrases", "question": "I don't understand.", "answer": "I don't understand the instructions." },
   { "category": "Common phrases", "question": "I don't want it.", "answer": "I don't want it, you can have it." },
   { "category": "Common phrases", "question": "I don't want that.", "answer": "I don't want that, I prefer something else." },
@@ -3044,10 +3048,16 @@ const flashcards = [
   "question": "context for understanding a complex statement at home: If I understand you correctly...",
   "answer": "If I understand you correctly, you're suggesting we host Thanksgiving this year instead of going to your parents' house?"
 },
+
+//at that time
+//so on and so forth
+//I have to do some research.
+//my first thought
+//Ultimately, I think...
 {
   "category": "Clarifying Phrases",
   "question": "context when asking for more details at work: Could you elaborate, please?",
-  "answer": "Could you elaborate on your expectations for the quarterly report? I want to make sure I include all necessary details."
+  "answer": "Could you elaborate on why 5G technology is better? Could you elaborate on your expectations for the quarterly report? I want to make sure I include all necessary details."
 },
 {
   "category": "Clarifying Phrases",
@@ -4462,7 +4472,7 @@ const flashcards = [
       { category: 'Pronouns:Indefinite', question: "[BLANK] of the two options seems suitable for our needs.", answer: "Either" },
       { category: 'Pronouns:Indefinite', question: "There isn't [BLANK] milk left in the fridge.", answer: "much" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] received an invitation to the meeting.", answer: "Everyone|They" },
-      { category: 'Pronouns:Indefinite', question: "[BLANK] in the audience clapped after the performance.", answer: "Everybody" },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] in the audience clapped after the performance.", answer: "Everybody|Nobody" },
       { category: 'Pronouns:Indefinite', question: "She has [BLANK] to say about the new policy.", answer: "something|nothing" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] knows the truth about what happened.", answer: "No one" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] in the team is responsible for their own tasks.", answer: "Each" },
@@ -4471,7 +4481,7 @@ const flashcards = [
       { category: 'Pronouns:Indefinite', question: "There's [BLANK] important in this folder.", answer: "something" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] of the cakes were eaten at the party.", answer: "All" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] has borrowed my pen and not returned it.", answer: "Somebody" },
-      { category: 'Pronouns:Indefinite', question: "We need [BLANK] more chairs for the meeting room.", answer: "a few" },
+      { category: 'Pronouns:Indefinite', question: "We need [BLANK] more chairs for the meeting room.", answer: "a few|some|a lot" },
       { category: 'Pronouns:Indefinite', question: "There is [BLANK] sugar left in the jar.", answer: "little" },
       { category: 'Pronouns:Indefinite', question: "[BLANK] of them knew the answer to the question.", answer: "Neither" },
       { category: 'Pronouns:Indefinite', question: "Is there [BLANK] in the office who can fix the printer?", answer: "anybody" },
