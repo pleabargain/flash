@@ -1692,12 +1692,24 @@ const flashcards = [
 
 //
 
+//noun phrases
+//labor shortage
+//
+
 // Continuing from the previous entries...
 {
   "category": "Phrasal verbs: work",
   "question": "Can you please _____ that important point in the meeting minutes?",
   "answer": "write down|note down"
 },
+{
+  "category": "Phrasal verbs: work",
+  "question": "The numbers don't  _____! We need to check the calculations again.",
+  "answer": "add up"
+},
+
+
+
 {
   "category": "Phrasal verbs: work",
   "question": "After ten years of service, the CEO decided to _____ from his position.",
@@ -1821,6 +1833,234 @@ const flashcards = [
   question: "What does 'lay off' mean in a workplace?",
   answer: "'Lay off' is used when a company dismisses employees, often due to financial constraints or restructuring. I just got fired. I just got laid off."
 },
+
+
+{
+  category: "Phrasal verbs: work",
+  question: "renew the contract",
+  answer: "We have asked them to renew the contract."
+},
+
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you receive important information and decide to take action because of it, you ___ ___ it.",
+  "answer": "act on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If a machine or part of your body starts to behave badly or strangely, it is said to ___ ___.",
+  "answer": "act up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you are held responsible for a problem, you ___ ___  it.",
+  "answer": "answer for"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you need information or help and you ask a number of people, you ___ ___.",
+  "answer": "ask around"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When an event or a plan is cancelled, it is ___ ___.",
+  "answer": "called off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To continue an activity or process without interruption, you ___ ___.",
+  "answer": "carry on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you review or revise something, you ___ ___ it.",
+  "answer": "go over"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you ask someone to wait for a short time, you ask them to ___ ___.",
+  "answer": "hold on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To continue doing something, especially an action or a process, you ___ ___.",
+  "answer": "keep on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you maintain a continuous action or persist in doing something, you ___ it ___ ",
+  "answer": "keep up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you go somewhere and collect something that someone else has left or sent, you ___ it __.",
+  "answer": "pick up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you start wearing something, you ___ it ___.",
+  "answer": "put on"
+},
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you need to cancel an event or meeting, you ___ it ___",
+  "answer": "call off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To continue with your work or activity, you ___ ___",
+  "answer": "carry on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you persist in doing something, you ___ ___",
+  "answer": "keep on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you maintain a continuous action or persist in doing something, you ___ it ___",
+  "answer": "keep up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To decline an opportunity or chance, you ___ it ___",
+  "answer": "pass up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you need to collect something, perhaps from another department, you ___ it ___",
+  "answer": "pick up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you postpone a meeting or an event, you ___ it ___",
+  "answer": "put off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To begin wearing something, like a safety vest, you ___ it ___",
+  "answer": "put on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To stop a machine or equipment, you ___ it ___",
+  "answer": "turn off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To start a machine, like a computer, you ___ it ___",
+  "answer": "turn on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you increase the volume or temperature, you ___ it ___",
+  "answer": "turn up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To stop sleeping, especially in the morning, you ___ ___",
+  "answer": "wake up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To achieve success effortlessly, especially in a competition, you ___ ___ ___ the award",
+  "answer": "walk off with"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you solve a problem or find an answer, you ___ it ___",
+  "answer": "work out"
+},
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you need to calm someone down from being angry or emotionally excited, you tell them to ___ ___",
+  "answer": "calm down"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you manage to reach someone who was ahead of you, perhaps in a project or task, you ___ ___",
+  "answer": "catch up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When someone faints or loses consciousness, possibly due to stress or overwork, they ___ ___",
+  "answer": "pass out"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If a plane leaves the ground or departs, it is said to ___ ___",
+  "answer": "take off"
+},
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you encourage someone to persevere in a difficult situation, you might say, '___ ___ it'",
+  "answer": "hang in"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To express the process of making a decision after considering all the options, you ___ ___ a decision",
+  "answer": "hammer out"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When a meeting or discussion is temporarily stopped, you ___ it ___",
+  "answer": "hold off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you are delaying a decision or action, you might be said to ___ it ___",
+  "answer": "hold up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you want someone to explain or justify their actions in a work scenario, you ask them to ___ it ___",
+  "answer": "justify it"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To discuss something in a detailed and serious manner, often to solve a problem, you ___ it ___",
+  "answer": "knock around"
+},
+
+{
+  "category": "Phrasal verbs",
+  "question": "If you are reducing something, like expenses or time spent on a task, you ___ it ___",
+  "answer": "knock down"
+},
+
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you successfully deal with a difficult situation or find a solution, you ___ ___ it",
+  "answer": "get through"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To start working seriously and with determination, especially after a delay, you ___ ___ to work",
+  "answer": "get down"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you manage to make someone understand or believe something, you ___ it ___ to them",
+  "answer": "get across"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To receive information or a message, especially officially or formally, you ___ it ___",
+  "answer": "get in"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you start to seriously think or focus on a task, especially a difficult one, you ___ ___ to it",
+  "answer": "get down"
+},
+
+
+
 {
   category: "Phrasal verbs: work",
   question: "Can you explain 'run by' in a work environment?",
@@ -1858,6 +2098,102 @@ const flashcards = [
   { category: "Phrasal verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "switch off|turn off" },
   { category: "Phrasal verbs:home", question: "To ___ ___ involves starting the operation of a device.", answer: "turn on" },
   { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface, especially by rubbing it.", answer: "wipe down" },
+
+//
+{
+  "category": "Time phrases",
+  "question": "We need to update the software ___ ___ ___ ___ ___ .",
+  "answer": "every now and then"
+},
+{
+  "category": "Time phrases",
+  "question": "She visits her hometown ___ ___ ___ ___ .",
+  "answer": "now and then"
+},
+{
+  "category": "Time phrases",
+  "question": "The team holds meetings ___ ___ ___ ___ .",
+  "answer": "every so often"
+},
+{
+  "category": "Time phrases",
+  "question": "He checks his email ___ ___ ___ .",
+  "answer": "at times"
+},
+{
+  "category": "Time phrases",
+  "question": "I think about changing careers ___ ___ ___ .",
+  "answer": "now and again"
+},
+{
+  "category": "Time phrases",
+  "question": "The manager evaluates the process ___ ___ .",
+  "answer": "on occasion"
+},
+{
+  "category": "Time phrases",
+  "question": "Our company organizes team-building activities  ___ .",
+  "answer": "occasionally"
+},
+{
+  "category": "Time phrases",
+  "question": "Employees are allowed to work remotely ___ ___ ___ .",
+  "answer": "off and on"
+},
+
+{
+  "category": "Time phrases",
+  "question": "I hear from my colleagues ___ ___  ___ .",
+  "answer": "here and there"
+},
+{
+  "category": "Time phrases",
+  "question": "Our office holds casual Fridays ___ ___ ___ .",
+  "answer": "at times"
+},
+{
+  "category": "Time phrases",
+  "question": "We receive performance reviews ___ ___ ___ ___ .",
+  "answer": "every now and again"
+},
+{
+  "category": "Time phrases",
+  "question": "The CEO visits our branch ___ ___ ___ .",
+  "answer": "sometimes"
+},
+
+{
+  "category": "Time phrases",
+  "question": "The department schedules training sessions ___ ___ ___ .",
+  "answer": "now and then"
+},
+{
+  "category": "Time phrases",
+  "question": "Our team has brainstorming sessions ___ ___  ___ .",
+  "answer": "every so often"
+},
+{
+  "category": "Time phrases",
+  "question": "I check the project's progress ___ ___ .",
+  "answer": "on occasion"
+},
+{
+  "category": "Time phrases",
+  "question": "We update our clients about the project ___  ___ .",
+  "answer": "at times"
+},
+{
+  "category": "Time phrases",
+  "question": "The IT support is available ___ ___ ___ .",
+  "answer": "off and on"
+},
+{
+  "category": "Time phrases",
+  "question": "The company reviews its policies ___ ___ ___ ___ .",
+  "answer": "every now and again"
+},
+
+
 
 //
 {
@@ -2180,7 +2516,219 @@ const flashcards = [
 },
 
 
+//
+{
+  "category": "Expressing opinions",
+  "question": "context: Agreeing With Someone's Opinion: Yes, definitely!",
+  "answer": "Yes, definitely! We should do it!"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Agreeing With Someone's Opinion: I feel the same way.",
+  "answer": "I feel the same way. Your idea is great!"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Agreeing With Someone's Opinion: I agree with you.",
+  "answer": "I agree with you. That's exactly what I was thinking."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Agreeing With Someone's Opinion: That's a very valid point.",
+  "answer": "That's a very valid point. I hadn't considered that aspect."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Agreeing With Someone's Opinion: I think what you said is true.",
+  "answer": "I think what you said is true. It aligns with the facts."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Agreeing With Someone's Opinion: You're right!",
+  "answer": "You're right! This is the best approach."
+},
 
+  {
+      "category": "Expressing opinions",
+      "question": "context: Disagreeing With Someone's Opinion: I understand.",
+      "answer": "I understand where you're coming from, but I have a different perspective."
+  },
+  {
+      "category": "Expressing opinions",
+      "question": "context: Disagreeing With Someone's Opinion: I see your point.",
+      "answer": "I see your point, however, I think there's another side to consider."
+  },
+  {
+      "category": "Expressing opinions",
+      "question": "context: Disagreeing With Someone's Opinion: That makes sense.",
+      "answer": "That makes sense, but I'd like to add some thoughts of my own."
+  },
+  {
+      "category": "Expressing opinions",
+      "question": "context: Disagreeing With Someone's Opinion: I couldn't agree more.",
+      "answer": "I couldn't agree more with certain aspects, but here's another viewpoint."
+  },
+  {
+      "category": "Expressing opinions",
+      "question": "context: Disagreeing With Someone's Opinion: You've got a good point there.",
+      "answer": "You've got a good point there, but let me share a different idea."
+  },
+  {
+      "category": "Expressing opinions",
+      "question": "context: Disagreeing With Someone's Opinion: I'm on the same page as you.",
+      "answer": "I'm on the same page as you to an extent, but here's what I think."
+  },
+  {
+      "category": "Expressing opinions",
+      "question": "context: Disagreeing With Someone's Opinion: Let's agree to disagree, shall we?",
+      "answer": "Let's agree to disagree on this topic and consider other perspectives."
+  },
+
+
+
+{
+  "category": "Expressing opinions",
+  "question": "context: Disagreeing With Someone's Opinion: I'm not so sure about that.",
+  "answer": "I'm not so sure about that. We might need to consider other factors."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Expressing Doubt: That doesn't sound right to me.",
+  "answer": "That doesn't sound right to me. Can we verify that information?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Suggesting a Different Perspective: Have you considered...?",
+  "answer": "Have you considered a different approach? It might work better."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Offering a Compromise: Perhaps we could... instead.",
+  "answer": "Perhaps we could try a different method instead. What do you think?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Asking for More Information: Can you explain that further?",
+  "answer": "Can you explain that further? I'd like to understand your point better."
+},
+
+{
+  "category": "Expressing opinions",
+  "question": "context: Concluding Your Opinion: In conclusion...",
+  "answer": "In conclusion, I believe my points clearly support my argument."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Concluding Your Opinion: From this, we can conclude...",
+  "answer": "From this, we can conclude that there are several valid perspectives on this issue."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Concluding Your Opinion: To sum up...",
+  "answer": "To sum up, both sides have their merits, but I lean towards one."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Concluding Your Opinion: This proves that...",
+  "answer": "This proves that the approach I support is the most feasible."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Concluding Your Opinion: What do you think?",
+  "answer": "I've shared my views, but what do you think about this topic?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Concluding Your Opinion: That is why...",
+  "answer": "That is why I firmly stand by my opinion on this matter."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Concluding Your Opinion: Can you suggest an alternative?",
+  "answer": "I've stated my case, but can you suggest an alternative viewpoint?"
+},
+
+{
+  "category": "Expressing opinions",
+  "question": "context: Expressing a strong belief: I firmly believe that...",
+  "answer": "I firmly believe that education is key to success."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Suggesting a possibility: It's possible that...",
+  "answer": "It's possible that we can find a solution if we work together."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Indicating uncertainty: I'm not certain, but...",
+  "answer": "I'm not certain, but I think we might be overlooking an important detail."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Proposing an idea: What if we try...",
+  "answer": "What if we try a new approach to solve this problem?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Expressing a preference: I prefer...",
+  "answer": "I prefer working in a team rather than alone."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Acknowledging a different perspective: I understand your point, however...",
+  "answer": "I understand your point, however, I have a different view on this matter."
+},
+
+{
+  "category": "Expressing opinions",
+  "question": "context: Sharing a New Idea: I've been thinking...",
+  "answer": "I've been thinking, perhaps we could streamline our process by adopting new software."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Responding to a Proposal: That's an interesting proposal...",
+  "answer": "That's an interesting proposal, but have we considered the budget constraints?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Giving Constructive Feedback: I see what you're aiming for...",
+  "answer": "I see what you're aiming for, but maybe we can enhance it by adding more user-friendly features."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Suggesting an Improvement: What if we tried...",
+  "answer": "What if we tried a different approach to increase our team's efficiency?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Addressing a Challenge: The challenge here is...",
+  "answer": "The challenge here is balancing quality with speed, but I think we can manage it with proper planning."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Offering a Different Perspective: Have you considered...?",
+  "answer": "Have you considered the potential impact this decision will have on our long-term goals?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Expressing Agreement with Reservations: I agree, however...",
+  "answer": "I agree with the general direction; however, I think we need more data before proceeding."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Expressing a Strong Opinion: I strongly believe...",
+  "answer": "I strongly believe that shifting our focus to customer satisfaction will drive better results."
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Questioning a Decision: Are we sure that...",
+  "answer": "Are we sure that this is the best approach given our current market position?"
+},
+{
+  "category": "Expressing opinions",
+  "question": "context: Suggesting Caution: We should consider...",
+  "answer": "We should consider potential risks before implementing this strategy."
+},
 
   //
 
@@ -2196,6 +2744,11 @@ const flashcards = [
 { category: 'Interjections', question: "Phew! That was a [BLANK] call!", answer: "\"tough|close|strange\"" },
 { category: 'Interjections', question: "Yeehaw! I'm finally [BLANK]!", answer: "\"free|done|finished|rich\"" },
 //Common phrases
+
+{ "category": "Common phrases", "question": "It's pretty cheap!", "answer": "Wow! It's pretty cheap!" },
+{ "category": "Common phrases", "question": "It's pretty much the same.", "answer": "Most cities are pretty much the same." },
+
+
 { "category": "Common phrases", "question": "Be careful.", "answer": "Be careful while driving.| Be careful the soup is hot!" },
   { "category": "Common phrases", "question": "Can you translate this for me?", "answer": "Can you translate this sentence for me?" },
   { "category": "Common phrases", "question": "Chicago is very different from Boston.", "answer": "Indeed, Chicago's culture is very different from Boston's." },

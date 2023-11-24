@@ -2,6 +2,7 @@
 create JS array flashcards about phrasal verbs found at work
 Use CLOZE question format
 
+https://www.usingenglish.com/reference/phrasal-verbs/
 
 Use this format:
  {
