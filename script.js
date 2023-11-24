@@ -2755,12 +2755,12 @@ const flashcards = [
 {
   "category": "Marketing",
   "question": "The [BLANK] of marketing are the four Ps: product, price, place, and promotion.",
-  "answer": "elements"
+  "answer": "principles|elements"
 },
 {
   "category": "Marketing",
-  "question": "The [BLANK] of marketing is the process of understanding the needs and wants of consumers.",
-  "answer": "research"
+  "question": "Conducting [BLANK] is the process of understanding the needs and wants of consumers.",
+  "answer": "market research"
 },
 {
   "category": "Marketing",
