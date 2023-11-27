@@ -3056,8 +3056,328 @@ const flashcards = [
     "question": "I am totally agree.",
     "answer": "I totally agree."
   },
-  
-  
+  // past simple
+  { 
+    category: 'Past Simple Tense', 
+    question: "Complete the sentence in past simple tense: I (go) to the store yesterday.", 
+    answer: "went" 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She writes a letter.", 
+    answer: "She wrote a letter." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "What is the past simple tense of 'run'?", 
+    answer: "ran" 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Form a sentence in past simple tense: They (not / understand) the instructions.", 
+    answer: "They didn't understand the instructions." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He is playing football.", 
+    answer: "He played football." 
+  },
+
+  //past coninuous
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Form a sentence in past continuous tense: I (read) a book when he called.", 
+    answer: "I was reading a book when he called." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Change to past continuous tense: She sings a song.", 
+    answer: "She was singing a song." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "What is the past continuous form of 'stand'?", 
+    answer: "was standing / were standing" 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Complete the sentence in past continuous tense: They (watch) TV when it started to rain.", 
+    answer: "They were watching TV when it started to rain." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Change to past continuous tense: He finds a parking place.", 
+    answer: "He was finding a parking place." 
+  },
+
+  //
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Form a sentence in past perfect tense: After they (eat) dinner, they went for a walk.", 
+    answer: "After they had eaten dinner, they went for a walk." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Change to past perfect tense: She writes a book.", 
+    answer: "She had written a book." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "What is the past perfect form of 'see'?", 
+    answer: "had seen" 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: I (not / finish) my homework when my friend called.", 
+    answer: "I hadn't finished my homework when my friend called." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Change to past perfect tense: He finds the solution.", 
+    answer: "He had found the solution." 
+  },
+  ///
+  { 
+    category: 'Past Perfect Continuous Tense', 
+    question: "Form a sentence in past perfect continuous tense: They (wait) for the bus for 30 minutes before it arrived.", 
+    answer: "They had been waiting for the bus for 30 minutes before it arrived." 
+  },
+  { 
+    category: 'Past Perfect Continuous Tense', 
+    question: "Change to past perfect continuous tense: She is reading a book.", 
+    answer: "She had been reading a book." 
+  },
+  { 
+    category: 'Past Perfect Continuous Tense', 
+    question: "What is the past perfect continuous form of 'work'?", 
+    answer: "had been working" 
+  },
+  { 
+    category: 'Past Perfect Continuous Tense', 
+    question: "Complete the sentence in past perfect continuous tense: I (write) an essay for two hours when she called.", 
+    answer: "I had been writing an essay for two hours when she called." 
+  },
+  { 
+    category: 'Past Perfect Continuous Tense', 
+    question: "Change to past perfect continuous tense: They are playing football.", 
+    answer: "They had been playing football." 
+  },
+  //
+  { 
+    category: 'Present Simple Tense', 
+    question: "Form a sentence in present simple tense: She (go) to school every day.", 
+    answer: "She goes to school every day." 
+  },
+  { 
+    category: 'Present Simple Tense', 
+    question: "Change to present simple tense: They are eating lunch.", 
+    answer: "They eat lunch." 
+  },
+  { 
+    category: 'Present Simple Tense', 
+    question: "What is the present simple form of 'write'?", 
+    answer: "writes" 
+  },
+  { 
+    category: 'Present Simple Tense', 
+    question: "Complete the sentence in present simple tense: He (not / like) apples.", 
+    answer: "He doesn't like apples." 
+  },
+  { 
+    category: 'Present Simple Tense', 
+    question: "Change to present simple tense: I am reading a book.", 
+    answer: "I read a book." 
+  },
+  //
+  { 
+    category: 'Present Continuous Tense', 
+    question: "Form a sentence in present continuous tense: She (write) an email now.", 
+    answer: "She is writing an email now." 
+  },
+  { 
+    category: 'Present Continuous Tense', 
+    question: "Change to present continuous tense: They play football.", 
+    answer: "They are playing football." 
+  },
+  { 
+    category: 'Present Continuous Tense', 
+    question: "What is the present continuous form of 'sit'?", 
+    answer: "is sitting / are sitting" 
+  },
+  { 
+    category: 'Present Continuous Tense', 
+    question: "Complete the sentence in present continuous tense: We (not / watch) TV right now.", 
+    answer: "We are not watching TV right now." 
+  },
+  { 
+    category: 'Present Continuous Tense', 
+    question: "Change to present continuous tense: He reads a book.", 
+    answer: "He is reading a book." 
+  },
+  //
+  { 
+    category: 'Present Perfect Tense', 
+    question: "Form a sentence in present perfect tense: They (finish) their homework.", 
+    answer: "They have finished their homework." 
+  },
+  { 
+    category: 'Present Perfect Tense', 
+    question: "Change to present perfect tense: She writes a letter.", 
+    answer: "She has written a letter." 
+  },
+  { 
+    category: 'Present Perfect Tense', 
+    question: "What is the present perfect form of 'go'?", 
+    answer: "has gone / have gone" 
+  },
+  { 
+    category: 'Present Perfect Tense', 
+    question: "Complete the sentence in present perfect tense: I (never / see) that movie.", 
+    answer: "I have never seen that movie." 
+  },
+  { 
+    category: 'Present Perfect Tense', 
+    question: "Change to present perfect tense: He finds time to meet with his team.", 
+    answer: "He has found time to meet with his team." 
+  },
+
+//
+{ 
+  category: 'Present Perfect Continuous Tense', 
+  question: "Form a sentence in present perfect continuous tense: She (study) English since January.", 
+  answer: "She has been studying English since January." 
+},
+{ 
+  category: 'Present Perfect Continuous Tense', 
+  question: "Change to present perfect continuous tense: They are eating lunch.", 
+  answer: "They have been eating lunch." 
+},
+{ 
+  category: 'Present Perfect Continuous Tense', 
+  question: "What is the present perfect continuous form of 'work'?", 
+  answer: "has been working / have been working" 
+},
+{ 
+  category: 'Present Perfect Continuous Tense', 
+  question: "Complete the sentence in present perfect continuous tense: I (write) this essay for two hours.", 
+  answer: "I have been writing this essay for two hours." 
+},
+{ 
+  category: 'Present Perfect Continuous Tense', 
+  question: "Change to present perfect continuous tense: He reads a book.", 
+  answer: "He has been reading a book." 
+},
+
+//
+{ 
+  category: 'Future Simple Tense', 
+  question: "Form a sentence in future simple tense: She (go) to Paris next week.", 
+  answer: "She will go to Paris next week. or She is going to Paris next week." 
+},
+{ 
+  category: 'Future Simple Tense', 
+  question: "Change to future simple tense: They eat lunch.", 
+  answer: "They will eat lunch. or They are going to eat lunch" 
+},
+{ 
+  category: 'Future Simple Tense', 
+  question: "What is the future simple form of 'write'?", 
+  answer: "will write" 
+},
+{ 
+  category: 'Future Simple Tense', 
+  question: "Complete the sentence in future simple tense: He (not / play) football tomorrow.", 
+  answer: "He will not play football tomorrow." 
+},
+{ 
+  category: 'Future Simple Tense', 
+  question: "Change to future simple tense: I am reading a book.", 
+  answer: "I will read a book. or I'm going to read a bookd." 
+},
+
+//
+
+{ 
+  category: 'Future Continuous Tense', 
+  question: "Form a sentence in future continuous tense: He (drive) to work at 8 AM tomorrow.", 
+  answer: "He will be driving to work at 8 AM tomorrow." 
+},
+{ 
+  category: 'Future Continuous Tense', 
+  question: "Change to future continuous tense: She writes a letter.", 
+  answer: "She will be writing a letter." 
+},
+{ 
+  category: 'Future Continuous Tense', 
+  question: "What is the future continuous form of 'sit'?", 
+  answer: "will be sitting" 
+},
+{ 
+  category: 'Future Continuous Tense', 
+  question: "Complete the sentence in future continuous tense: They (not / sleep) at this time tomorrow.", 
+  answer: "They will not be sleeping at this time tomorrow." 
+},
+{ 
+  category: 'Future Continuous Tense', 
+  question: "Change to future continuous tense: We play football.", 
+  answer: "We will be playing football." 
+},
+
+//
+{ 
+  category: 'Future Perfect Tense', 
+  question: "Form a sentence in future perfect tense: By next year, they (complete) their studies.", 
+  answer: "By next year, they will have completed their studies." 
+},
+{ 
+  category: 'Future Perfect Tense', 
+  question: "Change to future perfect tense: She writes a book.", 
+  answer: "She will have written a book." 
+},
+{ 
+  category: 'Future Perfect Tense', 
+  question: "What is the future perfect form of 'go'?", 
+  answer: "will have gone" 
+},
+{ 
+  category: 'Future Perfect Tense', 
+  question: "Complete the sentence in future perfect tense: By the time you arrive, I (finish) the project.", 
+  answer: "By the time you arrive, I will have finished the project." 
+},
+{ 
+  category: 'Future Perfect Tense', 
+  question: "Change to future perfect tense: He finds a solution.", 
+  answer: "He will have found a solution." 
+},
+
+//
+{ 
+  category: 'Future Perfect Continuous Tense', 
+  question: "Form a sentence in future perfect continuous tense: By 3 PM, I (work) on this project for five hours.", 
+  answer: "By 3 PM, I will have been working on this project for five hours." 
+},
+{ 
+  category: 'Future Perfect Continuous Tense', 
+  question: "Change to future perfect continuous tense: They are eating lunch.", 
+  answer: "They will have been eating lunch." 
+},
+{ 
+  category: 'Future Perfect Continuous Tense', 
+  question: "What is the future perfect continuous form of 'sit'?", 
+  answer: "will have been sitting" 
+},
+{ 
+  category: 'Future Perfect Continuous Tense', 
+  question: "Complete the sentence in future perfect continuous tense: She (teach) at that school for ten years by next June.", 
+  answer: "She will have been teaching at that school for ten years by next June." 
+},
+{ 
+  category: 'Future Perfect Continuous Tense', 
+  question: "Change to future perfect continuous tense: He reads a book.", 
+  answer: "He will have been reading a book." 
+},
+
+
   //
 { category: 'Interjections', question: "Oh no! I [BLANK] my keys!", answer: "\"lost\"" },
 { category: 'Interjections', question: "Ouch! That [BLANK]!", answer: "\"hurt\"" },
