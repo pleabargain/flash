@@ -35,6 +35,94 @@ const flashcards = [
 { category: 'Prepositions', question: "I'm waiting [BLANK] my friend.", answer: "for|next to|by|with" },
 { category: 'Prepositions', question: "I'm worried [BLANK] my exam.", answer: "about" },
 
+{
+  "category": "Prepositions of Time",
+  "question": "I'll see you [BLANK] 10 minutes.",
+  "answer": "In is the correct answer because it is used to indicate a period of time."
+  },
+  
+  {
+  "category": "Prepositions of Time",
+  "question": "The train arrives [BLANK] noon.",
+  "answer": "At is the correct answer because it is used to specify a specific point in time."
+  },
+  
+  {
+  "category": "Prepositions of Time",
+  "question": "They have a meeting [BLANK] Monday morning.",
+  "answer": "On is the correct answer because it is used to specify a particular day of the week."
+  },
+  
+  {
+  "category": "Prepositions of Time",
+  "question": "The store closes [BLANK] 9 PM.",
+  "answer": "At is the correct answer because it is used to specify a specific time."
+  },
+  
+  {
+  "category": "Prepositions of Time",
+  "question": "The concert starts [BLANK] 7:30 PM.",
+  "answer": "At is the correct answer because it is used to specify a specific time."
+  },
+
+  {
+    "category": "Prepositions of Time",
+    "question": "She'll be back [BLANK] a few hours.",
+    "answer": "In is the correct answer because it is used to indicate a period of time."
+    },
+    
+    {
+    "category": "Prepositions of Time",
+    "question": "They usually have dinner [BLANK] nightfall.",
+    "answer": "At is the correct answer because it is used to specify a specific time."
+    },
+    
+    {
+    "category": "Prepositions of Time",
+    "question": "The event is scheduled for [BLANK] November 15th.",
+    "answer": "On is the correct answer because it is used to specify a particular date."
+    },
+    
+    {
+    "category": "Prepositions of Time",
+    "question": "She will arrive [BLANK] the weekend.",
+    "answer": "During is the correct answer because it is used to indicate a period within the weekend."
+    },
+    
+    {
+    "category": "Prepositions of Time",
+    "question": "He wakes up early [BLANK] the morning.",
+    "answer": "In is the correct answer because it is used to indicate a period of time."
+    },
+    {
+      "category": "Prepositions of Time",
+      "question": "I'll call you [BLANK] a moment.",
+      "answer": "In is the correct answer because it is used to indicate a short period of time."
+    },
+    
+    {
+      "category": "Prepositions of Time",
+      "question": "The party starts [BLANK] 8:00 PM and ends [BLANK] midnight.",
+      "answer": "At is the correct answer for both blanks because it is used to specify specific times."
+    },
+    
+    {
+      "category": "Prepositions of Time",
+      "question": "We're leaving for vacation [BLANK] Friday.",
+      "answer": "On is the correct answer because it is used to specify a particular day of the week."
+    },
+    
+    {
+      "category": "Prepositions of Time",
+      "question": "The conference is scheduled [BLANK] October 20th and [BLANK] October 22nd.",
+      "answer": "On is the correct answer for both blanks because it is used to specify specific dates."
+    },
+    
+    {
+      "category": "Prepositions of Time",
+      "question": "She's been working here [BLANK] three years.",
+      "answer": "For is the correct answer because it is used to indicate the duration of time."
+    },
 
 //
 {
@@ -2738,7 +2826,13 @@ const flashcards = [
     "answer": "I go to the store."
   },
   
-  
+  {
+    "category": "Errors",
+    "question": "He came in Saturday.",
+    "answer": "He [arrived|came|got in] on Saturday."
+  },
+
+
   {
     "category": "Errors",
     "question": "I am good person.",
@@ -3693,6 +3787,233 @@ const flashcards = [
   "question": "context for understanding a complex statement at home: If I understand you correctly...",
   "answer": "If I understand you correctly, you're suggesting we host Thanksgiving this year instead of going to your parents' house?"
 },
+//
+
+{
+  "category": "Used to",
+  "question": "She [BLANK] to live in New York, but now she resides in California.",
+  "answer": "used"
+},
+
+{
+  "category": "Used to",
+  "question": "We [BLANK] to go camping in the mountains every summer, but this year we're going to the beach.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "They [BLANK] the old train station as a museum now.",
+  "answer": "use"
+},
+
+{
+  "category": "Used to",
+  "question": "I [BLANK] work late hours, but I changed my schedule recently.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "My sister [BLANK] be a vegetarian, but she started eating meat again.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "She [BLANK]  be the manager of the department, but now she's a consultant.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "We [BLANK] use traditional paperwork, but now everything is digital.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "He [BLANK] travel frequently for business, but now he works remotely.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "The team [BLANK] have weekly meetings, but now they meet biweekly.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "I [BLANK]  dress formally for the office, but now it's a casual dress code.",
+  "answer": "used to"
+},
+{
+  "category": "Used to",
+  "question": "They [BLANK] to follow a strict hierarchical structure, but now they promote flat organization.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "She [BLANK] use the old software, but now she has upgraded to the latest version.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "We [BLANK] have a designated smoking area, but now it's a smoke-free workplace.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "I [BLANK]  rely on printed documents, but now I prefer digital files.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "He [BLANK] work overtime regularly, but now he values work-life balance.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "The company [BLANK] outsource IT support, but now they have an in-house IT team.",
+  "answer": "used to"
+},
+
+{
+  "category": "Use to vs Used to",
+"question":"Didn’t she [BLANK] play the flute?",
+"answer": "use to",
+},
+
+{
+  "category": "Use to vs Used to",
+  "question": "Didn’t they [BLANK] attend the same school?",
+  "answer": "use to"
+},
+
+{
+  "category": "Used to",
+  "question": "We [BLANK] print a lot of paper documents for meetings, but now we use electronic presentations.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "He [BLANK] be the receptionist, but he was promoted to the marketing department.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "The team [BLANK] work late into the night to meet deadlines, but they have improved their time management.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "I [BLANK] attend monthly seminars, but now I prefer online courses for professional development.",
+  "answer": "used to "
+},
+
+{
+  "category": "Used to",
+  "question": "The office [BLANK] have cubicles, but they recently switched to an open workspace layout.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "She [BLANK] attend weekly team meetings, but now they're held bi-weekly.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "We [BLANK]  use a manual filing system, but now we have a digital document management system.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "I [BLANK] send faxes for official documents, but now we use email for most communications.",
+  "answer": "used to"
+},
+
+{
+  "category": "Used to",
+  "question": "He [BLANK] be the team leader, but he recently took on a different role in the company.",
+  "answer": "used to"
+},
+
+
+//
+{
+  "category": "Reported speech",
+  "question": "Do you like chocolate?",
+  "answer": "He asked me if I liked chocolate."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Can you help me with this task?",
+  "answer": "She asked if I could help her with that task."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Will you be attending the meeting tomorrow?",
+  "answer": "They asked me if I would be attending the meeting the next day."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Have you ever been to Paris?",
+  "answer": "He inquired whether I had ever been to Paris."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Are they coming to the party?",
+  "answer": "She wondered if they were coming to the party."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Did you eat dinner?",
+  "answer": "She asked me if I had eaten dinner."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Can you swim?",
+  "answer": "He wanted to know if I could swim."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Will they go to the concert?",
+  "answer": "They inquired whether they would go to the concert."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Have you ever seen a ghost?",
+  "answer": "She wondered if I had ever seen a ghost."
+},
+
+{
+  "category": "Reported speech",
+  "question": "Are you wearing your new shoes?",
+  "answer": "He asked if I was wearing my new shoes."
+},
+
+
+
 
 //at that time
 //so on and so forth
