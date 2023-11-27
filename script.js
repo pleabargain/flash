@@ -2732,7 +2732,332 @@ const flashcards = [
 },
 
   //
-
+  {
+    "category": "Errors",
+    "question": "I go to store.",
+    "answer": "I go to the store."
+  },
+  
+  
+  {
+    "category": "Errors",
+    "question": "I am good person.",
+    "answer": "I am a good person."
+  },
+  {
+    "category": "Errors",
+    "question": "I feel myself hungry.",
+    "answer": "I feel hungry."
+  },
+  {
+    "category": "Errors",
+    "question": "I feel myself not confident.",
+    "answer": "I don't feel confident."
+  },
+  {
+    "category": "Errors",
+    "question": "I was waiting my friend on the library.",
+    "answer": "I was waiting for my friend at the library."
+  },
+  {
+    "category": "Errors",
+    "question": "I been to Russia.",
+    "answer": "I have been to Russia."
+  },
+  {
+    "category": "Errors",
+    "question": "I like this film.",
+    "answer": "I like this movie."
+  },
+  {
+    "category": "Errors",
+    "question": "I go to store.",
+    "answer": "I go to the store."
+  },
+  
+  {
+    "category": "Errors",
+    "question": "I saw a lot of dog.",
+    "answer": "I saw a lot of dogs."
+  },
+  {
+    "category": "Errors",
+    "question": "One of the problem I have is X.",
+    "answer": "One of the problems I have is X."
+  },
+  {
+    "category": "Errors",
+    "question": "One of the thing I like is that it work.",
+    "answer": "One of the things I like is that it works."
+  },
+  {
+    "category": "Errors",
+    "question": "There are many different way.",
+    "answer": "There are many different ways."
+  },
+  {
+    "category": "Errors",
+    "question": "What are my strength.",
+    "answer": "What are my strengths?"
+  },
+  
+  {
+    "category": "Errors",
+    "question": "Advices.",
+    "answer": "Advice."
+  },
+  {
+    "category": "Errors",
+    "question": "I got some good feedbacks.",
+    "answer": "I got some good feedback."
+  },
+  
+  {
+    "category": "Errors",
+    "question": "One time a week.",
+    "answer": "Once a week."
+  },
+  
+  {
+    "category": "Errors",
+    "question": "He has much work.",
+    "answer": "He has a lot of work."
+  },
+  {
+    "category": "Errors",
+    "question": "I like apples very many.",
+    "answer": "I like apples very much."
+  },
+  {
+    "category": "Errors",
+    "question": "I live in the Kyiv.",
+    "answer": "I live in Kyiv."
+  },
+  {
+    "category": "Errors",
+    "question": "This is more better.",
+    "answer": "This is the best."
+  }
+  ,
+  {
+    "category": "Errors",
+    "question": "She told that X is easy.",
+    "answer": "She told me that X is easy."
+  },
+  {
+    "category": "Errors",
+    "question": "In the nearest past.",
+    "answer": "Recently."
+  },
+  {
+    "category": "Errors",
+    "question": "In the nearest past.",
+    "answer": "Soon."
+  },
+  {
+    "category": "Errors",
+    "question": "One time a week.",
+    "answer": "Once a week."
+  },
+  {
+    "category": "Errors",
+    "question": "I answered to all of my emails.",
+    "answer": "I answered all of my emails."
+  },
+  {
+    "category": "Errors",
+    "question": "I live on Kyiv.",
+    "answer": "I live in Kyiv."
+  },
+  {
+    "category": "Errors",
+    "question": "I want to explain you something.",
+    "answer": "I want to explain something to you."
+  },
+  {
+    "category": "Errors",
+    "question": "We are going in car.",
+    "answer": "We are going by car."
+  },
+  {
+    "category": "Errors",
+    "question": "Your friend was waiting you.",
+    "answer": "Your friend was waiting for you."
+  },
+  {
+    "category": "Errors",
+    "question": "Everyone have problems.",
+    "answer": "Everyone has problems."
+  },
+  {
+    "category": "Errors",
+    "question": "I don't understand why she were living with him.",
+    "answer": "I don't understand why she was living with him."
+  },
+  {
+    "category": "Errors",
+    "question": "She were working with X.",
+    "answer": "She was working with X."
+  },
+  {
+    "category": "Errors",
+    "question": "Many things was changed.",
+    "answer": "Many things were changed."
+  },
+  {
+    "category": "Errors",
+    "question": "I was yesterday in the park.",
+    "answer": "I was in the park yesterday."
+  },
+  {
+    "category": "Errors",
+    "question": "She said me.",
+    "answer": "She told me."
+  },
+  {
+    "category": "Errors",
+    "question": "His books is very famous.",
+    "answer": "His books are very famous."
+  },
+  {
+    "category": "Errors",
+    "question": "I'm going to found.",
+    "answer": "I'm going to find."
+  },
+  {
+    "category": "Errors",
+    "question": "I haven't think about that.",
+    "answer": "I haven't thought about that."
+  },
+  {
+    "category": "Errors",
+    "question": "It's easy to do a mistake.",
+    "answer": "It's easy to make a mistake."
+  },
+  {
+    "category": "Errors",
+    "question": "He's doing a lot of mistakes.",
+    "answer": "He's making a lot of mistakes."
+  },
+  
+  
+  {
+    "category": "Errors",
+    "question": "Nice to meet you (on seeing someone the second time).",
+    "answer": "Nice to see you again!"
+  },
+  {
+    "category": "Errors",
+    "question": "It's more safety.",
+    "answer": "It's safer."
+  },
+  {
+    "category": "Errors",
+    "question": "On the last week we started.",
+    "answer": "Last week, we started."
+  },
+  {
+    "category": "Errors",
+    "question": "There are a lot of different type.",
+    "answer": "There are a lot of different types."
+  },
+  {
+    "category": "Errors",
+    "question": "It takes many time.",
+    "answer": "It takes a lot of time."
+  },
+  {
+    "category": "Errors",
+    "question": "She wants to study kids to paint.",
+    "answer": "She wants to teach kids how to paint."
+  },
+  {
+    "category": "Errors",
+    "question": "It consist of.",
+    "answer": "It consists of."
+  },
+  {
+    "category": "Errors",
+    "question": "I think about.",
+    "answer": "I have to think about."
+  },
+  {
+    "category": "Errors",
+    "question": "I susceptible to motion to sickness.",
+    "answer": "I'm susceptible to motion sickness."
+  },
+  {
+    "category": "Errors",
+    "question": "I took participation in a organization.",
+    "answer": "I took part in an organization."
+  },
+  {
+    "category": "Errors",
+    "question": "I forgot what it is named.",
+    "answer": "I forgot what it's called."
+  },
+  {
+    "category": "Errors",
+    "question": "I don't know which style I should do.",
+    "answer": "I don't know which style I should use."
+  },
+  {
+    "category": "Errors",
+    "question": "It's not easy for every people.",
+    "answer": "It's not easy for everyone."
+  },
+  {
+    "category": "Errors",
+    "question": "I didn't see so many people as I hoped.",
+    "answer": "I didn't see as many people as I hoped."
+  },
+  {
+    "category": "Errors",
+    "question": "Take a health check.",
+    "answer": "Get a health check."
+  },
+  {
+    "category": "Errors",
+    "question": "I pay a lot of attention for X.",
+    "answer": "I pay a lot of attention to X."
+  },
+  {
+    "category": "Errors",
+    "question": "I am is interested in X.",
+    "answer": "I'm interested in X."
+  },
+  {
+    "category": "Errors",
+    "question": "To say at least.",
+    "answer": "To say the least."
+  },
+  {
+    "category": "Errors",
+    "question": "I have my lovely stores.",
+    "answer": "I have my preferred stores."
+  },
+  {
+    "category": "Errors",
+    "question": "It's commonly for them to do this.",
+    "answer": "It's common for them to do this."
+  },
+  {
+    "category": "Errors",
+    "question": "I was study for my bachelor degree.",
+    "answer": "I was studying for my bachelor's degree."
+  },
+  {
+    "category": "Errors",
+    "question": "For my opinion.",
+    "answer": "In my opinion."
+  },
+  {
+    "category": "Errors",
+    "question": "I am totally agree.",
+    "answer": "I totally agree."
+  },
+  
+  
   //
 { category: 'Interjections', question: "Oh no! I [BLANK] my keys!", answer: "\"lost\"" },
 { category: 'Interjections', question: "Ouch! That [BLANK]!", answer: "\"hurt\"" },
