@@ -2828,6 +2828,13 @@ const flashcards = [
   
   {
     "category": "Errors",
+    "question": "It helps for us a lot.",
+    "answer": "It help us a lot. _or_ It will help us a lot."
+  },
+
+
+  {
+    "category": "Errors",
     "question": "I used to work five days week.",
     "answer": "I used to work five days a week. _or_  I used to work five days per week."
   },
@@ -2849,6 +2856,14 @@ const flashcards = [
     "question": "I feel myself hungry.",
     "answer": "I feel hungry."
   },
+
+  {
+    "category": "Errors",
+    "question": "He gave me feedbacks.",
+    "answer": "He gave me feedback."
+  },
+  
+
   {
     "category": "Errors",
     "question": "I feel myself not confident.",
@@ -5535,7 +5550,7 @@ const flashcards = [
   {
     "category": "Objections",
     "question": "I don't think this meets our needs right now.",
-    "answer": "What part doesn't meet you needs? Why doesn't it meet your needs? What are your specific needs? I understand that our product may not be the right fit for you right now. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
+    "answer": "What part doesn't meet you needs? Can you clarify what are your needs? Why doesn't it meet your needs? What are your specific needs? I understand that our product may not be the right fit for you right now. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
   },
   {
     "category": "Objections",
@@ -5576,8 +5591,8 @@ const flashcards = [
   },
   {
     "category": "Objections",
-    "question": "We don't need your product.",
-    "answer": "What does your company need? We understand that you may not need our product right now. However, we're confident that our product can help you achieve your business goals. We're always happy to provide you with more information or answer any questions you may have."
+    "question": "We don't need your product. We're good!",
+    "answer": "Can you please explain why you don't need our product? We have other options! What does your company need? We understand that you may not need our product right now. However, we're confident that our product can help you achieve your business goals. We're always happy to provide you with more information or answer any questions you may have."
   },
   {
     "category": "Objections",
@@ -5616,12 +5631,12 @@ const flashcards = [
   {
     "category": "Objections",
     "question": "We don't have the bandwidth to implement it right now.",
-    "answer": "I understand that you're busy. We can help you prioritize the implementation so it fits into your schedule."
+    "answer": "When would be a good time? Maybe we can draft an integration roadmap for next year?I understand that you're busy. We can help you prioritize the implementation so it fits into your schedule."
   },
   {
     "category": "Objections",
     "question": "We're not sure if it's secure enough for our data.",
-    "answer": "I understand that security is a top priority. Our product meets the highest industry standards for data security."
+    "answer": "What are your security concerns? I understand that security is a top priority. Our product meets the highest industry standards for data security."
   },
 
   {
@@ -5706,10 +5721,11 @@ const flashcards = [
     "question": "We're not sure if it will work for us.",
     "answer": "What part won't work? I understand that you're concerned about compatibility. We offer a free trial so you can try our product risk-free."
   },
+
   {
     "category": "Objections",
     "question": "We don't have the staff to support your product.",
-    "answer": "How can we help? We have support staff that can assist. I understand that staffing is a concern. We offer a variety of training and support options to help you get the most out of our product."
+    "answer": "How can we help? How do you plan to grow your revenue? Where are you not staffed? Do you have your own support team? We have support staff that can assist. I understand that staffing is a concern. We offer a variety of training and support options to help you get the most out of our product. NOTE: This is a bullshit objection."
   },
 
 
