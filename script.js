@@ -2828,8 +2828,14 @@ const flashcards = [
   
   {
     "category": "Errors",
+    "question": "I used to work five days week.",
+    "answer": "I used to work five days a week. _or_  I used to work five days per week."
+  },
+
+  {
+    "category": "Errors",
     "question": "He came in Saturday.",
-    "answer": "He [arrived|came|got in] on Saturday."
+    "answer": "He [arrived|came in|got in] on Saturday."
   },
 
 
@@ -2858,11 +2864,7 @@ const flashcards = [
     "question": "I been to Russia.",
     "answer": "I have been to Russia."
   },
-  {
-    "category": "Errors",
-    "question": "I like this film.",
-    "answer": "I like this movie."
-  },
+ 
   {
     "category": "Errors",
     "question": "I go to store.",
@@ -2892,7 +2894,7 @@ const flashcards = [
   {
     "category": "Errors",
     "question": "What are my strength.",
-    "answer": "What are my strengths?"
+    "answer": "What are my strengths? _or_ What is my strength?"
   },
   
   {
@@ -2929,8 +2931,8 @@ const flashcards = [
   },
   {
     "category": "Errors",
-    "question": "This is more better.",
-    "answer": "This is the best."
+    "question": "This is more better!",
+    "answer": "This is the best! or This is better!"
   }
   ,
   {
@@ -2951,7 +2953,7 @@ const flashcards = [
   {
     "category": "Errors",
     "question": "One time a week.",
-    "answer": "Once a week."
+    "answer": "Once a week _or_ Once per week."
   },
   {
     "category": "Errors",
@@ -3045,6 +3047,16 @@ const flashcards = [
     "question": "It's more safety.",
     "answer": "It's safer."
   },
+
+  {
+    "category": "Errors",
+    "question": "It's not safety!",
+    "answer": "It's not safe!"
+  },
+
+
+
+
   {
     "category": "Errors",
     "question": "On the last week we started.",
@@ -3108,7 +3120,7 @@ const flashcards = [
   {
     "category": "Errors",
     "question": "Take a health check.",
-    "answer": "Get a health check."
+    "answer": "Get a health check. _or_ Get a checkup."
   },
   {
     "category": "Errors",
@@ -4185,7 +4197,7 @@ const flashcards = [
 {
   "category": "Pharmaceuticals",
   "question": "A [BLANK] is a substance that is used to prevent, diagnose, or treat disease.",
-  "answer": "drug"
+  "answer": "drug|medicine|pharmaceutical"
 },
 {
   "category": "Pharmaceuticals",
@@ -4257,10 +4269,11 @@ const flashcards = [
   "question": "A [BLANK] is a medication that is used to treat a serious medical condition.",
   "answer": "critical care medication"
 },
+
 {
   "category": "Pharmaceuticals",
   "question": "A [BLANK] is a medication that is used to prevent or treat an infection.",
-  "answer": "antimicrobial agent"
+  "answer": "antimicrobial agent|antibiotic|antifungal|antiviral"
 },
 {
   "category": "Pharmaceuticals",
@@ -4282,6 +4295,40 @@ const flashcards = [
   "question": "A [BLANK] is a medication that is used to treat cancer.",
   "answer": "chemotherapeutic agent"
 },
+
+//medical equipment
+
+
+    { category: 'Pharmacy Terms', question: "What term refers to the correctness of a result or measurement?", answer: "accuracy" },
+    { category: 'Pharmacy Terms', question: "What is the term for a recommendation or guidance offered?", answer: "advice" },
+    { category: 'Pharmacy Terms', question: "What phrase describes careful consideration and thorough examination of details?", answer: "attention to detail" },
+    { category: 'Pharmacy Terms', question: "What word describes having a lot of tasks to do?", answer: "busy" },
+    { category: 'Pharmacy Terms', question: "What term is used for a demanding situation or problem in a job?", answer: "challenge" },
+    { category: 'Pharmacy Terms', question: "What term refers to a group of people living in the same place or having a particular characteristic in common?", answer: "community" },
+    { category: 'Pharmacy Terms', question: "What term describes sympathetic pity and concern for the sufferings of others?", answer: "compassion" },
+    { category: 'Pharmacy Terms', question: "What term is used for the action of seeking expert advice?", answer: "consultation" },
+    { category: 'Pharmacy Terms', question: "What phrase refers to the act of taking care of customer's needs?", answer: "customer care" },
+    { category: 'Pharmacy Terms', question: "Who are the individuals purchasing or using pharmacy services?", answer: "customers" },
+    { category: 'Pharmacy Terms', question: "What term describes a committed and serious attitude towards a task?", answer: "dedication" },
+    { category: 'Pharmacy Terms', question: "What term refers to the ability to do work or produce results without wasting resources?", answer: "efficiency" },
+    { category: 'Pharmacy Terms', question: "What term describes the ability to understand and share the feelings of another?", answer: "empathy" },
+    { category: 'Pharmacy Terms', question: "What term refers to the provision of medical care?", answer: "healthcare" },
+    { category: 'Pharmacy Terms', question: "What term describes the action of interacting with others?", answer: "interaction" },
+    { category: 'Pharmacy Terms', question: "What term refers to the facts, information, and skills acquired through experience or education?", answer: "knowledge" },
+    { category: 'Pharmacy Terms', question: "What is the science or practice of the diagnosis, treatment, and prevention of disease?", answer: "medicine" },
+    { category: 'Pharmacy Terms', question: "What is the capacity to accept or tolerate delay, problems, or suffering without becoming annoyed?", answer: "patience" },
+    { category: 'Pharmacy Terms', question: "Who is a healthcare professional who can help with the use of medication?", answer: "pharmacist" },
+    { category: 'Pharmacy Terms', question: "What is the place where medications are dispensed and pharmaceutical services are offered?", answer: "pharmacy" },
+    { category: 'Pharmacy Terms', question: "What term refers to the written orders for medication?", answer: "prescriptions" },
+    { category: 'Pharmacy Terms', question: "What term describes the conduct and qualities that characterize a professional person?", answer: "professionalism" },
+    { category: 'Pharmacy Terms', question: "What term describes the state of being accountable or to blame for something?", answer: "responsibility" },
+    { category: 'Pharmacy Terms', question: "What term refers to the condition of being protected from or unlikely to cause danger, risk, or injury?", answer: "safety" },
+    { category: 'Pharmacy Terms', question: "What term is used for the act of serving customers or clients?", answer: "service" },
+    { category: 'Pharmacy Terms', question: "What term refers to a means of solving a problem or dealing with a difficult situation?", answer: "solution" },
+    { category: 'Pharmacy Terms', question: "What term describes mental or emotional strain caused by demanding circumstances?", answer: "stress" },
+    { category: 'Pharmacy Terms', question: "What term refers to the collaborative effort of a group to achieve a common goal?", answer: "teamwork" },
+    { category: 'Pharmacy Terms', question: "What term describes the period of time when one is at work?", answer: "workday" },
+   
 
 
 //marketing
