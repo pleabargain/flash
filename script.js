@@ -2851,11 +2851,42 @@ const flashcards = [
     "question": "I am good person.",
     "answer": "I am a good person."
   },
+
   {
     "category": "Errors",
     "question": "I feel myself hungry.",
     "answer": "I feel hungry."
   },
+
+  {
+    "category": "Errors",
+    "question": "She has two years old.",
+    "answer": "She is two years old."
+  },
+
+
+  {
+    "category": "Errors",
+    "question": "He was trying to say me something.",
+    "answer": "He was trying to tell me something."
+  },
+
+
+  {
+    "category": "Errors",
+    "question": "My wife home all the time.",
+    "answer": "My wife is home all the time."
+  },
+
+
+
+
+  {
+    "category": "Errors",
+    "question": "I don't understand what she is talking.",
+    "answer": "I don't understand what she is saying."
+  },
+
 
   {
     "category": "Errors",
