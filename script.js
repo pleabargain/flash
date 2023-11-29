@@ -2820,6 +2820,13 @@ const flashcards = [
 },
 
   //
+
+  {
+    "category": "Errors",
+    "question": "I couldn't found it at the store.",
+    "answer": "I couldn't find it at the store."
+  },
+
   {
     "category": "Errors",
     "question": "I go to store.",
@@ -2857,6 +2864,24 @@ const flashcards = [
     "question": "I feel myself hungry.",
     "answer": "I feel hungry."
   },
+
+
+  {
+    "category": "Errors",
+    "question": "They want their presentation do before new year.",
+    "answer": "They want their presentation done before new year."
+  },
+
+
+{
+    "category": "Errors",
+    "question": "I will planning on taking a course.",
+    "answer": "I am planning on taking a course."
+  },
+
+  
+
+
 
   {
     "category": "Errors",
@@ -3203,12 +3228,132 @@ const flashcards = [
     "question": "For my opinion.",
     "answer": "In my opinion."
   },
+
+  {
+    "category": "Errors",
+    "question": "There's no much value in this process.",
+    "answer": "There's not much value in this process."
+  },
+
+
+
+
+
   {
     "category": "Errors",
     "question": "I am totally agree.",
     "answer": "I totally agree."
   },
   // past simple
+
+ { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She writes a letter.", 
+    answer: "She wrote a letter." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "What is the past simple tense of 'run'?", 
+    answer: "ran" 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Form a sentence in past simple tense: They (not / understand) the instructions.", 
+    answer: "They didn't understand the instructions." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He is playing football.", 
+    answer: "He played football." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Complete the sentence in past simple tense: We (visit) the museum last weekend.", 
+    answer: "We visited the museum last weekend." 
+  }  ,
+
+{ 
+    category: 'Past Simple Tense', 
+    question: "What is the past simple tense of 'bring'?", 
+    answer: "brought" 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Form a sentence in past simple tense with an irregular verb: She (fly) to New York last month.", 
+    answer: "She flew to New York last month." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Complete the sentence with an irregular past simple tense: They (drink) coffee at the café yesterday.", 
+    answer: "They drank coffee at the café yesterday." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense using an irregular verb: He forgets the answer.", 
+    answer: "He forgot the answer." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Use an irregular verb in past simple tense: I (see) a movie last night.", 
+    answer: "I saw a movie last night." 
+  },
+
+
+  { 
+    category: 'Past Simple Tense', 
+    question: "What is the past simple tense of 'choose'?", 
+    answer: "chose" 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Form a sentence in past simple tense with an irregular verb: They (build) a new house last year.", 
+    answer: "They built a new house last year." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Complete the sentence with an irregular past simple tense: He (steal) the cookies from the jar.", 
+    answer: "He stole the cookies from the jar." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense using an irregular verb: She understands the problem.", 
+    answer: "She understood the problem." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Use an irregular verb in past simple tense: I (speak) to them about the project yesterday.", 
+    answer: "I spoke to them about the project yesterday." 
+  },
+
+  { 
+    category: 'Past Simple Tense', 
+    question: "What is the past simple tense of 'swim'?", 
+    answer: "swam" 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Form a sentence in past simple tense with an irregular verb: He (drive) to the coast last weekend.", 
+    answer: "He drove to the coast last weekend." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Complete the sentence with an irregular past simple tense: She (throw) the ball to the dog.", 
+    answer: "She threw the ball to the dog." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense using an irregular verb: I forget his name.", 
+    answer: "I forgot his name." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Use an irregular verb in past simple tense: They (teach) English in that school for years.", 
+    answer: "They taught English in that school for years." 
+  },
+
+
+
+
   { 
     category: 'Past Simple Tense', 
     question: "Complete the sentence in past simple tense: I (go) to the store yesterday.", 
@@ -3261,6 +3406,57 @@ const flashcards = [
     question: "Change to past continuous tense: He finds a parking place.", 
     answer: "He was finding a parking place." 
   },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Form a sentence in past continuous tense using an irregular verb: He (swim) in the pool when it started raining.", 
+    answer: "He was swimming in the pool when it started raining." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Complete the sentence in past continuous tense with an irregular verb: She (drink) coffee at the café when she saw her friend.", 
+    answer: "She was drinking coffee at the café when she saw her friend." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Change to past continuous tense using an irregular verb: They build a house.", 
+    answer: "They were building a house." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Use an irregular verb in past continuous tense: We (fly) to Paris during the storm.", 
+    answer: "We were flying to Paris during the storm." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Form a sentence in past continuous tense with an irregular verb: I (think) about the problem all evening.", 
+    answer: "I was thinking about the problem all evening." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Complete the sentence in past continuous tense using an irregular verb: They (run) around the park when it began to rain.", 
+    answer: "They were running around the park when it began to rain." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Form a sentence in past continuous tense with an irregular verb: She (sing) in the choir during the festival.", 
+    answer: "She was singing in the choir during the festival." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Change to past continuous tense using an irregular verb: He finds a key.", 
+    answer: "He was finding a key." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Use an irregular verb in past continuous tense: We (speak) about the project when she called.", 
+    answer: "We were speaking about the project when she called." 
+  },
+  { 
+    category: 'Past Continuous Tense', 
+    question: "Form a sentence in past continuous tense with an irregular verb: They (drive) through the city when the parade started.", 
+    answer: "They were driving through the city when the parade started." 
+  }
+  ,
 
   //
   { 
@@ -3359,12 +3555,12 @@ const flashcards = [
   { 
     category: 'Present Continuous Tense', 
     question: "Complete the sentence in present continuous tense: We (not / watch) TV right now.", 
-    answer: "We are not watching TV right now." 
+    answer: "We are not watching TV right now. or We aren't watching TV right now." 
   },
   { 
     category: 'Present Continuous Tense', 
     question: "Change to present continuous tense: He reads a book.", 
-    answer: "He is reading a book." 
+    answer: "He is reading a book. or He's reading a book.", 
   },
   //
   { 
@@ -3429,7 +3625,7 @@ const flashcards = [
 { 
   category: 'Future Simple Tense', 
   question: "Change to future simple tense: They eat lunch.", 
-  answer: "They will eat lunch. or They are going to eat lunch" 
+  answer: "They will eat lunch. or They are going to eat lunch." 
 },
 { 
   category: 'Future Simple Tense', 
@@ -3439,7 +3635,7 @@ const flashcards = [
 { 
   category: 'Future Simple Tense', 
   question: "Complete the sentence in future simple tense: He (not / play) football tomorrow.", 
-  answer: "He will not play football tomorrow." 
+  answer: "He will not play football tomorrow. or He won't play football tomorrow." 
 },
 { 
   category: 'Future Simple Tense', 
@@ -3944,13 +4140,13 @@ const flashcards = [
 
 {
   "category": "Use to vs Used to",
-"question":"Didn’t she [BLANK] play the flute?",
+"question":"Didn't she [BLANK] play the flute?",
 "answer": "use to",
 },
 
 {
   "category": "Use to vs Used to",
-  "question": "Didn’t they [BLANK] attend the same school?",
+  "question": "Didn't they [BLANK] attend the same school?",
   "answer": "use to"
 },
 
@@ -4346,7 +4542,7 @@ const flashcards = [
 
 
     { category: 'Pharmacy Terms', question: "What term refers to the correctness of a result or measurement?", answer: "accuracy" },
-    { category: 'Pharmacy Terms', question: "What is the term for a recommendation or guidance offered?", answer: "advice" },
+    { category: 'Pharmacy Terms', question: "What is the term for a recommendation or guidance offered?", answer: "prescription|advice" },
     { category: 'Pharmacy Terms', question: "What phrase describes careful consideration and thorough examination of details?", answer: "attention to detail" },
     { category: 'Pharmacy Terms', question: "What word describes having a lot of tasks to do?", answer: "busy" },
     { category: 'Pharmacy Terms', question: "What term is used for a demanding situation or problem in a job?", answer: "challenge" },
@@ -4358,7 +4554,7 @@ const flashcards = [
     { category: 'Pharmacy Terms', question: "What term describes a committed and serious attitude towards a task?", answer: "dedication" },
     { category: 'Pharmacy Terms', question: "What term refers to the ability to do work or produce results without wasting resources?", answer: "efficiency" },
     { category: 'Pharmacy Terms', question: "What term describes the ability to understand and share the feelings of another?", answer: "empathy" },
-    { category: 'Pharmacy Terms', question: "What term refers to the provision of medical care?", answer: "healthcare" },
+    { category: 'Pharmacy Terms', question: "What term refers to the provision of medical care?", answer: "healthcare|treatment" },
     { category: 'Pharmacy Terms', question: "What term describes the action of interacting with others?", answer: "interaction" },
     { category: 'Pharmacy Terms', question: "What term refers to the facts, information, and skills acquired through experience or education?", answer: "knowledge" },
     { category: 'Pharmacy Terms', question: "What is the science or practice of the diagnosis, treatment, and prevention of disease?", answer: "medicine" },
@@ -4366,7 +4562,7 @@ const flashcards = [
     { category: 'Pharmacy Terms', question: "Who is a healthcare professional who can help with the use of medication?", answer: "pharmacist" },
     { category: 'Pharmacy Terms', question: "What is the place where medications are dispensed and pharmaceutical services are offered?", answer: "pharmacy" },
     { category: 'Pharmacy Terms', question: "What term refers to the written orders for medication?", answer: "prescriptions" },
-    { category: 'Pharmacy Terms', question: "What term describes the conduct and qualities that characterize a professional person?", answer: "professionalism" },
+    { category: 'Pharmacy Terms', question: "What term describes the conduct and qualities that characterize a professional person?", answer: "character|professionalism" },
     { category: 'Pharmacy Terms', question: "What term describes the state of being accountable or to blame for something?", answer: "responsibility" },
     { category: 'Pharmacy Terms', question: "What term refers to the condition of being protected from or unlikely to cause danger, risk, or injury?", answer: "safety" },
     { category: 'Pharmacy Terms', question: "What term is used for the act of serving customers or clients?", answer: "service" },
@@ -5036,6 +5232,1941 @@ const flashcards = [
 
 //
 
+{
+  category: 'Questions:Pharmacy ',
+  question: "How do you ask if a specific medication is available?",
+  answer: "Do you have [Medication Name] in stock?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "What is a way to inquire about the side effects of a medication?",
+  answer: "What are the possible side effects of this medication?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "How can you ask about the correct dosage of a medicine?",
+  answer: "What is the recommended dosage for this medicine?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "What is a polite way to ask for a generic alternative to a branded drug?",
+  answer: "Is there a generic version available for this brand-name drug?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "How do you inquire about the interaction of a new medication with current ones?",
+  answer: "Will this new medication interact with the other medications I'm currently taking?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "What is a way to ask about the storage instructions for a medication?",
+  answer: "How should I store this medication?"
+  }
+  ,
+  {
+  category: 'Questions:Pharmacy ',
+  question: "How can you ask about the expiration date of a medication?",
+  answer: "What is the expiration date of this medication?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "How do you ask if a prescription is ready for pickup?",
+  answer: "Is my prescription ready for pickup?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "What is a way to inquire about over-the-counter alternatives to a prescription?",
+  answer: "Are there any over-the-counter alternatives to this prescription?"
+  },
+  
+  {
+  category: 'Questions:Pharmacy ',
+  question: "How can you ask about the best time to take a medication?",
+  answer: "When is the best time of day to take this medication?"
+  },
+  {
+    category: 'Questions:Pharmacy ',
+    question: "How do you ask about the cost of a medication without insurance?",
+    answer: "How much does this medication cost without insurance?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "What is a way to inquire if a medication is safe for children?",
+    answer: "Is this medication safe for children?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "How can you ask about the renewal process for a prescription?",
+    answer: "How do I go about renewing this prescription?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "What is a polite way to ask if a pharmacist can recommend something for a common ailment?",
+    answer: "Can you recommend something for a common cold?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "How do you inquire about the availability of a flu vaccine?",
+    answer: "Do you have the flu vaccine available here?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "What is a way to ask about special instructions for taking a medication?",
+    answer: "Are there any special instructions I should follow when taking this medication?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "How can you ask about the refund or return policy for medications?",
+    answer: "What is your policy on medication refunds or returns?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "How do you ask if a medication is covered by your insurance?",
+    answer: "Is this medication covered by my insurance plan?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "What is a way to inquire about alternative therapies or supplements?",
+    answer: "Can you suggest any alternative therapies or supplements for my condition?"
+    },
+    
+    {
+    category: 'Questions:Pharmacy ',
+    question: "How can you ask about the procedure for transferring a prescription from another pharmacy?",
+    answer: "What is the process for transferring a prescription from another pharmacy to here?"
+    },
+
+///////////////////////////////////////
+{
+  category: 'Questions:Medical Clinic ',
+  question: "How do you ask about the wait time for an appointment?",
+  answer: "What is the current wait time for an appointment?"
+  },
+  
+  {
+  category: 'Questions:Medical Clinic ',
+  question: "What is a way to inquire about the availability of a specific doctor?",
+  answer: "Is Dr. [Doctor's Name] available for appointments this week?"
+  },
+  
+  {
+  category: 'Questions:Medical Clinic ',
+  question: "How can you ask about the necessary documents for a clinic visit?",
+  answer: "What documents should I bring for my visit?"
+  },
+  
+  {
+  category: 'Questions:Medical Clinic ',
+  question: "What is a polite way to ask about the clinic's hours of operation?",
+  answer: "Could you please tell me the clinic's hours of operation?"
+  },
+  
+  {
+  category: 'Questions:Medical Clinic ',
+  question: "How do you inquire about the types of services offered at the clinic?",
+  answer: "What types of medical services do you offer here?"
+  },
+  
+  {
+  category: 'Questions:Medical Clinic ',
+  question: "What is a way to ask about the cost of a consultation without insurance?",
+  answer: "How much does a consultation cost for someone without insurance?"
+  },
+  
+  {
+  category: 'Questions:Medical Clinic ',
+  question: "How can you ask about the procedure for getting a lab test done?",
+  answer: "What is the procedure for getting a lab test done here?"
+  },
+  
+  {
+  category: 'Questions:Medical Clinic ',
+  question: "How do you ask if the clinic offers telemedicine services?",
+  answer: "Do you offer telemedicine services for consultations?"
+  },
+
+{
+category: 'Questions:Medical Clinic ',
+question: "What is a way to inquire about the follow-up procedure after a visit?",
+answer: "What are the follow-up procedures after today's visit?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "How can you ask about the availability of emergency services at the clinic?",
+answer: "Do you provide emergency services here?"
+},
+
+
+{
+category: 'Questions:Medical Clinic ',
+question: "How do you ask about the confidentiality of medical records?",
+answer: "Can you tell me about the confidentiality policy for medical records here?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "What is a way to inquire about vaccination services?",
+answer: "Do you offer vaccination services at this clinic?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "How can you ask if the clinic accepts walk-in appointments?",
+answer: "Do you accept walk-in appointments or do I need to schedule in advance?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "What is a polite way to ask about the experience of a specific doctor?",
+answer: "Could you tell me about Dr. [Doctor's Name]'s experience and specialization?"
+}
+,
+{
+category: 'Questions:Medical Clinic ',
+question: "How do you inquire about the availability of specialist referrals?",
+answer: "Can this clinic provide referrals to specialists if needed?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "What is a way to ask about the process for a routine check-up?",
+answer: "What does the process for a routine check-up involve?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "How can you ask about the insurance plans accepted by the clinic?",
+answer: "Which insurance plans are accepted by your clinic?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "How do you ask about the availability of mental health services?",
+answer: "Do you provide mental health services at this clinic?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "What is a way to inquire about prenatal care services?",
+answer: "Do you offer prenatal care services?"
+},
+
+{
+category: 'Questions:Medical Clinic ',
+question: "How can you ask about the clinic's policy on missed appointments?",
+answer: "What is your policy on missed or late appointments?"
+},
+
+////////////////////////
+{
+  category: 'Questions:Travel',
+  question: "How do you ask if a reservation is necessary?",
+  answer: "Do I need to make a reservation to dine here?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "What is a way to inquire about the restaurant's specialty or best dishes?",
+  answer: "What are the specialty dishes or best items on the menu?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "How can you ask about vegetarian or vegan options on the menu?",
+  answer: "Do you have vegetarian or vegan options available?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "What is a polite way to request recommendations from the server?",
+  answer: "Could you recommend something from the menu?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "How do you inquire about possible allergens in a dish?",
+  answer: "Are there any allergens, like nuts or dairy, in this dish?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "What is a way to ask about the portion sizes of the dishes?",
+  answer: "What are the portion sizes like for these dishes?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "How can you ask about the availability of a kids' menu?",
+  answer: "Do you have a kids' menu?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "How do you ask about the dress code of the restaurant?",
+  answer: "Is there a dress code for dining in this restaurant?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "What is a way to inquire about the restaurant's busiest times?",
+  answer: "When are the busiest times at this restaurant?"
+  },
+  
+  {
+  category: 'Questions:Travel',
+  question: "How can you ask about the availability of outdoor seating?",
+  answer: "Do you have outdoor seating available?"
+  },
+
+  {
+    category: 'Questions:Travel',
+    question: "How do you ask if the restaurant offers any special promotions or happy hour deals?",
+    answer: "Are there any special promotions or happy hour deals currently available?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "What is a way to inquire about the origin of the ingredients used?",
+    answer: "Could you tell me about the source of your ingredients? Are they locally sourced?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "How can you ask about the options for people with dietary restrictions?",
+    answer: "What options do you have for people with dietary restrictions like gluten intolerance?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "What is a polite way to ask if a dish can be customized?",
+    answer: "Is it possible to customize a dish, for example, to make it less spicy?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "How do you inquire about the availability of alcohol or a wine list?",
+    answer: "Do you serve alcohol here, and can I see the wine list?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "What is a way to ask about the average wait time for a table?",
+    answer: "What is the average wait time for a table during dinner hours?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "How can you ask if the restaurant can accommodate large groups or events?",
+    answer: "Can this restaurant accommodate large groups or events?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "How do you ask about the payment methods accepted?",
+    answer: "Which payment methods do you accept?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "What is a way to inquire about the chef's special or today's special?",
+    answer: "What is the chef's special or today's special on the menu?"
+    },
+    
+    {
+    category: 'Questions:Travel',
+    question: "How can you ask if the restaurant has a quiet area or private dining options?",
+    answer: "Do you have a quiet area or offer private dining options?"
+    },
+{
+category: 'Questions:Travel',
+question: "How do you ask for the location of the nearest ATM?",
+answer: "Where is the nearest ATM?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about the best time to visit a particular attraction?",
+answer: "When is the best time to visit [Attraction Name]?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about local emergency services and contact numbers?",
+answer: "What are the local emergency service numbers I should know about?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a polite way to ask about language barriers and communication?",
+answer: "Do many people speak English here, or should I use a translation app?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you inquire about the best places for shopping?",
+answer: "Where are the best places to go shopping around here?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to ask about local festivals or events happening during your stay?",
+answer: "Are there any local festivals or events happening during my stay?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about visa and entry requirements?",
+answer: "Can you tell me about the visa and entry requirements for travelers?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you ask if tap water is safe to drink?",
+answer: "Is the tap water safe to drink here?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about the availability of tour guides?",
+answer: "Are there tour guides available for hire in this area?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about the reliability of internet connectivity in a location?",
+answer: "How reliable is the internet connectivity in this area?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you ask for directions to a famous landmark?",
+answer: "Can you tell me how to get to [Landmark Name]?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about local public transportation options?",
+answer: "What are the public transportation options available here?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about the best local restaurants?",
+answer: "Where are the best local restaurants located?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a polite way to ask for recommendations for sightseeing?",
+answer: "Could you recommend some must-see places around here?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you inquire about the safety of a particular area?",
+answer: "Is this area safe for tourists?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to ask about the currency exchange rate?",
+answer: "What is the current exchange rate for [Your Currency]?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about the availability of Wi-Fi in a hotel or café?",
+answer: "Do you have Wi-Fi available here, and if so, what is the password?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you ask if it's necessary to tip in restaurants or taxis?",
+answer: "Is it customary to tip in restaurants and taxis here?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about local customs or cultural norms?",
+answer: "Are there any local customs or cultural norms I should be aware of?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about the operating hours of a museum or attraction?",
+answer: "What are the operating hours for [Museum/Attraction Name]?"
+},
+
+
+{
+category: 'Questions:Travel',
+question: "How do you ask about the check-in and check-out times?",
+answer: "What are the check-in and check-out times?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about the availability of room service?",
+answer: "Do you offer room service, and if so, what are the hours?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about the hotel's amenities, like a pool or gym?",
+answer: "What amenities are available at the hotel, such as a pool or gym?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a polite way to request extra items, like towels or pillows?",
+answer: "Could I request a few extra towels/pillows for my room, please?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you inquire about the Wi-Fi password?",
+answer: "What is the Wi-Fi password?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to ask about the hotel's policy on pets?",
+answer: "Is this hotel pet-friendly, and if so, what are the policies regarding pets?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask if the hotel offers shuttle services?",
+answer: "Do you provide shuttle services to nearby attractions or the airport?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you ask about the options for breakfast at the hotel?",
+answer: "What are the breakfast options available here?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about the security features of the hotel?",
+answer: "Can you tell me about the security features of the hotel?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about nearby tourist attractions?",
+answer: "Can you recommend any tourist attractions close to the hotel?"
+},
+
+
+{
+category: 'Questions:Travel',
+question: "How do you ask if the hotel provides laundry services?",
+answer: "Does the hotel offer laundry services?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about the hotel's cancellation policy?",
+answer: "What is the hotel's cancellation policy?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about the availability of non-smoking rooms?",
+answer: "Do you have non-smoking rooms available?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a polite way to request a room with a view?",
+answer: "Is it possible to get a room with a good view?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you inquire about the facilities for disabled guests?",
+answer: "What facilities do you have for guests with disabilities?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to ask about the hotel's environmental or sustainability practices?",
+answer: "Can you tell me about the hotel's environmental or sustainability practices?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask if the hotel has a business center or meeting rooms?",
+answer: "Does the hotel have a business center or meeting rooms?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How do you ask about the possibility of early check-in or late check-out?",
+answer: "Is early check-in or late check-out an option?"
+},
+
+{
+category: 'Questions:Travel',
+question: "What is a way to inquire about the hotel's policy on extra beds or cribs for children?",
+answer: "What is your policy on providing extra beds or cribs for children?"
+},
+
+{
+category: 'Questions:Travel',
+question: "How can you ask about discounts or loyalty program benefits?",
+answer: "Are there any discounts or loyalty program benefits available?"
+},
+
+
+
+
+////////////
+{
+  category: 'Questions:Projects',
+  question: "How do you ask about the budget allocated for a project?",
+  answer: "What is the budget allocated for this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a way to inquire about the key milestones of a project?",
+  answer: "Can you outline the key milestones for this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How can you ask about the criteria for success of a project?",
+  answer: "What are the criteria for the success of this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a polite way to ask about the challenges faced in a project?",
+  answer: "What challenges are we facing in this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How do you inquire about the decision-making process for a project?",
+  answer: "How will decisions be made for this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a way to ask about the communication plan for a project?",
+  answer: "What is our communication plan for this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How can you ask for the stakeholder's expectations for a project?",
+  answer: "What are the stakeholder's expectations for this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How do you ask about the dependencies between tasks in a project?",
+  answer: "What are the dependencies between the various tasks in this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a way to ask about the project's alignment with company goals?",
+  answer: "How does this project align with the company's overall goals?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How can you inquire about the review and approval process for project deliverables?",
+  answer: "What is the review and approval process for the project's deliverables?"
+  },
+
+{
+  category: 'Questions:Projects',
+  question: "How do you ask about the overall timeline of a project?",
+  answer: "What is the expected timeline for this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a way to inquire about specific roles and responsibilities in a project?",
+  answer: "Can you clarify the roles and responsibilities of each team member in this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How can you ask for updates on a project's progress?",
+  answer: "Can you provide an update on how the project is progressing?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a polite way to ask about potential risks in a project?",
+  answer: "What are the potential risks associated with this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How do you inquire about the resources needed for a project?",
+  answer: "What resources will we need to successfully complete this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a way to ask about the priority of different aspects of a project?",
+  answer: "Which aspects of the project should we prioritize?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How can you ask about the expected outcomes of a project?",
+  answer: "What are the expected outcomes or deliverables of this project?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How do you ask for feedback on a project proposal?",
+  answer: "Could you give me your feedback on this project proposal?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "What is a way to ask about the feasibility of a project idea?",
+  answer: "How feasible do you think this project idea is?"
+  },
+  
+  {
+  category: 'Questions:Projects',
+  question: "How can you inquire about the impact of a project on other teams?",
+  answer: "What impact will this project have on other teams within the organization?"
+  },
+
+{
+  category: 'Questions',
+  question: "How do you inquire about someone's well-being?",
+  answer: "How are you doing today?"
+  },
+  
+  {
+    category: 'Generic Questions',
+    question: "How do you ask someone if they have finished a task?",
+    answer: "Have you finished that task yet?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "What is a way to inquire if someone understands a concept or explanation?",
+    answer: "Do you understand what I'm saying?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "How can you ask someone if they need assistance?",
+    answer: "Do you need any help with that?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "What is a polite way to ask if someone agrees with a decision?",
+    answer: "Do you agree with this decision?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "How do you inquire if someone is going to attend an event?",
+    answer: "Are you going to the event this weekend?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "What is a way to ask if someone has made a decision?",
+    answer: "Have you made a decision yet?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "How can you ask someone if they have seen a recent movie?",
+    answer: "Have you seen the new movie that just came out?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "How do you ask if someone can hear you?",
+    answer: "Can you hear me?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "What is a way to inquire if someone has visited a certain place before?",
+    answer: "Have you ever been to [Place Name] before?"
+    },
+    
+    {
+    category: 'Generic Questions',
+    question: "How can you ask if someone remembers a particular event or person?",
+    answer: "Do you remember [Event/Person]?"
+    },
+    {
+      category: 'Questions:WH words',
+      question: "What is a way to ask about choosing from different options?",
+      answer: "What should we choose, the blue one or the red one?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "How do you ask about a location's specifics?",
+      answer: "Where is the nearest grocery store?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "What is a way to inquire about a person's identity in a specific context?",
+      answer: "Who is in charge of this department?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "How can you ask about the timing of an event?",
+      answer: "When does the concert start?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "What is a polite way to ask for the reason behind an action?",
+      answer: "Why did you choose this career path?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "How do you inquire about the method of doing something?",
+      answer: "How can I apply for this job?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "What is a way to ask about the quantity of something?",
+      answer: "How many pages are in this book?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "How can you ask about the cost of something?",
+      answer: "How much does this laptop cost?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "What is a way to inquire about the frequency of an activity?",
+      answer: "How often do you go to the gym?"
+      },
+      
+      {
+      category: 'Questions:WH words',
+      question: "How do you ask about selecting from a group of items?",
+      answer: "Which of these desserts should we order?"
+      },
+      
+      {
+category: 'Questions:WH words',
+question: "What is a way to ask about the purpose of an object?",
+answer: "What is this tool used for?"
+},
+
+{
+category: 'Questions:WH words',
+question: "How do you ask about the location of a specific place within a larger area?",
+answer: "Where in the city is the historical museum located?"
+},
+
+{
+category: 'Questions:WH words',
+question: "What is a way to inquire about someone's identity in a group setting?",
+answer: "Who among you is the team leader?"
+},
+
+{
+category: 'Questions:WH words',
+question: "How can you ask about the timing of a recurring event?",
+answer: "When do the weekly meetings usually take place?"
+},
+
+{
+category: 'Questions:WH words',
+question: "What is a polite way to ask for the reason behind someone's feelings?",
+answer: "Why do you seem upset today?"
+},
+
+{
+category: 'Questions:WH words',
+question: "How do you inquire about the process of accomplishing a task?",
+answer: "How do we go about completing this application?"
+},
+
+{
+category: 'Questions:WH words',
+question: "What is a way to ask about the number of people involved in an event?",
+answer: "How many guests are expected at the wedding?"
+},
+
+{
+category: 'Questions:WH words',
+question: "How can you ask about the price range of services?",
+answer: "How much does it typically cost to have a car serviced here?"
+},
+
+{
+category: 'Questions:WH words',
+question: "What is a way to inquire about the regularity of a person's habits?",
+answer: "How often do you travel for work?"
+},
+{
+  category: 'Questions:WH words',
+  question: "What is a way to ask about the contents of a package or box?",
+  answer: "What is inside this box?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "How do you ask about the location of a historical event?",
+  answer: "Where did the Battle of Hastings take place?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "What is a way to inquire about someone responsible for an action?",
+  answer: "Who made this beautiful painting?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "How can you ask about the timing of a future event?",
+  answer: "When will the new shopping mall be opened?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "What is a polite way to ask for the reason behind a decision?",
+  answer: "Why did you choose to study medicine?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "How do you inquire about the way to use a new appliance?",
+  answer: "How does this coffee maker work?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "What is a way to ask about the amount of time needed for a task?",
+  answer: "How long will it take to complete this project?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "How can you ask about the cost of a meal at a restaurant?",
+  answer: "How much is the total for our meal?"
+  },
+  
+
+  {
+    category: 'Questions:WH words ',
+    question: "What is a way to ask about the ingredients in a dish?",
+    answer: "What ingredients are in this soup?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "How do you ask about the location of a specific service in a town?",
+    answer: "Where can I find a good hair salon in this town?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "What is a way to inquire about the person responsible for a task?",
+    answer: "Who is in charge of customer service here?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "How can you ask about the exact time an event will occur?",
+    answer: "When does the train leave?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "What is a polite way to ask for the reason behind a rule?",
+    answer: "Why do we have to wear badges in the office?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "How do you inquire about the method for solving a problem?",
+    answer: "How should we tackle this issue?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "What is a way to ask about the duration of a movie or play?",
+    answer: "How long is the movie?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "How can you ask about the expense of a service or product?",
+    answer: "How much does this service cost? or How much is it?"
+    },
+    
+    {
+      category: 'Questions:WH words ',
+      question: "What is a way to ask about the objectives of a meeting?",
+      answer: "What are the main objectives of today's meeting?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you ask about the location of a work-related event?",
+      answer: "Where is the team-building event being held?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to inquire about the person responsible for a report or task?",
+      answer: "Who is responsible for submitting the monthly report?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How can you ask about the timing of a deadline?",
+      answer: "When is the deadline for this project?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a polite way to ask for the reason behind a business decision?",
+      answer: "Why was it decided to change our marketing strategy?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you inquire about the method for completing a specific task?",
+      answer: "How should I go about completing this task efficiently?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to ask about the length of a business trip?",
+      answer: "How long will the business trip last?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How can you ask about the cost of a business expense?",
+      answer: "How much is allocated for the travel budget?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to inquire about the frequency of team meetings?",
+      answer: "How often do we have team meetings?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you ask about choosing the right approach for a project?",
+      answer: "Which approach should we take for this project?"
+      },
+
+
+      
+    {
+    category: 'Questions:WH words ',
+    question: "What is a way to inquire about the regularity of an event or activity?",
+    answer: "How often do these meetings occur?"
+    },
+    
+    {
+    category: 'Questions:WH words ',
+    question: "How do you ask about selecting the correct answer in a quiz or test?",
+    answer: "Which answer is correct for question number 5?"
+    },
+    {
+      category: 'Questions:WH words ',
+      question: "What is a way to ask about the purpose of a new company policy?",
+      answer: "What is the purpose behind the new company policy?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you ask about the location for an upcoming company event?",
+      answer: "Where is the next company outing going to be held?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to inquire about the person managing a particular project?",
+      answer: "Who is managing the client project this quarter?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How can you ask about the time allocated for a lunch break?",
+      answer: "When is our lunch break scheduled?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a polite way to ask for the reason behind a sudden meeting?",
+      answer: "Why was the emergency meeting called?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you inquire about the method for accessing company resources?",
+      answer: "How can I access the company's online resource library?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to ask about the duration of a training session?",
+      answer: "How long will the training session last?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How can you ask about the expense of office supplies?",
+      answer: "How much are we spending on office supplies monthly?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to inquire about the regularity of performance reviews?",
+      answer: "How often do performance reviews take place?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you ask about selecting the right software for a task?",
+      answer: "Which software should we use for data analysis?"
+      },
+
+
+  {
+  category: 'Questions:WH words',
+  question: "What is a way to inquire about the frequency of a service?",
+  answer: "How often does the cleaning service come?"
+  },
+  
+  {
+  category: 'Questions:WH words',
+  question: "How do you ask about choosing the right tool for a job?",
+  answer: "Which screwdriver should I use for this task?"
+  },
+{
+category: 'Questions:WH words',
+question: "How do you ask about making a choice among options in a survey?",
+answer: "Which option should I choose on this feedback form?"
+},
+
+
+
+  {
+  category: 'Questions',
+  question: "What is a way to ask for the time?",
+  answer: "What time is it?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "How can you ask if a store is open?",
+  answer: "Is the store open right now?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "What is a polite way to ask where the bathroom is?",
+  answer: "Could you tell me where the bathroom is, please?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "How do you ask about the price of an item?",
+  answer: "How much does this cost?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "What is a way to ask if someone speaks English?",
+  answer: "Do you speak English?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "How can you ask for directions to the train station?",
+  answer: "Can you direct me to the nearest train station?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "How do you inquire about the weather tomorrow?",
+  answer: "What will the weather be like tomorrow?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "What is a way to ask if a meal contains nuts?",
+  answer: "Does this dish contain any nuts?"
+  },
+  
+  {
+  category: 'Questions',
+  question: "How can you ask someone if they need help?",
+  answer: "Do you need any help?"
+  },
+
+  {
+    category: 'Questions',
+    question: "How do you inquire about someone's well-being?",
+    answer: "How are you doing today?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "What is a way to ask for the time?",
+    answer: "What time is it?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "How can you ask if a store is open?",
+    answer: "Is the store open right now?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "What is a polite way to ask where the bathroom is?",
+    answer: "Could you tell me where the bathroom is, please?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "How do you ask about the price of an item?",
+    answer: "How much does this cost?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "What is a way to ask if someone speaks English?",
+    answer: "Do you speak English?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "How can you ask for directions to the train station?",
+    answer: "Can you direct me to the nearest train station?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "How do you inquire about the weather tomorrow?",
+    answer: "What will the weather be like tomorrow?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "What is a way to ask if a meal contains nuts?",
+    answer: "Does this dish contain any nuts?"
+    },
+    
+    {
+    category: 'Questions',
+    question: "How can you ask someone if they need help?",
+    answer: "Do you need any help?"
+    },
+
+    {
+      category: 'Questions:WH words ',
+      question: "What is a way to ask about the objectives for a new project?",
+      answer: "What are our key objectives for this new project?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you ask about the location of a specific department in the office?",
+      answer: "Where is the marketing department located in the office?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to inquire about the person responsible for IT support?",
+      answer: "Who is in charge of IT support here?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How can you ask about the timing for submitting an annual report?",
+      answer: "When is the annual report due?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a polite way to ask for the reason behind a new workflow process?",
+      answer: "Why are we changing to this new workflow process?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you inquire about the method for submitting expense claims?",
+      answer: "How do I submit my expense claims?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to ask about the length of time to complete a certification course?",
+      answer: "How long does it take to complete the certification course?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How can you ask about the cost of a new office equipment?",
+      answer: "How much does the new printer cost?"
+      },
+      {
+        category: 'Questions:WH words ',
+        question: "What is a way to ask about the goals of a team building activity?",
+        answer: "What are the goals of this team building activity?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "How do you ask about the location for the next company off-site meeting?",
+        answer: "Where will our next company off-site meeting be held?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "What is a way to inquire about the person heading a new initiative?",
+        answer: "Who is heading the new sustainability initiative?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "How can you ask about the schedule for a recurring team update?",
+        answer: "When are our regular team updates scheduled?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "What is a polite way to ask for the reason behind a change in policy?",
+        answer: "Why was there a change in the company's vacation policy?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "How do you inquire about the process for reporting technical issues?",
+        answer: "How should I report a technical issue I'm experiencing?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "What is a way to ask about the duration of a client project?",
+        answer: "How long is the client project expected to last?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "How can you ask about the expense involved in attending a conference?",
+        answer: "How much will it cost to attend the industry conference?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "What is a way to inquire about the regularity of inventory checks?",
+        answer: "How often do we conduct inventory checks?"
+        },
+        
+        {
+        category: 'Questions:WH words ',
+        question: "How do you ask about selecting the right vendor for a service?",
+        answer: "Which vendor should we choose for our office supplies?"
+        },
+
+
+        {
+          category: 'Questions:WH words ',
+          question: "What is a way to ask about the purpose of a specific meeting?",
+          answer: "What is the purpose of our meeting next Thursday?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "How do you ask about the location where office supplies are stored?",
+          answer: "Where do we keep the office supplies, like paper and pens?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "What is a way to inquire about the person handling customer complaints?",
+          answer: "Who handles customer complaints in our department?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "How can you ask about the time for an upcoming performance review?",
+          answer: "When is my performance review scheduled?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "What is a polite way to ask for the reason behind a sudden project change?",
+          answer: "Why was there a sudden change in the project's direction?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "How do you inquire about the method for accessing remote work tools?",
+          answer: "How can I access the remote work tools from my home computer?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "What is a way to ask about the length of time for a lunch break?",
+          answer: "How long is our lunch break?"
+          },
+          
+          {
+            category: 'Questions:WH words ',
+            question: "What is a way to ask about the main goals of a negotiation?",
+            answer: "What are our main goals for this negotiation?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "How do you ask about the location where the negotiation will take place?",
+            answer: "Where will the negotiation meeting be held?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "What is a way to inquire about the person leading the negotiation from the other side?",
+            answer: "Who is leading the negotiation on their team?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "How can you ask about the timing of a negotiation deadline?",
+            answer: "When is the deadline for concluding these negotiations?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "What is a polite way to ask for the reason behind a counteroffer?",
+            answer: "Why did you make this particular counteroffer?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "How do you inquire about the strategy to be used in a negotiation?",
+            answer: "How should we approach this negotiation to be successful?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "What is a way to ask about the duration of the negotiation process?",
+            answer: "How long do you anticipate the negotiation process will take?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "How can you ask about the financial limits or budget in a negotiation?",
+            answer: "How much are we willing to spend in this negotiation?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "What is a way to inquire about the frequency of negotiation sessions?",
+            answer: "How often will we be meeting for negotiation sessions?"
+            },
+            
+            {
+            category: 'Questions:WH words ',
+            question: "How do you ask about determining the right terms in a contract negotiation?",
+            answer: "Which terms are we prioritizing in this contract negotiation?"
+            },
+            {
+              category: 'Questions:WH words ',
+              question: "What is a way to ask about the objectives of the opposing party in a negotiation?",
+              answer: "What do you think are their main objectives in this negotiation?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "How do you ask about the location preference for future negotiation meetings?",
+              answer: "Where would be the most convenient location for our next negotiation meeting?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "What is a way to inquire about the key decision-makers in a negotiation?",
+              answer: "Who are the key decision-makers in their negotiation team?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "How can you ask about the best time to propose a deal during negotiations?",
+              answer: "When is the best time to present our proposal during the negotiation?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "What is a polite way to ask for the rationale behind a negotiation stance?",
+              answer: "Why have you decided to take this particular stance in the negotiation?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "How do you inquire about effective negotiation techniques or strategies?",
+              answer: "How can we effectively negotiate to achieve our desired outcome?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "What is a way to ask about the expected length of a negotiation session?",
+              answer: "How long is today's negotiation session expected to last?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "How can you ask about the budget limitations for a negotiation?",
+              answer: "How much budgetary flexibility do we have in this negotiation?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "What is a way to inquire about the regularity of updates during a negotiation process?",
+              answer: "How often will we receive updates during the negotiation process?"
+              },
+              
+              {
+              category: 'Questions:WH words ',
+              question: "How do you ask about selecting the most beneficial terms in a negotiation?",
+              answer: "Which terms should we focus on to maximize benefits in this negotiation?"
+              },
+
+              {
+                category: 'Questions:WH words ',
+                question: "What is a way to ask about the main features of a software?",
+                answer: "What are the main features of this software?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "How do you ask about the location for accessing software documentation?",
+                answer: "Where can I find the documentation for this software?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "What is a way to inquire about the person responsible for software maintenance?",
+                answer: "Who is responsible for maintaining this software?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "How can you ask about the timing for the next software update?",
+                answer: "When is the next update scheduled for this software?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "What is a polite way to ask for the reason behind a software bug or issue?",
+                answer: "Why is this software bug occurring?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "How do you inquire about the process for installing or setting up software?",
+                answer: "How do I install or set up this software?"
+                },
+                
+                {
+                  category: 'Questions:WH words ',
+                  question: "What is a way to ask about compatibility of software with certain hardware?",
+                  answer: "What hardware is compatible with this software?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "How do you ask about the location where software data is stored?",
+                  answer: "Where is the data from this software stored?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "What is a way to inquire about the person to contact for technical support?",
+                  answer: "Who should I contact for technical support with this software?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "How can you ask about the best time to perform system updates?",
+                  answer: "When is the best time to perform system updates for this software?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "What is a polite way to ask for the reason behind a software feature?",
+                  answer: "Why was this particular feature included in the software?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "How do you inquire about the steps to troubleshoot a software issue?",
+                  answer: "How can I troubleshoot this issue with the software?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "What is a way to ask about the duration of software support?",
+                  answer: "How long will support be provided for this software version?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "How can you ask about the cost of upgrading software?",
+                  answer: "How much does it cost to upgrade to the latest version of this software?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "What is a way to inquire about the regularity of software maintenance?",
+                  answer: "How often is maintenance performed on this software?"
+                  },
+                  
+                  {
+                  category: 'Questions:WH words ',
+                  question: "How do you ask about choosing the right software for managing a project?",
+                  answer: "Which software would be best for managing a large project?"
+                  },
+
+                {
+                category: 'Questions:WH words ',
+                question: "What is a way to ask about the duration of a software trial period?",
+                answer: "How long does the trial period last for this software?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "How can you ask about the cost of a software license?",
+                answer: "How much does a license for this software cost?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "What is a way to inquire about the frequency of software backups?",
+                answer: "How often does this software perform backups?"
+                },
+                
+                {
+                category: 'Questions:WH words ',
+                question: "How do you ask about determining the right software for a specific task?",
+                answer: "Which software is best suited for this particular task?"
+                },
+
+
+          {
+          category: 'Questions:WH words ',
+          question: "How can you ask about the cost of a new company software?",
+          answer: "How much does the new accounting software cost?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "What is a way to inquire about the frequency of safety drills?",
+          answer: "How often do we have safety drills?"
+          },
+          
+          {
+          category: 'Questions:WH words ',
+          question: "How do you ask about choosing the right supplier for a particular product?",
+          answer: "Which supplier should we use for our printing needs?"
+          },
+
+      {
+      category: 'Questions:WH words ',
+      question: "What is a way to inquire about the frequency of client meetings?",
+      answer: "How often do we meet with clients?"
+      },
+      
+      {
+      category: 'Questions:WH words ',
+      question: "How do you ask about choosing the right strategy for a marketing campaign?",
+      answer: "Which strategy should we choose for the upcoming marketing campaign?"
+      },
+
+
+
+    {
+      category: 'Questions:Workplace',
+      question: "How do you ask a colleague for an update on a project?",
+      answer: "Can you give me an update on the project status?"
+      },
+      
+      {
+      category: 'Questions:Workplace',
+      question: "What is a way to inquire about a meeting's schedule?",
+      answer: "When is our next team meeting scheduled?"
+      }, 
+      
+      {
+      category: 'Questions:Workplace',
+      question: "How can you ask for clarification on a task?",
+      answer: "Could you please clarify the requirements for this task?"
+      },
+      
+      {
+      category: 'Questions:Workplace',
+      question: "What is a polite way to ask for a deadline extension?",
+      answer: "Is it possible to get an extension on the deadline for this project?"
+      },
+      
+      {
+        category: 'Questions:Workplace',
+        question: "How do you ask a colleague for their opinion on a project?",
+        answer: "What do you think about the approach we're taking with this project?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "What is a way to inquire about the availability of a conference room?",
+        answer: "Is the conference room available for a meeting this afternoon?"
+        },
+        
+
+        {
+          category: 'Questions:Workplace',
+          question: "How do you ask about the next steps after completing a task?",
+          answer: "What are the next steps now that this task is completed?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a way to inquire about the results of a client meeting?",
+          answer: "How did the meeting with the client go?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How can you ask a colleague if they have spare time to assist with a project?",
+          answer: "Do you have some time to help me with a project I'm working on?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a polite way to ask for someone's expertise on a subject?",
+          answer: "Could I get your expert opinion on this matter?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How do you ask for the preferred communication method?",
+          answer: "What is your preferred method of communication for work-related matters?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a way to ask about changes in a project's scope?",
+          answer: "Have there been any changes to the scope of our project?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How can you inquire about the availability of a team member for a new project?",
+          answer: "Are you available to take on a new project in the coming weeks?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How do you ask about the effectiveness of a new workflow?",
+          answer: "How effective has the new workflow been in improving our productivity?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a way to ask for suggestions for improving a process?",
+          answer: "Do you have any suggestions on how we could improve this process?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How can you ask about the status of a pending approval?",
+          answer: "What's the status of the approval for my request?"
+          },
+        {
+        category: 'Questions:Workplace',
+        question: "How can you ask about the company's policy on remote work?",
+        answer: "What is our company's policy on remote working?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "What is a polite way to ask a manager for a one-on-one meeting?",
+        answer: "Could we schedule a one-on-one meeting sometime this week?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "How do you ask for information about annual leave policies?",
+        answer: "Could you tell me more about our annual leave policy?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "What is a way to request technical support?",
+        answer: "Who can I contact for technical support with my computer?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "How can you ask a coworker about the status of a shared resource?",
+        answer: "Do you know if the printer is working now?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "How do you inquire about the agenda for a meeting?",
+        answer: "What's on the agenda for our meeting today?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "What is a way to ask if anyone has objections to a proposal?",
+        answer: "Does anyone have any concerns or objections to this proposal?"
+        },
+        
+        {
+        category: 'Questions:Workplace',
+        question: "How can you ask about the procedure for filing expense reports?",
+        answer: "Can you explain how to file an expense report?"
+        },
+
+        {
+          category: 'Questions:Workplace',
+          question: "How do you ask for the deadline of a report?",
+          answer: "When is the deadline for submitting this report?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a way to ask about the dress code for a company event?",
+          answer: "What is the dress code for the upcoming company event?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How can you inquire about the process for requesting equipment?",
+          answer: "What is the process for requesting new equipment or supplies?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a polite way to ask someone to review a document?",
+          answer: "Could you take a look at this document and give me your feedback?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How do you ask if there are any updates from a recent meeting?",
+          answer: "Were there any important updates from the meeting I missed?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a way to ask a coworker if they need support with their workload?",
+          answer: "Do you need any assistance with your current workload?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How can you ask about the status of an IT issue?",
+          answer: "Has the IT issue been resolved yet?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How do you inquire about opportunities for professional development?",
+          answer: "Are there any professional development opportunities available that I could explore?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "What is a way to ask about the impact of a new policy on your work?",
+          answer: "How will the new policy affect our current workflow?"
+          },
+          
+          {
+          category: 'Questions:Workplace',
+          question: "How can you ask for clarification on a colleague's email?",
+          answer: "Could you clarify the points you made in your last email?"
+          },
+
+
+
+      {
+      category: 'Questions:Workplace',
+      question: "How do you ask a colleague if they are available for a meeting?",
+      answer: "Are you available for a meeting this afternoon?"
+      }
+      ,
+
+      {
+      category: 'Questions:Workplace',
+      question: "What is a way to request assistance from a coworker?",
+      answer: "Could you help me with this task?"
+      },
+      
+      {
+      category: 'Questions:Workplace',
+      question: "How can you ask about the priority of different tasks?",
+      answer: "Which task should I prioritize right now?"
+      },
+      
+      {
+      category: 'Questions:Workplace',
+      question: "How do you inquire about the progress of a team member?",
+      answer: "How is your part of the project coming along?"
+      },
+      
+      {
+      category: 'Questions:Workplace',
+      question: "What is a way to ask for feedback on your work?",
+      answer: "Could you provide some feedback on my recent work?"
+      },
+      
+      {
+      category: 'Questions:Workplace',
+      question: "How can you ask about the procedure for a specific process?",
+      answer: "Can you explain the procedure for this process to me?"
+      },
+
+//
 { category: 'Adjectives:People', question: "My [BLANK] friend is always there for me.", answer: "loyal" },
 { category: 'Adjectives:People', question: "I have a very [BLANK] teacher who makes learning fun.", answer: "creative" },
 { category: 'Adjectives:People', question: "My [BLANK] sister is always willing to help me with my homework.", answer: "kind|helpful" },
@@ -5084,7 +7215,7 @@ const flashcards = [
 { category: 'Verbs:irregular', question: "I [BLANK] to the store yesterday.", answer: "went" },
 { category: 'Verbs:irregular', question: "I [BLANK] a book yesterday.", answer: "read" },
 { category: 'Verbs:irregular', question: "I [BLANK] dinner at 7:00 PM last night.", answer: "had|ate|went to|went out for|" },
-{ category: 'Verbs:irregular', question: "I [BLANK] a walk in the park this morning.", answer: "took" },
+{ category: 'Verbs:irregular', question: "I [BLANK] a walk in the park this morning.", answer: "took|went for" },
 { category: 'Verbs:irregular', question: "I [BLANK] a game of chess with my friend last night.", answer: "played" },
 { category: 'Verbs:irregular', question: "I [BLANK] a new dress for the party last week.", answer: "bought" },
 { category: 'Verbs:irregular', question: "I [BLANK] a letter to my grandmother last month.", answer: "wrote" },
@@ -5098,7 +7229,7 @@ const flashcards = [
 { category: 'Verbs:irregular', question: "I [BLANK] a quiz in math class today.", answer: "had" },
 { category: 'Verbs:irregular', question: "I [BLANK] a bike ride with my friends this morning.", answer: "went" },
 { category: 'Verbs:irregular', question: "I [BLANK] a new plant for my apartment last week.", answer: "bought" },
-{ category: 'Verbs:irregular', question: "I [BLANK] a song for my talent show last month.", answer: "wrote" },
+{ category: 'Verbs:irregular', question: "I [BLANK] a song for my talent show last month.", answer: "sang|wrote" },
 { category: 'Verbs:irregular', question: "I [BLANK] a delicious dinner for my family tonight.", answer: "made" },
 
 //
@@ -5112,7 +7243,7 @@ const flashcards = [
 { category: 'Verbs:common', question: "I [BLANK] my homework last night.", answer: "did" },
 { category: 'Verbs:common', question: "I [BLANK] a movie last night.", answer: "saw" },
 { category: 'Verbs:common', question: "I [BLANK] a delicious meal for lunch today.", answer: "ate" },
-{ category: 'Verbs:common', question: "I [BLANK] a gift for my friend's birthday last week.", answer: "gave" },
+{ category: 'Verbs:common', question: "I [BLANK] a gift for my friend's birthday last week.", answer: "gave|got" },
 { category: 'Verbs:common', question: "I [BLANK] a new pair of shoes last month.", answer: "bought" },
 { category: 'Verbs:common', question: "I [BLANK] a poem for my English class last week.", answer: "wrote" },
 { category: 'Verbs:common', question: "I [BLANK] a nap after lunch today.", answer: "took" },
