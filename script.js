@@ -2829,6 +2829,20 @@ const flashcards = [
 
   {
     "category": "Errors",
+    "question": "I working on a new project right now.",
+    "answer": "I am working on a new project right now."
+  },
+
+  {
+    "category": "Errors",
+    "question": "I started read a book a yesterday.",
+    "answer": "I started reading a book a yesterday."
+  },
+
+  
+
+  {
+    "category": "Errors",
     "question": "I go to store.",
     "answer": "I go to the store."
   },
@@ -3049,7 +3063,7 @@ const flashcards = [
   {
     "category": "Errors",
     "question": "Your friend was waiting you.",
-    "answer": "Your friend was waiting for you."
+    "answer": "Your friend was waiting for you. or Your friend is waiting for you."
   },
   {
     "category": "Errors",
@@ -3178,11 +3192,13 @@ const flashcards = [
     "question": "I don't know which style I should do.",
     "answer": "I don't know which style I should use."
   },
+  
   {
     "category": "Errors",
     "question": "It's not easy for every people.",
     "answer": "It's not easy for everyone."
   },
+
   {
     "category": "Errors",
     "question": "I didn't see so many people as I hoped.",
@@ -3211,7 +3227,7 @@ const flashcards = [
   {
     "category": "Errors",
     "question": "I have my lovely stores.",
-    "answer": "I have my preferred stores."
+    "answer": "I have my preferred stores. or I have my favorite stores."
   },
   {
     "category": "Errors",
@@ -3235,7 +3251,62 @@ const flashcards = [
     "answer": "There's not much value in this process."
   },
 
+  {
+    "category": "Errors",
+    "question": "I was impressed of the film.",
+    "answer": "I was impressed by the film."
+  },
 
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He finds a rare coin.", 
+    answer: "He found a rare coin." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: They start a new business.", 
+    answer: "They started a new business." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She thinks about the solution.", 
+    answer: "She thought about the solution." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: I choose the red dress.", 
+    answer: "I chose the red dress." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: You give him a present.", 
+    answer: "You gave him a present." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He builds a sandcastle.", 
+    answer: "He built a sandcastle." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: They sell their old car.", 
+    answer: "They sold their old car." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: I read a fascinating book.", 
+    answer: "I read a fascinating book." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She throws a ball.", 
+    answer: "She threw a ball." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: We bring the groceries home.", 
+    answer: "We brought the groceries home." 
+  },
 
 
 
@@ -3244,13 +3315,15 @@ const flashcards = [
     "question": "I am totally agree.",
     "answer": "I totally agree."
   },
-  // past simple
+  ///////////////////////////////////////// past simple
 
  { 
     category: 'Past Simple Tense', 
     question: "Change to past simple tense: She writes a letter.", 
     answer: "She wrote a letter." 
   },
+
+
   { 
     category: 'Past Simple Tense', 
     question: "What is the past simple tense of 'run'?", 
@@ -3296,6 +3369,58 @@ const flashcards = [
     category: 'Past Simple Tense', 
     question: "Use an irregular verb in past simple tense: I (see) a movie last night.", 
     answer: "I saw a movie last night." 
+  },
+
+
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She writes a letter.", 
+    answer: "She wrote a letter." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: They go to the cinema.", 
+    answer: "They went to the cinema." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He eats a sandwich.", 
+    answer: "He ate a sandwich." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: I study for the exam.", 
+    answer: "I studied for the exam." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She drives to work.", 
+    answer: "She drove to work." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: They play football.", 
+    answer: "They played football." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He swims in the pool.", 
+    answer: "He swam in the pool." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: We watch a movie.", 
+    answer: "We watched a movie." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: You buy a new phone.", 
+    answer: "You bought a new phone." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She sings a song.", 
+    answer: "She sang a song." 
   },
 
 
@@ -3351,7 +3476,56 @@ const flashcards = [
     answer: "They taught English in that school for years." 
   },
 
-
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He runs every morning.", 
+    answer: "He ran every morning." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: They eat breakfast at 7 AM.", 
+    answer: "They ate breakfast at 7 AM." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She travels to Paris.", 
+    answer: "She traveled to Paris." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: We discuss the project.", 
+    answer: "We discussed the project." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: You learn Spanish.", 
+    answer: "You learned Spanish." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: He fixes the car.", 
+    answer: "He fixed the car." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: They climb the mountain.", 
+    answer: "They climbed the mountain." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: I create a painting.", 
+    answer: "I created a painting." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: She listens to music.", 
+    answer: "She listened to music." 
+  },
+  { 
+    category: 'Past Simple Tense', 
+    question: "Change to past simple tense: We celebrate his birthday.", 
+    answer: "We celebrated his birthday." 
+  },
 
 
   { 
@@ -3479,12 +3653,118 @@ const flashcards = [
     question: "Complete the sentence in past perfect tense: I (not / finish) my homework when my friend called.", 
     answer: "I hadn't finished my homework when my friend called." 
   },
+
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: I (not / finish) my homework when my friend called.", 
+    answer: "I hadn't finished my homework when my friend called." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: They (leave) the party before we arrived.", 
+    answer: "They had left the party before we arrived." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: She (never / see) a bear before that day.", 
+    answer: "She had never seen a bear before that day." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: He (write) the report before the meeting started.", 
+    answer: "He had written the report before the meeting started." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: We (not / hear) about the incident until later.", 
+    answer: "We hadn't heard about the incident until later." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: You (complete) the project before the deadline.", 
+    answer: "You had completed the project before the deadline." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: They (eat) all the cookies before dinner.", 
+    answer: "They had eaten all the cookies before dinner." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: She (not / visit) Paris before 2005.", 
+    answer: "She hadn't visited Paris before 2005." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: I (finish) my meal when he called.", 
+    answer: "I had finished my meal when he called." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: He (not / read) the book before the discussion.", 
+    answer: "He hadn't read the book before the discussion." 
+  },
+
+
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: They (be) married for 20 years before they got divorced.", 
+    answer: "They had been married for 20 years before they got divorced." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: She (not / watch) the movie before that night.", 
+    answer: "She hadn't watched the movie before that night." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: We (sell) our old house before moving to New York.", 
+    answer: "We had sold our old house before moving to New York." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: I (never / think) about it before you mentioned it.", 
+    answer: "I had never thought about it before you mentioned it." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: He (lose) his keys before he found them in his bag.", 
+    answer: "He had lost his keys before he found them in his bag." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: They (not / realize) the truth until much later.", 
+    answer: "They hadn't realized the truth until much later." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: She (visit) several countries before settling in Canada.", 
+    answer: "She had visited several countries before settling in Canada." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: You (not / meet) her before that day.", 
+    answer: "You hadn't met her before that day." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: We (finish) the report before he asked for it.", 
+    answer: "We had finished the report before he asked for it." 
+  },
+  { 
+    category: 'Past Perfect Tense', 
+    question: "Complete the sentence in past perfect tense: He (not / hear) about the accident before the news broadcast.", 
+    answer: "He hadn't heard about the accident before the news broadcast." 
+  },
+
+
+
   { 
     category: 'Past Perfect Tense', 
     question: "Change to past perfect tense: He finds the solution.", 
     answer: "He had found the solution." 
   },
-  ///
+  ///////////////////////////////////////////////////
   { 
     category: 'Past Perfect Continuous Tense', 
     question: "Form a sentence in past perfect continuous tense: They (wait) for the bus for 30 minutes before it arrived.", 
@@ -3510,12 +3790,14 @@ const flashcards = [
     question: "Change to past perfect continuous tense: They are playing football.", 
     answer: "They had been playing football." 
   },
-  //
+  ///////////////////////////
+
   { 
     category: 'Present Simple Tense', 
     question: "Form a sentence in present simple tense: She (go) to school every day.", 
     answer: "She goes to school every day." 
   },
+  
   { 
     category: 'Present Simple Tense', 
     question: "Change to present simple tense: They are eating lunch.", 
@@ -3640,7 +3922,7 @@ const flashcards = [
 { 
   category: 'Future Simple Tense', 
   question: "Change to future simple tense: I am reading a book.", 
-  answer: "I will read a book. or I'm going to read a bookd." 
+  answer: "I will read a book. or I'm going to read a book." 
 },
 
 //
@@ -5358,6 +5640,8 @@ const flashcards = [
   answer: "What is the current wait time for an appointment?"
   },
   
+
+
   {
   category: 'Questions:Medical Clinic ',
   question: "What is a way to inquire about the availability of a specific doctor?",
