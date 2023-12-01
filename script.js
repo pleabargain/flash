@@ -9878,6 +9878,115 @@ answer: "Which option should I choose on this feedback form?"
 
 
 
+///////////////////////////////
+{
+  "category": "Pronouns:Relative",
+  "question": "The man [BLANK] called you is waiting outside.",
+  "answer": "who"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The woman to [BLANK] we spoke sold us the tickets.",
+  "answer": "whom"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The boy [BLANK] bicycle was stolen was very upset.",
+  "answer": "whose"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The book [BLANK] you gave me was very interesting.",
+  "answer": "that"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The house [BLANK] we stayed in was very cozy.",
+  "answer": "which"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "She is the person [BLANK] opinion I respect most.",
+  "answer": "whose"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The cat [BLANK] sits on the mat is very old.",
+  "answer": "that"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "This is the artist [BLANK] painting was sold for a million dollars.",
+  "answer": "whose"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The movie [BLANK] we watched last night was thrilling.",
+  "answer": "that|which"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The teacher, [BLANK] has been teaching for 20 years, is retiring.",
+  "answer": "who"
+},
+
+
+{
+  "category": "Pronouns:Relative",
+  "question": "The actor [BLANK] won the award is my favorite.",
+  "answer": "who"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The company [BLANK] she works for is very prestigious.",
+  "answer": "which"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The students [BLANK] essays were excellent received high grades.",
+  "answer": "whose"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The building [BLANK] was demolished was very old.",
+  "answer": "that"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The city [BLANK] they live in is known for its museums.",
+  "answer": "which"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The professor, [BLANK] has published many papers, is giving a lecture.",
+  "answer": "who"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The car [BLANK] engine broke down is at the mechanic.",
+  "answer": "whose"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The book [BLANK] you recommended was out of stock.",
+  "answer": "that|which"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The athlete, [BLANK] we met yesterday, won three medals.",
+  "answer": "whom"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The girl [BLANK] painting was selected is very talented.",
+  "answer": "whose"
+},
+
+
+
+
+////////////////////
+
 { category: 'Pronouns:Indefinite', question: "Someone left [BLANK] phone in the conference room.", answer: "their" },
     { category: 'Pronouns:Indefinite', question: "Everybody needs [BLANK] to feel important.", answer: "someone" },
     { category: 'Pronouns:Indefinite', question: "Anyone can join the club, but [BLANK] has to follow the rules.", answer: "everyone" },
