@@ -5279,6 +5279,10 @@ const flashcards = [
   { "category": "Common phrases", "question": "I only want a snack.", "answer": "I only want a snack, not a full meal." },
   { "category": "Common phrases", "question": "Is Mr. Smith an American?", "answer": "Is Mr. Smith an American, or is he from somewhere else?" },
   { "category": "Common phrases", "question": "Is that enough?", "answer": "Is that enough food for everyone?" },
+  { "category": "Common phrases", "question": "She is  ___ a lot of ____?", "answer": "drawing attention!" },
+
+  { "category": "Common phrases", "question": "She is the ___ of ____?", "answer": "center attention!" },
+
   { "category": "Common phrases", "question": "I think it's very good.", "answer": "I think it's very good, especially the flavor." },
   { "category": "Common phrases", "question": "I think it tastes good.", "answer": "I think it tastes good, what do you think?" },
   { "category": "Common phrases", "question": "I thought the clothes were cheaper.", "answer": "I thought the clothes were cheaper, they're quite expensive." },
