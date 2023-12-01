@@ -6,6 +6,143 @@ const flashcards = [
 
 { category: 'Prepositions', question: 'I got an email [BLANK] our client.', answer: 'from' },
 
+{
+  "category": "Prepositions",
+  "question": "I got an email [BLANK] our client.",
+  "answer": "from"
+},
+{
+  "category": "Prepositions",
+  "question": "I prefer to read [BLANK] the library.",
+  "answer": "in"
+},
+{
+  "category": "Prepositions",
+  "question": "He climbed up the ladder to get [BLANK] the roof.",
+  "answer": "onto"
+},
+{
+  "category": "Prepositions",
+  "question": "Please sign your name [BLANK] the dotted line after you read the contract.",
+  "answer": "on"
+},
+
+{
+  "category": "Prepositions",
+  "question": "She lives [BLANK] the street [BLANK] the supermarket.",
+  "answer": "on, near"
+},
+{
+  "category": "Prepositions",
+  "question": "The books are [BLANK] the shelf [BLANK] the room.",
+  "answer": "on, in"
+},
+{
+  "category": "Prepositions",
+  "question": "We met [BLANK] the coffee shop [BLANK] noon.",
+  "answer": "at, at"
+},
+{
+  "category": "Prepositions",
+  "question": "The cat jumped [BLANK] the table.",
+  "answer": "onto"
+},
+{
+  "category": "Prepositions",
+  "question": "He left his phone [BLANK] the car.",
+  "answer": "in"
+},
+{
+  "category": "Prepositions",
+  "question": "They are traveling [BLANK] Europe [BLANK] the summer.",
+  "answer": "around, during"
+},
+{
+  "category": "Prepositions",
+  "question": "I will see you [BLANK] Monday.",
+  "answer": "on"
+},
+
+{
+  "category": "Prepositions",
+  "question": "The restaurant is located [BLANK] the bank and the library.",
+  "answer": "between"
+},
+{
+  "category": "Prepositions",
+  "question": "Please wait for me [BLANK] the main entrance.",
+  "answer": "at"
+},
+{
+  "category": "Prepositions",
+  "question": "He is flying [BLANK] New York [BLANK] Paris.",
+  "answer": "from, to"
+},
+{
+  "category": "Prepositions",
+  "question": "The flowers are [BLANK] front [BLANK] the house.",
+  "answer": "in, of"
+},
+{
+  "category": "Prepositions",
+  "question": "I'll be there [BLANK] five minutes.",
+  "answer": "in"
+},
+{
+  "category": "Prepositions",
+  "question": "The painting is [BLANK] the museum [BLANK] Fifth Avenue.",
+  "answer": "in, on"
+},
+{
+  "category": "Prepositions",
+  "question": "He left the keys [BLANK] the desk [BLANK] the hallway.",
+  "answer": "on, in"
+},
+{
+  "category": "Prepositions",
+  "question": "They were sitting [BLANK] the park [BLANK] a sunny day.",
+  "answer": "in, on"
+},
+{
+  "category": "Prepositions",
+  "question": "The teacher stood [BLANK] the students [BLANK] the classroom.",
+  "answer": "in front of, in"
+},
+{
+  "category": "Prepositions",
+  "question": "She put the book [BLANK] the shelf [BLANK] the door.",
+  "answer": "on, next to"
+},
+
+{
+  "category": "Prepositions",
+  "question": "She was standing [BLANK] her friend [BLANK] the concert.",
+  "answer": "beside, at"
+},
+{
+  "category": "Prepositions",
+  "question": "They walked [BLANK] the bridge [BLANK] the river.",
+  "answer": "over, across"
+},
+
+
+{
+  "category": "Prepositions",
+  "question": "Go [BLANK] the stairs and [BLANK] the door.",
+  "answer": "down, through"
+},
+{
+  "category": "Prepositions",
+  "question": "He swam [BLANK] the pool from one side to the other. ",
+  "answer": "across"
+},
+{
+  "category": "Prepositions",
+  "question": "Take your brother [BLANK] you.",
+  "answer": "with"
+},
+
+
 { category: 'Prepositions', question: 'I received a gift [BLANK] my friend.', answer: 'from' },
 { category: 'Prepositions', question: 'The message is coming [BLANK] the headquarters.', answer: 'from' },
 { category: 'Prepositions', question: 'She will travel [BLANK] Paris to Rome.', answer: 'from' },
@@ -1791,6 +1928,198 @@ const flashcards = [
   "question": "Can you please _____ that important point in the meeting minutes?",
   "answer": "write down|note down"
 },
+
+{
+  "category": "Phrasal verbs: work",
+  "question": "Can you please _____ that important point in the meeting minutes?",
+  "answer": "write down|note down"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "The deal _____ at the last minute.",
+  "answer": "fell through"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "He's trying to _____ how to solve this complex problem.",
+  "answer": "figure out"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Please _____ the application form for the new position.",
+  "answer": "fill out"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "We need to _____ who is in charge of client relations.",
+  "answer": "find out"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "It's important for the team to _____ on the new marketing strategy.",
+  "answer": "focus on"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "How well do you _____ with your colleagues in stressful situations?",
+  "answer": "get along"
+},
+
+{
+  "category": "Phrasal verbs: work",
+  "question": "He's trying to _____ the early morning flight to Dallas.",
+  "answer": "get on"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "We need to _____ with the project despite the recent setbacks.",
+  "answer": "get on with"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Does he _____ with his new manager?",
+  "answer": "get on well"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Due to the meeting, I couldn't _____ of the office until late.",
+  "answer": "get out"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "She always tries to _____ doing the monthly report.",
+  "answer": "get out of"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "How long did it take him to _____ the flu?",
+  "answer": "get over"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "We need to _____ these outdated procedures.",
+  "answer": "get rid of"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "The team should _____ for a brainstorming session.",
+  "answer": "get together"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "He always finds it hard to _____ for early meetings.",
+  "answer": "get up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Our company will not _____ to unrealistic client demands.",
+  "answer": "give in"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "When do you plan to _____ your project proposal?",
+  "answer": "give in"
+},
+
+{
+  "category": "Phrasal verbs: work",
+  "question": "Please _____ and finish the report quickly.",
+  "answer": "hurry up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "They need to _____ the contract details before finalizing the deal.",
+  "answer": "iron out"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Everyone is welcome to _____ the team meeting.",
+  "answer": "join in"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Many young people _____ the army during the war.",
+  "answer": "joined up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Let's split up for now and _____ at the conference center.",
+  "answer": "join up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "You need to _____ working hard if you want to succeed.",
+  "answer": "keep on"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "It's hard to _____ with all the latest technological changes.",
+  "answer": "keep up with"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "The meeting is scheduled to _____ at 10 AM sharp.",
+  "answer": "kick off"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Make sure to _____ any important details from the report.",
+  "answer": "leave out"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "I hope I don't _____ my team by missing the deadline.",
+  "answer": "let down"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Can you _____ the office while I'm at the conference?",
+  "answer": "look after"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "It's wrong to _____ people who have less than you.",
+  "answer": "look down on"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "If you're not playing, you can still _____ the game.",
+  "answer": "look on"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "He's been _____ a new job in the IT sector.",
+  "answer": "looking for"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "We are all _____ to the upcoming team-building event.",
+  "answer": "looking forward to"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "Many people _____ to their parents as role models.",
+  "answer": "look up to"
+},
+
+{
+  "category": "Phrasal verbs: work",
+  "question": "He's going to _____ the issue with his manager tomorrow.",
+  "answer": "bring up"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "We need to _____ a solution before the deadline.",
+  "answer": "come up with"
+},
+{
+  "category": "Phrasal verbs: work",
+  "question": "She _____ from her position to spend more time with her family.",
+  "answer": "stepped down"
+},
+
+
+
 {
   "category": "Phrasal verbs: work",
   "question": "The numbers don't  _____! We need to check the calculations again.",
@@ -1941,6 +2270,114 @@ const flashcards = [
   "question": "If a machine or part of your body starts to behave badly or strangely, it is said to ___ ___.",
   "answer": "act up"
 },
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you are held responsible for a problem, you ___ ___ it.",
+  "answer": "answer for"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To eagerly start a particular task or activity, you ___ ___ it.",
+  "answer": "dive into"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you invent something, especially an excuse, you ___ it ___.",
+  "answer": "make up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To cancel something, you ___ it ___.",
+  "answer": "call off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you tolerate a situation, you ___ ___ with it.",
+  "answer": "put up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you leave a place, especially for a particular purpose, you ___ ___.",
+  "answer": "set off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you try to find someone or something, you ___ ___ them or it.",
+  "answer": "look for"
+},
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you support or maintain something, you ___ it ___.",
+  "answer": "keep up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To start a computer or a machine, you ___ it ___.",
+  "answer": "boot up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you postpone an event to a later time, you ___ it ___.",
+  "answer": "push back"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you reduce the amount of something, you ___ it ___.",
+  "answer": "cut down"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To continue doing something, especially after a pause or hesitation, you ___ ___.",
+  "answer": "go on"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you unexpectedly encounter someone, you ___ ___ them.",
+  "answer": "bump into"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "When you remove clothing, you ___ it ___.",
+  "answer": "take off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To express your feelings or opinions strongly, you ___ ___.",
+  "answer": "speak out"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you gradually start to believe in a new idea, you ___ ___ to it.",
+  "answer": "warm up"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To formally end a meeting or assembly, you ___ it ___.",
+  "answer": "close down"
+},
+
+{
+  "category": "Phrasal verbs",
+  "question": "When you delay doing something, you ___ it ___.",
+  "answer": "put off"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "To recover from an illness or setback, you ___ ___.",
+  "answer": "bounce back"
+},
+{
+  "category": "Phrasal verbs",
+  "question": "If you investigate or examine a problem in detail, you ___ ___ it.",
+  "answer": "dig into"
+},
+
+
+
+
+
 {
   "category": "Phrasal verbs",
   "question": "When you are held responsible for a problem, you ___ ___  it.",
@@ -2829,6 +3266,38 @@ const flashcards = [
 
   {
     "category": "Errors",
+    "question": "There won't be ___ meetings today.",
+    "answer": "anymore",
+  },
+
+
+
+  
+
+
+
+  {
+    "category": "Errors",
+    "question": "It's much more bigger!",
+    "answer": "It's much bigger! or It's the biggest!"
+  },
+
+
+  {
+    "category": "Errors",
+    "question": "My brother doesn't like it when I mimics him.",
+    "answer": "My brother doesn't like it when I mimic him."
+  },
+
+  {
+    "category": "Errors",
+    "question": "I'm sitting on my kitchen.",
+    "answer": "I'm sitting in my kitchen."
+  },
+
+
+  {
+    "category": "Errors",
     "question": "I working on a new project right now.",
     "answer": "I am working on a new project right now."
   },
@@ -3187,6 +3656,134 @@ const flashcards = [
     "question": "I forgot what it is named.",
     "answer": "I forgot what it's called."
   },
+
+
+  {
+    "category": "Errors",
+    "question": "They told me that it's a dermotologist disease.",
+    "answer": "They told me that it's a dermatologist's disease."
+  },
+  {
+    "category": "Errors",
+    "question": "Me and my friend went to the store.",
+    "answer": "My friend and I went to the store."
+  },
+  {
+    "category": "Errors",
+    "question": "He don't like going to the park.",
+    "answer": "He doesn't like going to the park."
+  },
+  {
+    "category": "Errors",
+    "question": "I seen him yesterday at the game.",
+    "answer": "I saw him yesterday at the game."
+  },
+  {
+    "category": "Errors",
+    "question": "Your going to love this movie.",
+    "answer": "You're going to love this movie."
+  },
+  {
+    "category": "Errors",
+    "question": "Its a long way to the top.",
+    "answer": "It's a long way to the top."
+  },
+  {
+    "category": "Errors",
+    "question": "She has less apples than me.",
+    "answer": "She has fewer apples than I."
+  },
+
+  {
+    "category": "Errors",
+    "question": "Each students have their own locker.",
+    "answer": "Each student has their own locker."
+  },
+  {
+    "category": "Errors",
+    "question": "She layed the book on the table.",
+    "answer": "She laid the book on the table."
+  },
+  {
+    "category": "Errors",
+    "question": "Me and him went to the market.",
+    "answer": "He and I went to the market."
+  },
+  {
+    "category": "Errors",
+    "question": "The team are playing tonight.",
+    "answer": "The team is playing tonight."
+  },
+  {
+    "category": "Errors",
+    "question": "She must of left early.",
+    "answer": "She must have left early."
+  },
+
+  
+  {
+    "category": "Errors",
+    "question": "Everyone are planning their budget.",
+    "answer": "Everyone is planning their budget."
+  },
+
+
+
+  {
+    "category": "Errors",
+    "question": "I should of read the instructions.(contraction)",
+    "answer": "I should have read the instructions."
+  },
+
+  {
+    "category": "Errors",
+    "question": "Their is a problem with your order.(homophone)",
+    "answer": "There is a problem with your order."
+  },
+  {
+    "category": "Errors",
+    "question": "I could care less about the outcome.(negative)",
+    "answer": "I couldn't care less about the outcome."
+  },
+  {
+    "category": "Errors",
+    "question": "This is a unique opportunity, irregardless of your experience.",
+    "answer": "This is a unique opportunity, regardless of your experience."
+  },
+  {
+    "category": "Errors",
+    "question": "We seen several deer in the woods. (past tense)",
+    "answer": "We saw several deer in the woods."
+  },
+
+
+  {
+    "category": "Errors",
+    "question": "He done the work by himself.",
+    "answer": "He did the work by himself."
+  },
+  {
+    "category": "Errors",
+    "question": "Who's book is this?",
+    "answer": "Whose book is this?"
+  },
+  {
+    "category": "Errors",
+    "question": "There going to the beach tomorrow.",
+    "answer": "They're going to the beach tomorrow."
+  },
+
+
+
+  
+  {
+    "category": "Errors",
+    "question": "They told me that it's a dermatologist disease.",
+    "answer": "They told me that it's a skin disease."
+  },
+  
+
+
   {
     "category": "Errors",
     "question": "I don't know which style I should do.",
@@ -3528,6 +4125,52 @@ const flashcards = [
   },
 
 
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: They go to the beach every summer.",
+    "answer": "They went to the beach every summer."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: She writes a letter to her friend.",
+    "answer": "She wrote a letter to her friend."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: He drives to work.",
+    "answer": "He drove to work."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: I read a great book last week.",
+    "answer": "I read a great book last week."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: They have dinner at a fancy restaurant.",
+    "answer": "They had dinner at a fancy restaurant."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: She practices the piano every day.",
+    "answer": "She practiced the piano every day."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: We watch a movie last night.",
+    "answer": "We watched a movie last night."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: He learns a new language.",
+    "answer": "He learned a new language."
+  },
+  {
+    "category": "Past Simple Tense",
+    "question": "Change to past simple tense: They visit their grandparents every Sunday.",
+    "answer": "They visited their grandparents every Sunday."
+  },
+
   { 
     category: 'Past Simple Tense', 
     question: "Complete the sentence in past simple tense: I (go) to the store yesterday.", 
@@ -3590,6 +4233,8 @@ const flashcards = [
     question: "Complete the sentence in past continuous tense with an irregular verb: She (drink) coffee at the café when she saw her friend.", 
     answer: "She was drinking coffee at the café when she saw her friend." 
   },
+
+
   { 
     category: 'Past Continuous Tense', 
     question: "Change to past continuous tense using an irregular verb: They build a house.", 
@@ -3664,11 +4309,67 @@ const flashcards = [
     question: "Complete the sentence in past perfect tense: They (leave) the party before we arrived.", 
     answer: "They had left the party before we arrived." 
   },
+
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: She (never / see) a bear before that day.",
+    "answer": "She had never seen a bear before that day."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: By the time we arrived, the concert (already / start).",
+    "answer": "By the time we arrived, the concert had already started."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: I (not / finish) my homework when he called.",
+    "answer": "I had not finished my homework when he called."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: They (eat) dinner, so they weren't hungry.",
+    "answer": "They had eaten dinner, so they weren't hungry."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: He (forget) to lock the door before leaving.",
+    "answer": "He had forgotten to lock the door before leaving."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: We (see) the movie, so we decided to watch something else.",
+    "answer": "We had seen the movie, so we decided to watch something else."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: She (write) the letter before going to bed.",
+    "answer": "She had written the letter before going to bed."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: They (not / hear) the news before you told them.",
+    "answer": "They had not heard the news before you told them."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: I (lose) my keys, so I couldn't get into my house.",
+    "answer": "I had lost my keys, so I couldn't get into my house."
+  },
+  {
+    "category": "Past Perfect Tense",
+    "question": "Complete the sentence in past perfect tense: He (finish) his work before he went on vacation.",
+    "answer": "He had finished his work before he went on vacation."
+  },
+
+
+
   { 
     category: 'Past Perfect Tense', 
     question: "Complete the sentence in past perfect tense: She (never / see) a bear before that day.", 
     answer: "She had never seen a bear before that day." 
   },
+
+
   { 
     category: 'Past Perfect Tense', 
     question: "Complete the sentence in past perfect tense: He (write) the report before the meeting started.", 
@@ -3824,6 +4525,163 @@ const flashcards = [
     question: "Form a sentence in present continuous tense: She (write) an email now.", 
     answer: "She is writing an email now." 
   },
+
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: She (write) an email now.",
+    "answer": "She is writing an email now."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: They (play) soccer in the park.",
+    "answer": "They are playing soccer in the park."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: He (read) a book at the moment.",
+    "answer": "He is reading a book at the moment."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: I (cook) dinner right now.",
+    "answer": "I am cooking dinner right now."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: The children (watch) a movie.",
+    "answer": "The children are watching a movie."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: She (not / sleep) at the moment.",
+    "answer": "She is not sleeping at the moment."
+  },
+
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: She (not / sleep) at the moment.",
+    "answer": "She is not sleeping at the moment."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: The birds (sing) outside my window.",
+    "answer": "The birds are singing outside my window."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: He (work) late tonight.",
+    "answer": "He is working late tonight."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: They (build) a new house next door.",
+    "answer": "They are building a new house next door."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: I (learn) to play the piano.",
+    "answer": "I am learning to play the piano."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: The children (not / do) their homework right now.",
+    "answer": "The children are not doing their homework right now."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: She (read) a novel in her room.",
+    "answer": "She is reading a novel in her room."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: The sun (set) over the mountains.",
+    "answer": "The sun is setting over the mountains."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: We (not / watch) TV at this time.",
+    "answer": "We are not watching TV at this time."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: The dog (chase) its tail.",
+    "answer": "The dog is chasing its tail."
+  },
+
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: We (study) for our exams this week.",
+    "answer": "We are studying for our exams this week."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: It (rain) heavily outside.",
+    "answer": "It is raining heavily outside."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: The dog (bark) at the strangers.",
+    "answer": "The dog is barking at the strangers."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Form a sentence in present continuous tense: They (not / work) today.",
+    "answer": "They are not working today."
+  },
+
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: She (sing) at the concert tonight.",
+  "answer": "She is singing at the concert tonight."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: The cat (chase) its tail.",
+  "answer": "The cat is chasing its tail."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: You (learn) Spanish this semester.",
+  "answer": "You are learning Spanish this semester."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: The baby (cry) in the next room.",
+  "answer": "The baby is crying in the next room."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: They (build) a new house on our street.",
+  "answer": "They are building a new house on our street."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: He (not / use) the computer right now.",
+  "answer": "He is not using the computer right now."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: I (think) about changing my job.",
+  "answer": "I am thinking about changing my job."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: It (snow) outside.",
+  "answer": "It is snowing outside."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: We (plan) our vacation now.",
+  "answer": "We are planning our vacation now."
+},
+{
+  "category": "Present Continuous Tense",
+  "question": "Form a sentence in present continuous tense: She (not / watch) TV at the moment.",
+  "answer": "She is not watching TV at the moment."
+},
+
+
+
   { 
     category: 'Present Continuous Tense', 
     question: "Change to present continuous tense: They play football.", 
@@ -3839,6 +4697,60 @@ const flashcards = [
     question: "Complete the sentence in present continuous tense: We (not / watch) TV right now.", 
     answer: "We are not watching TV right now. or We aren't watching TV right now." 
   },
+
+
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: We (not / watch) TV right now.",
+    "answer": "We are not watching TV right now or We aren't watching TV right now."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: She (study) for her exams.",
+    "answer": "She is studying for her exams."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: They (work) on a new project.",
+    "answer": "They are working on a new project."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: I (write) an email to my friend.",
+    "answer": "I am writing an email to my friend."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: He (not / sleep) right now.",
+    "answer": "He is not sleeping right now or He isn't sleeping right now."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: The children (play) in the garden.",
+    "answer": "The children are playing in the garden."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: It (rain) heavily.",
+    "answer": "It is raining heavily."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: We (plan) our holiday.",
+    "answer": "We are planning our holiday."
+  },
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: She (not / use) her computer at the moment.",
+    "answer": "She is not using her computer at the moment or She isn't using her computer at the moment."
+  },
+
+  {
+    "category": "Present Continuous Tense",
+    "question": "Complete the sentence in present continuous tense: The dog (bark) at the strangers.",
+    "answer": "The dog is barking at the strangers."
+  },
+
   { 
     category: 'Present Continuous Tense', 
     question: "Change to present continuous tense: He reads a book.", 
@@ -3909,11 +4821,64 @@ const flashcards = [
   question: "Change to future simple tense: They eat lunch.", 
   answer: "They will eat lunch. or They are going to eat lunch." 
 },
+
 { 
   category: 'Future Simple Tense', 
   question: "What is the future simple form of 'write'?", 
   answer: "will write" 
 },
+
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: I am reading a book.",
+  "answer": "I will read a book or I'm going to read a book."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: She eats breakfast at 7 AM.",
+  "answer": "She will eat breakfast at 7 AM or She's going to eat breakfast at 7 AM."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: They are walking to school.",
+  "answer": "They will walk to school or They're going to walk to school."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: He drives to work every day.",
+  "answer": "He will drive to work every day or He's going to drive to work every day."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: We are planning a party.",
+  "answer": "We will plan a party or We're going to plan a party."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: She is buying a new car.",
+  "answer": "She will buy a new car or She's going to buy a new car."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: I am making dinner tonight.",
+  "answer": "I will make dinner tonight or I'm going to make dinner tonight."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: They are starting a new project.",
+  "answer": "They will start a new project or They're going to start a new project."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: He is visiting his grandparents.",
+  "answer": "He will visit his grandparents or He's going to visit his grandparents."
+},
+{
+  "category": "Future Simple Tense",
+  "question": "Change to future simple tense: You are learning Spanish.",
+  "answer": "You will learn Spanish or You're going to learn Spanish."
+},
+
 { 
   category: 'Future Simple Tense', 
   question: "Complete the sentence in future simple tense: He (not / play) football tomorrow.", 
@@ -3964,6 +4929,8 @@ const flashcards = [
   question: "Change to future perfect tense: She writes a book.", 
   answer: "She will have written a book." 
 },
+
+
 { 
   category: 'Future Perfect Tense', 
   question: "What is the future perfect form of 'go'?", 
@@ -4027,6 +4994,163 @@ const flashcards = [
 
 
 { "category": "Common phrases", "question": "Be careful.", "answer": "Be careful while driving.| Be careful the soup is hot!" },
+{
+  "category": "Common phrases",
+  "question": "Don't worry.",
+  "answer": "Don't worry, everything will be fine."
+},
+{
+  "category": "Common phrases",
+  "question": "Excuse me.",
+  "answer": "Excuse me, could you help me with directions?"
+},
+{
+  "category": "Common phrases",
+  "question": "Can I get a...",
+  "answer": "Can I get a coffee, please?"
+},
+{
+  "category": "Common phrases",
+  "question": "How much is this?",
+  "answer": "How much is this item?"
+},
+{
+  "category": "Common phrases",
+  "question": "Where's the nearest...",
+  "answer": "Where's the nearest subway station?"
+},
+{
+  "category": "Common phrases",
+  "question": "Can you recommend...",
+  "answer": "Can you recommend a good restaurant around here?"
+},
+{
+  "category": "Common phrases",
+  "question": "What's the best way to...",
+  "answer": "What's the best way to get to the airport?"
+},
+
+{
+  "category": "Common phrases",
+  "question": "Sorry to bother you.",
+  "answer": "Sorry to bother you, but do you have the time?"
+},
+{
+  "category": "Common phrases",
+  "question": "Thanks a lot.",
+  "answer": "Thanks a lot for your help."
+},
+{
+  "category": "Common phrases",
+  "question": "Could you repeat that?",
+  "answer": "Could you repeat that, please? I didn't catch it."
+},
+{
+  "category": "Common phrases",
+  "question": "I'm just browsing.",
+  "answer": "I'm just browsing, thank you."
+},
+{
+  "category": "Common phrases",
+  "question": "How's it going?",
+  "answer": "How's it going? Having a good day?"
+},
+{
+  "category": "Common phrases",
+  "question": "What's up?",
+  "answer": "What's up? Anything new?"
+},
+{
+  "category": "Common phrases",
+  "question": "Can I help you?",
+  "answer": "Can I help you find something?"
+},
+
+{
+  "category": "Common phrases",
+  "question": "Don't worry.",
+  "answer": "Don't worry, everything will be fine."
+},
+{
+  "category": "Common phrases",
+  "question": "Let's touch base.",
+  "answer": "Let's touch base later to discuss the project."
+},
+{
+  "category": "Common phrases",
+  "question": "Can we circle back to this?",
+  "answer": "Can we circle back to this topic at the end of the meeting?"
+},
+{
+  "category": "Common phrases",
+  "question": "Do you have a minute?",
+  "answer": "Do you have a minute to go over these figures?"
+},
+{
+  "category": "Common phrases",
+  "question": "Let's put a pin in that.",
+  "answer": "Let's put a pin in that idea and revisit it next time."
+},
+{
+  "category": "Common phrases",
+  "question": "I'll loop you in.",
+  "answer": "I'll loop you in on the email thread so you're up to date."
+},
+{
+  "category": "Common phrases",
+  "question": "Can I pick your brain?",
+  "answer": "Can I pick your brain about your approach to this problem?"
+},
+{
+  "category": "Common phrases",
+  "question": "Let's table this for now.",
+  "answer": "Let's table this discussion for now and focus on more pressing issues."
+},
+{
+  "category": "Common phrases",
+  "question": "We're on the same page.",
+  "answer": "We're on the same page regarding the marketing strategy."
+},
+{
+  "category": "Common phrases",
+  "question": "Can you walk me through this?",
+  "answer": "Can you walk me through this report so I can understand it better?"
+},
+
+{
+  "category": "Common phrases",
+  "question": "Have a good one.",
+  "answer": "Have a good one, see you later!"
+},
+{
+  "category": "Common phrases",
+  "question": "Take care.",
+  "answer": "Take care and stay safe!"
+},
+{
+  "category": "Common phrases",
+  "question": "Is everything okay?",
+  "answer": "Is everything okay? You seem upset."
+},
+{
+  "category": "Common phrases",
+  "question": "Is there a...",
+  "answer": "Is there a public restroom nearby?"
+},
+{
+  "category": "Common phrases",
+  "question": "Do you know when...",
+  "answer": "Do you know when the next bus arrives?"
+},
+{
+  "category": "Common phrases",
+  "question": "I'm looking for...",
+  "answer": "I'm looking for the post office, can you direct me?"
+},
+
+
+
+
   { "category": "Common phrases", "question": "Can you translate this for me?", "answer": "Can you translate this sentence for me?" },
   { "category": "Common phrases", "question": "Chicago is very different from Boston.", "answer": "Indeed, Chicago's culture is very different from Boston's." },
   { "category": "Common phrases", "question": "Don't worry.", "answer": "Don't worry, everything will be fine." },
@@ -4253,6 +5377,59 @@ const flashcards = [
   "question": "context asking about meaning: What do you mean by that?",
   "answer": "I'm not sure what you mean by 'formal dress code.' Could you show me some examples?"
 },
+
+
+{
+  "category": "Clarifying Phrases",
+  "question": "context asking about meaning: What do you mean by that?",
+  "answer": "I'm not sure what you mean by 'formal dress code.' Could you show me some examples?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context expressing confusion: Can you clarify?",
+  "answer": "I'm confused about your last point. Can you clarify what you mean?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context seeking specific information: Could you elaborate?",
+  "answer": "Your proposal sounds interesting, but could you elaborate on how it will be funded?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for better understanding: Can you explain that again?",
+  "answer": "I didn't quite catch that. Can you explain that again in a different way?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context asking for specifics: What exactly do you mean?",
+  "answer": "You mentioned 'innovative solutions.' What exactly do you mean by that?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context requesting repetition for clarity: Could you repeat that?",
+  "answer": "I didn't hear you clearly. Could you repeat that, please?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context asking for a summary: Could you summarize that?",
+  "answer": "That was a lot of information. Could you summarize the main points?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context inquiring for more details: Can you provide more details?",
+  "answer": "Your idea is intriguing. Can you provide more details or examples?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context questioning understanding: Am I understanding this correctly?",
+  "answer": "So, if I'm understanding this correctly, you're suggesting a complete overhaul of the system?"
+},
+{
+  "category": "Clarifying Phrases",
+  "question": "context for clarification on specifics: Can you specify what you mean?",
+  "answer": "You mentioned 'efficient processes.' Can you specify what you mean by that?"
+},
+
 {
   "category": "Clarifying Phrases",
   "question": "context when not understanding a question: Sorry, I don't understand your question.",
@@ -5315,6 +6492,57 @@ const flashcards = [
   "question": "Examples: for instance",
   "answer": "Several factors contributed to the change, for instance, technological advancements."
 },
+
+{
+  "category": "Transition words",
+  "question": "Examples: for instance",
+  "answer": "Several factors contributed to the change, for instance, technological advancements."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: however",
+  "answer": "I wanted to go to the concert; however, I had to work late."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: therefore",
+  "answer": "He didn't study for the test, therefore, he didn't pass."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: moreover",
+  "answer": "The plan is risky. Moreover, it's expensive."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: in contrast",
+  "answer": "He loves hiking in the mountains, in contrast, she prefers relaxing at the beach."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: consequently",
+  "answer": "She failed to submit her application on time and, consequently, missed the deadline."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: furthermore",
+  "answer": "This car is highly reliable and, furthermore, it's affordable."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: on the other hand",
+  "answer": "The first proposal was interesting, on the other hand, the second one was more practical."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: as a result",
+  "answer": "The company failed to adapt to the market, as a result, it went bankrupt."
+},
+{
+  "category": "Transition words",
+  "question": "Examples: in addition",
+  "answer": "She has many years of experience in marketing, in addition, she holds an MBA."
+},
 {
   "category": "Transition words",
   "question": "Examples: such as",
@@ -5762,6 +6990,57 @@ answer: "What is your policy on missed or late appointments?"
   category: 'Questions:Travel',
   question: "How do you ask if a reservation is necessary?",
   answer: "Do I need to make a reservation to dine here?"
+  },
+
+  {
+    "category": "Questions:Travel",
+    "question": "How can you ask about the availability of a kids' menu?",
+    "answer": "Do you have a kids' menu?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How can you ask about local tourist attractions?",
+    "answer": "What are some popular tourist attractions around here?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How can you inquire about public transportation options?",
+    "answer": "What public transportation options are available in this area?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How can you ask for the best local restaurants?",
+    "answer": "Can you recommend some good local restaurants?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How do you ask about Wi-Fi availability in a hotel?",
+    "answer": "Does the hotel offer Wi-Fi, and is it free?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How can you ask for directions to the nearest beach?",
+    "answer": "Could you tell me how to get to the nearest beach?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How do you inquire about cultural norms or etiquette?",
+    "answer": "Are there any local customs or cultural norms I should be aware of?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How can you ask about safety in the area?",
+    "answer": "Is this area safe for tourists?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How do you ask about currency exchange services?",
+    "answer": "Where can I find a currency exchange service nearby?"
+  },
+  {
+    "category": "Questions:Travel",
+    "question": "How can you ask if a place is accessible for people with disabilities?",
+    "answer": "Is this facility accessible for people with disabilities?"
   },
   
   {
@@ -7509,12 +8788,221 @@ answer: "Which option should I choose on this feedback form?"
 { category: 'Verbs:irregular', question: "I [BLANK] a gift for my friend's birthday last week.", answer: "gave" },
 { category: 'Verbs:irregular', question: "I [BLANK] a new pair of shoes last month.", answer: "bought" },
 { category: 'Verbs:irregular', question: "I [BLANK] a poem for my English class last week.", answer: "wrote" },
+
+{
+  "category": "Verbs:irregular",
+  "question": "I [BLANK] a poem for my English class last week.",
+  "answer": "wrote"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "She [BLANK] her friend's book yesterday.",
+  "answer": "read"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "They have [BLANK] to several countries over the years.",
+  "answer": "been"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "We [BLANK] a lot of interesting facts in the museum.",
+  "answer": "learned"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "He [BLANK] his wallet in the taxi last night.",
+  "answer": "left"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "The cat has [BLANK] under the bed.",
+  "answer": "hidden"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "I have never [BLANK] such a delicious cake before.",
+  "answer": "eaten"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "She [BLANK] her ankle while playing basketball.",
+  "answer": "sprained"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "They [BLANK] all the lights before leaving the house.",
+  "answer": "turned off"
+},
+{
+  "category": "Verbs:irregular",
+  "question": "He [BLANK] his car around to face the exit.",
+  "answer": "turned"
+},
+
 { category: 'Verbs:irregular', question: "I [BLANK] a nap after lunch today.", answer: "took" },
 { category: 'Verbs:irregular', question: "I [BLANK] a quiz in math class today.", answer: "had" },
 { category: 'Verbs:irregular', question: "I [BLANK] a bike ride with my friends this morning.", answer: "went" },
 { category: 'Verbs:irregular', question: "I [BLANK] a new plant for my apartment last week.", answer: "bought" },
 { category: 'Verbs:irregular', question: "I [BLANK] a song for my talent show last month.", answer: "sang|wrote" },
 { category: 'Verbs:irregular', question: "I [BLANK] a delicious dinner for my family tonight.", answer: "made" },
+//
+
+{
+  "category": "Verb-That Phrases",
+  "question": "They [BLANK] four million workers stayed at home to protest against the tax.",
+  "answer": " said that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "The survey  [BLANK] 28 per cent would prefer to buy a house through a building society than through a bank.",
+  "answer": "indicated that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "He  [BLANK] something bad had happened.",
+  "answer": "knew that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "Do you  [BLANK] they forgot to pay or [BLANK] they stole it?",
+  "answer": "think that, that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "She  [BLANK] honesty is the best policy.",
+  "answer": "believes that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "I  [BLANK] they are moving to a new city.",
+  "answer": "heard that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "The teacher  [BLANK] the exam would be postponed.",
+  "answer": "explained that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "They  [BLANK] the weather will be good for the picnic.",
+  "answer": "hope that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "It  [BLANK] he will not be coming to the party.",
+  "answer": "seems that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "We  [BLANK] the project will be completed by next month.",
+  "answer": "expect that"
+},
+
+{
+  "category": "Verb-That Phrases",
+  "question": "I  [BLANK] you have a great time on your vacation.",
+  "answer": "hope that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "She  [BLANK] she would be late for the meeting.",
+  "answer": "mentioned that | said that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "They  [BLANK] the flight has been delayed.",
+  "answer": "confirmed that |said that | told me that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "The report  [BLANK] the economy is recovering.",
+  "answer": "suggested that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "He  [BLANK] he was wrong.",
+  "answer": "admitted that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "We were  [BLANK] the meeting has been cancelled.",
+  "answer": "informed that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "I  [BLANK] this is the best decision we can make.",
+  "answer": "feel that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "She  [BLANK] the work be done by tomorrow.",
+  "answer": "insisted that"
+},
+
+{
+  "category": "Verb-That Phrases",
+  "question": "She  [BLANK] the policy was unfair.",
+  "answer": "argued that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "They  [BLANK] the concert was sold out.",
+  "answer": "announced that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "He  [BLANK] the road would be slippery.",
+  "answer": "warned that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "I  [BLANK] we should leave early to avoid traffic.",
+  "answer": "think that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "They  [BLANK] it was too late to start a new project.",
+  "answer": "decided that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "She  [BLANK] she had never traveled abroad.",
+  "answer": "revealed that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "He  [BLANK] the procedure is quite simple.",
+  "answer": "explained that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "I  [BLANK] the door was locked from the inside.",
+  "answer": "discovered that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "They were  [BLANK] the movie was so good.",
+  "answer": "surprised that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "She  [BLANK] she had made a mistake.",
+  "answer": "acknowledged that"
+},
+
+{
+  "category": "Verb-That Phrases",
+  "question": "The forecast  [BLANK] it will rain tomorrow.",
+  "answer": "predicts that"
+},
+{
+  "category": "Verb-That Phrases",
+  "question": "He  [BLANK] the room was too cold.",
+  "answer": "complained that"
+},
+
+
 
 //
 { category: 'Verbs:common', question: "I [BLANK] to the store yesterday.", answer: "went" },
@@ -7620,6 +9108,111 @@ answer: "Which option should I choose on this feedback form?"
   { category: 'Adverbs of Place', question: "The old photographs are stored [BLANK].", answer: "upstairs" },
   { category: 'Adverbs of Place', question: "The laundry room is [BLANK].", answer: "downstairs" },
   { category: 'Adverbs of Place', question: "You can find a quiet place to read [BLANK].", answer: "anywhere" },
+
+  {
+    "category": "Adverbs",
+    "question": "You can find a quiet place to read [BLANK].",
+    "answer": "anywhere"
+  },
+  {
+    "category": "Adverbs",
+    "question": "When? She always arrives [BLANK].",
+    "answer": "early"
+  },
+  {
+    "category": "Adverbs",
+    "question": "How? He drives [BLANK].",
+    "answer": "carefully"
+  },
+  {
+    "category": "Adverbs",
+    "question": "Where? They go [BLANK] together.",
+    "answer": "everywhere"
+  },
+  {
+    "category": "Adverbs",
+    "question": "In what way? She eats [BLANK].",
+    "answer": "slowly"
+  },
+  {
+    "category": "Adverbs",
+    "question": "To what extent? It is [BLANK] hot.",
+    "answer": "terribly"
+  },
+  {
+    "category": "Adverbs",
+    "question": "How often? He visits his family [BLANK].",
+    "answer": "regularly"
+  },
+
+  {
+    "category": "Adverbs",
+    "question": "How often? They exercise [BLANK] in the morning.",
+    "answer": "daily"
+  },
+  {
+    "category": "Adverbs",
+    "question": "In what manner? She speaks [BLANK] in public.",
+    "answer": "confidently"
+  },
+  {
+    "category": "Adverbs",
+    "question": "How much? He was [BLANK] interested in the topic.",
+    "answer": "deeply"
+  },
+  {
+    "category": "Adverbs",
+    "question": "How soon? We will start the meeting [BLANK].",
+    "answer": "shortly"
+  },
+  {
+    "category": "Adverbs",
+    "question": "To what degree? The movie was [BLANK] boring.",
+    "answer": "incredibly"
+  },
+  {
+    "category": "Adverbs",
+    "question": "How? She explained the process [BLANK].",
+    "answer": "clearly"
+  },
+  {
+    "category": "Adverbs",
+    "question": "How often? He [BLANK] forgets his keys.",
+    "answer": "frequently"
+  },
+  {
+    "category": "Adverbs",
+    "question": "To what extent? The project was [BLANK] successful.",
+    "answer": "highly"
+  },
+  {
+    "category": "Adverbs",
+    "question": "Where? The cat sleeps [BLANK] under the bed.",
+    "answer": "usually"
+  },
+  {
+    "category": "Adverbs",
+    "question": "In what way? They [BLANK] agreed to the terms.",
+    "answer": "grudgingly"
+  },
+
+  {
+    "category": "Adverbs",
+    "question": "Why? They left [BLANK] due to the noise.",
+    "answer": "suddenly"
+  },
+  {
+    "category": "Adverbs",
+    "question": "To what extent? She was [BLANK] excited about the trip.",
+    "answer": "extremely|really"
+  },
+  {
+    "category": "Adverbs",
+    "question": "How long? They have been living there [BLANK].",
+    "answer": "temporarily"
+  },
+
+
 
 
 //SCRUM
@@ -8177,6 +9770,110 @@ answer: "Which option should I choose on this feedback form?"
 
 
 //
+{
+  "category": "Pronouns",
+  "question": "[BLANK] went to the store to buy groceries.",
+  "answer": "He|She|They|It"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] is a new book on the shelf.",
+  "answer": "It"
+},
+{
+  "category": "Pronouns",
+  "question": "Can [BLANK] help me with this problem?",
+  "answer": "you"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] am planning to go to the concert tonight.",
+  "answer": "I"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] are all invited to my birthday party.",
+  "answer": "They|We"
+},
+{
+  "category": "Pronouns",
+  "question": "Do [BLANK] know what time it is?",
+  "answer": "you"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] brought the tickets to the game.",
+  "answer": "He|She|They"
+},
+{
+  "category": "Pronouns",
+  "question": "I saw John yesterday, but [BLANK] didn't see me.",
+  "answer": "he"
+},
+{
+  "category": "Pronouns",
+  "question": "If you see Jack, can you give this book to [BLANK]?",
+  "answer": "him"
+},
+{
+  "category": "Pronouns",
+  "question": "I have three dogs, and I love [BLANK] very much.",
+  "answer": "them"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] can solve this puzzle will win a prize.",
+  "answer": "Whoever"
+},
+{
+  "category": "Pronouns",
+  "question": "If [BLANK] wants to join us, they are welcome.",
+  "answer": "anyone"
+},
+{
+  "category": "Pronouns",
+  "question": "I heard a noise, but I didn't see [BLANK].",
+  "answer": "anything"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] in this room knows the answer to my question?",
+  "answer": "Does anyone"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] is not allowed to leave the room.",
+  "answer": "Nobody"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] are all going to the beach this weekend.",
+  "answer": "We|They"
+},
+{
+  "category": "Pronouns",
+  "question": "Can [BLANK] tell me the way to the museum?",
+  "answer": "you|she|he|they"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] have been working on this project for three years.",
+  "answer": "They|We"
+},
+
+{
+  "category": "Pronouns",
+  "question": "I talked to the managers, and [BLANK] agreed with my proposal.",
+  "answer": "they"
+},
+{
+  "category": "Pronouns",
+  "question": "[BLANK] is responsible for this mess?",
+  "answer": "Who"
+},
+
+
+
 { category: 'Pronouns:Indefinite', question: "Someone left [BLANK] phone in the conference room.", answer: "their" },
     { category: 'Pronouns:Indefinite', question: "Everybody needs [BLANK] to feel important.", answer: "someone" },
     { category: 'Pronouns:Indefinite', question: "Anyone can join the club, but [BLANK] has to follow the rules.", answer: "everyone" },
@@ -8573,6 +10270,211 @@ answer: "Which option should I choose on this feedback form?"
   { "category": "Adjectives:Music", "question": "The beat of the drum was [BLANK], setting a powerful pace.", "answer": "thunderous" },
   { "category": "Adjectives:Music", "question": "His compositions are known for their [BLANK] complexity.", "answer": "intricate" },
 
+////
+{
+  "category": "Adjectives:Possessive",
+  "question": "[BLANK] cat is sitting on the sofa.",
+  "answer": "My|Your|His|Her|Its"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "Is this [BLANK] book or mine?",
+  "answer": "your"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "[BLANK] brother works in a bank.",
+  "answer": "His|Her|My|Your|Our|Their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "We will go to [BLANK] favorite restaurant tonight.",
+  "answer": "our"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "They lost [BLANK] way in the forest.",
+  "answer": "their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "The dog wagged [BLANK] tail.",
+  "answer": "its"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "I can't find [BLANK] keys. Have you seen them?",
+  "answer": "my"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "Is that [BLANK] car parked outside?",
+  "answer": "your"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "She can't come to the phone because [BLANK] hands are full.",
+  "answer": "her"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "[BLANK] office is on the fifth floor.",
+  "answer": "His|Her|My|Your|Our|Their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "[BLANK] sister is a doctor.",
+  "answer": "His|Her|My|Your|Our|Their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "Have you seen [BLANK] new office building?",
+  "answer": "their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "I left my bag in [BLANK] car.",
+  "answer": "your|his|her"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "[BLANK] team won the match yesterday.",
+  "answer": "Our|Their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "The cat is licking [BLANK] paws.",
+  "answer": "its"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "I have to submit [BLANK] assignment by tomorrow.",
+  "answer": "my"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "Is this [BLANK] umbrella, or is it someone else's?",
+  "answer": "your"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "[BLANK] friends are planning a surprise party for her.",
+  "answer": "Her|Their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "They brought [BLANK] children to the picnic.",
+  "answer": "their"
+},
+{
+  "category": "Adjectives:Possessive",
+  "question": "She can't find [BLANK] glasses anywhere.",
+  "answer": "her"
+},
+///
+
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] books belong on that shelf.",
+  "answer": "These"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] movie is my favorite.",
+  "answer": "This"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "Please put [BLANK] cookies on the blue plate.",
+  "answer": "those"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "Can you hand me [BLANK] pen?",
+  "answer": "that"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] shoes are very comfortable.",
+  "answer": "These"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] dress looks lovely on you.",
+  "answer": "That"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "I haven't seen [BLANK] type of bird before.",
+  "answer": "that"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "Do you like [BLANK] paintings over there?",
+  "answer": "those"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] car parked outside is mine.",
+  "answer": "This"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "We will discuss [BLANK] topics in the next meeting.",
+  "answer": "these"
+},
+
+
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] flowers in the garden are blooming beautifully.",
+  "answer": "These"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "I can't believe [BLANK] story you just told me.",
+  "answer": "that"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "Do you know who owns [BLANK] car over there?",
+  "answer": "that"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] recipe is the one I use for making bread.",
+  "answer": "This"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "I'm not interested in buying [BLANK] products.",
+  "answer": "those"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] laptop is not working properly.",
+  "answer": "This"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "We need to replace [BLANK] old chairs.",
+  "answer": "these"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "Have you read [BLANK] book by the new author?",
+  "answer": "that"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "[BLANK] ideas are innovative and worth considering.",
+  "answer": "These"
+},
+{
+  "category": "Adjectives:Demonstrative",
+  "question": "Can you see [BLANK] bird in the tree?",
+  "answer": "that"
+},
 
 
 //
