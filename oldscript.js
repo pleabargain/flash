@@ -1,20 +1,10 @@
 // Sample flashcard data
 const flashcards = [
-  { category: 'test', question: "What are some words that are the opposite of natural?", 
-  answers: ["artificial","synthetic","man-made","unnatural","fabricated", "fake" ],
-  },
-
 { category: 'Math', question: "Welcome to Dennis Daniels' English Lesson!", answer: '4' },
-{ category: 'Science', 
-question: 'Water formula', 
-answer: 'H2O' },
-{ category: 'Prepositions', 
-question: 'The book is [BLANK] the table.', 
-answers: ["on","under","near"], },
+{ category: 'Science', question: 'Water formula', answer: 'H2O' },
+{ category: 'Prepositions', question: 'The book is [BLANK] the table.', answer: 'on|under|near' },
 
-{ category: 'Prepositions', 
-question: "I got an email [BLANK] your Mom. She's worried.", 
-answer: 'from' },
+{ category: 'Prepositions', question: 'I got an email [BLANK] our client.', answer: 'from' },
 
 {
   "category": "Prepositions",
@@ -45,13 +35,8 @@ answer: 'from' },
 {
   "category": "Prepositions",
   "question": "The books are [BLANK] the shelf [BLANK] the room.",
-  "answers": ["on, in"],
+  "answer": "on, in"
 },
-
-// { category: 'test', question: "What are some words that are the opposite of natural?", 
-// answers: ["artificial","synthetic","man-made","unnatural","fabricated", "fake" ],
-// },
-
 {
   "category": "Prepositions",
   "question": "We met [BLANK] the coffee shop [BLANK] noon.",
@@ -111,13 +96,12 @@ answer: 'from' },
 {
   "category": "Prepositions",
   "question": "He left the keys [BLANK] the desk [BLANK] the hallway.",
-  "answers": ["in", "on"],
+  "answer": "on, in"
 },
-
 {
   "category": "Prepositions",
   "question": "They were sitting [BLANK] the park [BLANK] a sunny day.",
-  "answers": ["in", "on"],
+  "answer": "in, on"
 },
 {
   "category": "Prepositions",
@@ -127,7 +111,7 @@ answer: 'from' },
 {
   "category": "Prepositions",
   "question": "She put the book [BLANK] the shelf [BLANK] the door.",
-  "answers": ["on"," next to"]
+  "answer": "on, next to"
 },
 
 {
@@ -138,14 +122,14 @@ answer: 'from' },
 {
   "category": "Prepositions",
   "question": "They walked [BLANK] the bridge [BLANK] the river.",
-  "answers": ["over", "across"],
+  "answer": "over, across"
 },
 
 
 {
   "category": "Prepositions",
   "question": "Go [BLANK] the stairs and [BLANK] the door.",
-  "answers": ["down", "through"],
+  "answer": "down, through"
 },
 {
   "category": "Prepositions",
@@ -170,22 +154,22 @@ answer: 'from' },
 { category: 'Prepositions', question: 'She learned Spanish [BLANK] her mother.', answer: 'from' },
 { category: 'Prepositions', question: 'The idea originated [BLANK] an old legend.', answer: 'from' },
 { category: 'Prepositions', question: 'I know her [BLANK] her name.', answer: 'by' },
-{ category: 'Prepositions', question: 'I am [BLANK] the store.', answers: ["near","close to" ,"next to", "at","in","inside"], },
-{ category: 'Prepositions', question: 'I will be there [BLANK] 5 minutes.', answers: ["context arrving:in", "context staying:for",] },
+{ category: 'Prepositions', question: 'I am [BLANK] the store.', answer: 'in|at|near|inside|close to' },
+{ category: 'Prepositions', question: 'I will be there [BLANK] 5 minutes.', answer: 'in|for' },
 { category: 'Prepositions', question: 'I am not good [BLANK] math.', answer: 'at' },
-{ category: 'Prepositions', question: 'I got a gift [BLANK] my friend.', answers: ["context your friend is nice: from","context you are nice:for",] },
+{ category: 'Prepositions', question: 'I got a gift [BLANK] my friend.', answer: 'from|for' },
 { category: 'Prepositions', question: "The meeting is [BLANK] 10 o'clock.", answer: 'at' },
 { category: 'Prepositions', question: 'I am [BLANK] the exam.', answer: 'at' },
 { category: 'Prepositions', question: 'I know her [BLANK] her name.', answer: 'by' },
-{ category: 'Prepositions', question: "I saw her [BLANK] the bookstore.", answers: ["near","close to" ,"next to", "at","in","inside"], },
+{ category: 'Prepositions', question: "I saw her [BLANK] the bookstore.", answer: "near|close to |next to |at|in|inside" },
 { category: 'Prepositions', question: "I went to the park [BLANK] my dog.", answer: "with" },
-{ category: 'Prepositions', question: "I put the book [BLANK] the table.", answers: ["on","under","next to"] },
-{ category: 'Prepositions', question: "I got a gift [BLANK] my friend.", answers: ["for","from"], },
+{ category: 'Prepositions', question: "I put the book [BLANK] the table.", answer: "on|under|next to" },
+{ category: 'Prepositions', question: "I got a gift [BLANK] my friend.", answer: "for|from" },
 { category: 'Prepositions', question: "I'm afraid [BLANK] heights.", answer: "of" },
 { category: 'Prepositions', question: "I'm good [BLANK] math.", answer: "at" },
 { category: 'Prepositions', question: "I'm thinking [BLANK] going to the store|beach|park.", answer: "about" },
 { category: 'Prepositions', question: "I'm tired [BLANK] work.", answer: "of" },
-{ category: 'Prepositions', question: "I'm waiting [BLANK] my friend.",  answers: ["with","by","next to"] },
+{ category: 'Prepositions', question: "I'm waiting [BLANK] my friend.", answer: "for|next to|by|with" },
 { category: 'Prepositions', question: "I'm worried [BLANK] my exam.", answer: "about" },
 
 {
@@ -326,7 +310,7 @@ answer: 'from' },
 { category: 'Adverbs of Time', question: 'I will go to the store [BLANK].', answer: 'later' },
 { category: 'Adverbs of Time', question: 'I saw a movie [BLANK] night.', answer: 'last' },
 { category: 'Adverbs of Time', question: 'I will be back [BLANK] minutes.', answer: 'in a few' },
-{ category: 'Adverbs of Time', question: "I haven't seen him [BLANK] a long time.", answers:["in","for"],},
+{ category: 'Adverbs of Time', question: "I haven't seen him [BLANK] a long time.", answer:"'in|for'"},
 { category: 'Adverbs of Time', question: 'I will finish my homework [BLANK].', answer: 'soon' },
 { category: 'Adverbs of Time', question: 'She arrived [BLANK] the meeting started.', answer: 'before|when' },
 { category: 'Adverbs of Time', question: 'I will call you [BLANK] day.', answer: 'sometime' },
@@ -10341,14 +10325,8 @@ answer: "Which option should I choose on this feedback form?"
 },
 {
   "category": "Pronouns:Relative",
-  "question": "The book [BLANK] you recommended was out of stock.",
-  "answers": ["that","which"]
-},
-
-{
-  "category": "Pronouns:Relative",
   "question": "The movie [BLANK] we watched last night was thrilling.",
-  "answers": ["that","which"]
+  "answer": "that|which"
 },
 {
   "category": "Pronouns:Relative",
@@ -10391,6 +10369,11 @@ answer: "Which option should I choose on this feedback form?"
   "category": "Pronouns:Relative",
   "question": "The car [BLANK] engine broke down is at the mechanic.",
   "answer": "whose"
+},
+{
+  "category": "Pronouns:Relative",
+  "question": "The book [BLANK] you recommended was out of stock.",
+  "answer": "that|which"
 },
 {
   "category": "Pronouns:Relative",
@@ -10437,9 +10420,7 @@ answer: "Which option should I choose on this feedback form?"
       { category: 'Pronouns:Indefinite', question: "Is there [BLANK] in the office who can fix the printer?", answer: "anybody" },
       { category: 'Pronouns:Indefinite', question: "I offered her two options, but she didn't like [BLANK].", answer: "either" },
       { category: 'Pronouns:Indefinite', question: "There's [BLANK] in the rule book about this situation.", answer: "nothing" },
-      { category: 'Pronouns:Indefinite', 
-      question: "[BLANK] must have taken my book; it's gone.", 
-      answers: ["Somebody","Someone","They"] },
+      { category: 'Pronouns:Indefinite', question: "[BLANK] must have taken my book; it's gone.", answer: "Somebody|Someone|They" },
       { category: 'Pronouns:Indefinite', question: "I don't think [BLANK] will be able to solve this problem.", answer: "anyone" },
       { category: 'Pronouns:Indefinite', question: "Can [BLANK] pass me the salt, please?", answer: "someone" },
   
@@ -10462,8 +10443,7 @@ answer: "Which option should I choose on this feedback form?"
 
 
 
-{ category: 'Quantifiers', question: "There is [BLANK] demand for our new product in the market.", 
-answers: ["a lot of","some","a high amount of",] },
+{ category: 'Quantifiers', question: "There is [BLANK] demand for our new product in the market.", answer: "a lot of|some|a high amount of" },
   { category: 'Quantifiers', question: "Our team has [BLANK] innovative ideas for the next project.", answer: "a multitude of" },
   { category: 'Quantifiers', question: "In this quarter, we observed [BLANK] growth in sales.", answer: "significant" },
   { category: 'Quantifiers', question: "There are [BLANK] reports that need to be completed by next week.", answer: "numerous" },
@@ -10471,7 +10451,7 @@ answers: ["a lot of","some","a high amount of",] },
   { category: 'Quantifiers', question: "There is [BLANK] urgency to resolve these customer issues.", answer: "considerable" },
   { category: 'Quantifiers', question: "Our office has [BLANK] space for new employees.", answer: "ample" },
   { category: 'Quantifiers', question: "We need to ensure [BLANK] accuracy in our financial reporting.", answer: "utmost" },
-  { category: 'Quantifiers', question: "The new policy has received [BLANK] support from the staff.", answers: ["some","a lot of","huge","widespread"] },
+  { category: 'Quantifiers', question: "The new policy has received [BLANK] support from the staff.", answer: "some|a lot of |huge|widespread" },
   { category: 'Quantifiers', question: "There are [BLANK] differences between the two business models.", answer: "substantial" },
   { category: 'Quantifiers', question: "Our research team has [BLANK] knowledge in this field.", answer: "extensive" },
   { category: 'Quantifiers', question: "We've had [BLANK] success with our latest marketing campaign.", answer: "tremendous" },
@@ -10481,18 +10461,17 @@ answers: ["a lot of","some","a high amount of",] },
 
 { category: 'Quantifiers', question: "In the annual report, there is [BLANK] evidence of progress.", answer: "plenty of" },
   { category: 'Quantifiers', question: "During the meeting, we discussed [BLANK] strategies for improvement.", answer: "several of" },
-  { category: 'Quantifiers', question: "There are [BLANK] opportunities for advancement in this company.", answers: ["many","a few","some"] },
+  { category: 'Quantifiers', question: "There are [BLANK] opportunities for advancement in this company.", answer: "many|a few|some" },
   { category: 'Quantifiers', question: "Our team has [BLANK] experience in handling such projects.", answer: "a lot of|a little" },
   { category: 'Quantifiers', question: "We received [BLANK] feedback from the client on our recent work.", answer: "a number of" },
   { category: 'Quantifiers', question: "There is [BLANK] data to support our new marketing strategy.", answer: "plenty of" },
   { category: 'Quantifiers', question: "In our inventory, there are [BLANK] items that need to be restocked soon.", answer: "a few of" },
   { category: 'Quantifiers', question: "I have [BLANK] time to finish this task today.", answer: "a little of" },
   { category: 'Quantifiers', question: "Our budget has [BLANK] room for additional expenses.", answer: "some of" },
-  { category: 'Quantifiers', question: "There is [BLANK] need for concern about the deadline.", answers: ["no","little"] },
+  { category: 'Quantifiers', question: "There is [BLANK] need for concern about the deadline.", answer: "no|little" },
   { category: 'Quantifiers', question: "We have [BLANK] team members proficient in the new software.", answer: "several of" },
   { category: 'Quantifiers', question: "This project requires [BLANK] resources than initially anticipated.", answer: "more of" },
-  { category: 'Quantifiers', question: "There are [BLANK] discrepancies in the financial report.", 
-  answers: ["a lot of |some| a few|a couple of"] },
+  { category: 'Quantifiers', question: "There are [BLANK] discrepancies in the financial report.", answer: "a lot of |some| a few|a couple of" },
   { category: 'Quantifiers', question: "We have [BLANK] chances to win this contract.", answer: "plenty of" },
   { category: 'Quantifiers', question: "In our department, there are [BLANK] skilled professionals.", answer: "lots of" },
 
@@ -10771,22 +10750,22 @@ answers: ["a lot of","some","a high amount of",] },
   { category: "Verbs:Intransitive", question: "The water [BLANK] when it reaches 100 degrees Celsius.", answer: "boils" },
   { category: "Verbs:Intransitive", question: "We all [BLANK] to stay alive.", answer: "breathe" },
   { category: "Verbs:Intransitive", question: "Bees [BLANK] around the flowers.", answer: "buzz" },
-  { category: "Verbs:Intransitive", question: "She will [BLANK] him tonight.", answers: ["call", "see", "talk to","punish"] },
+  { category: "Verbs:Intransitive", question: "She will [BLANK] him tonight.", answer: "call" },
   { category: "Verbs:Intransitive", question: "It's important to [BLANK] for others.", answer: "care" },
   { category: "Verbs:Intransitive", question: "Seasons [BLANK] with time.", answer: "change" },
   { category: "Verbs:Intransitive", question: "Christmas will [BLANK] soon.", answer: "come" },
   { category: "Verbs:Intransitive", question: "He began to [BLANK] after catching a cold.", answer: "cough" },
   { category: "Verbs:Intransitive", question: "The baby will [BLANK] if you take away her toy.", answer: "cry" },
-  { category: "Verbs:Intransitive", question: "They love to [BLANK] at parties.", answers: ["drink","get drunk","start fights","dance"] },
+  { category: "Verbs:Intransitive", question: "They love to [BLANK] at parties.", answer: "dance" },
   { category: "Verbs:Intransitive", question: "All living things eventually [BLANK].", answer: "die" },
   { category: "Verbs:Intransitive", question: "At night, I [BLANK] of adventures.", answer: "dream" },
   { category: "Verbs:Intransitive", question: "She will [BLANK] for the wedding.", answer: "dress" },
-  { category: "Verbs:Intransitive", question: "We need to [BLANK] to survive.", answers: ["eat","sleep","drink water"] },
+  { category: "Verbs:Intransitive", question: "We need to [BLANK] to survive.", answer: "eat" },
   { category: "Verbs:Intransitive", question: "The actor will [BLANK] the stage.", answer: "enter" },
   { category: "Verbs:Intransitive", question: "Do ghosts really [BLANK]?", answer: "exist" },
   { category: "Verbs:Intransitive", question: "Leaves [BLANK] from the trees in autumn.", answer: "fall" },
   { category: "Verbs:Intransitive", question: "Children [BLANK] so fast.", answer: "grow" },
-  { category: "Verbs:Intransitive", question: "Accidents [BLANK] unexpectedly.", answers: ["happen","occur"] },
+  { category: "Verbs:Intransitive", question: "Accidents [BLANK] unexpectedly.", answer: "happen" },
   { category: "Verbs:Intransitive", question: "Can you [BLANK] me?", answer: "hear" },
   { category: "Verbs:Intransitive", question: "It [BLANK] when I think of those moments.", answer: "hurts" },
   { category: "Verbs:Intransitive", question: "He likes to [BLANK] every morning.", answer: "jog" },
@@ -10822,7 +10801,7 @@ answers: ["a lot of","some","a high amount of",] },
 {
   "category": "Adjectives:Possessive",
   "question": "[BLANK] brother works in a bank.",
-  "answers": ["His","Her","My","Your","Our","Their"]
+  "answer": "His|Her|My|Your|Our|Their"
 },
 {
   "category": "Adjectives:Possessive",
@@ -10857,28 +10836,27 @@ answers: ["a lot of","some","a high amount of",] },
 {
   "category": "Adjectives:Possessive",
   "question": "[BLANK] office is on the fifth floor.",
-  "answers": ["His","Her","My","Your","Our","Their"]
+  "answer": "His|Her|My|Your|Our|Their"
 },
 {
   "category": "Adjectives:Possessive",
   "question": "[BLANK] sister is a doctor.",
-  "answers": ["His","Her","My","Your","Our","Their"]
+  "answer": "His|Her|My|Your|Our|Their"
 },
 {
   "category": "Adjectives:Possessive",
   "question": "Have you seen [BLANK] new office building?",
-  "answers": ["your","their","his","her"]
+  "answer": "their"
 },
-
 {
   "category": "Adjectives:Possessive",
   "question": "I left my bag in [BLANK] car.",
-  "answers": ["your","their","his","her"]
+  "answer": "your|his|her"
 },
 {
   "category": "Adjectives:Possessive",
   "question": "[BLANK] team won the match yesterday.",
-  "answers": ["Her","Their", "My","His", "Our", "It's"]
+  "answer": "Our|Their"
 },
 {
   "category": "Adjectives:Possessive",
@@ -10898,7 +10876,7 @@ answers: ["a lot of","some","a high amount of",] },
 {
   "category": "Adjectives:Possessive",
   "question": "[BLANK] friends are planning a surprise party for her.",
-  "answers": ["Her","Their",]
+  "answer": "Her|Their"
 },
 {
   "category": "Adjectives:Possessive",
@@ -11078,28 +11056,12 @@ function filterAndShowFlashcard() {
 }
 
 function showFlashcard() {
-  if (filteredFlashcards.length > 0) {
-      const card = filteredFlashcards[currentCardIndex];
-      let displayText;
-
-      if (showingAnswer) {
-          if (Array.isArray(card.answers)) {
-              // Create a bulleted list for answers
-              const bulletedList = card.answers.map(answer => `<li>${answer}</li>`).join("");
-              displayText = `<ul>${bulletedList}</ul>`;
-          } else {
-              // Single answer
-              displayText = card.answer;
-          }
-      } else {
-          // Show question
-          displayText = card.question;
-      }
-
-      flashcardDisplay.innerHTML = displayText; // Use innerHTML to render list
-  } else {
-      flashcardDisplay.textContent = "No flashcards available in this category.";
-  }
+    if (filteredFlashcards.length > 0) {
+        const card = filteredFlashcards[currentCardIndex];
+        flashcardDisplay.textContent = showingAnswer ? card.answer : card.question;
+    } else {
+        flashcardDisplay.textContent = "No flashcards available in this category.";
+    }
 }
 
 // Event listeners
@@ -11111,25 +11073,18 @@ categorySelect.addEventListener('change', () => {
 
 
 const flipButton = document.getElementById('flipButton');
-
 flipButton.addEventListener('click', () => {
-  if (filteredFlashcards.length > 0) {
-      showingAnswer = !showingAnswer;
-      const card = filteredFlashcards[currentCardIndex];
+    if (filteredFlashcards.length > 0) {
+        showingAnswer = !showingAnswer; // Update showingAnswer first
+        const card = filteredFlashcards[currentCardIndex];
 
-      let answerText;
-      if (Array.isArray(card.answers)) {
-          answerText = card.answers.join(", ");
-      } else {
-          answerText = card.answer;
-      }
+        if (showingAnswer) {
+            // Append question and answer when showing the answer
+            historyLog.value += `Q: ${card.question}\nA: ${card.answer}\n\n`;
+        }
 
-      if (showingAnswer) {
-          historyLog.value += `Q: ${card.question}\nA: ${answerText}\n\n`;
-      }
-
-      showFlashcard();
-  }
+        showFlashcard();
+    }
 });
 
 
