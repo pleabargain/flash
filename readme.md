@@ -1,6 +1,6 @@
 URL: https://github.com/pleabargain/flash
 
-live:
+live: https://pleabargain.github.io/flash/
 
 
 
