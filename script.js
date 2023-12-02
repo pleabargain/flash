@@ -3582,7 +3582,41 @@ answer: 'from' },
   "answer": "We should consider potential risks before implementing this strategy."
 },
 
-  //
+  ///////////////////////////////////
+
+
+  {
+    "category": "Errors",
+    "question": "I do a mistake.",
+    "answer": "I made a mistake."
+  },
+
+  {
+    "category": "Errors",
+    "question": "Don't lie me.",
+    "answer": "Don't lie to me."
+  },
+
+  {
+    "category": "Errors",
+    "question": "I can see everyone are around the table.",
+    "answer": "I can everyone is around the table."
+  },
+
+  {
+    "category": "Errors",
+    "question": "How many time they have left.",
+    "answers": ["How much time do they have left?", "How much time does she|he|it|I have left?",]
+  },
+
+  {
+    "category": "Errors",
+    "question": "We need to clean up before she to enter.",
+    "answers": ["We need to clean up before she to enter.", "We need to clean up before she gets here."]
+  }
+
+
+
 
   {
     "category": "Errors",
