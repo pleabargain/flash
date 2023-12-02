@@ -419,6 +419,57 @@ const flashcards = [
 { category: 'Adverbs of Manner', question: "How [BLANK] can you create a productive home office?", answer: 'effectively' },
 { category: 'Adverbs of Degree', question: "To what extent can working from home [BLANK] improve work-life balance?", answer: 'significantly' },
 
+{
+  "category": "Adverbs of Frequency",
+  "question": "She [BLANK] forgets to submit her weekly report.",
+  "answer": "often|regularly|seldom"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "He [BLANK] goes to the gym in the mornings.",
+  "answer": "usually|always|often"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "They [BLANK] eat out on weekends.",
+  "answer": "frequently|sometimes|rarely"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "I [BLANK] watch TV in the evenings.",
+  "answer": "sometimes|occasionally|rarely"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "We [BLANK] take vacations in the summer.",
+  "answer": "always|usually|often"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "She [BLANK] misses her morning coffee.",
+  "answer": "never|seldom|rarely"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "He [BLANK] visits his parents on the weekend.",
+  "answer": "usually|frequently|often"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "They [BLANK] have meetings on Fridays.",
+  "answer": "usually|often|always"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "I [BLANK] go to bed late during the week.",
+  "answer": "never|seldom|hardly ever"
+},
+{
+  "category": "Adverbs of Frequency",
+  "question": "She [BLANK] checks her email first thing in the morning.",
+  "answer": "always|constantly|regularly"
+},
+
 //
 // Adverbs of Frequency  
 // Create lots of flash cards 
@@ -459,6 +510,8 @@ const flashcards = [
     { category: 'Adverbs of Frequency', question: "He [BLANK] checks his emails first thing in the morning.", answer: "usually|always" },
     { category: 'Adverbs of Frequency', question: "They [BLANK] have a lunch break at noon.", answer: "usually" },
     { category: 'Adverbs of Frequency', question: "I [BLANK] complete my tasks before the end of the day.", answer: "always" },
+    { category: 'Adverbs of Frequency', question: "I often complete my tasks before the ---.", answer: "end of the day" },
+
     { category: 'Adverbs of Frequency', question: "Our manager [BLANK] holds a team briefing on Mondays.", answer: "usually" },
     { category: 'Adverbs of Frequency', question: "She [BLANK] forgets to submit her weekly report.", answer: "often|regularly|seldom" },
     { category: 'Adverbs of Frequency', question: "We [BLANK] start our day with a team huddle.", answer: "often" },
@@ -2569,6 +2622,211 @@ const flashcards = [
   "question": "To start working seriously and with determination, especially after a delay, you ___ ___ to work",
   "answer": "get down"
 },
+
+{
+  "category": "Phrasal Verbs",
+  "question": "Can you [BLANK] the lights before you leave the room?",
+  "answer": "switch off|turn off"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "She's going to [BLANK] her old high school tomorrow.",
+  "answer": "visit"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "We need to [BLANK] a solution for this problem.",
+  "answer": "come up with"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I [BLANK] a friend from college on the street yesterday.",
+  "answer": "ran into"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "He [BLANK] keys somewhere in the house.",
+  "answer": "left his"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "The meeting [BLANK] 10 am.",
+  "answer": "starts at"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "They [BLANK] the new regulations during the meeting.",
+  "answer": "brought up"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Can you [BLANK] the cat in before you go to school?",
+  "answer": "let"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I can't [BLANK] to Facebook because I've forgotten my password.",
+  "answer": "log in"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "If you don't [BLANK] somebody could get into your account.",
+  "answer": "log out"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I have to [BLANK] my sick grandmother.",
+  "answer": "look after"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Ever since we stole that chocolate bar your dad has [BLANK] me.",
+  "answer": "looked down on"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I'm [BLANK] a red dress for the wedding.",
+  "answer": "looking for"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I'm [BLANK] to the Christmas break.",
+  "answer": "looking forward"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "We are going to [BLANK] the price of snowboards today.",
+  "answer": "look into"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "[BLANK]! That car's going to hit you!",
+  "answer": "Look out"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Don't forget to [BLANK] for snakes on the hiking trail.",
+  "answer": "look out"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Don't forget to [BLANK] your new earrings for the party.",
+  "answer": "put on"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I [BLANK] an old school-friend at the mall.",
+  "answer": "ran into"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I accidentally [BLANK] your bicycle in the driveway.",
+  "answer": "ran over"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Let's [BLANK] these lines one more time before the show.",
+  "answer": "run over/through"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "The child [BLANK] from home and has been missing for three days.",
+  "answer": "ran away"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Please [BLANK] the lights when you leave the room.",
+  "answer": "turn off"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "He [BLANK] company for twenty years before retiring.",
+  "answer": "ran the"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I want to [BLANK] a little before I decide on these boots.",
+  "answer": "shop around|look around"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "He always [BLANK] on his skateboard.",
+  "answer": "shows off"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "You should [BLANK] tonight if the weather is too bad to drive home.",
+  "answer": "sleep over"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "We need to [BLANK] the bills out before the first of the month.",
+  "answer": "sort out"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "You will lose weight if you [BLANK]  the diet.",
+  "answer": "stick to"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "They decided to [BLANK] their old car instead of buying a new one.",
+  "answer": "fix up"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "She [BLANK]  her friend about being late.",
+  "answer": "apologized to"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "The teacher asked him to [BLANK] his answer.",
+  "answer": "write down"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Can you [BLANK] the TV? I can't hear it well.",
+  "answer": "turn up"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "He [BLANK] his old high school for a reunion.",
+  "answer": "visited"
+},
+
+{
+  "category": "Phrasal Verbs",
+  "question": "Can you [BLANK] me in on what was discussed in the meeting?",
+  "answer": "fill"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "They [BLANK] their old neighborhood to see their childhood home.",
+  "answer": "visited|went to"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I [BLANK] to send her a birthday card.",
+  "answer": "forgot"
+},
+
+
+{
+  "category": "Phrasal Verbs",
+  "question": "You should always [BLANK] your dreams and never give up.",
+  "answer": "follow"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "The company will [BLANK] a new product next month.",
+  "answer": "launch"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "She [BLANK] the responsibility for the mistake.",
+  "answer": "took on"
+},
+
 {
   "category": "Phrasal verbs",
   "question": "When you manage to make someone understand or believe something, you ___ it ___ to them",
@@ -2584,6 +2842,58 @@ const flashcards = [
   "question": "When you start to seriously think or focus on a task, especially a difficult one, you ___ ___ to it",
   "answer": "get down"
 },
+
+{
+  "category": "Phrasal Verbs",
+  "question": "I have to [BLANK] home and get my lunch.",
+  "answer": "go back"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "We're [BLANK] for dinner tonight.",
+  "answer": "going out"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Jesse has been [BLANK] with Luke since they met last winter.",
+  "answer": "hanging out|going out"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "Please [BLANK] your answers before you submit your test.",
+  "answer": "go over"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "I think I'll [BLANK] for an hour or two.",
+  "answer": "go over"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "When I was young, we went [BLANK] winter boots.",
+  "answer": "without"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "My best friend and I [BLANK] after she changed schools.",
+  "answer": "grew apart"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "My roses [BLANK] this summer.",
+  "answer": "grew back"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "They need to [BLANK] their strategy for the new market.",
+  "answer": "work out"
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "You should [BLANK] those old photographs in the attic.",
+  "answer": "look through"
+},
+
 
 
 
@@ -3263,6 +3573,13 @@ const flashcards = [
     "question": "I couldn't found it at the store.",
     "answer": "I couldn't find it at the store."
   },
+
+  {
+    "category": "Errors",
+    "question": "I like it much.",
+    "answer": "I like it a lot."
+  },
+
 
   {
     "category": "Errors",
@@ -6001,24 +6318,93 @@ const flashcards = [
   "answer": "chemotherapeutic agent"
 },
 
+
+// opposites
+{ category: 'Opposites', question: "What are some words that are the opposite of cold?", answer: "hot|warm" },
+    
+
+  { category: 'Opposites', question: "What are some words that are the opposite of cold?", answer: "hot|warm|tepid|sultry|scalding|scorching" },
+  { category: 'Opposites', question: "What are some words that are the opposite of high?", answer: "low|short|deep|shallow|beneath|grounded" },
+  { category: 'Opposites', question: "What are some words that are the opposite of fast?", answer: "slow|sluggish|delayed|gradual|lethargic|tardy" },
+  { category: 'Opposites', question: "What are some words that are the opposite of happy?", answer: "sad|unhappy|gloomy|depressed|melancholy|sorrowful" },
+  { category: 'Opposites', question: "What are some words that are the opposite of young?", answer: "old|aged|elderly|mature|senior|ancient" },
+  { category: 'Opposites', question: "What are some words that are the opposite of hard?", answer: "soft|pliable|yielding|flexible|spongy|fluffy" },
+  { category: 'Opposites', question: "What are some words that are the opposite of bright?", answer: "dark|dim|shadowy|gloomy|murky|obscure" },
+  { category: 'Opposites', question: "What are some words that are the opposite of loud?", answer: "quiet|silent|soft|whispering|muffled|inaudible" },
+  { category: 'Opposites', question: "What are some words that are the opposite of heavy?", answer: "light|weightless|featherlike|airy|buoyant|insubstantial" },
+  { category: 'Opposites', question: "What are some words that are the opposite of strong?", answer: "weak|feeble|fragile|frail|delicate|powerless" },
+  { category: 'Opposites', question: "What are some words that are the opposite of big?", answer: "small|tiny|miniscule|petite|little|diminutive" },
+  { category: 'Opposites', question: "What are some words that are the opposite of sharp?", answer: "dull|blunt|rounded|smooth|unsharpened|obtuse" },
+  { category: 'Opposites', question: "What are some words that are the opposite of rich?", answer: "poor|impoverished|needy|broke|destitute|penniless" },
+  { category: 'Opposites', question: "What are some words that are the opposite of full?", answer: "empty|vacant|bare|void|depleted|unfilled" },
+  { category: 'Opposites', question: "What are some words that are the opposite of wet?", answer: "dry|arid|parched|dehydrated|desiccated|moistureless" },
+  { category: 'Opposites', question: "What are some words that are the opposite of new?", answer: "old|used|worn|secondhand|antique|vintage" },
+  { category: 'Opposites', question: "What are some words that are the opposite of clean?", answer: "dirty|filthy|soiled|stained|grubby|tarnished" },
+  { category: 'Opposites', question: "What are some words that are the opposite of easy?", answer: "hard|difficult|challenging|arduous|tough|complex" },
+  { category: 'Opposites', question: "What are some words that are the opposite of near?", answer: "far|distant|remote|away|aloof|separated" },
+  { category: 'Opposites', question: "What are some words that are the opposite of open?", answer: "closed|shut|sealed|locked|barred|blocked" },
+  { category: 'Opposites', question: "What are some words that are the opposite of calm?", answer: "agitated|anxious|upset|turbulent|restless|chaotic" },
+  { category: 'Opposites', question: "What are some words that are the opposite of generous?", answer: "stingy|selfish|greedy|miserly|ungenerous|tightfisted" },
+  { category: 'Opposites', question: "What are some words that are the opposite of safe?", answer: "dangerous|risky|hazardous|perilous|unsafe|threatening" },
+  { category: 'Opposites', question: "What are some words that are the opposite of wet?", answer: "dry|arid|parched|dehydrated|desiccated|moistureless" },
+  { category: 'Opposites', question: "What are some words that are the opposite of hot?", answer: "cold|cool|chilly|freezing|frigid|icy" },
+  { category: 'Opposites', question: "What are some words that are the opposite of tall?", answer: "short|stumpy|low|petite|diminutive|undersized" },
+  { category: 'Opposites', question: "What are some words that are the opposite of thin?", answer: "thick|fat|plump|chubby|bulky|obese" },
+  { category: 'Opposites', question: "What are some words that are the opposite of simple?", answer: "complex|complicated|intricate|elaborate|convoluted|sophisticated" },
+  { category: 'Opposites', question: "What are some words that are the opposite of quiet?", answer: "loud|noisy|raucous|boisterous|deafening|thunderous" },
+  { category: 'Opposites', question: "What are some words that are the opposite of smooth?", answer: "rough|uneven|jagged|coarse|bumpy|textured" },
+  { category: 'Opposites', question: "What are some words that are the opposite of straight?", answer: "curved|bent|crooked|twisted|winding|serpentine" },
+  { category: 'Opposites', question: "What are some words that are the opposite of wide?", answer: "narrow|slim|thin|tight|restricted|constricted" },
+  { category: 'Opposites', question: "What are some words that are the opposite of deep?", answer: "shallow|superficial|surface|skin-deep|ephemeral|fleeting" },
+  { category: 'Opposites', question: "What are some words that are the opposite of active?", answer: "inactive|passive|dormant|sedentary|idle|lethargic" },
+  { category: 'Opposites', question: "What are some words that are the opposite of positive?", answer: "negative|pessimistic|cynical|bleak|doubtful|dismissive" },
+  { category: 'Opposites', question: "What are some words that are the opposite of light?", answer: "dark|dim|gloomy|shadowy|murky|obscure" },
+  { category: 'Opposites', question: "What are some words that are the opposite of modern?", answer: "ancient|old-fashioned|outdated|traditional|archaic|obsolete" },
+  { category: 'Opposites', question: "What are some words that are the opposite of loud?", answer: "quiet|silent|soft|whispering|muffled|inaudible" },
+  { category: 'Opposites', question: "What are some words that are the opposite of brave?", answer: "cowardly|fearful|timid|afraid|scared|faint-hearted" },
+  { category: 'Opposites', question: "What are some words that are the opposite of friendly?", answer: "unfriendly|hostile|cold|aloof|antagonistic|inhospitable" },
+  { category: 'Opposites', question: "What are some words that are the opposite of wet?", answer: "dry|arid|parched|dehydrated|desiccated|moistureless" },
+  { category: 'Opposites', question: "What are some words that are the opposite of early?", answer: "late|delayed|tardy|behind|postponed|belated" },
+  { category: 'Opposites', question: "What are some words that are the opposite of visible?", answer: "invisible|hidden|concealed|obscured|unseen|camouflaged" },
+  { category: 'Opposites', question: "What are some words that are the opposite of good?", answer: "bad|poor|inferior|substandard|deficient|unsatisfactory" },
+  { category: 'Opposites', question: "What are some words that are the opposite of natural?", answer: "artificial|synthetic|man-made|unnatural|fabricated|fake" },
+
+
+
 //medical equipment
 
 
-    { category: 'Pharmacy Terms', question: "What term refers to the correctness of a result or measurement?", answer: "accuracy" },
+    { category: 'Pharmacy Terms', question: "What term refers to the correctness of a result or measurement?", 
+    answer: "accuracy" },
+
     { category: 'Pharmacy Terms', question: "What is the term for a recommendation or guidance offered?", answer: "prescription|advice" },
     { category: 'Pharmacy Terms', question: "What phrase describes careful consideration and thorough examination of details?", answer: "attention to detail" },
     { category: 'Pharmacy Terms', question: "What word describes having a lot of tasks to do?", answer: "busy" },
-    { category: 'Pharmacy Terms', question: "What term is used for a demanding situation or problem in a job?", answer: "challenge" },
+    { category: 'Pharmacy Terms', 
+    question: "What term is used for a demanding situation or problem in a job?", 
+    answer: "challenge" },
     { category: 'Pharmacy Terms', question: "What term refers to a group of people living in the same place or having a particular characteristic in common?", answer: "community" },
     { category: 'Pharmacy Terms', question: "What term describes sympathetic pity and concern for the sufferings of others?", answer: "compassion" },
     { category: 'Pharmacy Terms', question: "What term is used for the action of seeking expert advice?", answer: "consultation" },
     { category: 'Pharmacy Terms', question: "What phrase refers to the act of taking care of customer's needs?", answer: "customer care" },
     { category: 'Pharmacy Terms', question: "Who are the individuals purchasing or using pharmacy services?", answer: "customers" },
     { category: 'Pharmacy Terms', question: "What term describes a committed and serious attitude towards a task?", answer: "dedication" },
-    { category: 'Pharmacy Terms', question: "What term refers to the ability to do work or produce results without wasting resources?", answer: "efficiency" },
-    { category: 'Pharmacy Terms', question: "What term describes the ability to understand and share the feelings of another?", answer: "empathy" },
-    { category: 'Pharmacy Terms', question: "What term refers to the provision of medical care?", answer: "healthcare|treatment" },
-    { category: 'Pharmacy Terms', question: "What term describes the action of interacting with others?", answer: "interaction" },
+    { category: 'Pharmacy Terms', 
+    question: "What term refers to the ability to do work or produce results without wasting resources?", 
+    answer: "efficiency" },
+
+    { category: 'Pharmacy Terms', 
+    question: "What term describes the ability to understand and share the feelings of another?", 
+    answer: "empathy" },
+
+    { category: 'Pharmacy Terms', 
+    question: "What term refers to the provision of medical care?", 
+    answer: "healthcare|treatment" },
+
+    { category: 'Pharmacy Terms', 
+    question: "What term describes the action of interacting with others?", 
+    answer: "interaction" },
+
     { category: 'Pharmacy Terms', question: "What term refers to the facts, information, and skills acquired through experience or education?", answer: "knowledge" },
     { category: 'Pharmacy Terms', question: "What is the science or practice of the diagnosis, treatment, and prevention of disease?", answer: "medicine" },
     { category: 'Pharmacy Terms', question: "What is the capacity to accept or tolerate delay, problems, or suffering without becoming annoyed?", answer: "patience" },
@@ -6655,7 +7041,10 @@ const flashcards = [
 { "category": "Adjectives:Weather", "question": "'The snow is so [BLANK] that I can't even see the ground.'" , "answer": 'deep' },
 { "category": "Adjectives:Weather", "question": "'It's so [BLANK] that I'm wearing two sweaters.'" , "answer": 'cold' },
 { "category": "Adjectives:Weather", "question": "'The sun is so [BLANK] that it's making my eyes water.'" , "answer": 'bright' },
-{ "category": "Adjectives:Weather", "question": "'The sky is so [BLANK] that it looks like it's going to rain.'" , "answer": 'grey|dark|overcast' },
+{ "category": "Adjectives:Weather", 
+"question": "'The sky is so [BLANK] that it looks like it's going to rain.'" , 
+"answer": 'grey|dark|overcast' },
+
 { "category": "Adjectives:Weather", "question": "'The wind is so [BLANK] that it's making the trees sway.'" , "answer": 'gusty|strong' },
 { "category": "Adjectives:Weather", "question": "'The snow is so [BLANK] that it's making the roads slippery.'" , "answer": 'icy' },
 { "category": "Adjectives:Weather", "question": "'It's so [BLANK] that I'm going to stay inside.'" , "answer": 'rainy' },
@@ -6663,19 +7052,34 @@ const flashcards = [
 { "category": "Adjectives:Weather", "question": "'The sky is so [BLANK] that it looks like it's going to be a beautiful day.'" , "answer": 'clear' },
 
 //
-{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] with the latest technologies.'" , "answer": 'innovating|modernizing|up-to-date|leading|current|familiar' },
-{ "category": "Adjectives:Business", "question": "'We offer a [BLANK] range of products and services.'" , "answer": 'diverse|comprehensive|wide' },
-{ "category": "Adjectives:Business", "question": "'Our team is [BLANK] and experienced.'" , "answer": 'professional|well-respected|skilled' },
-{ "category": "Adjectives:Business", "question": "'We provide [BLANK] customer service.'" , "answer": 'excellent|indidualized' },
-{ "category": "Adjectives:Business", "question": "'Our products are [BLANK] and affordable.'" , "answer": 'reliable|high-quality' },
-{ "category": "Adjectives:Business", "question": "'We are a [BLANK] company.'" , "answer": 'reliable' },
-{ "category": "Adjectives:Business", "question": "'We offer [BLANK] solutions.'" , "answer": 'innovative|digital|comprehensive|unbeatable' },
-{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] in the market.'" , "answer": 'well-established' },
-{ "category": "Adjectives:Business", "question": "'We are committed to [BLANK] our customers.'" , "answer": 'satisfying' },
-{ "category": "Adjectives:Business", "question": "'We strive to provide a [BLANK] work environment.'" , "answer": 'positive' },
-{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] on social responsibility.'" , "answer": 'focused' },
-{ "category": "Adjectives:Business", "question": "'We offer [BLANK] opportunities for growth.'" , "answer": 'exciting|some|comprehensive|' },
-{ "category": "Adjectives:Business", "question": "'Our company is [BLANK] for its commitment to sustainability.'" , "answer": 'well-known|recognized' },
+{ "category": "Adjectives:Business", 
+"question": "'Our company is [BLANK] with the latest technologies.'" , 
+"answer": 'innovating|modernizing|up-to-date|leading|current|familiar' },
+
+{ "category": "Adjectives:Business", 
+"question": "'We offer a [BLANK] range of products and services.'" , "answer": 'diverse|comprehensive|wide' },
+{ "category": "Adjectives:Business",
+ "question": "'Our team is [BLANK] and experienced.'" , "answer": 'professional|well-respected|skilled' },
+{ "category": "Adjectives:Business",
+ "question": "'We provide [BLANK] customer service.'" , "answer": 'excellent|indidualized' },
+{ "category": "Adjectives:Business", 
+"question": "'Our products are [BLANK] and affordable.'" , "answer": 'reliable|high-quality' },
+{ "category": "Adjectives:Business", 
+"question": "'We are a [BLANK] company.'" , "answer": 'reliable' },
+{ "category": "Adjectives:Business", 
+"question": "'We offer [BLANK] solutions.'" , "answer": 'innovative|digital|comprehensive|unbeatable' },
+{ "category": "Adjectives:Business", 
+"question": "'Our company is [BLANK] in the market.'" , "answer": 'well-established' },
+{ "category": "Adjectives:Business", 
+"question": "'We are committed to [BLANK] our customers.'" , "answer": 'satisfying' },
+{ "category": "Adjectives:Business",
+ "question": "'We strive to provide a [BLANK] work environment.'" , "answer": 'positive' },
+{ "category": "Adjectives:Business", 
+"question": "'Our company is [BLANK] on social responsibility.'" , "answer": 'focused|leading the industry' },
+{ "category": "Adjectives:Business", 
+"question": "'We offer [BLANK] opportunities for growth.'" , "answer": 'exciting|some|comprehensive|' },
+{ "category": "Adjectives:Business", 
+"question": "'Our company is [BLANK] for its commitment to sustainability.'" , "answer": 'well-known|recognized' },
 {
     "category": "Adjectives:Business",
     "question": "'Our company is [BLANK] in providing innovative solutions to our customers.'",
@@ -8767,16 +9171,16 @@ answer: "Which option should I choose on this feedback form?"
 {category: 'Adjectives:work', question: "My job as a lawyer is very [BLANK].", answer: "demanding|exciting|inspiring|stressful|interesting"},
 
 //
-{ category: 'Adjectives:Food', question: 'A [BLANK] meal is a satisfying one.', answer: 'delicious|hearty' },
+{ category: 'Adjectives:Food', question: 'A [BLANK] meal is a satisfying one.', answer: 'tasty|delicious|hearty' },
 { category: 'Adjectives:Food', question: 'I love the [BLANK] taste of fresh strawberries.', answer: 'sweet' },
 { category: 'Adjectives:Food', question: 'This soup is so [BLANK] that it warms my soul.', answer: 'comforting' },
 { category: 'Adjectives:Food', question: 'The aroma of freshly baked bread is [BLANK] irresistible.', answer: 'enticing' },
-{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my grandmother's chocolate chip cookies.", answer: 'homey' },
+{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my grandmother's chocolate chip cookies.", answer: 'nostalgic|homey' },
 { category: 'Adjectives:Food', question: "A [BLANK] salad is full of fresh, vibrant flavors.", answer: "refreshing" },
 { category: 'Adjectives:Food', question: "I love the [BLANK] combination of sweet and savory in this dish.", answer: "delectable" },
 { category: 'Adjectives:Food', question: "This |steak|chicken|pasta|mango|fruit] is so [BLANK] that it melts in your mouth.", answer: "tender" },
 { category: 'Adjectives:Food', question: "The [BLANK] aroma of freshly brewed coffee is always a welcome morning greeting.", answer: "invigorating" },
-{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my favorite childhood snack.", answer: "nostalgic" },
+{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my favorite childhood snack.", answer: "homey|unforgettable|nostalgic" },
 
 //
 { category: 'Verbs:irregular', question: "I [BLANK] to the store yesterday.", answer: "went" },
