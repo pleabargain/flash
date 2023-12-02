@@ -3693,8 +3693,9 @@ answer: 'from' },
   {
     "category": "Errors",
     "question": "I used to work five days week.",
-    "answer": "I used to work five days a week. _or_  I used to work five days per week."
-  },
+    "answers": ["I used to work five days a week.","I used to work five days per week.",
+  ]
+},
 
   {
     "category": "Errors",
