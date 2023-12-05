@@ -127,7 +127,7 @@ answer: 'from' },
 {
   "category": "Prepositions",
   "question": "She put the book [BLANK] the shelf [BLANK] the door.",
-  "answers": ["on"," next to"]
+  "answers": ["on"," next to|near|beside"],
 },
 
 {
@@ -184,12 +184,15 @@ answer: 'from' },
 { category: 'Prepositions', question: "I'm afraid [BLANK] heights.", answer: "of" },
 { category: 'Prepositions', question: "I'm good [BLANK] math.", answer: "at" },
 { category: 'Prepositions', question: "I'm thinking [BLANK] going to the store|beach|park.", answer: "about" },
-{ category: 'Prepositions', question: "I'm tired [BLANK] work.", answer: "of" },
+
+{ category: 'Prepositions', 
+question: "I'm tired [BLANK] work.", answer: "of" },
+
 { category: 'Prepositions', question: "I'm waiting [BLANK] my friend.",  
 answers: ["with","by","next to"] },
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "He's trying to _____ how to solve this complex problem.",
   "answers": ["figure out","sort out","work out"]
 },
@@ -370,8 +373,8 @@ answers: ["with","by","next to"] },
   { category: 'Adverbs of Manner', question: "He apologized [BLANK] for his mistake.", answer: "sincerely" },
   { category: 'Adverbs of Manner', question: "The cat [BLANK] jumped onto the counter.", answer: "quickly" },
   { category: 'Adverbs of Manner', question: "She spoke [BLANK] about her childhood.", answer: "fondly" },
-  { category: 'Adverbs of Manner', question: "The team worked [BLANK] to meet the deadline.", answer: "diligently|tirelessly" },
-  { category: 'Adverbs of Manner', question: "He [BLANK] refused to change his opinion.", answer: "completely|stubbornly" },
+  { category: 'Adverbs of Manner', question: "The team worked [BLANK] to meet the deadline.", answers: ["diligently","tirelessly"] },
+  { category: 'Adverbs of Manner', question: "He [BLANK] refused to change his opinion.", answers: ["completely","stubbornly"] },
   { category: 'Adverbs of Manner', question: "The story was [BLANK] told, capturing everyone's attention.", answer: "vividly" },
   { category: 'Adverbs of Manner', question: "She [BLANK] checked each answer on the test.", answer: "carefully" },
   { category: 'Adverbs of Manner', question: "The child [BLANK] grabbed the toy from his friend.", answer: "greedily" },
@@ -439,10 +442,12 @@ answers: ["with","by","next to"] },
 { category: 'Adverbs of Frequency', question: 'How  will AI [BLANK] be able to learn and adapt?', answer: 'continuously' },
 { category: 'Adverbs of Manner', question: 'How  can we ensure that AI is used [BLANK]?', answer: 'responsibly' },
 { category: 'Adverbs of Degree', question: 'How [BLANK] will AI impact our society?', answer: 'deeply|badly|significantly' },
-{ category: 'Adverbs of Frequency', question: "How do you think people will [BLANK] work from home in the future?", answer: 'increasingly' },
+{ category: 'Adverbs of Frequency', question: "How do you think people will [BLANK] work from home in the future?", 
+answer: 'increasingly' },
 { category: 'Adverbs of Place', question: "Where  can you find [BLANK] the best resources for working from home?", answer: 'online' },
 { category: 'Adverbs of Manner', question: "How [BLANK] can you create a productive home office?", answer: 'effectively' },
-{ category: 'Adverbs of Degree', question: "To what extent can working from home [BLANK] improve work-life balance?", answer: 'significantly' },
+{ category: 'Adverbs of Degree', question: "To what extent can working from home [BLANK] improve work-life balance?", 
+answer: 'significantly' },
 
 {
   "category": "Adverbs of Frequency",
@@ -510,7 +515,8 @@ answers: ["with","by","next to"] },
 { category: 'Adverbs of Frequency', question: "They [BLANK] update the project status report.", answer: "regularly" },
 { category: 'Adverbs of Frequency', question: "I [BLANK] check my emails during lunch breaks.", answer: "sometimes" },
 { category: 'Adverbs of Frequency', question: "Our team [BLANK] encounters technical issues.", answer: "occasionally" },
-{ category: 'Adverbs of Frequency', question: "She [BLANK] participates in team brainstorming sessions.", answer: "occasionally|often" },
+{ category: 'Adverbs of Frequency', question: "She [BLANK] participates in team brainstorming sessions.", 
+answers: ["occasionally","often"] },
 { category: 'Adverbs of Frequency', question: "He [BLANK] communicates with clients directly.", answer: "usually" },
 { category: 'Adverbs of Frequency', question: "We [BLANK] review project progress every week.", answer: "regularly" },
 { category: 'Adverbs of Frequency', question: "They [BLANK] receive training for new software.", answer: "frequently" },
@@ -631,7 +637,8 @@ answers: ["with","by","next to"] },
       { category: 'Pronouns: Interrogative', question: "______ can I discuss my career progression with?", answer: "Who" },
       { category: 'Pronouns: Interrogative', question: "______ are the risks associated with this plan?", answer: "What" },
       { category: 'Pronouns: Interrogative', question: "______ will we review the project milestones?", answer: "When" },
-      { category: 'Pronouns: Interrogative', question: "______ is the procedure for remote work applications?", answer: "Where|What" },
+      { category: 'Pronouns: Interrogative', question: "______ is the procedure for remote work applications?", 
+      answers: ["Where","What"] },
   
 //
 // Pronouns:demonstrative 
@@ -734,12 +741,13 @@ answers: ["with","by","next to"] },
 { category: "Adverbs of Manner", question: "She cleans the house [BLANK].", answer: "thoroughly" },
   { category: "Adverbs of Manner", question: "He cooks dinner [BLANK].", answer: "skillfully" },
   { category: "Adverbs of Manner", question: "They discuss family matters [BLANK].", answer: "calmly" },
-  { category: "Adverbs of Manner", question: "She waters the plants [BLANK].", answer: "religiously|carefully" },
+  { category: "Adverbs of Manner", question: "She waters the plants [BLANK].", 
+  answers: ["religiously","carefully"] },
+  
   { category: "Adverbs of Manner", question: "He repairs the leak [BLANK].", answer: "efficiently" },
   { category: "Adverbs of Manner", question: "They play games [BLANK].", answer: "enthusiastically" },
   { category: "Adverbs of Manner", question: "She organizes the room [BLANK].", answer: "neatly" },
   { category: "Adverbs of Manner", question: "He teaches his child [BLANK].", answer: "patiently" },
-  { category: "Adverbs of Manner", question: "They decorate the house for the party [BLANK].", answer: "creatively" },
 { category: "Adverbs of Manner", question: "He works [BLANK].", answer: "hard" },
 { category: "Adverbs of Manner", question: "She laughed [BLANK].", answer: "loudly" },
 { category: "Adverbs of Manner", question: "They played [BLANK].", answer: "enthusiastically" },
@@ -758,7 +766,7 @@ answers: ["with","by","next to"] },
   { category: "Adverbs of Manner", question: "They discuss issues [BLANK].", answer: "openly|fiercely" },
   { category: "Adverbs of Manner", question: "She negotiates [BLANK].", answer: "effectively" },
   { category: "Adverbs of Manner", question: "He responds to emails [BLANK].", answer: "quickly" },
-  { category: "Adverbs of Manner", question: "They solve problems [BLANK].", answer: "quickly|easily|creatively" },
+  { category: "Adverbs of Manner", question: "They solve problems [BLANK].", answers: ["quickly","easily","creatively"] },
   { category: "Adverbs of Manner", question: "She delegates tasks [BLANK].", answer: "wisely" },
 
 
@@ -778,14 +786,14 @@ answers: ["with","by","next to"] },
     { category: 'Pronouns: Possessive', question: 'I have [BLANK] keys.', answer: 'his' },
     { category: 'Pronouns: Possessive', question: 'She forgot [BLANK] wallet.', answer: 'her' },
     { category: 'Pronouns: Possessive', question: 'They lost [BLANK] tickets.', answer: 'their' },
-    { category: 'Pronouns: Possessive', question: "It's [BLANK] turn.", answer: 'her|his|their|our|your' },
+    { category: 'Pronouns: Possessive', question: "It's [BLANK] turn.", answers: ["her","his","their","our","your"] },
     { category: 'Pronouns: Possessive', question: 'We will find [BLANK] way home.', answer: 'our' },
     { category: 'Pronouns: Possessive', question: 'Can you send me [BLANK] report?', answer: 'your' },
     { category: 'Pronouns: Possessive', question: 'He needs to update [BLANK] resume.', answer: 'his' },
-    { category: 'Pronouns: Possessive', question: "The manager praised [BLANK] team's work.", answer: 'her' },
+    { category: 'Pronouns: Possessive', question: "The manager praised [BLANK] team's work.", answers: ['her','his'] },
     { category: 'Pronouns: Possessive', question: 'They missed [BLANK] deadline.', answer: 'their' },
     { category: 'Pronouns: Possessive', question: 'We have to meet [BLANK] new client.', answer: 'our' },
-    { category: 'Pronouns: Possessive', question: 'Is this [BLANK] office?', answer: 'your' },
+    { category: 'Pronouns: Possessive', question: 'Is this [BLANK] office?', answers: ['your',"her","his"] },
     { category: 'Pronouns: Possessive', question: 'She needs to finish [BLANK] presentation.', answer: 'her' },
     { category: 'Pronouns: Possessive', question: "We should respect [BLANK] company's policy.", answer: 'our' },
     { category: 'Pronouns: Possessive', question: 'He forgot [BLANK] laptop at the meeting.', answer: 'his' },
@@ -845,7 +853,7 @@ answers: ["with","by","next to"] },
   {
     "category": "Idioms",
     "question": "Be your one-stop shop: Your one-stop shop is a location at which you can buy everything you need or want.",
-    "answer": "The ‘Shopping Empire' is my one-stop shop for buying Christmas presents."
+    "answer": "The 'Shopping Empire' is my one-stop shop for buying Christmas presents."
   },
   {
     "category": "Idioms",
@@ -985,7 +993,6 @@ answers: ["with","by","next to"] },
     "question": "Bigger fish to fry: Meaning: There is something more important to take care of.",
     "answer": "I can't think about that right now. I have bigger fish to fry."
 },
-// ... [Continue adding the rest in the same format]
 {
     "category": "Idioms",
     "question": "Right as rain: Meaning: There is nothing that can be improved.",
@@ -1012,7 +1019,7 @@ answers: ["with","by","next to"] },
 {
     "category": "Idioms",
     "question": "Under the weather: Meaning: Sick. Typically used to describe minor illnesses like a cold.",
-    "answer": "Sorry I'm feeling a bit under the weather and won't be able to come in today."
+    "answer": "I'm feeling a bit under the weather and won't be able to come in today."
 },
 {
     "category": "Idioms",
@@ -1318,20 +1325,22 @@ answers: ["with","by","next to"] },
 
 //
 
-{ category: 'Pronouns', question: "I went to the store with [BLANK].", answer: "\"you|him|her|them|my friend\"" },
-{ category: 'Pronouns', question: "The teacher gave [BLANK] students a homework assignment.", answer: "\"her|his\"" },
+{ category: 'Pronouns', question: "I went to the store with [BLANK].", answers: ["\"you","him","her","them","my friend\""] },
+{ category: 'Pronouns', question: "The teacher gave [BLANK] students a homework assignment.", answers: ["\"her","his\""] },
 { category: 'Pronouns', question: "The cat chased [BLANK] tail.", answer: "\"its\"" },
 { category: 'Pronouns', question: "The children played with [BLANK] toys.", answer: "\"their\"" },
-{ category: 'Pronouns', question: "The dog barked at [BLANK] reflection in the mirror.", answer: "\"her|his|its\"" },
+{ category: 'Pronouns', question: "The dog barked at [BLANK] reflection in the mirror.", answers: ["\"her","his","its"] },
 { category: 'Pronouns', question: "The students studied for [BLANK] exam.", answer: "\"their\"" },
-{ category: 'Pronouns', question: "The teacher praised [BLANK] students for their hard work.", answer: "\"her|his\"" },
-{ category: 'Pronouns', question: "The cat curled up on [BLANK] lap.", answer: "my|her|his" },
+{ category: 'Pronouns', question: "The teacher praised [BLANK] students for their hard work.", answers: ["\"her","his\""] },
+{ category: 'Pronouns', question: "The cat curled up on [BLANK] lap.", 
+answer: ["my","her","his"] },
 { category: 'Pronouns', question: "The children shared [BLANK] toys with each other.", answer: "\"their\"" },
 { category: 'Pronouns', question: "The dog wagged [BLANK] tail when it saw its owner.", answer: "\"its\"" },
     // ... more flashcards
     { category: 'Conjunctions: Coordinating', question: "She can play the guitar, [BLANK] she can also sing.", answer: "and" },
 { category: 'Conjunctions: Coordinating', question: "You can either stay here [BLANK] come with us.", answer: "or"},
-{ category: 'Conjunctions: Coordinating', question: "He did not win the first prize, [BLANK] he wasn't disappointed.", answer: "but|yet" },
+{ category: 'Conjunctions: Coordinating', question: "He did not win the first prize, [BLANK] he wasn't disappointed.", 
+answers: ["but","yet"] },
 { category: 'Conjunctions: Coordinating', question: "It was raining, [BLANK] they cancelled the match.", answer: "so" },
 { category: 'Conjunctions: Coordinating', question: "I wanted to go to the concert, [BLANK] I had too much work.", answer: "but" },
 { category: 'Conjunctions: Coordinating', question: "You must study hard, [BLANK] you will not pass the exam.", answer: "for" },
@@ -1346,25 +1355,28 @@ answers: ["with","by","next to"] },
 
 { category: 'Conjunctions: Correlative', question: "Whether you travel by train [BLANK] by plane, make sure to arrive early.", answer: "or" },
 
-{ category: 'Conjunctions: Correlative', question: "He will have to decide [BLANK] to accept the job offer [BLANK] to continue his studies.", answer: "whether / or" },
+{ category: 'Conjunctions: Correlative', 
+question: "He will have to decide [BLANK] to accept the job offer [BLANK] to continue his studies.", 
+answer: "whether / or" },
 
 { category: 'Conjunctions: Correlative', question: "She was [BLANK] surprised [BLANK] pleased with the unexpected gift.", answer: "both / and" },
 { category: 'Conjunctions: Correlative', question: "You must [BLANK] follow the rules [BLANK] face the consequences.", answer: "either / or" },
 { category: 'Conjunctions: Correlative', question: "I am [BLANK] going to the concert [BLANK] staying home tonight.", answer: "either / or" },
 
-    { category: 'Conjunctions: Correlative', question: "He will finish the project [BLANK] today [BLANK] tomorrow.", answer: "either / or" },
-    { category: 'Conjunctions: Correlative', question: "She is [BLANK] a talented musician [BLANK] a skilled painter.", answer: "both / and" },
-    { category: 'Conjunctions: Correlative', question: "They will [BLANK] attend the meeting [BLANK] send a representative.", answer: "either / or" },
-    { category: 'Conjunctions: Correlative', question: "The movie was [BLANK] entertaining [BLANK] thought-provoking.", answer: "both / and" },
-    { category: 'Conjunctions: Correlative', question: "I will [BLANK] call you [BLANK] leave a message.", answer: "either / or" },
-    { category: 'Conjunctions: Correlative', question: "We can [BLANK] watch a movie [BLANK] play a game.", answer: "either / or" },
-    { category: 'Conjunctions: Correlative', question: "The restaurant offers [BLANK] vegetarian [BLANK] vegan options.", answer: "both / and" },
-    { category: 'Conjunctions: Correlative', question: "He was [BLANK] surprised [BLANK] delighted by the gift.", answer: "both / and" },
-    { category: 'Conjunctions: Correlative', question: "The team will [BLANK] win the championship [BLANK] come very close.", answer: "either / or" },
-    { category: 'Conjunctions: Correlative', question: "She will [BLANK] accept the proposal [BLANK] suggest an alternative.", answer: "either / or" },
+{ category: 'Conjunctions: Correlative', question: "He will finish the project [BLANK] today [BLANK] tomorrow.", answer: "either / or" },
+{ category: 'Conjunctions: Correlative', question: "She is [BLANK] a talented musician [BLANK] a skilled painter.", answer: "both / and" },
+{ category: 'Conjunctions: Correlative', question: "They will [BLANK] attend the meeting [BLANK] send a representative.", answer: "either / or" },
+{ category: 'Conjunctions: Correlative', question: "The movie was [BLANK] entertaining [BLANK] thought-provoking.", answer: "both / and" },
+{ category: 'Conjunctions: Correlative', question: "I will [BLANK] call you [BLANK] leave a message.", answer: "either / or" },
+{ category: 'Conjunctions: Correlative', question: "We can [BLANK] watch a movie [BLANK] play a game.", answer: "either / or" },
+{ category: 'Conjunctions: Correlative', question: "The restaurant offers [BLANK] vegetarian [BLANK] vegan options.", answer: "both / and" },
+{ category: 'Conjunctions: Correlative', question: "He was [BLANK] surprised [BLANK] delighted by the gift.", answer: "both / and" },
+{ category: 'Conjunctions: Correlative', question: "The team will [BLANK] win the championship [BLANK] come very close.", answer: "either / or" },
+{ category: 'Conjunctions: Correlative', question: "She will [BLANK] accept the proposal [BLANK] suggest an alternative.", answer: "either / or" },
 
 //
-{ category: 'Conjunctions: Subordinating', question: "I'll see you [BLANK] I get back from the store.", answer: "when" },
+{ category: 'Conjunctions: Subordinating', question: "I'll see you [BLANK] I get back from the store.", 
+answer: "when" },
 { category: 'Conjunctions: Subordinating', question: "[BLANK] it rains, the event will be cancelled.", answer: "If" },
 { category: 'Conjunctions: Subordinating', question: "She can't leave [BLANK] she finishes her work.", answer: "until" },
 { category: 'Conjunctions: Subordinating', question: "He was so tired [BLANK] he could barely keep his eyes open.", answer: "that" },
@@ -1372,7 +1384,10 @@ answers: ["with","by","next to"] },
 { category: 'Conjunctions: Subordinating', question: "You will succeed [BLANK] you work hard.", answer: "provided" },
 { category: 'Conjunctions: Subordinating', question: "I will call you [BLANK] I arrive.", answer: "as soon as" },
 
-    { category: 'Conjunctions: Subordinating', question: "We will start eating [BLANK] everyone arrives.", answer: "after" },
+    { category: 'Conjunctions: Subordinating', 
+    question: "We will start eating [BLANK] everyone arrives.", 
+    answers: ["after","before", "when"] },
+    
     { category: 'Conjunctions: Subordinating', question: "[BLANK] he was sick, he decided to go to work.", answer: "Although" },
     { category: 'Conjunctions: Subordinating', question: "I will call you [BLANK] I leave the office.", answer: "as soon as" },
     { category: 'Conjunctions: Subordinating', question: "She did well on the test [BLANK] she studied hard.", answer: "because" },
@@ -1387,10 +1402,17 @@ answers: ["with","by","next to"] },
     { category: 'Conjunctions: Subordinating', question: "[BLANK] she was cooking, the phone rang.", answer: "While" },
 
     { category: 'Conjunctions: Subordinating', question: "Please submit the report [BLANK] the meeting starts.", answer: "before" },
-    { category: 'Conjunctions: Subordinating', question: "[BLANK] the project deadline is tight, we must ensure quality.", answer: "Although" },
+    { category: 'Conjunctions: Subordinating', question: "[BLANK] the project deadline is tight, we must ensure quality.", 
+    answer: "Although" },
     { category: 'Conjunctions: Subordinating', question: "I'll review the document [BLANK] I receive it.", answer: "as soon as" },
-    { category: 'Conjunctions: Subordinating', question: "He got the promotion [BLANK] he has been with the company for ten years.", answer: "since" },
-    { category: 'Conjunctions: Subordinating', question: "[BLANK] the time you finish that task, the client might change their requirements.", answer: "By the time" },
+    { category: 'Conjunctions: Subordinating', 
+    question: "He got the promotion [BLANK] he has been with the company for ten years.", 
+    answer: "since" },
+    
+    { category: 'Conjunctions: Subordinating', 
+    question: "[BLANK] the time you finish that task, the client might change their requirements.", 
+    answers: ["By","At"] },
+    
     { category: 'Conjunctions: Subordinating', question: "Carry a spare presentation [BLANK] there are technical issues.", answer: "in case" },
     { category: 'Conjunctions: Subordinating', question: "[BLANK] you are now leading the team, we expect great results.", answer: "Now that" },
     { category: 'Conjunctions: Subordinating', question: "We can't proceed [BLANK] we get approval from management.", answer: "unless" },
@@ -1411,13 +1433,18 @@ answers: ["with","by","next to"] },
   { category: 'Conjunctions', question: "I went to the store and [BLANK] bought some groceries.", answer: "\"then\"" },
   { category: 'Conjunctions', question: "I studied for my exam, but I [BLANK] didn't pass.", answer: "\"still\"" },
   { category: 'Conjunctions', question: "I like to go to the beach, [BLANK] I like to go to the park.", answer: "\"or\"" },
-  { category: 'Conjunctions', question: "The teacher gave us a homework assignment,  [BLANK] she told us to finish it by Friday.", answer: "\"and\"" },
+  { category: 'Conjunctions', question: "The teacher gave us a homework assignment,  [BLANK] she told us to finish it by Friday.", 
+  answer: "\"and\"" },
   { category: 'Conjunctions', question: "I went to the store to buy some milk, [BLANK] they were all sold out.", answer: "\"but\"" },
-  { category: 'Conjunctions', question: "I like to read books,  [BLANK] I like to watch movies.", answer: "\"or\"" },
-  { category: 'Conjunctions', question: "The teacher told us to study for our exam,  [BLANK] she told us to get a good night's sleep.", answer: "\"and\"" },
+  { category: 'Conjunctions', 
+  question: "I like to read books,  [BLANK] I like to watch movies.", answer: "\"or\"" },
+  { category: 'Conjunctions', 
+  question: "The teacher told us to study for our exam,  [BLANK] she told us to get a good night's sleep.", answer: "\"and\"" },
   { category: 'Conjunctions', question: "I went to the beach, [BLANK] it was too crowded so I left.", answer: "\"but\"" },
-  { category: 'Conjunctions', question: "I like to play video games, [BLANK] watch videos.", answer: "\"or\"" },
-  { category: 'Conjunctions', question: "The teacher told us to be quiet, [BLANK] she would send us out of the classroom.", answer: "\"or\"" },
+  { category: 'Conjunctions', 
+  question: "I like to play video games, [BLANK] watch videos.", answer: "\"or\"" },
+  { category: 'Conjunctions', 
+  question: "The teacher told us to be quiet, [BLANK] she would send us out of the classroom.", answer: "\"or\"" },
     
 //[
   {
@@ -2002,193 +2029,193 @@ answers: ["with","by","next to"] },
 
 // Continuing from the previous entries...
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Can you please _____ that important point in the meeting minutes?",
   "answer": "write down|note down"
 },
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Can you please _____ that important point in the meeting minutes?",
   "answer": "write down|note down"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "The deal _____ at the last minute.",
   "answer": "fell through"
 },
 
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Please _____ the application form for the new position.",
   "answer": "fill out"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "We need to _____ who is in charge of client relations.",
   "answer": "find out"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "It's important for the team to _____  the new marketing strategy.",
   "answer": "focus on|work on|be involved in|concentrate on|be committed to|be familiar with|understand"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "How well do you _____ with your colleagues in stressful situations?",
   "answer": "get along"
 },
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "He's trying to _____ the early morning flight to Dallas.",
   "answer": "get on"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "We need to _____ with the project despite the recent setbacks.",
   "answer": "get on with"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Does he _____ with his new manager?",
   "answer": "get on well"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Due to the meeting, I couldn't _____ of the office until late.",
   "answer": "get out"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "She always tries to _____ doing the monthly report.",
   "answer": "get out of"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "How long did it take him to _____ the flu?",
   "answer": "get over"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "We need to _____ these outdated procedures.",
   "answer": "get rid of"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "The team should _____ for a brainstorming session.",
   "answer": "get together"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "He always finds it hard to _____ for early meetings.",
   "answer": "get up"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Our company will not _____ to unrealistic client demands.",
   "answer": "give in"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "When do you plan to _____ your project proposal?",
   "answer": "give in|work on|submit|prepare"
 },
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Please _____ and finish the report quickly.",
   "answer": "hurry up"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "They need to _____ the contract details before finalizing the deal.",
   "answer": "iron out"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Everyone is welcome to _____ the team meeting.",
   "answer": "join in"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Many young people _____ the army during the war.",
   "answer": "joined up"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Let's split up for now and _____ at the conference center.",
   "answer": "join up"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "You need to _____ working hard if you want to succeed.",
   "answer": "keep on"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "It's hard to _____ with all the latest technological changes.",
   "answer": "keep up with"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "The meeting is scheduled to _____ at 10 AM sharp.",
   "answer": "kick off"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Make sure to _____ any important details from the report.",
   "answer": "leave out"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "I hope I don't _____ my team by missing the deadline.",
   "answer": "let down"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Can you _____ the office while I'm at the conference?",
   "answer": "look after"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "It's wrong to _____ people who have less than you.",
   "answer": "look down on"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "If you're not playing, you can still _____ the game.",
   "answer": "look on"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "He's been _____ a new job in the IT sector.",
   "answer": "looking for"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "We are all _____ to the upcoming team-building event.",
   "answer": "looking forward to"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Many people _____ to their parents as role models.",
   "answer": "look up to"
 },
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "He's going to _____ the issue with his manager tomorrow.",
   "answer": "bring up"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "We need to _____ a solution before the deadline.",
   "answer": "come up with"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "She _____ from her position to spend more time with her family.",
   "answer": "stepped down"
 },
@@ -2196,7 +2223,7 @@ answers: ["with","by","next to"] },
 
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "The numbers don't  _____! We need to check the calculations again.",
   "answer": "add up"
 },
@@ -2204,247 +2231,247 @@ answers: ["with","by","next to"] },
 
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "After ten years of service, the CEO decided to _____ from his position.",
   "answers": ["step down","retire"]
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "The new marketing campaign really _____ last month.",
   "answer": "took off"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "He's going to _____ a new hobby to relax.",
   "answer": "take up"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Before making a decision, it's important to _____ all options carefully.",
   "answers": ["weigh up","consider"]
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Please _____ your work before submitting it.",
   "answers": ["back up","save"]
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "A new issue has _____; we need to address it immediately.",
   "answers": ["come up","arisen"]
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "She is able to _____ with the latest technology trends effortlessly.",
   "answer": "Keep up with"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "We need to _____ a new system for managing customer feedback.",
   "answer": "Set up"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "The legal team will _____ the contract details thoroughly.",
   "answer": "Go through"
 },
 
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Our company plans to _____ into new markets next year.",
   "answer": "Branch out"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "After years of research, we're finally ready to _____ the tech industry.",
   "answer": "Break into"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "After years of acting school she  finally  _____ the film industry.",
   "answer": "Broke into"
 },
 
 
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "Despite the difficulties, we must _____ with the project.",
   "answer": "Carry on"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "The store had to _____ due to financial problems.",
   "answer": "Close down"
 },
 {
-  "category": "Phrasal verbs: work",
+  "category": "Phrasal Verbs: work",
   "question": "I _____ to meeting with the team in Cyprus next week.",
   "answer": "look forward to"
 },
 
 
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "What does 'follow up' imply in a business conversation?",
   answer: "'Follow up' means to continue or take additional actions related to a previous activity or discussion, like following up on a client's request."
 },
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "How is 'look into' used in a professional setting?",
   answer: "'Look into' means to investigate or research something more deeply, like looking into a customer complaint or a technical issue."
 },
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "Can you define 'sign off on' in a workplace?",
   answer: "'Sign off on' refers to giving formal approval or consent to something, such as signing off on a project plan or a budget."
 },
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "What does 'work out' mean in a business context?",
   answer: "'Work out' can mean to resolve a problem or to calculate something, like working out the details of a deal or working out a budget."
 },
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "How would 'touch base' be used in an office environment?",
   answer: "'Touch base' means to make brief contact with someone to discuss something or to get an update, such as touching base with a colleague about a project."
 },
 
 
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "What does 'catch up' mean in a work context?",
   answer: "'Catch up' means to bring oneself up to date in a particular area or topic, like catching up on emails or work progress."
 },
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "How would you use 'draw up' in a business setting?",
   answer: "'Draw up' refers to the process of preparing or writing a document, plan, or agreement, like drawing up a contract or a proposal."
 },
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "What does 'lay off' mean in a workplace?",
   answer: "'Lay off' is used when a company dismisses employees, often due to financial constraints or restructuring. I just got fired. I just got laid off."
 },
 
 
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "renew the contract",
   answer: "We have asked them to renew the contract."
 },
 
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you receive important information and decide to take action because of it, you ___ ___ it.",
   "answer": "act on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If a machine or part of your body starts to behave badly or strangely, it is said to ___ ___.",
   "answer": "act up"
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you are held responsible for a problem, you ___ ___ it.",
   "answer": "answer for"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To eagerly start a particular task or activity, you ___ ___ it.",
   "answer": "dive into"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you invent something, especially an excuse, you ___ it ___.",
   "answer": "make up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To cancel something, you ___ it ___.",
   "answer": "call off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you tolerate a situation, you ___ ___ with it.",
   "answer": "put up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you leave a place, especially for a particular purpose, you ___ ___.",
   "answer": "set off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you try to find someone or something, you ___ ___ them or it.",
   "answer": "look for"
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you support or maintain something, you ___ it ___.",
   "answer": "keep up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To start a computer or a machine, you ___ it ___.",
   "answer": "boot up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you postpone an event to a later time, you ___ it ___.",
   "answer": "push back"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you reduce the amount of something, you ___ it ___.",
   "answer": "cut down"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To continue doing something, especially after a pause or hesitation, you ___ ___.",
   "answer": "go on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you unexpectedly encounter someone, you ___ ___ them.",
   "answer": "bump into"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you remove clothing, you ___ it ___.",
   "answer": "take off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To express your feelings or opinions strongly, you ___ ___.",
   "answer": "speak out"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you gradually start to believe in a new idea, you ___ ___ to it.",
   "answer": "warm up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To formally end a meeting or assembly, you ___ it ___.",
   "answer": "close down"
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you delay doing something, you ___ it ___.",
   "answer": "put off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To recover from an illness or setback, you ___ ___.",
   "answer": "bounce back"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you investigate or examine a problem in detail, you ___ ___ it.",
   "answer": "dig into"
 },
@@ -2454,193 +2481,193 @@ answers: ["with","by","next to"] },
 
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you are held responsible for a problem, you ___ ___  it.",
   "answer": "answer for"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you need information or help and you ask a number of people, you ___ ___.",
   "answer": "ask around"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When an event or a plan is cancelled, it is ___ ___.",
   "answer": "called off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To continue an activity or process without interruption, you ___ ___.",
   "answer": "carry on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you review or revise something, you ___ ___ it.",
   "answer": "go over"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you ask someone to wait for a short time, you ask them to ___ ___.",
   "answer": "hold on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To continue doing something, especially an action or a process, you ___ ___.",
   "answer": "keep on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you maintain a continuous action or persist in doing something, you ___ it ___ ",
   "answer": "keep up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you go somewhere and collect something that someone else has left or sent, you ___ it __.",
   "answer": "pick up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you start wearing something, you ___ it ___.",
   "answer": "put on"
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you need to cancel an event or meeting, you ___ it ___",
   "answer": "call off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To continue with your work or activity, you ___ ___",
   "answer": "carry on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you persist in doing something, you ___ ___",
   "answer": "keep on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you maintain a continuous action or persist in doing something, you ___ it ___",
   "answer": "keep up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To decline an opportunity or chance, you ___ it ___",
   "answer": "pass up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you need to collect something, perhaps from another department, you ___ it ___",
   "answer": "pick up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you postpone a meeting or an event, you ___ it ___",
   "answer": "put off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To begin wearing something, like a safety vest, you ___ it ___",
   "answer": "put on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To stop a machine or equipment, you ___ it ___",
   "answer": "turn off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To start a machine, like a computer, you ___ it ___",
   "answer": "turn on"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you increase the volume or temperature, you ___ it ___",
   "answer": "turn up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To stop sleeping, especially in the morning, you ___ ___",
   "answer": "wake up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To achieve success effortlessly, especially in a competition, you ___ ___ ___ the award",
   "answer": "walk off with"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you solve a problem or find an answer, you ___ it ___",
   "answer": "work out"
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you need to calm someone down from being angry or emotionally excited, you tell them to ___ ___",
   "answer": "calm down"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you manage to reach someone who was ahead of you, perhaps in a project or task, you ___ ___",
   "answer": "catch up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When someone faints or loses consciousness, possibly due to stress or overwork, they ___ ___",
   "answer": "pass out"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If a plane leaves the ground or departs, it is said to ___ ___",
   "answer": "take off"
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you encourage someone to persevere in a difficult situation, you might say, '___ ___ it'",
   "answer": "hang in"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To express the process of making a decision after considering all the options, you ___ ___ a decision",
   "answer": "hammer out"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When a meeting or discussion is temporarily stopped, you ___ it ___",
   "answer": "hold off"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you are delaying a decision or action, you might be said to ___ it ___",
   "answer": "hold up"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you want someone to explain or justify their actions in a work scenario, you ask them to ___ it ___",
   "answer": "justify it"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To discuss something in a detailed and serious manner, often to solve a problem, you ___ it ___",
   "answer": "knock around"
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "If you are reducing something, like expenses or time spent on a task, you ___ it ___",
   "answer": "knock down"
 },
 
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you successfully deal with a difficult situation or find a solution, you ___ ___ it",
   "answer": "get through"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To start working seriously and with determination, especially after a delay, you ___ ___ to work",
   "answer": "get down"
 },
@@ -2673,7 +2700,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs",
   "question": "The meeting [BLANK] 10 am.",
-  "answer": "starts at"
+  "answers": ["starts at","ends at"]
 },
 {
   "category": "Phrasal Verbs",
@@ -2683,7 +2710,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs",
   "question": "Can you [BLANK] the cat in before you go to school?",
-  "answer": "let"
+  "answer": "let | let the cat in"
 },
 {
   "category": "Phrasal Verbs",
@@ -2748,8 +2775,9 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs",
   "question": "Let's [BLANK] these lines one more time before the show.",
-  "answer": "run over/through"
+  "answers": ["run over"," run through"]
 },
+
 {
   "category": "Phrasal Verbs",
   "question": "The child [BLANK] from home and has been missing for three days.",
@@ -2768,7 +2796,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs",
   "question": "I want to [BLANK] a little before I decide on these boots.",
-  "answer": "shop around|look around"
+  "answesr": ["shop around","look around"]
 },
 {
   "category": "Phrasal Verbs",
@@ -2824,7 +2852,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs",
   "question": "They [BLANK] their old neighborhood to see their childhood home.",
-  "answer": "visited|went to"
+  "answers": ["visited","went to"]
 },
 {
   "category": "Phrasal Verbs",
@@ -2841,7 +2869,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs",
   "question": "The company will [BLANK] a new product next month.",
-  "answer": "launch"
+  "answers": ["launch","release"]
 },
 {
   "category": "Phrasal Verbs",
@@ -2850,17 +2878,17 @@ answers: ["with","by","next to"] },
 },
 
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you manage to make someone understand or believe something, you ___ it ___ to them",
   "answer": "get across"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "To receive information or a message, especially officially or formally, you ___ it ___",
   "answer": "get in"
 },
 {
-  "category": "Phrasal verbs",
+  "category": "Phrasal Verbs",
   "question": "When you start to seriously think or focus on a task, especially a difficult one, you ___ ___ to it",
   "answer": "get down"
 },
@@ -2878,7 +2906,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs",
   "question": "Jesse has been [BLANK] with Luke since they met last winter.",
-  "answer": "hanging out|going out"
+  "answers": ["hanging out","going out"]
 },
 {
   "category": "Phrasal Verbs",
@@ -2920,12 +2948,12 @@ answers: ["with","by","next to"] },
 
 
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "Can you explain 'run by' in a work environment?",
   answer: "'Run by' means to present something to someone for review or approval, such as running a plan by your manager. I would like to run an idea by you!"
 },
 {
-  category: "Phrasal verbs: work",
+  category: "Phrasal Verbs: work",
   question: "What is the meaning of 'set up' in a professional setting?",
   answer: "'Set up' can refer to arranging or organizing something, like setting up a meeting or setting up equipment."
 },
@@ -2933,29 +2961,29 @@ answers: ["with","by","next to"] },
 
 
 //
-{ category: "Phrasal verbs:home", question: "To ___ ___ means to tidy or organize a space.", answer: "straighten up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ involves adding something to what is already there.", answer: "add on|build on" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to make a place neat and free from dirt or disorder.", answer: "clean up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to remove dust from a surface.", answer: "dust off" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ involves refilling something to its capacity.", answer: "fill up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to repair or renovate something.", answer: "fix up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ involves placing something on a hook or receiver.", answer: "hang up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ refers to securing a place by locking doors and windows.", answer: "lock up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface using a mop.", answer: "mop up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ involves lifting and holding something.", answer: "pick up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to store items in their proper place.", answer: "put away" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ refers to inserting something into something else.", answer: "put in" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to dress oneself with an item of clothing.", answer: "put on" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ (music) involves starting to play music.", answer: "turn on|put on" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to extinguish something like a fire.", answer: "put out" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ refers to displaying or setting something up.", answer: "put up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to amass or gather a supply of something.", answer: "stock up" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ involves removing something from a higher place.", answer: "take down" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to remove something from inside a place.", answer: "take out" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ refers to discarding something as waste.", answer: "throw away|throw out|trash it What do you need to throw away?" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "switch off|turn off" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ involves starting the operation of a device.", answer: "turn on" },
-  { category: "Phrasal verbs:home", question: "To ___ ___ means to clean a surface, especially by rubbing it.", answer: "wipe down" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to tidy or organize a space.", answer: "straighten up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ involves adding something to what is already there.", answer: "add on|build on" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to make a place neat and free from dirt or disorder.", answer: "clean up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to remove dust from a surface.", answer: "dust off" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ involves refilling something to its capacity.", answer: "fill up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to repair or renovate something.", answer: "fix up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ involves placing something on a hook or receiver.", answer: "hang up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ refers to securing a place by locking doors and windows.", answer: "lock up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to clean a surface using a mop.", answer: "mop up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ involves lifting and holding something.", answer: "pick up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to store items in their proper place.", answer: "put away" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ refers to inserting something into something else.", answer: "put in" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to dress oneself with an item of clothing.", answer: "put on" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ (music) involves starting to play music.", answer: "turn on|put on" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to extinguish something like a fire.", answer: "put out" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ refers to displaying or setting something up.", answer: "put up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to amass or gather a supply of something.", answer: "stock up" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ involves removing something from a higher place.", answer: "take down" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to remove something from inside a place.", answer: "take out" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ refers to discarding something as waste.", answer: "throw away|throw out|trash it What do you need to throw away?" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to stop the operation of a device.", answer: "switch off|turn off" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ involves starting the operation of a device.", answer: "turn on" },
+{ category: "Phrasal Verbs:home", question: "To ___ ___ means to clean a surface, especially by rubbing it.", answer: "wipe down" },
 
 //
 {
@@ -2996,7 +3024,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Time phrases",
   "question": "Employees are allowed to work remotely ___ ___ ___ .",
-  "answer": "off and on"
+  "answer": "off and on|now and then"
 },
 
 {
@@ -3038,7 +3066,7 @@ answers: ["with","by","next to"] },
 {
   "category": "Time phrases",
   "question": "We update our clients about the project ___  ___ .",
-  "answer": "at times"
+  "answer": "at times|on occasion"
 },
 {
   "category": "Time phrases",
@@ -3593,6 +3621,22 @@ answers: ["with","by","next to"] },
 
   {
     "category": "Errors",
+    "question": "It's pretty the same.",
+    "answer": "It's pretty much the same."
+  },
+
+  {
+    "category": "Errors",
+    "question": "It's bother me.",
+    "answer": "It's bothering me."
+  },
+
+
+  
+
+
+  {
+    "category": "Errors",
     "question": "I do a mistake.",
     "answer": "I made a mistake."
   },
@@ -3652,7 +3696,7 @@ answers: ["with","by","next to"] },
   {
     "category": "Errors",
     "question": "It's much more bigger!",
-    "answer": "It's much bigger! or It's the biggest!"
+    "answers":[ "It's much bigger! ","It's the biggest!"]
   },
 
 
@@ -3692,7 +3736,7 @@ answers: ["with","by","next to"] },
   {
     "category": "Errors",
     "question": "It helps for us a lot.",
-    "answer": "It help us a lot. _or_ It will help us a lot."
+    "answers": ["It help us a lot. ","It will help us a lot."]
   },
 
 
@@ -3706,7 +3750,10 @@ answers: ["with","by","next to"] },
   {
     "category": "Errors",
     "question": "He came in Saturday.",
-    "answer": "He [arrived|came in|got in] on Saturday."
+    "answers": ["He got in on Saturday.",
+                "He came in on Saturday.",
+                "He arrived on Saturday.",
+              ]
   },
 
 
@@ -5069,14 +5116,14 @@ answers: ["with","by","next to"] },
   { 
     category: 'Present Continuous Tense', 
     question: "Complete the sentence in present continuous tense: We (not / watch) TV right now.", 
-    answer: "We are not watching TV right now. or We aren't watching TV right now." 
+    answers: ["We are not watching TV right now. "," We aren't watching TV right now." ]
   },
 
 
   {
     "category": "Present Continuous Tense",
     "question": "Complete the sentence in present continuous tense: We (not / watch) TV right now.",
-    "answer": "We are not watching TV right now or We aren't watching TV right now."
+    "answers": ["We are not watching TV right now. "," We aren't watching TV right now."]
   },
   {
     "category": "Present Continuous Tense",
@@ -5096,7 +5143,7 @@ answers: ["with","by","next to"] },
   {
     "category": "Present Continuous Tense",
     "question": "Complete the sentence in present continuous tense: He (not / sleep) right now.",
-    "answer": "He is not sleeping right now or He isn't sleeping right now."
+    "answers": ["He is not sleeping right now."," He isn't sleeping right now."]
   },
   {
     "category": "Present Continuous Tense",
@@ -5116,7 +5163,7 @@ answers: ["with","by","next to"] },
   {
     "category": "Present Continuous Tense",
     "question": "Complete the sentence in present continuous tense: She (not / use) her computer at the moment.",
-    "answer": "She is not using her computer at the moment or She isn't using her computer at the moment."
+    "answers": ["She is not using her computer at the moment. "," She isn't using her computer at the moment."]
   },
 
   {
@@ -5128,7 +5175,7 @@ answers: ["with","by","next to"] },
   { 
     category: 'Present Continuous Tense', 
     question: "Change to present continuous tense: He reads a book.", 
-    answer: "He is reading a book. or He's reading a book.", 
+    answers: ["He is reading a book. ","He's reading a book.", ]
   },
   //
   { 
@@ -5195,12 +5242,12 @@ answer: "I have never seen that person before."
 { 
   category: 'Future Simple Tense', 
   question: "Form a sentence in future simple tense: She (go) to Paris next week.", 
-  answer: "She will go to Paris next week. or She is going to Paris next week." 
+  answers: ["She will go to Paris next week. ","She is going to Paris next week."] 
 },
 { 
   category: 'Future Simple Tense', 
   question: "Change to future simple tense: They eat lunch.", 
-  answer: "They will eat lunch. or They are going to eat lunch." 
+  answers: ["They will eat lunch. ","They are going to eat lunch."] 
 },
 
 { 
@@ -5212,63 +5259,69 @@ answer: "I have never seen that person before."
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: I am reading a book.",
-  "answer": "I will read a book or I'm going to read a book."
+  "answers": ["I will read a book. ","I'm going to read a book."]
 },
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: She eats breakfast at 7 AM.",
-  "answer": "She will eat breakfast at 7 AM or She's going to eat breakfast at 7 AM."
+  "answers": ["She will eat breakfast at 7 AM. ","She's going to eat breakfast at 7 AM."]
 },
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: They are walking to school.",
-  "answer": "They will walk to school or They're going to walk to school."
+  "answers": ["They will walk to school. ","They're going to walk to school."]
 },
+
+
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: He drives to work every day.",
-  "answer": "He will drive to work every day or He's going to drive to work every day."
+  "answers": ["He will drive to work every day. "," He's going to drive to work every day."]
 },
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: We are planning a party.",
-  "answer": "We will plan a party or We're going to plan a party."
+  "answers": ["We will plan a party. ","We're going to plan a party."]
 },
+
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: She is buying a new car.",
-  "answer": "She will buy a new car or She's going to buy a new car."
+  "answers": ["She will buy a new car. ","She's going to buy a new car."]
 },
+
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: I am making dinner tonight.",
-  "answer": "I will make dinner tonight or I'm going to make dinner tonight."
+  "answers": ["I will make dinner tonight. "," I'm going to make dinner tonight."]
 },
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: They are starting a new project.",
-  "answer": "They will start a new project or They're going to start a new project."
+  "answers": ["They will start a new project. ","They're going to start a new project."]
 },
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: He is visiting his grandparents.",
-  "answer": "He will visit his grandparents or He's going to visit his grandparents."
+  "answers": ["He will visit his grandparents. "," He's going to visit his grandparents."]
 },
+
+
 {
   "category": "Future Simple Tense",
   "question": "Change to future simple tense: You are learning Spanish.",
-  "answer": "You will learn Spanish or You're going to learn Spanish."
+  "answers": ["You will learn Spanish. "," You're going to learn Spanish."]
 },
 
 { 
   category: 'Future Simple Tense', 
   question: "Complete the sentence in future simple tense: He (not / play) football tomorrow.", 
-  answer: "He will not play football tomorrow. or He won't play football tomorrow." 
+  answers: ["He will not play football tomorrow. ","He won't play football tomorrow."] 
 },
 { 
   category: 'Future Simple Tense', 
   question: "Change to future simple tense: I am reading a book.", 
-  answer: "I will read a book. or I'm going to read a book." 
+  answers: ["I will read a book. "," I'm going to read a book." ]
 },
 
 //
@@ -5670,7 +5723,8 @@ answer: "I have never seen that person before."
   { "category": "Common phrases", "question": "It's longer than 2 miles.", "answer": "It's longer than 2 miles, perhaps 3 or 4." },
   { "category": "Common phrases", "question": "I've been here for two days.", "answer": "I've been here for two days, and I love it." },
   { "category": "Common phrases", "question": "I've heard Texas is a beautiful place.", "answer": "I've heard Texas is a beautiful place with great landscapes." },
-  { "category": "Common phrases", "question": "I've never seen that before.", "answer": "I've never seen that before, it's fascinating." },
+  { "category": "Common phrases", "question": "I've never seen that before.", 
+  "answer": "I've never seen that before, it's fascinating." },
 
   
 
@@ -6188,9 +6242,9 @@ answer: "I have never seen that person before."
 { category: 'Determiners', question: "I would like to eat [BLANK] pizza.", answer: "\"some\"" },
 { category: 'Determiners', question: "I have [BLANK] books on my bookshelf.", answer: "\"many\"" },
 { category: 'Determiners', question: "I went to [BLANK] park to play frisbee.", answer: "\"the\"" },
-{ category: 'Determiners', question: "I saw [BLANK] birds in the trees.", answer: "\"many|some\"" },
+{ category: 'Determiners', question: "I saw [BLANK] birds in the trees.", answers: ["\"many","some\"" ]},
 { category: 'Determiners', question: "I would like to eat [BLANK] ice cream.", answer: "\"some\"" },
-{ category: 'Determiners', question: "I have [BLANK] friends who live nearby.", answer: "a few|many|some" },
+{ category: 'Determiners', question: "I have [BLANK] friends who live nearby.", answers: ["a few","many","some"] },
 { category: 'Determiners', question: "I went to [BLANK] library to study.", answer: "\"the\"" },
 
 //
@@ -6200,7 +6254,10 @@ answer: "I have never seen that person before."
 { category: 'Zero Conditionals', question: "If you [BLANK] a book, you learn new things.", answer: "\"read\"" },
 { category: 'Zero Conditionals', question: "If you [BLANK] exercise, you stay healthy.", answer: "\"do\"" },
 { category: 'Zero Conditionals', question: "If you [BLANK] the door, the bell rings.", answer: "\"open\"" },
-{ category: 'Zero Conditionals', question: "If you [BLANK] a car, you can travel to different places.", answer: "\"drive\"" },
+{ category: 'Zero Conditionals', 
+question: "If you [BLANK] a car, you can travel to different places.", 
+answers: ["\"drive\"","have"] },
+
 { category: 'Zero Conditionals', question: "If you [BLANK] a language, you can communicate with people from other countries.", answer: "\"speak\"" },
 { category: 'Zero Conditionals', question: "If you [BLANK] a computer, you can access information from all over the world.", answer: "\"use\"" },
 { category: 'Zero Conditionals', question: "If you [BLANK] your teeth, you get cavities.", answer: "\"don't brush\"" },
@@ -6219,7 +6276,10 @@ answer: "I have never seen that person before."
 { "category": "Adjectives:Superlatives", "question": "The most energetic time of day for young children is often called [BLANK] hour.", "answer": " the craziest | the most aggravating| the busiest | the most active" },
 { "category": "Adjectives:Superlatives", "question": "The most challenging phase of early childhood is often referred to as [BLANK] years.", "answer": " the toughest | the most demanding" },
 { "category": "Adjectives:Superlatives", "question": "The most peaceful moment for parents is often when their child has [BLANK].", "answer": " the soundest sleep | the quietest time" },
-{ "category": "Adjectives:Superlatives", "question": "The toy that keeps children engaged the longest is often called [BLANK] toy.", "answer": " the most entertaining | the best | the most favorite|" },
+{ "category": "Adjectives:Superlatives", 
+"question": "The toy that keeps children engaged the longest is often called [BLANK] toy.", 
+"answer": " the most entertaining | the best | the most favorite|" },
+
 { "category": "Adjectives:Superlatives", "question": "The most nutritious meal for children is often described as [BLANK].", "answer": " the healthiest | the most balanced" },
 { "category": "Adjectives:Superlatives", "question": "The most memorable family vacation is often referred to as [BLANK] trip.", "answer": " the best | the most unforgettable" },
 { "category": "Adjectives:Superlatives", "question": "The most important quality in a child's education is often seen as [BLANK].", "answer": " the most fundamental | the most crucial" },
@@ -8743,468 +8803,470 @@ answer: "Which option should I choose on this feedback form?"
             category: 'Questions:WH words ',
             question: "What is a way to inquire about the frequency of negotiation sessions?",
             answer: "How often will we be meeting for negotiation sessions?"
-            },
-            
-            {
-            category: 'Questions:WH words ',
-            question: "How do you ask about determining the right terms in a contract negotiation?",
-            answer: "Which terms are we prioritizing in this contract negotiation?"
-            },
-            {
-              category: 'Questions:WH words ',
-              question: "What is a way to ask about the objectives of the opposing party in a negotiation?",
-              answer: "What do you think are their main objectives in this negotiation?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "How do you ask about the location preference for future negotiation meetings?",
-              answer: "Where would be the most convenient location for our next negotiation meeting?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "What is a way to inquire about the key decision-makers in a negotiation?",
-              answer: "Who are the key decision-makers in their negotiation team?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "How can you ask about the best time to propose a deal during negotiations?",
-              answer: "When is the best time to present our proposal during the negotiation?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "What is a polite way to ask for the rationale behind a negotiation stance?",
-              answer: "Why have you decided to take this particular stance in the negotiation?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "How do you inquire about effective negotiation techniques or strategies?",
-              answer: "How can we effectively negotiate to achieve our desired outcome?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "What is a way to ask about the expected length of a negotiation session?",
-              answer: "How long is today's negotiation session expected to last?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "How can you ask about the budget limitations for a negotiation?",
-              answer: "How much budgetary flexibility do we have in this negotiation?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "What is a way to inquire about the regularity of updates during a negotiation process?",
-              answer: "How often will we receive updates during the negotiation process?"
-              },
-              
-              {
-              category: 'Questions:WH words ',
-              question: "How do you ask about selecting the most beneficial terms in a negotiation?",
-              answer: "Which terms should we focus on to maximize benefits in this negotiation?"
-              },
+  },
+  
+{
+category: 'Questions:WH words ',
+question: "How do you ask about determining the right terms in a contract negotiation?",
+answer: "Which terms are we prioritizing in this contract negotiation?"
+},
+{
+category: 'Questions:WH words ',
+question: "What is a way to ask about the objectives of the opposing party in a negotiation?",
+answer: "What do you think are their main objectives in this negotiation?"
+},
 
-              {
-                category: 'Questions:WH words ',
-                question: "What is a way to ask about the main features of a software?",
-                answer: "What are the main features of this software?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "How do you ask about the location for accessing software documentation?",
-                answer: "Where can I find the documentation for this software?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "What is a way to inquire about the person responsible for software maintenance?",
-                answer: "Who is responsible for maintaining this software?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "How can you ask about the timing for the next software update?",
-                answer: "When is the next update scheduled for this software?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "What is a polite way to ask for the reason behind a software bug or issue?",
-                answer: "Why is this software bug occurring?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "How do you inquire about the process for installing or setting up software?",
-                answer: "How do I install or set up this software?"
-                },
-                
-                {
-                  category: 'Questions:WH words ',
-                  question: "What is a way to ask about compatibility of software with certain hardware?",
-                  answer: "What hardware is compatible with this software?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "How do you ask about the location where software data is stored?",
-                  answer: "Where is the data from this software stored?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "What is a way to inquire about the person to contact for technical support?",
-                  answer: "Who should I contact for technical support with this software?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "How can you ask about the best time to perform system updates?",
-                  answer: "When is the best time to perform system updates for this software?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "What is a polite way to ask for the reason behind a software feature?",
-                  answer: "Why was this particular feature included in the software?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "How do you inquire about the steps to troubleshoot a software issue?",
-                  answer: "How can I troubleshoot this issue with the software?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "What is a way to ask about the duration of software support?",
-                  answer: "How long will support be provided for this software version?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "How can you ask about the cost of upgrading software?",
-                  answer: "How much does it cost to upgrade to the latest version of this software?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "What is a way to inquire about the regularity of software maintenance?",
-                  answer: "How often is maintenance performed on this software?"
-                  },
-                  
-                  {
-                  category: 'Questions:WH words ',
-                  question: "How do you ask about choosing the right software for managing a project?",
-                  answer: "Which software would be best for managing a large project?"
-                  },
+{
+category: 'Questions:WH words ',
+question: "How do you ask about the location preference for future negotiation meetings?",
+answer: "Where would be the most convenient location for our next negotiation meeting?"
+},
 
-                {
-                category: 'Questions:WH words ',
-                question: "What is a way to ask about the duration of a software trial period?",
-                answer: "How long does the trial period last for this software?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "How can you ask about the cost of a software license?",
-                answer: "How much does a license for this software cost?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "What is a way to inquire about the frequency of software backups?",
-                answer: "How often does this software perform backups?"
-                },
-                
-                {
-                category: 'Questions:WH words ',
-                question: "How do you ask about determining the right software for a specific task?",
-                answer: "Which software is best suited for this particular task?"
-                },
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the key decision-makers in a negotiation?",
+answer: "Who are the key decision-makers in their negotiation team?"
+},
 
+{
+category: 'Questions:WH words ',
+question: "How can you ask about the best time to propose a deal during negotiations?",
+answer: "When is the best time to present our proposal during the negotiation?"
+},
 
-          {
-          category: 'Questions:WH words ',
-          question: "How can you ask about the cost of a new company software?",
-          answer: "How much does the new accounting software cost?"
-          },
-          
-          {
-          category: 'Questions:WH words ',
-          question: "What is a way to inquire about the frequency of safety drills?",
-          answer: "How often do we have safety drills?"
-          },
-          
-          {
-          category: 'Questions:WH words ',
-          question: "How do you ask about choosing the right supplier for a particular product?",
-          answer: "Which supplier should we use for our printing needs?"
-          },
+{
+category: 'Questions:WH words ',
+question: "What is a polite way to ask for the rationale behind a negotiation stance?",
+answer: "Why have you decided to take this particular stance in the negotiation?"
+},
 
-      {
-      category: 'Questions:WH words ',
-      question: "What is a way to inquire about the frequency of client meetings?",
-      answer: "How often do we meet with clients?"
-      },
-      
-      {
-      category: 'Questions:WH words ',
-      question: "How do you ask about choosing the right strategy for a marketing campaign?",
-      answer: "Which strategy should we choose for the upcoming marketing campaign?"
-      },
+{
+category: 'Questions:WH words ',
+question: "How do you inquire about effective negotiation techniques or strategies?",
+answer: "How can we effectively negotiate to achieve our desired outcome?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to ask about the expected length of a negotiation session?",
+answer: "How long is today's negotiation session expected to last?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How can you ask about the budget limitations for a negotiation?",
+answer: "How much budgetary flexibility do we have in this negotiation?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the regularity of updates during a negotiation process?",
+answer: "How often will we receive updates during the negotiation process?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you ask about selecting the most beneficial terms in a negotiation?",
+answer: "Which terms should we focus on to maximize benefits in this negotiation?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to ask about the main features of a software?",
+answer: "What are the main features of this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you ask about the location for accessing software documentation?",
+answer: "Where can I find the documentation for this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the person responsible for software maintenance?",
+answer: "Who is responsible for maintaining this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How can you ask about the timing for the next software update?",
+answer: "When is the next update scheduled for this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a polite way to ask for the reason behind a software bug or issue?",
+answer: "Why is this software bug occurring?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you inquire about the process for installing or setting up software?",
+answer: "How do I install or set up this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to ask about compatibility of software with certain hardware?",
+answer: "What hardware is compatible with this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you ask about the location where software data is stored?",
+answer: "Where is the data from this software stored?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the person to contact for technical support?",
+answer: "Who should I contact for technical support with this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How can you ask about the best time to perform system updates?",
+answer: "When is the best time to perform system updates for this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a polite way to ask for the reason behind a software feature?",
+answer: "Why was this particular feature included in the software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you inquire about the steps to troubleshoot a software issue?",
+answer: "How can I troubleshoot this issue with the software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to ask about the duration of software support?",
+answer: "How long will support be provided for this software version?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How can you ask about the cost of upgrading software?",
+answer: "How much does it cost to upgrade to the latest version of this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the regularity of software maintenance?",
+answer: "How often is maintenance performed on this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you ask about choosing the right software for managing a project?",
+answer: "Which software would be best for managing a large project?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to ask about the duration of a software trial period?",
+answer: "How long does the trial period last for this software?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How can you ask about the cost of a software license?",
+answer: "How much does a license for this software cost?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the frequency of software backups?",
+answer: "How often does this software perform backups?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you ask about determining the right software for a specific task?",
+answer: "Which software is best suited for this particular task?"
+},
 
 
+{
+category: 'Questions:WH words ',
+question: "How can you ask about the cost of a new company software?",
+answer: "How much does the new accounting software cost?"
+},
 
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the frequency of safety drills?",
+answer: "How often do we have safety drills?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you ask about choosing the right supplier for a particular product?",
+answer: "Which supplier should we use for our printing needs?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "What is a way to inquire about the frequency of client meetings?",
+answer: "How often do we meet with clients?"
+},
+
+{
+category: 'Questions:WH words ',
+question: "How do you ask about choosing the right strategy for a marketing campaign?",
+answer: "Which strategy should we choose for the upcoming marketing campaign?"
+},
+
+
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask a colleague for an update on a project?",
+answer: "Can you give me an update on the project status?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to inquire about a meeting's schedule?",
+answer: "When is our next team meeting scheduled?"
+}, 
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask for clarification on a task?",
+answer: "Could you please clarify the requirements for this task?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a polite way to ask for a deadline extension?",
+answer: "Is it possible to get an extension on the deadline for this project?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask a colleague for their opinion on a project?",
+answer: "What do you think about the approach we're taking with this project?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to inquire about the availability of a conference room?",
+answer: "Is the conference room available for a meeting this afternoon?"
+},
+
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask about the next steps after completing a task?",
+answer: "What are the next steps now that this task is completed?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to inquire about the results of a client meeting?",
+answer: "How did the meeting with the client go?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask a colleague if they have spare time to assist with a project?",
+answer: "Do you have some time to help me with a project I'm working on?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a polite way to ask for someone's expertise on a subject?",
+answer: "Could I get your expert opinion on this matter?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask for the preferred communication method?",
+answer: "What is your preferred method of communication for work-related matters?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to ask about changes in a project's scope?",
+answer: "Have there been any changes to the scope of our project?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you inquire about the availability of a team member for a new project?",
+answer: "Are you available to take on a new project in the coming weeks?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask about the effectiveness of a new workflow?",
+answer: "How effective has the new workflow been in improving our productivity?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to ask for suggestions for improving a process?",
+answer: "Do you have any suggestions on how we could improve this process?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask about the status of a pending approval?",
+answer: "What's the status of the approval for my request?"
+},
+
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask about the company's policy on remote work?",
+answer: "What is our company's policy on remote working?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a polite way to ask a manager for a one-on-one meeting?",
+answer: "Could we schedule a one-on-one meeting sometime this week?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask for information about annual leave policies?",
+answer: "Could you tell me more about our annual leave policy?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to request technical support?",
+answer: "Who can I contact for technical support with my computer?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask a coworker about the status of a shared resource?",
+answer: "Do you know if the printer is working now?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you inquire about the agenda for a meeting?",
+answer: "What's on the agenda for our meeting today?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to ask if anyone has objections to a proposal?",
+answer: "Does anyone have any concerns or objections to this proposal?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask about the procedure for filing expense reports?",
+answer: "Can you explain how to file an expense report?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask for the deadline of a report?",
+answer: "When is the deadline for submitting this report?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to ask about the dress code for a company event?",
+answer: "What is the dress code for the upcoming company event?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you inquire about the process for requesting equipment?",
+answer: "What is the process for requesting new equipment or supplies?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a polite way to ask someone to review a document?",
+answer: "Could you take a look at this document and give me your feedback?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you ask if there are any updates from a recent meeting?",
+answer: "Were there any important updates from the meeting I missed?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to ask a coworker if they need support with their workload?",
+answers: [, "Do you need any help with your workload?", "Do you need any help with your workload?"]
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask about the status of an IT issue?",
+answer: "Has the IT issue been resolved yet?"
+},
+    
     {
-      category: 'Questions:Workplace',
-      question: "How do you ask a colleague for an update on a project?",
-      answer: "Can you give me an update on the project status?"
-      },
-      
-      {
-      category: 'Questions:Workplace',
-      question: "What is a way to inquire about a meeting's schedule?",
-      answer: "When is our next team meeting scheduled?"
-      }, 
-      
-      {
-      category: 'Questions:Workplace',
-      question: "How can you ask for clarification on a task?",
-      answer: "Could you please clarify the requirements for this task?"
-      },
-      
-      {
-      category: 'Questions:Workplace',
-      question: "What is a polite way to ask for a deadline extension?",
-      answer: "Is it possible to get an extension on the deadline for this project?"
-      },
-      
-      {
-        category: 'Questions:Workplace',
-        question: "How do you ask a colleague for their opinion on a project?",
-        answer: "What do you think about the approach we're taking with this project?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "What is a way to inquire about the availability of a conference room?",
-        answer: "Is the conference room available for a meeting this afternoon?"
-        },
-        
-
-        {
-          category: 'Questions:Workplace',
-          question: "How do you ask about the next steps after completing a task?",
-          answer: "What are the next steps now that this task is completed?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a way to inquire about the results of a client meeting?",
-          answer: "How did the meeting with the client go?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How can you ask a colleague if they have spare time to assist with a project?",
-          answer: "Do you have some time to help me with a project I'm working on?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a polite way to ask for someone's expertise on a subject?",
-          answer: "Could I get your expert opinion on this matter?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How do you ask for the preferred communication method?",
-          answer: "What is your preferred method of communication for work-related matters?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a way to ask about changes in a project's scope?",
-          answer: "Have there been any changes to the scope of our project?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How can you inquire about the availability of a team member for a new project?",
-          answer: "Are you available to take on a new project in the coming weeks?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How do you ask about the effectiveness of a new workflow?",
-          answer: "How effective has the new workflow been in improving our productivity?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a way to ask for suggestions for improving a process?",
-          answer: "Do you have any suggestions on how we could improve this process?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How can you ask about the status of a pending approval?",
-          answer: "What's the status of the approval for my request?"
-          },
-        {
-        category: 'Questions:Workplace',
-        question: "How can you ask about the company's policy on remote work?",
-        answer: "What is our company's policy on remote working?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "What is a polite way to ask a manager for a one-on-one meeting?",
-        answer: "Could we schedule a one-on-one meeting sometime this week?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "How do you ask for information about annual leave policies?",
-        answer: "Could you tell me more about our annual leave policy?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "What is a way to request technical support?",
-        answer: "Who can I contact for technical support with my computer?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "How can you ask a coworker about the status of a shared resource?",
-        answer: "Do you know if the printer is working now?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "How do you inquire about the agenda for a meeting?",
-        answer: "What's on the agenda for our meeting today?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "What is a way to ask if anyone has objections to a proposal?",
-        answer: "Does anyone have any concerns or objections to this proposal?"
-        },
-        
-        {
-        category: 'Questions:Workplace',
-        question: "How can you ask about the procedure for filing expense reports?",
-        answer: "Can you explain how to file an expense report?"
-        },
-
-        {
-          category: 'Questions:Workplace',
-          question: "How do you ask for the deadline of a report?",
-          answer: "When is the deadline for submitting this report?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a way to ask about the dress code for a company event?",
-          answer: "What is the dress code for the upcoming company event?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How can you inquire about the process for requesting equipment?",
-          answer: "What is the process for requesting new equipment or supplies?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a polite way to ask someone to review a document?",
-          answer: "Could you take a look at this document and give me your feedback?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How do you ask if there are any updates from a recent meeting?",
-          answer: "Were there any important updates from the meeting I missed?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a way to ask a coworker if they need support with their workload?",
-          answer: "Do you need any assistance with your current workload?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How can you ask about the status of an IT issue?",
-          answer: "Has the IT issue been resolved yet?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How do you inquire about opportunities for professional development?",
-          answer: "Are there any professional development opportunities available that I could explore?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "What is a way to ask about the impact of a new policy on your work?",
-          answer: "How will the new policy affect our current workflow?"
-          },
-          
-          {
-          category: 'Questions:Workplace',
-          question: "How can you ask for clarification on a colleague's email?",
-          answer: "Could you clarify the points you made in your last email?"
-          },
+    category: 'Questions:Workplace',
+    question: "How do you inquire about opportunities for professional development?",
+    answer: "Are there any professional development opportunities available that I could explore?"
+    },
+    
+    {
+    category: 'Questions:Workplace',
+    question: "What is a way to ask about the impact of a new policy on your work?",
+    answer: "How will the new policy affect our current workflow?"
+    },
+    
+    {
+    category: 'Questions:Workplace',
+    question: "How can you ask for clarification on a colleague's email?",
+    answer: "Could you clarify the points you made in your last email?"
+    },
 
 
 
-      {
-      category: 'Questions:Workplace',
-      question: "How do you ask a colleague if they are available for a meeting?",
-      answer: "Are you available for a meeting this afternoon?"
-      }
-      ,
+{
+category: 'Questions:Workplace',
+question: "How do you ask a colleague if they are available for a meeting?",
+answer: "Are you available for a meeting this afternoon?"
+}
+,
 
-      {
-      category: 'Questions:Workplace',
-      question: "What is a way to request assistance from a coworker?",
-      answer: "Could you help me with this task?"
-      },
-      
-      {
-      category: 'Questions:Workplace',
-      question: "How can you ask about the priority of different tasks?",
-      answer: "Which task should I prioritize right now?"
-      },
-      
-      {
-      category: 'Questions:Workplace',
-      question: "How do you inquire about the progress of a team member?",
-      answer: "How is your part of the project coming along?"
-      },
-      
-      {
-      category: 'Questions:Workplace',
-      question: "What is a way to ask for feedback on your work?",
-      answer: "Could you provide some feedback on my recent work?"
-      },
-      
-      {
-      category: 'Questions:Workplace',
-      question: "How can you ask about the procedure for a specific process?",
-      answer: "Can you explain the procedure for this process to me?"
-      },
+{
+category: 'Questions:Workplace',
+question: "What is a way to request assistance from a coworker?",
+answer: "Could you help me with this task?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask about the priority of different tasks?",
+answer: "Which task should I prioritize right now?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How do you inquire about the progress of a team member?",
+answer: "How is your part of the project coming along?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "What is a way to ask for feedback on your work?",
+answer: "Could you provide some feedback on my recent work?"
+},
+
+{
+category: 'Questions:Workplace',
+question: "How can you ask about the procedure for a specific process?",
+answer: "Can you explain the procedure for this process to me?"
+},
 
 //
 { category: 'Adjectives:People', question: "My [BLANK] friend is always there for me.", answer: "loyal" },
@@ -9215,47 +9277,67 @@ answer: "Which option should I choose on this feedback form?"
 { category: 'Adjectives:People', question: "My [BLANK] friend always makes me laugh.", answer: "funny" },
 { category: 'Adjectives:People', question: "I have a very [BLANK] coworker who is always willing to go the extra mile.", answer: "reliable" },
 { category: 'Adjectives:People', question: "My [BLANK] friend is always up for an adventure.", answer: "courageous" },
-{ category: 'Adjectives:People', question: "I have a very [BLANK] teacher who is always willing to answer my questions.", answer: "patient" },
+{ category: 'Adjectives:People', 
+question: "I have a very [BLANK] teacher who is always willing to answer my questions.", 
+answer: "patient" },
 { category: 'Adjectives:People', question: "My [BLANK] friend is always looking on the bright side of things.", answer: "optimistic" },
 
 //
-{category: 'Adjectives:animals', question: "The [BLANK] lion is the king of the jungle.", answer: "mighty|majestic" },
+{category: 'Adjectives:animals', question: "The [BLANK] lion is the king of the jungle.", answers: ["mighty","majestic"] },
 {category: 'Adjectives:animals', question: "The [BLANK] cheetah is the fastest land animal on Earth.", answer: "graceful" },
 {category: 'Adjectives:animals', question: "The [BLANK] elephant is the largest land animal on Earth.", answer: "giant" },
 {category: 'Adjectives:animals', question: "The [BLANK] giraffe has the longest neck of any land animal.", answer: "graceful" },
 {category: 'Adjectives:animals', question: "The [BLANK] zebra has distinctive black and white stripes.", answer: "striking" },
-{category: 'Adjectives:animals', question: "The [BLANK] penguin is flightless bird that lives in the Southern Hemisphere.", answer: "adaptable" },
-{category: 'Adjectives:animals', question: "The [BLANK] chameleon can change its color to match its surroundings.", answer: "amazing" },
+{category: 'Adjectives:animals', question: "The [BLANK] penguin is flightless bird that lives in the Southern Hemisphere.", 
+answer: "adaptable" },
+{category: 'Adjectives:animals', 
+question: "The [BLANK] chameleon can change its color to match its surroundings.", answer: "amazing" },
 {category: 'Adjectives:animals', question: "The [BLANK] eagle is a symbol of freedom and power.", answer: "majestic" },
 {category: 'Adjectives:animals', question: "The [BLANK] dolphin is a playful and intelligent marine mammal.", answer: "curious" },
 {category: 'Adjectives:animals', question: "The [BLANK] owl is a nocturnal bird with excellent night vision.", answer: "wise" },
 
 //
-{"category": 'Adjectives:work', "question": "My job as a teacher is very [BLANK].", "answer": "fast-paced|stressful|emotional|rewarding|challenging|exciting|inspiring|interesting|demanding"},
-{"category": 'Adjectives:work', "question": "My job as a nurse is very [BLANK].", "answer": "demanding|stressful|emotional|rewarding|challenging|exciting|inspiring|interesting|fast-paced"},
+{"category": 'Adjectives:work', "question": "My job as a teacher is very [BLANK].", 
+"answers": ["fast-paced","stressful","emotional","rewarding","challenging","exciting","inspiring","interesting","demanding"]},
+
+{"category": 'Adjectives:work', "question": "My job as a nurse is very [BLANK].", 
+"answers": ["demanding","stressful","emotional","rewarding","challenging","exciting","inspiring","interesting","fast-paced"]},
+
 {category: 'Adjectives:work', question: "My job as a firefighter is very [BLANK].", answer: "stressful"},
 {category: 'Adjectives:work', question: "My job as an engineer is very [BLANK].", answer: "challenging"},
-{category: 'Adjectives:work', question: "My job as a writer is very [BLANK].", answer: "inconsistent|time consuming |creative"},
+{category: 'Adjectives:work', question: "My job as a writer is very [BLANK].", 
+answers: ["inconsistent","time consuming ","creative"]},
+
 {category: 'Adjectives:work', question: "My job as a social worker is very [BLANK].", answer: "rewarding"},
-{category: 'Adjectives:work', question: "My job as a lawyer is very [BLANK].", answer: "demanding|exciting|inspiring|stressful|interesting"},
+{category: 'Adjectives:work', question: "My job as a lawyer is very [BLANK].", 
+answers: ["demanding","exciting","inspiring","stressful","interesting"]
+},
 
 //
-{ category: 'Adjectives:Food', question: 'A [BLANK] meal is a satisfying one.', answer: 'tasty|delicious|hearty' },
+{ category: 'Adjectives:Food', question: 'A [BLANK] meal is a satisfying one.', answers: ["tasty","delicious","hearty"] },
 { category: 'Adjectives:Food', question: 'I love the [BLANK] taste of fresh strawberries.', answer: 'sweet' },
 { category: 'Adjectives:Food', question: 'This soup is so [BLANK] that it warms my soul.', answer: 'comforting' },
 { category: 'Adjectives:Food', question: 'The aroma of freshly baked bread is [BLANK] irresistible.', answer: 'enticing' },
-{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my grandmother's chocolate chip cookies.", answer: 'nostalgic|homey' },
+
+{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my grandmother's chocolate chip cookies.", answers: ["nostalgic","homey"] },
 { category: 'Adjectives:Food', question: "A [BLANK] salad is full of fresh, vibrant flavors.", answer: "refreshing" },
 { category: 'Adjectives:Food', question: "I love the [BLANK] combination of sweet and savory in this dish.", answer: "delectable" },
-{ category: 'Adjectives:Food', question: "This |steak|chicken|pasta|mango|fruit] is so [BLANK] that it melts in your mouth.", answer: "tender" },
-{ category: 'Adjectives:Food', question: "The [BLANK] aroma of freshly brewed coffee is always a welcome morning greeting.", answer: "invigorating" },
-{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my favorite childhood snack.", answer: "homey|unforgettable|nostalgic" },
+{ category: 'Adjectives:Food', question: "This |steak|chicken|pasta|mango|fruit] is so [BLANK] that it melts in your mouth.", 
+answer: "tender" },
+{ category: 'Adjectives:Food', question: "The [BLANK] aroma of freshly brewed coffee is always a welcome morning greeting.", 
+answer: "invigorating" },
+{ category: 'Adjectives:Food', question: "I crave the [BLANK] taste of my favorite childhood snack.", 
+answers: ["homey","unforgettable","nostalgic"] },
 
 //
 { category: 'Verbs:irregular', question: "I [BLANK] to the store yesterday.", answer: "went" },
 { category: 'Verbs:irregular', question: "I [BLANK] a book yesterday.", answer: "read" },
-{ category: 'Verbs:irregular', question: "I [BLANK] dinner at 7:00 PM last night.", answer: "had|ate|went to|went out for|" },
-{ category: 'Verbs:irregular', question: "I [BLANK] a walk in the park this morning.", answer: "took|went for" },
+{ category: 'Verbs:irregular', question: "I [BLANK] dinner at 7:00 PM last night.", 
+answers: ["had","ate","went to","went out for"] },
+
+{ category: 'Verbs:irregular', question: "I [BLANK] a walk in the park this morning.", 
+answers: ["took","went for"] },
+
 { category: 'Verbs:irregular', question: "I [BLANK] a game of chess with my friend last night.", answer: "played" },
 { category: 'Verbs:irregular', question: "I [BLANK] a new dress for the party last week.", answer: "bought" },
 { category: 'Verbs:irregular', question: "I [BLANK] a letter to my grandmother last month.", answer: "wrote" },
@@ -9729,6 +9811,7 @@ answer: "Which option should I choose on this feedback form?"
   "question": "The development team is responsible for [BLANK] the work in the backlog.",
   "answer": "completing"
 },
+
 {
   "category": "SCRUM",
   "question": "A SCRUM project is divided into [BLANK], which are short, iterative development cycles.",
@@ -11053,6 +11136,8 @@ answers: ["a lot of","some","a high amount of",] },
   "question": "[BLANK] laptop is not working properly.",
   "answer": "This"
 },
+
+
 {
   "category": "Adjectives:Demonstrative",
   "question": "We need to replace [BLANK] old chairs.",
@@ -11130,6 +11215,8 @@ allCategories.forEach(category => {
 // Function to filter and show flashcard
 const flashcardDisplay = document.getElementById('flashcardDisplay');
 const historyLog = document.getElementById('historyLog');
+
+// historyLog.select()
 function filterAndShowFlashcard() {
     filteredFlashcards = currentCategory === 'All' ? flashcards : flashcards.filter(card => card.category === currentCategory);
     currentCardIndex = 0;
