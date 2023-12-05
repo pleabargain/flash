@@ -185,7 +185,16 @@ answer: 'from' },
 { category: 'Prepositions', question: "I'm good [BLANK] math.", answer: "at" },
 { category: 'Prepositions', question: "I'm thinking [BLANK] going to the store|beach|park.", answer: "about" },
 { category: 'Prepositions', question: "I'm tired [BLANK] work.", answer: "of" },
-{ category: 'Prepositions', question: "I'm waiting [BLANK] my friend.",  answers: ["with","by","next to"] },
+{ category: 'Prepositions', question: "I'm waiting [BLANK] my friend.",  
+answers: ["with","by","next to"] },
+
+{
+  "category": "Phrasal verbs: work",
+  "question": "He's trying to _____ how to solve this complex problem.",
+  "answers": ["figure out","sort out","work out"]
+},
+
+
 { category: 'Prepositions', question: "I'm worried [BLANK] my exam.", answer: "about" },
 
 {
@@ -2008,11 +2017,8 @@ answer: 'from' },
   "question": "The deal _____ at the last minute.",
   "answer": "fell through"
 },
-{
-  "category": "Phrasal verbs: work",
-  "question": "He's trying to _____ how to solve this complex problem.",
-  "answer": "figure out"
-},
+
+
 {
   "category": "Phrasal verbs: work",
   "question": "Please _____ the application form for the new position.",
@@ -2025,8 +2031,8 @@ answer: 'from' },
 },
 {
   "category": "Phrasal verbs: work",
-  "question": "It's important for the team to _____ on the new marketing strategy.",
-  "answer": "focus on"
+  "question": "It's important for the team to _____  the new marketing strategy.",
+  "answer": "focus on|work on|be involved in|concentrate on|be committed to|be familiar with|understand"
 },
 {
   "category": "Phrasal verbs: work",
@@ -2087,7 +2093,7 @@ answer: 'from' },
 {
   "category": "Phrasal verbs: work",
   "question": "When do you plan to _____ your project proposal?",
-  "answer": "give in"
+  "answer": "give in|work on|submit|prepare"
 },
 
 {
@@ -2200,32 +2206,32 @@ answer: 'from' },
 {
   "category": "Phrasal verbs: work",
   "question": "After ten years of service, the CEO decided to _____ from his position.",
-  "answer": "step down|retire|"
+  "answers": ["step down","retire"]
 },
 {
   "category": "Phrasal verbs: work",
   "question": "The new marketing campaign really _____ last month.",
-  "answer": "Took off"
+  "answer": "took off"
 },
 {
   "category": "Phrasal verbs: work",
   "question": "He's going to _____ a new hobby to relax.",
-  "answer": "Take up"
+  "answer": "take up"
 },
 {
   "category": "Phrasal verbs: work",
   "question": "Before making a decision, it's important to _____ all options carefully.",
-  "answer": "Weigh up|consider"
+  "answers": ["weigh up","consider"]
 },
 {
   "category": "Phrasal verbs: work",
   "question": "Please _____ your work before submitting it.",
-  "answer": "back up|save"
+  "answers": ["back up","save"]
 },
 {
   "category": "Phrasal verbs: work",
   "question": "A new issue has _____; we need to address it immediately.",
-  "answer": "come up|arisen"
+  "answers": ["come up","arisen"]
 },
 {
   "category": "Phrasal verbs: work",
@@ -5145,6 +5151,13 @@ answer: 'from' },
     question: "Complete the sentence in present perfect tense: I (never / see) that movie.", 
     answer: "I have never seen that movie." 
   },
+
+  {
+category: "Present Perfect Tense",
+question: "Complete the sentence in present perfect tense: I (never / see) that person before.",
+answer: "I have never seen that person before."
+  },
+
   { 
     category: 'Present Perfect Tense', 
     question: "Change to present perfect tense: He finds time to meet with his team.", 
@@ -6478,7 +6491,7 @@ answer: 'from' },
 {
   "category": "Marketing",
   "question": "A [BLANK] is a detailed plan of action for achieving a specific marketing goal.",
-  "answer": "marketing plan | business plan | strategic plan | roadmap"
+  "answer": "marketing plan | business plan | strategic plan | roadmap | media plan"
 },
 {
   "category": "Marketing",
@@ -6503,12 +6516,12 @@ answer: 'from' },
 {
   "category": "Marketing",
   "question": "To [BLANK] is to promote a product or service to the public.",
-  "answer": "advertise | market | promote | publicize"
+  "answer": "advertise | market | publicize"
 },
 {
   "category": "Marketing",
   "question": "To [BLANK] is to create a positive image of a brand in the minds of consumers.",
-  "answer": "brand | build | establish | create"
+  "answer": "brand | build | establish "
 },
 {
   "category": "Marketing",
@@ -6523,8 +6536,9 @@ answer: 'from' },
 {
   "category": "Marketing",
   "question": "To [BLANK] is to track the results of a marketing campaign.",
-  "answer": "measure | track | evaluate | assess"
+  "answer": "measure | track | evaluate | assess| make KPIs"
 },
+
 {
   "category": "Marketing",
   "question": "A [BLANK] is a person who creates and implements marketing campaigns.",
@@ -7029,7 +7043,7 @@ answer: 'from' },
 {
   "category": "Adjectives:Weather",
   "question": "A [BLANK] is a type of precipitation that falls as frozen water crystals.",
-  "answer": "snow"
+  "answer": "snow|hail"
 },
 {
   "category": "Adjectives:Weather",
@@ -7049,7 +7063,7 @@ answer: 'from' },
 {
   "category": "Adjectives:Weather",
   "question": "A [BLANK] is a sudden drop in temperature.",
-  "answer": "freeze"
+  "answer": "freeze|cold snap"
 },
 {
   "category": "Adjectives:Weather",
@@ -7088,7 +7102,11 @@ answer: 'from' },
 { "category": "Adjectives:Weather", "question": "'It's so [BLANK] that I can't even wear a T-shirt.'" , "answer": 'hot' },
 { "category": "Adjectives:Weather", "question": "'The wind is so [BLANK] that it's hard to walk.'" , "answer": 'strong' },
 { "category": "Adjectives:Weather", "question": "'It's so [BLANK] that I can't see my hand in front of my face.'" , "answer": 'foggy' },
-{ "category": "Adjectives:Weather", "question": "'The rain is so [BLANK] that I'm getting soaked.'" , "answer": 'heavy' },
+
+{ "category": "Adjectives:Weather", 
+"question": "'The rain is so [BLANK] that I'm getting soaked.'" , 
+"answer": 'heavy' },
+
 { "category": "Adjectives:Weather", "question": "'The snow is so [BLANK] that I can't even see the ground.'" , "answer": 'deep' },
 { "category": "Adjectives:Weather", "question": "'It's so [BLANK] that I'm wearing two sweaters.'" , "answer": 'cold' },
 { "category": "Adjectives:Weather", "question": "'The sun is so [BLANK] that it's making my eyes water.'" , "answer": 'bright' },
@@ -10822,7 +10840,9 @@ answers: ["a lot of","some","a high amount of",] },
   { category: "Verbs:Intransitive", question: "Leaves [BLANK] from the trees in autumn.", answer: "fall" },
   { category: "Verbs:Intransitive", question: "Children [BLANK] so fast.", answer: "grow" },
   { category: "Verbs:Intransitive", question: "Accidents [BLANK] unexpectedly.", answers: ["happen","occur"] },
-  { category: "Verbs:Intransitive", question: "Can you [BLANK] me?", answer: "hear" },
+  
+  { category: "Verbs:Intransitive", question: "Can you [BLANK] me?", 
+  answers: ["hear","see"] },
   { category: "Verbs:Intransitive", question: "It [BLANK] when I think of those moments.", answer: "hurts" },
   { category: "Verbs:Intransitive", question: "He likes to [BLANK] every morning.", answer: "jog" },
   
@@ -10832,7 +10852,11 @@ answers: ["a lot of","some","a high amount of",] },
 
 //
 
-  { "category": "Adjectives:Music", "question": "The melody was [BLANK] and captivating.", "answer": "magical|calm|harmonious" },
+  { "category": "Adjectives:Music", 
+  "question": "The melody was [BLANK] and captivating.", 
+  "answers": ["magical","calm","harmonious"] 
+},
+  
   { "category": "Adjectives:Music", "question": "Her voice sounded [BLANK] in the high notes.", "answer": "crisp" },
   { "category": "Adjectives:Music", "question": "The rhythm of the song was very [BLANK], perfect for dancing.", "answer": "lively" },
   { "category": "Adjectives:Music", "question": "His guitar solo was [BLANK], leaving the audience in awe.", "answer": "electrifying" },
