@@ -3537,7 +3537,8 @@ answer: "when" },
 {
   "category": "Expressing opinions",
   "question": "context: Expressing a strong belief: I firmly believe that...",
-  "answer": "I firmly believe that education is key to success."
+  "answers": ["I firmly believe that education is key to success.", "I firmly believe that we should focus on customer satisfaction.",
+"I firmly believe that working with a psychologist can be helpful."]  
 },
 {
   "category": "Expressing opinions",
@@ -7282,7 +7283,7 @@ answers: ["\"drive\"","have"] },
 {
   category: 'Questions:Pharmacy ',
   question: "How do you ask if a specific medication is available?",
-  answer: "Do you have [Medication Name] in stock?"
+  answers: ["Do you have [Medication Name] in stock?", "Is [Medication Name] available here?"]
   },
   
   {
@@ -7306,7 +7307,7 @@ answers: ["\"drive\"","have"] },
   {
   category: 'Questions:Pharmacy ',
   question: "How do you inquire about the interaction of a new medication with current ones?",
-  answer: "Will this new medication interact with the other medications I'm currently taking?"
+  answers: ["Will this new medication interact with the other medications I'm currently taking?", "Does this medication interact with other medications?"]
   },
   
   {
