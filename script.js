@@ -194,11 +194,13 @@ answers: ["with","by","next to"] },
 {
   "category": "Phrasal Verbs: work",
   "question": "He's trying to _____ how to solve this complex problem.",
-  "answers": ["figure out","sort out","work out"]
+  "answers": ["figure out","sort out","work out", "come up with an idea", "I'm trying to figure out how to restore my old phone number."]
 },
 
 
-{ category: 'Prepositions', question: "I'm worried [BLANK] my exam.", answer: "about" },
+{ category: 'Prepositions', 
+question: "I'm worried [BLANK] my exam.", 
+answer: "about" },
 
 {
   "category": "Prepositions of Time",
@@ -850,6 +852,15 @@ answers: ["occasionally","often"] },
     "question": "Bargain hunting: If you spend time in the shops looking for items to buy at the lowest price, you go bargain hunting.",
     "answer": "During the sales I go bargain hunting with my friends!"
   },
+
+  {
+    "category": "Idioms",
+    "question": "actions speak louder than words",
+    "answer": "His actions speak louder than words. He said he was going to the gym but he sits on the couch."
+  },
+
+
+
   {
     "category": "Idioms",
     "question": "Be your one-stop shop: Your one-stop shop is a location at which you can buy everything you need or want.",
@@ -1956,67 +1967,67 @@ answer: "when" },
 //
 
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Caught Red-Handed",
   "answer": "Apprehended while committing a crime"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Five-Finger Discount",
   "answer": "Shoplifting"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Foul Play",
   "answer": "Crime, typically murder"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Get Off Scot Free",
   "answer": "Be accused of wrongdoing but pay no penalty at all"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "(Caught) Bang to Rights",
   "answer": "Caught in an unlawful or immoral act without any mitigating circumstances"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Above The Law",
   "answer": "Exempt from the laws that apply to everyone else"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Act Of Congress",
   "answer": "Hard to get, said of authorization"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "All Rights Reserved",
   "answer": "Said of a published work; all reproduction rights are asserted by the copyright holder"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Bail Out",
   "answer": "To rescue someone from a bad situation, to shield someone from the consequences of his or her actions"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Ball and Chain",
   "answer": "1. One's spouse (derogatory but often affectionate); 2. an ongoing burden"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Letter of the Law",
   "answer": "The explicit meaning of a law, as opposed to the spirit of the law, the law's general intention"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Open-and-Shut Case",
   "answer": "A situation, especially a legal proceeding, with a clear, certain outcome"
 },
 {
-  "category": "Law Idioms",
+  "category": "Idioms:Law",
   "question": "Take the Fifth",
   "answer": "Refuse to answer because answering might incriminate or cause problems for you"
 },
@@ -2031,18 +2042,20 @@ answer: "when" },
 {
   "category": "Phrasal Verbs: work",
   "question": "Can you please _____ that important point in the meeting minutes?",
-  "answer": "write down|note down"
+  "answers": ["write down","note down"]
 },
 
 {
   "category": "Phrasal Verbs: work",
   "question": "Can you please _____ that important point in the meeting minutes?",
-  "answer": "write down|note down"
+  "answers": ["write down","note down"]
 },
+
+
 {
   "category": "Phrasal Verbs: work",
   "question": "The deal _____ at the last minute.",
-  "answer": "fell through"
+  "answers": ["fell through","fell apart"]
 },
 
 
@@ -2146,7 +2159,7 @@ answer: "when" },
 {
   "category": "Phrasal Verbs: work",
   "question": "Let's split up for now and _____ at the conference center.",
-  "answer": "join up"
+  "answer": "join up, meet up"
 },
 {
   "category": "Phrasal Verbs: work",
@@ -3620,11 +3633,37 @@ answer: "when" },
   ///////////////////////////////////
 
 
+
+
+
+{
+"category": "Errors",
+"question": "All of my project are in my portfolio.",
+"answer": "All of my projects are in my portfolio."
+},
+
+
+
+  {
+    "category": "Errors",
+    "question": "Have you watched my portfolio?",
+    "answer": "Have you seen my portfolio?"
+  },
+
+
+
   {
     "category": "Errors",
     "question": "It's pretty the same.",
     "answer": "It's pretty much the same."
   },
+
+  {
+    "category": "Errors",
+    "question": "She is all the time trying to eat stuff on the ground.",
+    "answer": "She is always trying to eat stuff on the ground."
+  },
+
 
   {
     "category": "Errors",
@@ -3634,6 +3673,12 @@ answer: "when" },
 
 
   
+  {
+    "category": "Errors",
+    "question": "May you tell how many work at your company?",
+    "answer": "Can you tell me how many people work at your company?"
+  },
+
 
 
   {
@@ -3663,7 +3708,8 @@ answer: "when" },
   {
     "category": "Errors",
     "question": "We need to clean up before she to enter.",
-    "answers": ["We need to clean up before she to enter.", "We need to clean up before she gets here."]
+    "answers": ["We need to clean up before she to enter.", 
+                "We need to clean up before she gets here."]
   },
 
 
@@ -3697,7 +3743,8 @@ answer: "when" },
   {
     "category": "Errors",
     "question": "It's much more bigger!",
-    "answers":[ "It's much bigger! ","It's the biggest!"]
+    "answers":[ "It's much bigger! ",
+                "It's the biggest!"]
   },
 
 
@@ -3737,14 +3784,16 @@ answer: "when" },
   {
     "category": "Errors",
     "question": "It helps for us a lot.",
-    "answers": ["It help us a lot. ","It will help us a lot."]
+    "answers": ["It help us a lot. ",
+                "It will help us a lot."]
   },
 
 
   {
     "category": "Errors",
     "question": "I used to work five days week.",
-    "answers": ["I used to work five days a week.","I used to work five days per week.",
+    "answers": ["I used to work five days a week.",
+                "I used to work five days per week.",
   ]
 },
 
@@ -3827,9 +3876,13 @@ answer: "when" },
 
   {
     "category": "Errors",
-    "question": "I feel myself not confident.",
-    "answer": "I don't feel confident."
+    "question": "My husband establish a household budget.",
+    "answer": "My husband established a household budget."
   },
+
+
+
+
   {
     "category": "Errors",
     "question": "I was waiting my friend on the library.",
@@ -4006,6 +4059,7 @@ answer: "when" },
     "question": "It's easy to do a mistake.",
     "answer": "It's easy to make a mistake."
   },
+
   {
     "category": "Errors",
     "question": "He's doing a lot of mistakes.",
@@ -5722,8 +5776,13 @@ answer: "I have never seen that person before."
   { "category": "Common phrases", "question": "I think it tastes good.", "answer": "I think it tastes good, what do you think?" },
   { "category": "Common phrases", "question": "I thought the clothes were cheaper.", "answer": "I thought the clothes were cheaper, they're quite expensive." },
   { "category": "Common phrases", "question": "It's longer than 2 miles.", "answer": "It's longer than 2 miles, perhaps 3 or 4." },
-  { "category": "Common phrases", "question": "I've been here for two days.", "answer": "I've been here for two days, and I love it." },
-  { "category": "Common phrases", "question": "I've heard Texas is a beautiful place.", "answer": "I've heard Texas is a beautiful place with great landscapes." },
+ 
+  { "category": "Common phrases", "question": "I've been here for two days.", 
+  "answer": "I've been here for two days, and I love it." },
+ 
+  { "category": "Common phrases", "question": "I've heard Texas is a beautiful place.", 
+  "answer": "I've heard Texas is a beautiful place with great landscapes." },
+  
   { "category": "Common phrases", "question": "I've never seen that before.", 
   "answer": "I've never seen that before, it's fascinating." },
 
@@ -6623,7 +6682,7 @@ answers: ["\"drive\"","have"] },
 {
   "category": "Marketing",
   "question": "A [BLANK] is a group of consumers who share similar characteristics.",
-  "answer": "target audience | market | segment | group"
+  "answer": "target audience | market | segment | demographic"
 },
 {
   "category": "Marketing",
@@ -7196,18 +7255,29 @@ answers: ["\"drive\"","have"] },
 "question": "'Our products are [BLANK] and affordable.'" , "answer": 'reliable|high-quality' },
 { "category": "Adjectives:Business", 
 "question": "'We are a [BLANK] company.'" , "answer": 'reliable' },
+
 { "category": "Adjectives:Business", 
-"question": "'We offer [BLANK] solutions.'" , "answer": 'innovative|digital|comprehensive|unbeatable' },
+"question": "'We offer [BLANK] solutions.'" , 
+"answers": ["'innovative","digital","comprehensive","unbeatable'"] },
+
 { "category": "Adjectives:Business", 
 "question": "'Our company is [BLANK] in the market.'" , "answer": 'well-established' },
+
 { "category": "Adjectives:Business", 
 "question": "'We are committed to [BLANK] our customers.'" , "answer": 'satisfying' },
+
+
 { "category": "Adjectives:Business",
  "question": "'We strive to provide a [BLANK] work environment.'" , "answer": 'positive' },
+
+ { "category": "Adjectives:Business", 
+"question": "'Our company is [BLANK] on social responsibility.'" , 
+"answers": ["'focused","leading the industry'"] },
+
 { "category": "Adjectives:Business", 
-"question": "'Our company is [BLANK] on social responsibility.'" , "answer": 'focused|leading the industry' },
-{ "category": "Adjectives:Business", 
-"question": "'We offer [BLANK] opportunities for growth.'" , "answer": 'exciting|some|comprehensive|' },
+"question": "'We offer [BLANK] opportunities for growth.'" , 
+"answers": ["exciting","some","comprehensive"] },
+
 { "category": "Adjectives:Business", 
 "question": "'Our company is [BLANK] for its commitment to sustainability.'" , "answer": 'well-known|recognized' },
 {
@@ -7215,6 +7285,7 @@ answers: ["\"drive\"","have"] },
     "question": "'Our company is [BLANK] in providing innovative solutions to our customers.'",
     "answer": "pioneering"
   },
+
   {
     "category": "Adjectives:Business",
     "question": "'We offer a [BLANK] range of products and services catering to diverse needs.'",
@@ -7223,22 +7294,26 @@ answers: ["\"drive\"","have"] },
   {
     "category": "Adjectives:Business",
     "question": "'Our team of [BLANK] professionals is dedicated to exceeding customer expectations.'",
-    "answer": "experienced|dedicated"
+    "answers": ["experienced","dedicated"]
   },
   {
     "category": "Adjectives:Business",
     "question": "'We are committed to providing [BLANK] customer service that goes above and beyond.'",
-    "answer": "exceptional|excellent|outstanding|unparalleled|unmatched|quality|comprehensive|superior|top-notch|world-class"
+    "answers": ["exceptional","excellent",
+                "outstanding","unparalleled","unmatched","quality","comprehensive","superior",
+                "top-notch","world-class"]
   },
+
   {
     "category": "Adjectives:Business",
     "question": "'Our products are renowned for their [BLANK] quality and durability.'",
-    "answer": "uncompromising|unparalleled"
+    "answers": ["uncompromising",
+                "unparalleled"]
   },
   {
     "category": "Adjectives:Business",
     "question": "'Our company has established a [BLANK] reputation for excellence in the industry.'",
-    "answer": "stellar|unparalleled"
+    "answers": ["stellar","unparalleled"]
   },
   {
     "category": "Adjectives:Business",
@@ -7250,30 +7325,33 @@ answers: ["\"drive\"","have"] },
     "question": "'Our company is [BLANK] in the market for its innovative approach to product development.'",
     "answer": "forerunner"
   },
+  
   {
     "category": "Adjectives:Business",
     "question": "'We are committed to [BLANK] our customers with transparent and ethical practices.'",
     "answer": "upholding"
   },
+  
   {
     "category": "Adjectives:Business",
     "question": "'We strive to foster a [BLANK] work environment that promotes collaboration and creativity.'",
-    "answer": "supportive|modern|positive|healthy|inclusive|welcoming|friendly|professional|safe|diverse"
+    "answers": ["supportive","modern","positive","healthy","inclusive","welcoming","friendly","professional","safe","diverse"]
   },
+
   {
     "category": "Adjectives:Business",
     "question": "'Our company is [BLANK] for its commitment to social responsibility and environmental sustainability.'",
-    "answer": "renowned|commendable"
+    "answers": ["renowned","commendable"]
   },
   {
     "category": "Adjectives:Business",
     "question": "'We offer [BLANK] opportunities for growth and professional development within our organization.'",
-    "answer": "ample|many|a lot of|"
+    "answers": ["ample","many","a lot of"]
   },
   {
     "category": "Adjectives:Business",
     "question": "'Our company is [BLANK] for its commitment to providing exceptional service to its customers.'",
-    "answer": "renowned|recognized|known|famous|well known"
+    "answers": ["renowned","recognized","known","famous","well known"]
   },
 
 
