@@ -2113,7 +2113,7 @@ answer: "when" },
 {
   "category": "Phrasal Verbs: work",
   "question": "We need to _____ these outdated procedures.",
-  "answer": "get rid of"
+  "answers": ["get rid of","eliminate", "remove","update"  ] 
 },
 {
   "category": "Phrasal Verbs: work",
@@ -2133,7 +2133,7 @@ answer: "when" },
 {
   "category": "Phrasal Verbs: work",
   "question": "When do you plan to _____ your project proposal?",
-  "answer": "give in|work on|submit|prepare"
+  "answers": ["give in","work on","submit","prepare"]
 },
 
 {
@@ -11240,23 +11240,29 @@ answers: ["a lot of","some","a high amount of",] },
 
 
 //
-{ "category": "Adjectives:Comparatives", "question": "Her backpack is [BLANK] than mine.", "answer": "heavier" },
-{ "category": "Adjectives:Comparatives", "question": "This puzzle is [BLANK] than the other one.", "answer": "easier" },
-{ "category": "Adjectives:Comparatives", "question": "Our garden is [BLANK] than theirs.", "answer": "bigger" },
-{ "category": "Adjectives:Comparatives", "question": "The water in the pool is [BLANK] than the ocean.", "answer": "warmer" },
+{ "category": "Adjectives:Comparatives", "question": "Her backpack is [BLANK] than mine.", "answers": ["heavier","smaller","cheaper"] },
+{ "category": "Adjectives:Comparatives", "question": "This puzzle is [BLANK] than the other one.", "answers": ["harder","easier"] },
+{ "category": "Adjectives:Comparatives", "question": "Our garden is [BLANK] than theirs.", "answers": ["bigger","smaller", "greener"] },
+{ "category": "Adjectives:Comparatives", "question": "The water in the pool is [BLANK] than the ocean.", "answers": ["warmer","colder"] },
 { "category": "Adjectives:Comparatives", "question": "Your drawing is [BLANK] than your brother's.", "answer": "more colorful" },
-{ "category": "Adjectives:Comparatives", "question": "My ice cream is melting [BLANK] than yours.", "answer": "faster" },
+{ "category": "Adjectives:Comparatives", "question": "My ice cream is melting [BLANK] than yours.", "answers": ["faster", "slower"] },
 { "category": "Adjectives:Comparatives", "question": "This book is [BLANK] than that one.", "answer": "more interesting" },
-{ "category": "Adjectives:Comparatives", "question": "Her dress is [BLANK] than my skirt.", "answer": "longer" },
-{ "category": "Adjectives:Comparatives", "question": "This road is [BLANK] than the highway.", "answer": "narrower" },
+{ "category": "Adjectives:Comparatives", "question": "Her dress is [BLANK] than my skirt.", "answers": ["longer","shorter"] },
+{ "category": "Adjectives:Comparatives", "question": "This road is [BLANK] than the highway.", "answers": ["narrower", "wider"] },
 { "category": "Adjectives:Comparatives", "question": "His jokes are [BLANK] than mine.", "answer": "funnier" },
   { "category": "Adjectives:Comparatives", "question": "This report is [BLANK] than the last one.", "answer": "more detailed" },
   { "category": "Adjectives:Comparatives", "question": "Our team is [BLANK] than their team.", "answer": "larger" },
-  { "category": "Adjectives:Comparatives", "question": "His presentation was [BLANK] than hers.", "answer": "more engaging" },
-  { "category": "Adjectives:Comparatives", "question": "The new software is [BLANK] to use than the old one.", "answer": "easier" },
+  
+  { "category": "Adjectives:Comparatives", "question": "His presentation was [BLANK] than hers.", 
+  "answers": ["less engaging","more engaging","more interesting", "less interesting"] },
+  { "category": "Adjectives:Comparatives", "question": "The new software is [BLANK] to use than the old one.", "answers": ["harder","easier"] },
   { "category": "Adjectives:Comparatives", "question": "This year's sales figures are [BLANK] than last year's.", "answer": "higher" },
-  { "category": "Adjectives:Comparatives", "question": "The office on the fifth floor is [BLANK] than ours.", "answer": "more spacious" },
-  { "category": "Adjectives:Comparatives", "question": "Her approach to the problem was [BLANK] than his.", "answer": "more creative" },
+  { "category": "Adjectives:Comparatives", "question": "The office on the fifth floor is [BLANK] than ours.", 
+  "answers": ["less spacious","more spacious"] },
+  
+  { "category": "Adjectives:Comparatives", 
+  "question": "Her approach to the problem was [BLANK] than his.", 
+  "answers": ["more creative","less creative"] },
   { "category": "Adjectives:Comparatives", "question": "The morning meetings are usually [BLANK] than the afternoon ones.", "answer": "shorter" },
   { "category": "Adjectives:Comparatives", "question": "Our coffee machine makes [BLANK] coffee than the one in the lobby.", "answer": "better" },
   { "category": "Adjectives:Comparatives", "question": "The feedback from the manager was [BLANK] this time.", "answer": "more constructive" },
