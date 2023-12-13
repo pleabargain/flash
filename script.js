@@ -7000,8 +7000,68 @@ answers: ["\"drive\"","have"] },
 {
   "category": "Transition words",
   "question": "Contrast: however",
-  "answer": "The proposal was well-prepared; however, it did not meet all the client's requirements."
+  "answers": ["The proposal was well-prepared; however, it did not meet all the client's requirements.","However you look at it, this project is over budget and behind schedule."]
 },
+
+{
+  "category": "Transition Words",
+  "question": "Addition: moreover",
+  "answers": [
+    "The product is user-friendly; moreover, it's affordable.",
+    "He is qualified for the job; moreover, he has extensive experience in this field.",
+    "The study was thorough; moreover, it provided new insights into the problem."
+  ]
+},
+
+{
+  "category": "Transition Words",
+  "question": "Contrast: nevertheless",
+  "answers": [
+    "The weather was bad; nevertheless, the event was well-attended.",
+    "She was very tired; nevertheless, she finished the marathon.",
+    "The task was challenging; nevertheless, they completed it on time."
+  ]
+},
+
+{
+  "category": "Transition Words",
+  "question": "Cause and Effect: therefore",
+  "answers": [
+    "He did not study for the test; therefore, he did not pass.",
+    "There was a traffic jam; therefore, she arrived late for the meeting.",
+    "The company's profits have doubled; therefore, they plan to expand their operations."
+  ]
+},
+
+{
+  "category": "Transition Words",
+  "question": "Sequence: first",
+  "answers": [
+    "First, we need to finalize the design before proceeding to the next step.",
+    "To prepare the dish, first chop the vegetables.",
+    "First, gather all the necessary documents before submitting the application."
+  ]
+},
+
+
+{
+  "category": "Transition Words",
+  "question": "Example: for instance",
+  "answers": [
+    "There are several ways to approach the problem; for instance, we could start by conducting a survey.",
+    "Many foods are rich in vitamins; for instance, oranges are a good source of Vitamin C.",
+    "Some animals have unique adaptations; for instance, camels can survive without water for long periods."
+  ]
+},
+
+
+
+
+
+
+
+
+
 {
   "category": "Transition words",
   "question": "Contrast: on the other hand",
@@ -11218,6 +11278,164 @@ answers: ["a lot of","some","a high amount of",] },
 
 
 {
+  "category": "Adjectives:Comparatives",
+  "question": "Today's temperature is [BLANK] than yesterday's.",
+  "answers": [
+    "Today's temperature is higher than yesterday's.",
+    "Today's temperature is lower than yesterday's.",
+    "Today's temperature is more comfortable than yesterday's.",
+    "Today's temperature is less stable than yesterday's."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The humidity this summer is [BLANK] than last summer.",
+  "answers": [
+    "The humidity this summer is higher than last summer.",
+    "The humidity this summer is lower than last summer.",
+    "The humidity this summer is more bearable than last summer.",
+    "The humidity this summer is less tolerable than last summer."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The wind today is [BLANK] than it was yesterday.",
+  "answers": [
+    "The wind today is stronger than it was yesterday.",
+    "The wind today is weaker than it was yesterday.",
+    "The wind today is more gusty than it was yesterday.",
+    "The wind today is less steady than it was yesterday."
+  ]
+},
+
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The pizza at this restaurant is [BLANK] than the one at the other place.",
+  "answers": [
+    "The pizza at this restaurant is tastier than the one at the other place.",
+    "The pizza at this restaurant is less greasy than the one at the other place.",
+    "The pizza at this restaurant is more authentic than the one at the other place.",
+    "The pizza at this restaurant is less cheesy than the one at the other place."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "This year's apple harvest is [BLANK] than last year's.",
+  "answers": [
+    "This year's apple harvest is more abundant than last year's.",
+    "This year's apple harvest is less bountiful than last year's.",
+    "This year's apple harvest is sweeter than last year's.",
+    "This year's apple harvest is more tart than last year's."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The coffee at this café is [BLANK] than the coffee at the office.",
+  "answers": [
+    "The coffee at this café is stronger than the coffee at the office.",
+    "The coffee at this café is weaker than the coffee at the office.",
+    "The coffee at this café is richer than the coffee at the office.",
+    "The coffee at this café is more diluted than the coffee at the office."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The spice level of this curry is [BLANK] than the one we had last time.",
+  "answers": [
+    "The spice level of this curry is higher than the one we had last time.",
+    "The spice level of this curry is lower than the one we had last time.",
+    "The spice level of this curry is more intense than the one we had last time.",
+    "The spice level of this curry is less overwhelming than the one we had last time."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The freshness of these vegetables is [BLANK] compared to those at the supermarket.",
+  "answers": [
+    "The freshness of these vegetables is better compared to those at the supermarket.",
+    "The freshness of these vegetables is worse compared to those at the supermarket.",
+    "The freshness of these vegetables is more noticeable compared to those at the supermarket.",
+    "The freshness of these vegetables is less apparent compared to those at the supermarket."
+  ]
+},
+
+{
+  "category": "Adjectives:Comparatives",
+  "question": "This jacket is [BLANK] than the one I bought last year.",
+  "answers": [
+    "This jacket is warmer than the one I bought last year.",
+    "This jacket is lighter than the one I bought last year.",
+    "This jacket is more stylish than the one I bought last year.",
+    "This jacket is less waterproof than the one I bought last year."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The fabric of this dress is [BLANK] than the fabric of the other dress.",
+  "answers": [
+    "The fabric of this dress is softer than the fabric of the other dress.",
+    "The fabric of this dress is rougher than the fabric of the other dress.",
+    "The fabric of this dress is more durable than the fabric of the other dress.",
+    "The fabric of this dress is less comfortable than the fabric of the other dress."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "These shoes are [BLANK] than my old ones.",
+  "answers": [
+    "These shoes are more comfortable than my old ones.",
+    "These shoes are less expensive than my old ones.",
+    "These shoes are more fashionable than my old ones.",
+    "These shoes are less sturdy than my old ones."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The color of this shirt is [BLANK] than the color of the shirt I wore yesterday.",
+  "answers": [
+    "The color of this shirt is brighter than the color of the shirt I wore yesterday.",
+    "The color of this shirt is duller than the color of the shirt I wore yesterday.",
+    "The color of this shirt is more vibrant than the color of the shirt I wore yesterday.",
+    "The color of this shirt is less striking than the color of the shirt I wore yesterday."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "This brand's jeans are [BLANK] compared to the other brand's jeans.",
+  "answers": [
+    "This brand's jeans are more comfortable compared to the other brand's jeans.",
+    "This brand's jeans are less expensive compared to the other brand's jeans.",
+    "This brand's jeans are more fashionable compared to the other brand's jeans.",
+    "This brand's jeans are less durable compared to the other brand's jeans."
+  ]
+},
+
+
+
+{
+  "category": "Adjectives:Comparatives",
+  "question": "This winter's snowfall is [BLANK] than last winter's.",
+  "answers": [
+    "This winter's snowfall is heavier than last winter's.",
+    "This winter's snowfall is lighter than last winter's.",
+    "This winter's snowfall is more frequent than last winter's.",
+    "This winter's snowfall is less frequent than last winter's."
+  ]
+},
+{
+  "category": "Adjectives:Comparatives",
+  "question": "The rainfall this month is [BLANK] compared to the same month last year.",
+  "answers": [
+    "The rainfall this month is greater compared to the same month last year.",
+    "The rainfall this month is less compared to the same month last year.",
+    "The rainfall this month is more consistent compared to the same month last year.",
+    "The rainfall this month is more sporadic compared to the same month last year."
+  ]
+},
+
+
+
+{
   "category": "Adjectives:Demonstrative",
   "question": "We need to replace [BLANK] old chairs.",
   "answer": "these"
@@ -11248,10 +11466,191 @@ answers: ["a lot of","some","a high amount of",] },
 { "category": "Adjectives:Comparatives", "question": "My ice cream is melting [BLANK] than yours.", "answers": ["faster", "slower"] },
 { "category": "Adjectives:Comparatives", "question": "This book is [BLANK] than that one.", "answer": "more interesting" },
 { "category": "Adjectives:Comparatives", "question": "Her dress is [BLANK] than my skirt.", "answers": ["longer","shorter"] },
-{ "category": "Adjectives:Comparatives", "question": "This road is [BLANK] than the highway.", "answers": ["narrower", "wider"] },
+{ "category": "Adjectives:Comparatives", "question": "This road is [BLANK] than the highway.", "answers": ["This road is narrower than the highway.", "This road is wider than the highway."] },
 { "category": "Adjectives:Comparatives", "question": "His jokes are [BLANK] than mine.", "answer": "funnier" },
   { "category": "Adjectives:Comparatives", "question": "This report is [BLANK] than the last one.", "answer": "more detailed" },
   { "category": "Adjectives:Comparatives", "question": "Our team is [BLANK] than their team.", "answer": "larger" },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "This book is [BLANK] than the magazine.",
+    "answers": ["This book is thicker than the magazine.", "This book is thinner than the magazine."]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "This coffee is [BLANK] than the tea.",
+    "answers": ["This coffee is hotter than the tea.", "This coffee is colder than the tea."]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "The cat is [BLANK] than the dog.",
+    "answers": ["The cat is smaller than the dog.", "The cat is bigger than the dog."]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "This report is [BLANK] than the presentation.",
+    "answers": [
+      "This report is more detailed than the presentation.",
+      "This report is less informative than the presentation.",
+      "This report is shorter than the presentation.",
+      "This report is longer than the presentation."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "The morning meeting was [BLANK] than the afternoon meeting.",
+    "answers": [
+      "The morning meeting was more productive than the afternoon meeting.",
+      "The morning meeting was less engaging than the afternoon meeting.",
+      "The morning meeting was shorter than the afternoon meeting.",
+      "The morning meeting was longer than the afternoon meeting."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "Our new software is [BLANK] than the old one.",
+    "answers": [
+      "Our new software is more user-friendly than the old one.",
+      "Our new software is less efficient than the old one.",
+      "Our new software is faster than the old one.",
+      "Our new software is slower than the old one."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "The team's performance this month is [BLANK] than last month.",
+    "answers": [
+      "The team's performance this month is better than last month.",
+      "The team's performance this month is worse than last month.",
+      "The team's performance this month is more consistent than last month.",
+      "The team's performance this month is less reliable than last month."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "The beach at this resort is [BLANK] than the one we visited last year.",
+    "answers": [
+      "The beach at this resort is cleaner than the one we visited last year.",
+      "The beach at this resort is more crowded than the one we visited last year.",
+      "The beach at this resort is quieter than the one we visited last year.",
+      "The beach at this resort is larger than the one we visited last year."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "Our hotel room is [BLANK] than the apartment we stayed in last time.",
+    "answers": [
+      "Our hotel room is more luxurious than the apartment we stayed in last time.",
+      "Our hotel room is less spacious than the apartment we stayed in last time.",
+      "Our hotel room is brighter than the apartment we stayed in last time.",
+      "Our hotel room is cozier than the apartment we stayed in last time."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "The food at this restaurant is [BLANK] than the food at the hotel.",
+    "answers": [
+      "The food at this restaurant is tastier than the food at the hotel.",
+      "The food at this restaurant is less expensive than the food at the hotel.",
+      "The food at this restaurant is more varied than the food at the hotel.",
+      "The food at this restaurant is healthier than the food at the hotel."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "The weather this summer is [BLANK] than it was last summer.",
+    "answers": [
+      "The weather this summer is hotter than it was last summer.",
+      "The weather this summer is cooler than it was last summer.",
+      "The weather this summer is more unpredictable than it was last summer.",
+      "The weather this summer is drier than it was last summer."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "This city's nightlife is [BLANK] than our hometown's.",
+    "answers": [
+      "This city's nightlife is more exciting than our hometown's.",
+      "This city's nightlife is quieter than our hometown's.",
+      "This city's nightlife is more diverse than our hometown's.",
+      "This city's nightlife is less active than our hometown's."
+    ]
+  },
+
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "Maria is [BLANK] than her sister.",
+    "answers": [
+      "Maria is taller than her sister.",
+      "Maria is more outgoing than her sister.",
+      "Maria is quieter than her sister.",
+      "Maria is less studious than her sister."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "John's cooking is [BLANK] than his roommate's.",
+    "answers": [
+      "John's cooking is better than his roommate's.",
+      "John's cooking is less spicy than his roommate's.",
+      "John's cooking is more varied than his roommate's.",
+      "John's cooking is simpler than his roommate's."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "My new boss is [BLANK] than my previous boss.",
+    "answers": [
+      "My new boss is more understanding than my previous boss.",
+      "My new boss is less patient than my previous boss.",
+      "My new boss is stricter than my previous boss.",
+      "My new boss is more flexible than my previous boss."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "This year's team is [BLANK] than last year's team.",
+    "answers": [
+      "This year's team is more cooperative than last year's team.",
+      "This year's team is less experienced than last year's team.",
+      "This year's team is more motivated than last year's team.",
+      "This year's team is less focused than last year's team."
+    ]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "Her performance in the play was [BLANK] than her performance in the last play.",
+    "answers": [
+      "Her performance in the play was more impressive than her performance in the last play.",
+      "Her performance in the play was less confident than her performance in the last play.",
+      "Her performance in the play was more emotional than her performance in the last play.",
+      "Her performance in the play was less dramatic than her performance in the last play."
+    ]
+  },
+
+  
+
+
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "The new office layout is [BLANK] than the old layout.",
+    "answers": [
+      "The new office layout is more spacious than the old layout.",
+      "The new office layout is more cramped than the old layout.",
+      "The new office layout is more functional than the old layout.",
+      "The new office layout is less convenient than the old layout."
+    ]
+  }
+  ,
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "This car is [BLANK] than the bicycle.",
+    "answers": ["This car is faster than the bicycle.", "This car is slower than the bicycle."]
+  },
+  {
+    "category": "Adjectives:Comparatives",
+    "question": "Her dress is [BLANK] than her shirt.",
+    "answers": ["Her dress is prettier than her shirt.", "Her dress is less attractive than her shirt."]
+  },
   
   { "category": "Adjectives:Comparatives", "question": "His presentation was [BLANK] than hers.", 
   "answers": ["less engaging","more engaging","more interesting", "less interesting"] },
