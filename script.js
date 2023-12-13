@@ -2323,6 +2323,327 @@ answer: "when" },
   "answer": "look forward to"
 },
 
+{
+  "category": "Phrasal Verbs",
+  "question": "context planning: We need to _____ early to avoid the traffic.",
+  "answer": "We need to _set off_ early to avoid the traffic."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context disagreement: They always _____ over minor issues.",
+  "answer": "They always _argue about_ over minor issues."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context leisure: On weekends, I like to _____ with a good book.",
+  "answer": "On weekends, I like to _curl up_ with a good book."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context difficulty: If you encounter a problem, don't give up. Try to _____ a solution.",
+  "answer": "If you encounter a problem, don't give up. Try to _come up with_ a solution."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context conclusion: The meeting _____ sooner than expected.",
+  "answer": "The meeting _wrapped up_ sooner than expected."
+},
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context change: She decided to _____ her hairstyle completely.",
+  "answer": "She decided to _change up_ her hairstyle completely."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context investigation: The detective promised to _____ the new evidence.",
+  "answer": "The detective promised to _look into_ the new evidence."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context improvement: He's been working hard to _____ his skills in coding.",
+  "answer": "He's been working hard to _brush up on_ his skills in coding."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context unexpected event: The concert was going well until the power _____.",
+  "answer": "The concert was going well until the power _cut out_."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context decision: After much thought, I've _____ attending the event.",
+  "answer": "After much thought, I've _opted out of_ attending the event."
+},
+
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context simplification: He decided to _____ the instructions to make them easier to follow.",
+  "answer": "He decided to _boil down_ the instructions to make them easier to follow."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context rejection: She had to _____ his offer due to her busy schedule.",
+  "answer": "She had to _turn down_ his offer due to her busy schedule."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context surprise: Everyone _____ when he suddenly announced his retirement.",
+  "answer": "Everyone _gasped_ when he suddenly announced his retirement."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context persistence: No matter how hard it gets, you should never _____ on your dreams.",
+  "answer": "No matter how hard it gets, you should never _give up_ on your dreams."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context continuation: Despite the rain, the festival _____ as planned.",
+  "answer": "Despite the rain, the festival _went ahead_ as planned."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context simplification: He decided to _____ the instructions to make them easier to follow.",
+  "answer": "He decided to _boil down_ the instructions to make them easier to follow."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context rejection: She had to _____ his offer due to her busy schedule.",
+  "answer": "She had to _turn down_ his offer due to her busy schedule."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context surprise: Everyone _____ when he suddenly announced his retirement.",
+  "answer": "Everyone _gasped_ when he suddenly announced his retirement."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context persistence: No matter how hard it gets, you should never _____ on your dreams.",
+  "answer": "No matter how hard it gets, you should never _give up_ on your dreams."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context continuation: Despite the rain, the festival _____ as planned.",
+  "answer": "Despite the rain, the festival _went ahead_ as planned."
+}
+,
+
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context relaxation: After a long hike, they decided to _____ at a nearby cafe.",
+  "answer": "After a long hike, they decided to _wind down_ at a nearby cafe."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context adaptation: It's important to _____ the local customs when you travel.",
+  "answer": "It's important to _blend in with_ the local customs when you travel."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context enthusiasm: The kids _____ opening their presents on Christmas morning.",
+  "answer": "The kids _ripped into_ opening their presents on Christmas morning."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context investigation: The journalist is _____ a story about corruption.",
+  "answer": "The journalist is _digging into_ a story about corruption."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context departure: They had to _____ early to catch their flight.",
+  "answer": "They had to _head out_ early to catch their flight."
+},
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context decision-making: She took her time to _____ the pros and cons before making a choice.",
+  "answer": "She took her time to _weigh up_ the pros and cons before making a choice."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context initiation: He _____ a conversation with a stranger on the train.",
+  "answer": "He _struck up_ a conversation with a stranger on the train."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context reduction: The company is planning to _____ expenses by 10% next year.",
+  "answer": "The company is planning to _cut back on_ expenses by 10% next year."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context reconciliation: They finally managed to _____ their differences and work together.",
+  "answer": "They finally managed to _patch up_ their differences and work together."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context realization: It _____ her that she had left her purse at home.",
+  "answer": "It _hit_ her that she had left her purse at home."
+},
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context persistence: He _____ practicing guitar every day, no matter how busy he is.",
+  "answer": "He _keeps up with_ practicing guitar every day, no matter how busy he is."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context disappointment: The play didn't _____ the hype.",
+  "answer": "The play didn't _live up to_ the hype."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context avoidance: She always _____ discussing her personal life.",
+  "answer": "She always _shies away from_ discussing her personal life."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context collaboration: Let's _____ on this project and finish it by the deadline.",
+  "answer": "Let's _team up_ on this project and finish it by the deadline."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context cessation: The company had to _____ production due to the shortage of materials.",
+  "answer": "The company had to _shut down_ production due to the shortage of materials."
+},
+
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context improvement: She's been working hard to _____ her Spanish speaking skills.",
+  "answer": "She's been working hard to _brush up on_ her Spanish speaking skills."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context surprise: They _____ when they saw the huge birthday cake.",
+  "answer": "They _lit up_ when they saw the huge birthday cake."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context reduction: Due to budget cuts, the library had to _____ its hours of operation.",
+  "answer": "Due to budget cuts, the library had to _scale back_ its hours of operation."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context exploration: On their vacation, they loved to _____ unknown paths in the forest.",
+  "answer": "On their vacation, they loved to _venture down_ unknown paths in the forest."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context continuation: Despite the difficulties, they are determined to _____ with the project.",
+  "answer": "Despite the difficulties, they are determined to _press on with_ the project."
+}
+,
+{
+  "category": "Phrasal Verbs",
+  "question": "context relaxation: After a busy week, I like to _____ and enjoy some quiet time.",
+  "answer": "After a busy week, I like to _wind down_ and enjoy some quiet time."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context agreement: They finally _____ on the terms of the contract.",
+  "answer": "They finally _agreed on_ the terms of the contract."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context renewal: He's looking to _____ his passport before the trip.",
+  "answer": "He's looking to _renew_ his passport before the trip."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context motivation: Despite the setbacks, she _____ to achieve her goals.",
+  "answer": "Despite the setbacks, she _pushed on_ to achieve her goals."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context investigation: The police are _____ the recent burglaries in the neighborhood.",
+  "answer": "The police are _looking into_ the recent burglaries in the neighborhood."
+},
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context anticipation: He's _____ to the challenge of his new job.",
+  "answer": "He's _rising up_ to the challenge of his new job."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context reduction: The store had to _____ prices during the sale.",
+  "answer": "The store had to _mark down_ prices during the sale."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context realization: It finally _____ her that she had forgotten her appointment.",
+  "answer": "It finally _dawned on_ her that she had forgotten her appointment."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context reconciliation: They tried to _____ their friendship after years of not speaking.",
+  "answer": "They tried to _mend_ their friendship after years of not speaking."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context separation: After the party, it was time to _____ and go home.",
+  "answer": "After the party, it was time to _break up_ and go home."
+},
+
+
+
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context anticipation: I can't wait to _____ my friends at the reunion.",
+  "answer": "I can't wait to _catch up with_ my friends at the reunion."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context completion: He finally _____ his thesis after months of hard work.",
+  "answer": "He finally _finished off_ his thesis after months of hard work."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context relaxation: After a long week, I like to _____ in front of the TV.",
+  "answer": "After a long week, I like to _veg out_ in front of the TV."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context exploration: They love to _____ new restaurants in the city.",
+  "answer": "They love to _check out_ new restaurants in the city."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context delay: The project has been _____ due to unforeseen circumstances.",
+  "answer": "The project has been _put off_ due to unforeseen circumstances."
+},
+
+
+{
+  "category": "Phrasal Verbs",
+  "question": "context recovery: After the surgery, he is slowly _____ strength.",
+  "answer": "After the surgery, he is slowly _gaining back_ strength."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context realization: Suddenly, it _____ me why she looked so familiar.",
+  "answer": "Suddenly, it _dawned on_ me why she looked so familiar."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context persistence: Despite the challenges, she _____ with her training.",
+  "answer": "Despite the challenges, she _kept up_ with her training."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context separation: They decided to _____ after five years of marriage.",
+  "answer": "They decided to _split up_ after five years of marriage."
+},
+{
+  "category": "Phrasal Verbs",
+  "question": "context assistance: Can you _____ with these heavy bags?",
+  "answer": "Can you _help out_ with these heavy bags?"
+},
+
+
+
 
 {
   category: "Phrasal Verbs: work",
@@ -3398,11 +3719,13 @@ answer: "when" },
   "question": "Context = ability : Which auxiliary verb is best? must, might, can, should: She [BLANK] swim very well.",
   "answer": "can"
 },
+
 {
   "category": "Verbs: Auxiliary",
   "question": "Context = possibility : Which auxiliary verb is best? must, might, can: It [BLANK] rain later.",
   "answer": "might"
 },
+
 {
   "category": "Verbs: Auxiliary",
   "question": "Context = obligation : Which auxiliary verb is best? must, might, can: You [BLANK] complete the assignment.",
@@ -5391,16 +5714,21 @@ answer: "I have never seen that person before."
   question: "Change to future continuous tense: She writes a letter.", 
   answer: "She will be writing a letter." 
 },
+
 { 
   category: 'Future Continuous Tense', 
   question: "What is the future continuous form of 'sit'?", 
   answer: "will be sitting" 
 },
+
 { 
   category: 'Future Continuous Tense', 
   question: "Complete the sentence in future continuous tense: They (not / sleep) at this time tomorrow.", 
-  answer: "They will not be sleeping at this time tomorrow." 
+  answers: ["They will not be sleeping at this time tomorrow.",
+  "They won't be sleeping at this time tomorrow."] 
 },
+
+
 { 
   category: 'Future Continuous Tense', 
   question: "Change to future continuous tense: We play football.", 
@@ -5936,7 +6264,7 @@ answer: "I have never seen that person before."
 },
 {
   "category": "Clarifying Phrases",
-  "question": "context when confused about instructions: Sorry, I'm confused.",
+  "question": "context:: when confused about instructions: Sorry, I'm confused.",
   "answer": "Should I take this medicine three times a day or four?"
 },
 {
@@ -5947,7 +6275,9 @@ answer: "I have never seen that person before."
 {
   "category": "Clarifying Phrases",
   "question": "context for confirming understanding: You mean...?",
-  "answer": "This phrase is used to confirm what the other person meant."
+  "answers": ["This phrase is used to confirm what the other person meant.",
+"You mean that you want to postpone the meeting until next week?"]
+
 },
 {
   "category": "Clarifying Phrases",
@@ -6302,9 +6632,10 @@ answer: "I have never seen that person before."
 { category: 'Determiners', question: "I would like to eat [BLANK] pizza.", answer: "\"some\"" },
 { category: 'Determiners', question: "I have [BLANK] books on my bookshelf.", answer: "\"many\"" },
 { category: 'Determiners', question: "I went to [BLANK] park to play frisbee.", answer: "\"the\"" },
-{ category: 'Determiners', question: "I saw [BLANK] birds in the trees.", answers: ["\"many","some\"" ]},
+{ category: 'Determiners', question: "I saw [BLANK] birds in the trees.", answers: ["\"many","a lot of","some\"" ]},
 { category: 'Determiners', question: "I would like to eat [BLANK] ice cream.", answer: "\"some\"" },
-{ category: 'Determiners', question: "I have [BLANK] friends who live nearby.", answers: ["a few","many","some"] },
+{ category: 'Determiners', question: "I have [BLANK] friends who live nearby.", 
+answers: ["I have a few friends who live nearby.","I have many friends who live nearby.","I have some friends who live nearby."] },
 { category: 'Determiners', question: "I went to [BLANK] library to study.", answer: "\"the\"" },
 
 //
@@ -6390,7 +6721,7 @@ answers: ["\"drive\"","have"] },
 //
 { "category": 'Adjectives', "question": 'Raising children is a [BLANK] task.', "answer": 'challenging' },
 { "category": 'Adjectives', "question": 'Raising children requires [BLANK] patience.', "answer": 'unlimited' },
-{ "category": 'Adjectives', "question": 'Children are [BLANK] sponges.', "answer": 'absorbent' },
+{ "category": 'Adjectives', "question": 'Children are like [BLANK] sponges.', "answer": 'absorbent' },
 { "category": 'Adjectives', "question": 'It is important to set [BLANK] boundaries for children.', "answer": 'clear' },
 { "category": 'Adjectives', "question": 'Children need [BLANK] opportunities to play and explore.', "answer": 'ample' },
 { "category": 'Adjectives', "question": 'Raising children can be a [BLANK] journey.', "answer": 'transformative' },
@@ -6825,23 +7156,23 @@ answers: ["\"drive\"","have"] },
 
 //
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Additional comments or ideas: additionally",
   "answer": "Each of the horse jockeys is additionally [accused of|charged with] passing on information for gain."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Additional comments or ideas: also",
   "answer": "She is also accused of stealing from her mother-in-law."
 },
 // Additional comments or ideas
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Additional comments or ideas: moreover",
   "answer": "The project is not only environmentally friendly; moreover, it helps reduce electricity costs."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Additional comments or ideas: furthermore",
   "answer": "He has no experience in this field; furthermore, he lacks the necessary qualifications."
 },
@@ -6849,7 +7180,7 @@ answers: ["\"drive\"","have"] },
 
 // Alternatives
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Alternatives: whereas",
   "answer": "He enjoys reading, whereas his brother prefers watching movies."
 },
@@ -6857,7 +7188,7 @@ answers: ["\"drive\"","have"] },
 
 // Analysing results
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Analysing results: therefore",
   "answer": "The experiment failed to produce any conclusive results; therefore, further research is needed."
 },
@@ -6865,63 +7196,63 @@ answers: ["\"drive\"","have"] },
 
 // Cause / Reason
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Cause / Reason: as a result of",
   "answer": "As a result of the heavy snow, all flights were canceled."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Compare: compared with",
   "answer": "Her performance this season is quite impressive, compared with last year's."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Compare: in the same way",
   "answer": "In the same way that a chef uses recipes, a programmer uses algorithms."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Compare: likewise",
   "answer": "He is respected for his integrity; likewise, his honesty is beyond reproach."
 },
 
 // Contrast
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Contrast: by contrast",
   "answer": "The first novel was full of action; by contrast, the second was quite slow."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Contrast: although",
   "answer": "Although it was raining, we decided to go hiking."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Contrast: conversely",
   "answer": "He prefers classical music; conversely, his sister loves rock music."
 },
 
 // Effect / Result
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Effect / Result: As a result",
   "answer": "She studied hard for the exams; as a result, she passed with flying colors."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Effect / Result: therefore",
   "answer": "The roads were icy; therefore, the school decided to close for the day."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Effect / Result: thus",
   "answer": "He failed to submit his report on time; thus, he was not considered for the promotion."
 },
 
 // Emphasising earlier statements
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Emphasising: however",
   "answer": "The journey was difficult; however, they never lost hope."
 },
@@ -6929,76 +7260,76 @@ answers: ["\"drive\"","have"] },
 
 // Introducing examples
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: for example",
   "answer": "There are many ways to reduce your carbon footprint; for example, using public transportation."
 },
 
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Clarifying: in other words",
   "answer": "We need to optimize the workflow, in other words, make the process more efficient."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Clarifying: that is to say",
   "answer": "The project deadline is non-negotiable, that is to say, it must be completed on time."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Clarifying: namely",
   "answer": "We have to focus on our core competencies, namely, innovation and customer service."
 },
 
 // Indicating Time
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Time: subsequently",
   "answer": "The team had a meeting; subsequently, they started working on the project plan."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Time: previously",
   "answer": "Previously, we focused on market research; now we're moving to product development."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Time: meanwhile",
   "answer": "The software team is working on the new release; meanwhile, the marketing team is preparing the launch campaign."
 },
 
 // Indicating Addition
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Addition: moreover",
   "answer": "This strategy will increase revenue; moreover, it will improve customer satisfaction."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Addition: furthermore",
   "answer": "He's a great team player; furthermore, his expertise in analytics is invaluable."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Addition: in addition",
   "answer": "In addition to her managerial skills, she is also fluent in three languages."
 },
 
 // Providing Examples
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: for instance",
   "answer": "Some tasks require immediate attention, for instance, client complaints."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: such as",
   "answer": "There are several strategies we can employ, such as diversification and market penetration."
 },
 
 // Indicating Contrast
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Contrast: however",
   "answers": ["The proposal was well-prepared; however, it did not meet all the client's requirements.","However you look at it, this project is over budget and behind schedule."]
 },
@@ -7043,6 +7374,54 @@ answers: ["\"drive\"","have"] },
   ]
 },
 
+{
+  "category": "Transition Words",
+  "question": "Sequence: first",
+  "answers": [
+    "First, we need to finalize the design before proceeding to the next step.",
+    "To prepare the dish, first chop the vegetables.",
+    "First, gather all the necessary documents before submitting the application."
+  ]
+},
+{
+  "category": "Transition Words",
+  "question": "Emphasis: indeed",
+  "answers": [
+    "The plan was, indeed, a success.",
+    "She is indeed one of the most talented players on the team.",
+    "The results of the study are indeed significant."
+  ]
+},
+{
+  "category": "Transition Words",
+  "question": "Comparison: similarly",
+  "answers": [
+    "Just as the sun sets, similarly the moon rises.",
+    "He is known for his scientific research; similarly, his sister excels in the arts.",
+    "The ancient Romans built roads to connect their empire; similarly, the internet connects the modern world."
+  ]
+},
+{
+  "category": "Transition Words",
+  "question": "Conclusion: in conclusion",
+  "answers": [
+    "In conclusion, the data supports the initial hypothesis.",
+    "The project has been analyzed from various angles; in conclusion, it is both viable and necessary.",
+    "In conclusion, the benefits of the proposal clearly outweigh the drawbacks."
+  ]
+},
+{
+  "category": "Transition Words",
+  "question": "Illustration: for example",
+  "answers": [
+    "There are many ways to reduce your carbon footprint; for example, you can use public transportation.",
+    "Several countries have successful healthcare models; for example, Canada's system is often cited.",
+    "To maintain good health, it's important to exercise regularly; for example, walking or jogging are great options."
+  ]
+},
+
+
+
 
 {
   "category": "Transition Words",
@@ -7063,24 +7442,24 @@ answers: ["\"drive\"","have"] },
 
 
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Contrast: on the other hand",
   "answer": "The product is expensive; on the other hand, its quality is unmatched."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Contrast: despite this",
   "answer": "Despite this setback, the team remains optimistic about the project's future."
 },
 
 // Summarizing or Concluding
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Summary: in summary",
   "answer": "In summary, the quarter's results exceeded our expectations."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Conclusion: in conclusion",
   "answer": "In conclusion, implementing these changes will greatly benefit our workflow."
 },
@@ -7088,7 +7467,7 @@ answers: ["\"drive\"","have"] },
 
 // Re-phrasing
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Re-phrasing: in other terms",
   "answer": "She's not happy with the decision; in other terms, she's quite upset about it."
 },
@@ -7100,108 +7479,108 @@ answers: ["\"drive\"","have"] },
 
 // Summary or Conclusion
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Conclusion: in conclusion",
   "answer": "In conclusion, the evidence clearly supports our hypothesis."
 },
 
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Summary: to summarise",
   "answer": "To summarise, the three main points discussed are environment, economy, and culture."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Conclusion: hence",
   "answer": "The experiment did not follow the proper protocols; hence, the results are unreliable."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Conclusion: altogether",
   "answer": "Altogether, these improvements have significantly increased the efficiency of the process."
 },
 
 // Introducing Examples
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: for instance",
   "answer": "Several factors contributed to the change, for instance, technological advancements."
 },
 
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: for instance",
   "answer": "Several factors contributed to the change, for instance, technological advancements."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: however",
   "answer": "I wanted to go to the concert; however, I had to work late."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: therefore",
   "answer": "He didn't study for the test, therefore, he didn't pass."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: moreover",
   "answer": "The plan is risky. Moreover, it's expensive."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: in contrast",
   "answer": "He loves hiking in the mountains, in contrast, she prefers relaxing at the beach."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: consequently",
   "answer": "She failed to submit her application on time and, consequently, missed the deadline."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: furthermore",
   "answer": "This car is highly reliable and, furthermore, it's affordable."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: on the other hand",
   "answer": "The first proposal was interesting, on the other hand, the second one was more practical."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: as a result",
   "answer": "The company failed to adapt to the market, as a result, it went bankrupt."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: in addition",
   "answer": "She has many years of experience in marketing, in addition, she holds an MBA."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: such as",
   "answer": "He has expertise in many areas, such as computing, mathematics, and engineering."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Examples: namely",
   "answer": "She excels in several sports, namely, swimming, running, and cycling."
 },
 
 // Emphasising Earlier Statements
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Emphasising: nonetheless",
   "answer": "The weather was terrible; nonetheless, we had a great time at the beach."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Emphasising: notwithstanding",
   "answer": "Notwithstanding his lack of experience, he handled the situation very well."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Emphasising: in spite of",
   "answer": "In spite of the difficulties, they managed to finish the project on time."
 },
@@ -7209,12 +7588,12 @@ answers: ["\"drive\"","have"] },
 // Sequencing
 
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Sequencing: finally",
   "answer": "We discussed several important topics in the meeting; finally, we addressed the issue of funding."
 },
 {
-  "category": "Transition words",
+  "category": "Transition Words",
   "question": "Sequencing: subsequently",
   "answer": "He completed his degree and subsequently started his own business."
 },
@@ -9542,7 +9921,144 @@ answers: ["took","went for"] },
 { category: 'Verbs:irregular', question: "I [BLANK] a quiz in math class today.", answer: "had" },
 { category: 'Verbs:irregular', question: "I [BLANK] a bike ride with my friends this morning.", answer: "went" },
 { category: 'Verbs:irregular', question: "I [BLANK] a new plant for my apartment last week.", answer: "bought" },
-{ category: 'Verbs:irregular', question: "I [BLANK] a song for my talent show last month.", answer: "sang|wrote" },
+
+{ category: 'Verbs:irregular', 
+question: "I [BLANK] a song for my talent show last month.", answers: ["I sang a song for my talent show last month.",
+"I wrote a song for my talent show last month."] },
+
+
+{
+  "category": "Verbs:irregular",
+  "question": "They [BLANK] to the store before it closed.",
+  "answers": [
+    "They ran to the store before it closed.",
+    "They drove to the store before it closed."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "Yesterday, she [BLANK] her friend's secret.",
+  "answers": [
+    "Yesterday, she kept her friend's secret.",
+    "Yesterday, she told her friend's secret."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "Last year, our team [BLANK] the championship.",
+  "answers": [
+    "Last year, our team won the championship.",
+    "Last year, our team lost the championship."
+  ]
+},
+
+{
+  "category": "Verbs:irregular",
+  "question": "He [BLANK] his phone on the table last night.",
+  "answers": [
+    "He left his phone on the table last night.",
+    "He put his phone on the table last night."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "When I was young, I often [BLANK] to fairy tales before bed.",
+  "answers": [
+    "When I was young, I often listened to fairy tales before bed.",
+    "When I was young, I often read fairy tales before bed."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "The cat [BLANK] all of its food yesterday evening.",
+  "answers": [
+    "The cat ate all of its food yesterday evening.",
+    "The cat finished all of its food yesterday evening."
+  ]
+},
+
+{
+  "category": "Verbs:irregular",
+  "question": "This morning, I [BLANK] up earlier than usual.",
+  "answers": [
+    "This morning, I woke up earlier than usual.",
+    "This morning, I got up earlier than usual."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "They [BLANK] the whole story by the campfire last night.",
+  "answers": [
+    "They told the whole story by the campfire last night.",
+    "They shared the whole story by the campfire last night."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "She [BLANK] her favorite dress to the party.",
+  "answers": [
+    "She wore her favorite dress to the party.",
+    "She brought her favorite dress to the party."
+  ]
+},
+
+
+{
+  "category": "Verbs:irregular",
+  "question": "Last weekend, they [BLANK] a new cafe downtown.",
+  "answers": [
+    "Last weekend, they found a new cafe downtown.",
+    "Last weekend, they visited a new cafe downtown."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "Yesterday, the dog [BLANK] away from home.",
+  "answers": [
+    "Yesterday, the dog ran away from home.",
+    "Yesterday, the dog strayed away from home."
+  ]
+},
+{
+  "category": "Verbs:irregular",
+  "question": "He [BLANK] a lot of interesting points during the meeting.",
+  "answers": [
+    "He made a lot of interesting points during the meeting.",
+    "He raised a lot of interesting points during the meeting."
+  ]
+},
+
+{
+  "category": "Verbs:regular",
+  "question": "After the movie, they [BLANK] about the plot for hours.",
+  "answers": [
+    "After the movie, they talked about the plot for hours.",
+    "After the movie, they argued about the plot for hours."
+  ]
+},
+{
+  "category": "Verbs:regular",
+  "question": "When I checked my email, I [BLANK] a message from an old friend.",
+  "answers": [
+    "When I checked my email, I found a message from an old friend.",
+    "When I checked my email, I received a message from an old friend."
+  ]
+},
+{
+  "category": "Verbs:regular",
+  "question": "The children [BLANK] excitedly when they saw the presents.",
+  "answers": [
+    "The children shouted excitedly when they saw the presents.",
+    "The children screamed excitedly when they saw the presents."
+  ]
+},
+
+
+
+
+
+
+
 { category: 'Verbs:irregular', question: "I [BLANK] a delicious dinner for my family tonight.", answer: "made" },
 //
 
@@ -9713,7 +10229,7 @@ answers: ["took","went for"] },
 { category: 'Verbs:common', question: "I [BLANK] my homework last night.", answer: "did" },
 { category: 'Verbs:common', question: "I [BLANK] a movie last night.", answer: "saw" },
 { category: 'Verbs:common', question: "I [BLANK] a delicious meal for lunch today.", answer: "ate" },
-{ category: 'Verbs:common', question: "I [BLANK] a gift for my friend's birthday last week.", answer: "gave|got" },
+{ category: 'Verbs:common', question: "I [BLANK] a gift for my friend's birthday last week.", answers: ["gave","got"] },
 { category: 'Verbs:common', question: "I [BLANK] a new pair of shoes last month.", answer: "bought" },
 { category: 'Verbs:common', question: "I [BLANK] a poem for my English class last week.", answer: "wrote" },
 { category: 'Verbs:common', question: "I [BLANK] a nap after lunch today.", answer: "took" },
@@ -9721,7 +10237,7 @@ answers: ["took","went for"] },
 { category: 'Verbs:common', question: "I [BLANK] a bike ride with my friends this morning.", answer: "went" },
 { category: 'Verbs:common', question: "I [BLANK] a new plant for my apartment last week.", answer: "bought" },
 { category: 'Verbs:common', question: "I [BLANK] a song for my talent show last month.", answer: "wrote" },
-{ category: 'Verbs:common', question: "I [BLANK] a delicious dinner for my family last night.", answer: "made|cooked|prepared" },
+{ category: 'Verbs:common', question: "I [BLANK] a delicious dinner for my family last night.", answers: ["made","cooked","prepared"] },
 { category: 'Verbs:common', question: "I [BLANK] to the beach yesterday.", answer: "went" },
 { category: 'Verbs:common', question: "I [BLANK] a swimming pool at my house.", answer: "have" },
 { category: 'Verbs:common', question: "I [BLANK] a sandwich for lunch today.", answer: "made" },
@@ -9812,6 +10328,96 @@ answers: ["took","went for"] },
     "question": "You can find a quiet place to read [BLANK].",
     "answer": "anywhere"
   },
+
+  {
+    "category": "Adverbs",
+    "question": "How often? He [BLANK] visits his family.",
+    "answers": ["How often? He frequently visits his family.", "How often? He rarely visits his family."]
+},
+{
+    "category": "Adverbs",
+    "question": "Where? They will meet us [BLANK].",
+    "answers": ["Where? They will meet us here.", "Where? They will meet us there."]
+},
+{
+    "category": "Adverbs",
+    "question": "How? She [BLANK] answered the question.",
+    "answers": ["How? She quickly answered the question.", "How? She slowly answered the question."]
+},
+{
+    "category": "Adverbs",
+    "question": "To what extent? He was [BLANK] convinced by the argument.",
+    "answers": ["To what extent? He was fully convinced by the argument.", "To what extent? He was partially convinced by the argument."]
+},
+
+{
+  "category": "Adverbs",
+  "question": "Why? They laughed [BLANK] at the joke.",
+  "answers": ["Why? They laughed heartily at the joke.", "Why? They laughed nervously at the joke."]
+},
+{
+  "category": "Adverbs",
+  "question": "In what manner? She speaks [BLANK].",
+  "answers": ["In what manner? She speaks eloquently.", "In what manner? She speaks hesitantly."]
+},
+{
+  "category": "Adverbs",
+  "question": "How much? He is [BLANK] interested in art.",
+  "answers": ["How much? He is greatly interested in art.", "How much? He is slightly interested in art."]
+},
+{
+  "category": "Adverbs",
+  "question": "Under what condition? We will go outside if it's [BLANK].",
+  "answers": ["Under what condition? We will go outside if it's sunny.", "Under what condition? We will go outside if it's cloudy."]
+},
+
+{
+  "category": "Adverbs",
+  "question": "When? She [BLANK] finishes her work by noon.",
+  "answers": ["When? She always finishes her work by noon.", "When? She seldom finishes her work by noon."]
+},
+{
+  "category": "Adverbs",
+  "question": "How often? He [BLANK] forgets his keys.",
+  "answers": ["How often? He occasionally forgets his keys.", "How often? He never forgets his keys."]
+},
+{
+  "category": "Adverbs",
+  "question": "Where? They usually have lunch [BLANK].",
+  "answers": ["Where? They usually have lunch outdoors.", "Where? They usually have lunch indoors."]
+},
+{
+  "category": "Adverbs",
+  "question": "How? The team played [BLANK] in the final match.",
+  "answers": ["How? The team played brilliantly in the final match.", "How? The team played poorly in the final match."]
+},
+
+
+{
+  "category": "Adverbs",
+  "question": "To what extent? She was [BLANK] aware of the risks.",
+  "answers": ["To what extent? She was fully aware of the risks.", "To what extent? She was barely aware of the risks."]
+},
+{
+  "category": "Adverbs",
+  "question": "Why? He [BLANK] refused the offer.",
+  "answers": ["Why? He adamantly refused the offer.", "Why? He politely refused the offer."]
+},
+{
+  "category": "Adverbs",
+  "question": "In what manner? The teacher explained the concept [BLANK].",
+  "answers": ["In what manner? The teacher explained the concept clearly.", "In what manner? The teacher explained the concept vaguely."]
+},
+{
+  "category": "Adverbs",
+  "question": "How much? They are [BLANK] excited about the trip.",
+  "answers": ["How much? They are very excited about the trip.", "How much? They are somewhat excited about the trip."]
+},
+
+
+
+
+
   {
     "category": "Adverbs",
     "question": "When? She always arrives [BLANK].",
@@ -10217,6 +10823,14 @@ answers: ["took","went for"] },
   "question": "This doesn't align with our current strategy.",
   "answer": "May I ask what is your strategy?I understand that you need to make sure that any new product you adopt aligns with your current strategy. We can help you understand how our product can support your strategic goals."
 },
+
+
+{
+  "category": "Objections",
+  "question": "This doesn't match my current strategy.",
+  "answer": "May I ask what is your strategy?I understand that you need to make sure that any new product you adopt aligns with your current strategy. We can help you understand how our product can support your strategic goals."
+},
+
 {
   "category": "Objections",
   "question": "We've had a bad experience with similar products.",
@@ -10247,11 +10861,24 @@ answers: ["took","went for"] },
   "question": "I'm not the decision-maker.",
   "answer": "Who is the decision maker? Can I have their contact details? I understand that you may not be the decision-maker at your company. We're always happy to speak with the decision-maker."
 },
+
+{
+  "category": "Objections",
+  "question": "context compatibility: How can I be sure your product will work with our existing systems?",
+  "answer": "Ensuring compatibility is crucial, and we take this very seriously. Our product is designed to be highly adaptable and compatible with a wide range of systems. We can provide a detailed compatibility assessment and, if needed, work closely with your tech team to ensure seamless integration. Additionally, we offer dedicated support during and after the integration process."
+},
 {
   "category": "Objections",
   "question": "I need to think about it.",
   "answer": "May I ask what questions you still have? Of course, we understand that you need to take some time to think about your decision. We're always here if you have any questions or want to learn more about our product."
 },
+{
+  "category": "Objections",
+  "question": "context features: Your product doesn't have all the features we need.",
+  "answer": "I appreciate your concerns about the feature set. Our product is designed to excel in specific areas, and we continuously update and enhance it based on customer feedback. Could you tell me more about the features you're looking for? We might have upcoming updates that align with your needs, or we can explore custom solutions."
+},
+
+
 {
   "category": "Objections",
   "question": "Your product is too expensive.",
@@ -10288,22 +10915,41 @@ answers: ["took","went for"] },
   {
     "category": "Objections",
     "question": "I don't think this meets our needs right now.",
-    "answer": "What part doesn't meet you needs? Can you clarify what are your needs? Why doesn't it meet your needs? What are your specific needs? I understand that our product may not be the right fit for you right now. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
+    "answer": "What part doesn't meet your needs? Can you clarify what are your needs? Why doesn't it meet your needs? What are your specific needs? I understand that our product may not be the right fit for you right now. We have a wide range of features and options to choose from, so I'm confident we can find a solution that meets your specific needs."
   },
+  
   {
     "category": "Objections",
     "question": "We're not in the position to invest in this.",
-    "answer": "I understand that investing in a new product can be a big decision. We offer a variety of pricing options to fit your budget, and we're always happy to work with you to find a solution that's affordable for your business."
+    "answer": ["I understand that investing in a new product can be a big decision. We offer a variety of pricing options to fit your bu dget, and we're always happy to work with you to find a solution that's affordable for your business."]
   },
+
+  {
+    "category": "Objections",
+    "question": "Why should I buy this? It should be free!",
+    "answers": ["Why do you think it should be free?",
+    "What is worth anything if it's free?",]
+  },
+
+
+
+
   {
     "category": "Objections",
     "question": "I need to consult with my team first.",
-    "answer": "Of course, we understand that you need to consult with your team before making a decision. We're always happy to provide you with more information or answer any questions you may have."
+    "answers": ["May I ask who you need to consult?",
+    "What questions will that person have?",
+    "Of course, we understand that you need to consult with your team before making a decision. We're always happy to provide you with more information or answer any questions you may have."]
   },
+
+
+
   {
     "category": "Objections",
     "question": "Can you send us more information? We'll review it and get back to you.",
-    "answer": "Absolutely. We'd be happy to send you more information about our product. We can also schedule a demo to show you how our product can help you achieve your business goals."
+    "answers": ["Absolutely. We'd be happy to send you more information about our product. We can also schedule a demo to show you how our product can help you achieve your business goals.",
+    "What information are you curious about?",
+  "What information would you like? We're always happy to provide you with more information or answer any questions you may have."]
   },
 
   {
@@ -10347,14 +10993,15 @@ answers: ["took","went for"] },
   {
     "category": "Objections",
     "question": "We're already using a similar product.",
-    "answer": "I understand that you're already using a similar product. However, our product offers several unique features and benefits that can help you improve your results."
+    "answers": ["","I understand that you're already using a similar product. However, our product offers several unique features and benefits that can help you improve your results."]
   },
 
   {
     "category": "Objections",
     "question": "We're not convinced that your product will make us money.",
-    "answer": "I understand that you're concerned about ROI. We can provide you with a case study that demonstrates how our product has helped other businesses save money."
-  },
+    "answers": ["How much money would you like to make?", 
+    "What part of our product is convincing?",
+    " I understand that you're concerned about ROI. We can provide you with a case study that demonstrates how our product has helped other businesses save money."]},
 
   {
     "category": "Objections",
@@ -10380,24 +11027,37 @@ answers: ["took","went for"] },
   {
     "category": "Objections",
     "question": "Why is the integration taking so long?",
-    "answer": "How can we help? What exactly are the issues? "
+    "answers": ["How can we help?",
+    "What exactly are the issues?"]
+  },
+
+
+  {
+    "category": "Objections",
+    "question": "What if I have more questions about your product?",
+    "answers": ["If you have questions about our product, please feel free to contact us at any time. We're always happy to help.",
+    "We have an open chat on LinkedIn for all questions."]
   },
 
 
   {
     "category": "Objections",
     "question": "Your timeline API implementation will take too long in our opinion.",
-    "answer": "How can we help? What exactly are the issues? We understand that you need a solution quickly. We are committed to providing you with a timeline that meets your needs, and we will work closely with you to prioritize implementation tasks."
+    "answers": ["How can we help?",
+    "What exactly are the issues?",
+    "We understand that you need a solution quickly. We are committed to providing you with a timeline that meets your needs, and we will work closely with you to prioritize implementation tasks."]
   },
   {
     "category": "Objections",
     "question": "We are worried about the impact on our business during implementation.",
-    "answer": "I understand that implementing a new solution can disrupt your business operations. We have a proven implementation methodology that minimizes disruption and ensures a smooth transition."
+    "answers": ["What part concerns you?", "What worries you most?",
+    "I understand that implementing a new solution can disrupt your business operations. We have a proven implementation methodology that minimizes disruption and ensures a smooth transition."]
   },
+
   {
     "category": "Objections",
     "question": "We don't have the resources to dedicate to implementation at this time.",
-    "answer": "When does your roadmap open up? I understand that staffing is a concern. We offer a variety of implementation options to fit your resources and budget, including self-service, guided assistance, and fully managed implementation."
+    "answers": ["What resources do you need?","When does your roadmap open up? I understand that staffing is a concern. We offer a variety of implementation options to fit your resources and budget, including self-service, guided assistance, and fully managed implementation."]
   },
   {
     "category": "Objections",
@@ -10474,6 +11134,54 @@ answers: ["took","went for"] },
   "question": "[BLANK] went to the store to buy groceries.",
   "answer": "He|She|They|It"
 },
+
+{
+  "category": "Pronouns",
+  "question": "Is [BLANK] coming to the party?",
+  "answers": [
+    "Is he coming to the party?",
+    "Is she coming to the party?",
+    "Are they coming to the party?",
+    "Is it coming to the party?",
+    "Are you coming to the party?"
+  ]
+},
+{
+  "category": "Pronouns",
+  "question": "Whose book is this? Is it [BLANK]?",
+  "answers": [
+    "Whose book is this? Is it yours?",
+    "Whose book is this? Is it theirs?",
+    "Whose book is this? Is it his?",
+    "Whose book is this? Is it hers?",
+    "Whose book is this? Is it its?"
+  ]
+},
+{
+  "category": "Pronouns",
+  "question": "Did [BLANK] finish the assignment?",
+  "answers": [
+    "Did you finish the assignment?",
+    "Did they finish the assignment?",
+    "Did he finish the assignment?",
+    "Did she finish the assignment?",
+    "Did it finish the assignment?"
+  ]
+},
+{
+  "category": "Pronouns",
+  "question": "Whom should I ask for help? Should I ask [BLANK]?",
+  "answers": [
+    "Whom should I ask for help? Should I ask him?",
+    "Whom should I ask for help? Should I ask her?",
+    "Whom should I ask for help? Should I ask them?",
+    "Whom should I ask for help? Should I ask you?",
+    "Whom should I ask for help? Should I ask it?"
+  ]
+},
+
+
+
 {
   "category": "Pronouns",
   "question": "[BLANK] is a new book on the shelf.",
