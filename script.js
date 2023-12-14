@@ -7331,7 +7331,11 @@ answers: ["\"drive\"","have"] },
 {
   "category": "Transition Words",
   "question": "Contrast: however",
-  "answers": ["The proposal was well-prepared; however, it did not meet all the client's requirements.","However you look at it, this project is over budget and behind schedule."]
+  "answers": ["The proposal was well-prepared; however, it did not meet all the client's requirements.",
+  "However you look at it, this project is over budget and behind schedule.",
+"It's very difficult to travel during the pandemic; however, we decided to go ahead with our plans.",
+]
+
 },
 
 {
@@ -7481,7 +7485,11 @@ answers: ["\"drive\"","have"] },
 {
   "category": "Transition Words",
   "question": "Conclusion: in conclusion",
-  "answer": "In conclusion, the evidence clearly supports our hypothesis."
+  "answers": ["In conclusion, the evidence clearly supports our hypothesis.",
+          "In conclusion, the benefits of the proposal clearly outweigh the drawbacks.",
+          "In conclusion, our financial outlook is promising.",
+          "In conclusion, I want to thank everyone for their contributions to the marekting plan 2024."
+        ]
 },
 
 {
@@ -7504,8 +7512,11 @@ answers: ["\"drive\"","have"] },
 {
   "category": "Transition Words",
   "question": "Examples: for instance",
-  "answer": "Several factors contributed to the change, for instance, technological advancements."
+  "answers": ["Several factors contributed to the change, for instance, technological advancements.",
+"I like fantasy movies, for instance The Lord of the Rings and Harry Potter.",  
+]
 },
+
 
 {
   "category": "Transition Words",
